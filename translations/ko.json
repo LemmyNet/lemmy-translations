@@ -227,7 +227,7 @@
     "bio_length_overflow": "자기 소개는 300자를 초과 할 수 없습니다.",
     "logged_in": "로그인.",
     "must_login": "덧글을 달려면 <1> 로그인하거나 가입 </ 1>해야합니다.",
-    "site_saved": "사이트가 저장되었습니다.",
+    "site_saved": "즐겨찾기에 저장되었습니다.",
     "couldnt_create_comment": "덧글을 작성할 수 없습니다.",
     "couldnt_like_comment": "덧글에 좋아요 표시를 할 수 없습니다.",
     "couldnt_update_comment": "덧글을 업데이트 할 수 없습니다.",
