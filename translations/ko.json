@@ -282,5 +282,6 @@
     "play_captcha_audio": "Captcha 오디오 재생",
     "bio": "자기 소개",
     "linked_instances": "연결된 인스턴스",
-    "instances": "인스턴스"
+    "instances": "인스턴스",
+    "local": "Local"
 }
