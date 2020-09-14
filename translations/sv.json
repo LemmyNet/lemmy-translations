@@ -291,5 +291,6 @@
     "bio_length_overflow": "Användarpresentationen får inte innehålla fler än 300 tecken.",
     "captcha_incorrect": "Captchan stämmer inte.",
     "enter_code": "Uppge kod",
-    "play_captcha_audio": "Spela upp captcha-ljud"
+    "play_captcha_audio": "Spela upp captcha-ljud",
+    "local": "Lokalt"
 }
