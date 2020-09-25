@@ -60,7 +60,7 @@
     "delete_account": "Cancella Account",
     "delete_account_confirm": "Attenzione: stai per cancellare permanentemente tutti i tuoi dati. Inserisci la tua password per confermare questa azione.",
     "restore": "ripristina",
-    "ban": "espulsione",
+    "ban": "espelli",
     "ban_from_site": "espulsione dal sito",
     "unban": "rimuovi espulsione",
     "unban_from_site": "rimuove l'espulsione dal sito",
@@ -288,5 +288,9 @@
     "enter_code": "Inserisci codice",
     "play_captcha_audio": "Riproduci Captcha sonoro",
     "bio": "Descrizione",
-    "instances": "Istanze"
+    "instances": "Istanze",
+    "local": "Locale",
+    "none_found": "Nessun risultato.",
+    "display_name_explain": "Nome visualizzato — mostrato come titolo nella pagina della comunità, può essere cambiato.",
+    "active": "Attivi"
 }
