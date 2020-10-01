@@ -262,5 +262,10 @@
     "no_password_reset": "Vi ne povos restarigi vian pasvorton sen retpoŝtadreso.",
     "cake_day_title": "Tortotago:",
     "cake_day_info": "Hodiaŭ estas tortotago de {{ creator_name }}!",
-    "invalid_post_title": "Nevalida titolo de afiŝo"
+    "invalid_post_title": "Nevalida titolo de afiŝo",
+    "remove_posts_comments": "Forigi afiŝojn kaj komentojn",
+    "banner": "Standardo",
+    "upload_banner": "Alŝuti Standardon",
+    "icon": "Piktogramo",
+    "upload_icon": "Alŝuti Piktogramon"
 }
