@@ -164,6 +164,7 @@
     "unread_messages": "Unread Messages",
     "messages": "Messages",
     "password": "Password",
+    "invalid_password": "Invalid password. Password must be <= 60 characters.",
     "verify_password": "Verify Password",
     "old_password": "Old Password",
     "forgot_password": "forgot password",
