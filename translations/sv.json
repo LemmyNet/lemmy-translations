@@ -292,5 +292,6 @@
     "captcha_incorrect": "Captchan stämmer inte.",
     "enter_code": "Uppge kod",
     "play_captcha_audio": "Spela upp captcha-ljud",
-    "local": "Lokalt"
+    "local": "Lokalt",
+    "invalid_password": "Ogiltigt lösenord. Lösenordet måste innehålla minst 60 tecken."
 }
