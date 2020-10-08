@@ -269,5 +269,6 @@
     "bold": "negrita",
     "strikethrough": "tachado",
     "must_login": "Debes <1>iniciar sesión o registrarse</1> para hacer comentarios.",
-    "cake_day_info": "¡Hoy es el cumpleaños de {{ creator_name }}!"
+    "cake_day_info": "¡Hoy es el cumpleaños de {{ creator_name }}!",
+    "remove_posts_comments": "Eliminar Publicaciones y Comentarios"
 }

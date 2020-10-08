@@ -292,5 +292,6 @@
     "instances": "Instantziak",
     "linked_instances": "Estekatutako instantziak",
     "none_found": "Ez da bat ere aurkitu.",
-    "play_captcha_audio": "Jo soinu-captcha"
+    "play_captcha_audio": "Jo soinu-captcha",
+    "invalid_password": "Pasahitz baliogabea. Pasahitzak <= 60 karaktere izan behar ditu."
 }
