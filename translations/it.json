@@ -292,5 +292,6 @@
     "local": "Locale",
     "none_found": "Nessun risultato.",
     "display_name_explain": "Nome visualizzato — mostrato come titolo nella pagina della comunità, può essere cambiato.",
-    "active": "Attivi"
+    "active": "Attivi",
+    "invalid_password": "Password non valida. La password deve contenere <= 60 caratteri."
 }
