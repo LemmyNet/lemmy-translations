@@ -282,5 +282,9 @@
     "bio": "Bio",
     "instances": "Instances",
     "linked_instances": "Linked Instances",
-    "none_found": "None found."
+    "none_found": "None found.",
+    "report_reason_required": "Report reason required.",
+    "report_too_long": "Report too long.",
+    "couldnt_create_report": "Couldn't create report.",
+    "couldnt_resolve_report": "Couldn't resolve report."
 }
