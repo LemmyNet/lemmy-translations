@@ -292,5 +292,6 @@
     "icon": "Icône",
     "upload_icon": "Télécharger une icône",
     "leave_mod_team": "quitter l’équipe de modération",
-    "active": "Actif"
+    "active": "Actif",
+    "cake_day_info": "C'est le lemmyversaire de {{ creator_name }} aujourd'hui !"
 }
