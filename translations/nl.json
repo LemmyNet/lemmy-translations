@@ -240,5 +240,6 @@
     "invalid_community_name": "Ongeldige naam.",
     "click_to_delete_picture": "Klik om de afbeelding te verwijderen.",
     "select_a_community": "Kies een community",
-    "invalid_username": "Ongeldige gebruikersnaam."
+    "invalid_username": "Ongeldige gebruikersnaam.",
+    "remove_posts_comments": "Posts en reacties verwijderen"
 }
