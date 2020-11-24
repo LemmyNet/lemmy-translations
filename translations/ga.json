@@ -302,5 +302,7 @@
     "bio": "Beathaisnéis",
     "instances": "Áisc",
     "linked_instances": "Nasctha Áisc",
-    "none_found": "Ní bhfuarthas ceann ar bith."
+    "none_found": "Ní bhfuarthas ceann ar bith.",
+    "invalid_password": "Pasfhocal neamhbhailí. Caithfidh <= 60 carachtar a bheith sa phasfhocal.",
+    "local": "Áitiúil"
 }
