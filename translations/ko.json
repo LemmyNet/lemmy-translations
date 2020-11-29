@@ -90,8 +90,8 @@
     "create": "등록",
     "email_or_username": "이메일 또는 유저명",
     "number_of_users": "가입자 수 {{count}}",
-    "number_of_subscribers": "가입자 수{{count}}",
-    "number_of_points": "포인트 {{count}}",
+    "number_of_subscribers": "구독자 수{{count}}",
+    "number_of_points": "포인트 수 {{count}}",
     "number_online": "접속자 수 {{count}}",
     "name": "이름",
     "stickied": "고정",
@@ -258,7 +258,7 @@
     "emoji_picker": "이모지 추출",
     "block_leaving": "종료 하시겠습니까?",
     "what_is": "무엇일까요",
-    "none_found": "찻을수 없습니다.",
+    "none_found": "찻을 수 없습니다.",
     "cake_day_title": "등록일 :",
     "cake_day_info": "오늘은 {{creator_name}}의 등록일입니다!",
     "invalid_post_title": "잘못된 게시물 제목",
@@ -267,5 +267,6 @@
     "bio": "자기 소개",
     "linked_instances": "연결된 인스턴스",
     "instances": "인스턴스",
-    "local": "Local"
+    "local": "Local",
+    "invalid_password": "잘못된 비밀번호입니다. 비밀번호는 60글자이하로 만들어야 합니다."
 }
