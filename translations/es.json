@@ -259,7 +259,7 @@
     "name_explain": "Nombre – usado como identificador de la comunidad, no puede ser cambiado.",
     "display_name_explain": "Nombre de pantalla – se muestra como el título en la página de la comunidad, puede ser cambiado.",
     "invalid_password": "Contraseña no válida. La contraseña debe ser <= 60 caracteres.",
-    "not_a_moderator": "No eres un moderador.",
+    "not_a_moderator": "No eres moderador.",
     "captcha_incorrect": "Captcha incorrecto.",
     "play_captcha_audio": "Reproducir Audio Captcha",
     "enter_code": "Introducir Código",
@@ -277,5 +277,5 @@
     "none_found": "No se ha encontrado nada.",
     "cake_day_title": "Fecha de inscripción:",
     "invalid_post_title": "Titulo de la publicación no válido",
-    "display_name": "Nombre de usuario"
+    "display_name": "Nombre para visualizar"
 }
