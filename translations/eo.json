@@ -276,5 +276,12 @@
     "none_found": "Neniu troviĝis.",
     "leave_mod_team": "foriri de reguligistaro",
     "name_explain": "Nomo – uzata kiel identigilo por la komunumo, ne povas ŝanĝiĝi.",
-    "display_name": "Prezenta nomo"
+    "display_name": "Prezenta nomo",
+    "couldnt_create_report": "Ne povis krei raporton.",
+    "join_lemmy": "Aliĝu al Lemmy",
+    "support_lemmy": "Subtenu al Lemmy",
+    "enter_code": "Enigu kodon",
+    "report_reason_required": "Necesas kialo de raporto.",
+    "report_too_long": "Raporto estas tro longa.",
+    "couldnt_resolve_report": "Ne povis trakti raporton."
 }
