@@ -277,5 +277,11 @@
     "none_found": "Nessun risultato.",
     "display_name_explain": "Nome visualizzato — mostrato come titolo nella pagina della comunità, può essere cambiato.",
     "active": "Attivi",
-    "invalid_password": "Password non valida. La password deve contenere <= 60 caratteri."
+    "invalid_password": "Password non valida. La password deve contenere <= 60 caratteri.",
+    "join_lemmy": "Unisciti a Lemmy",
+    "report_reason_required": "Motivazione della segnalazione obbligatoria.",
+    "support_lemmy": "Supporta Lemmy",
+    "report_too_long": "Segnalazione troppo lunga.",
+    "couldnt_create_report": "Impossibile creare segnalazione.",
+    "couldnt_resolve_report": "Impossibile risolvere segnalazione."
 }
