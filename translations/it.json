@@ -163,7 +163,7 @@
     "couldnt_update_community": "Impossibile aggiornare la comunità.",
     "community_already_exists": "La comunità esiste già.",
     "community_moderator_already_exists": "Questo utente è già moderatore della comunità.",
-    "community_follower_already_exists": "Questo utente è già membro della comunità.",
+    "community_follower_already_exists": "Utente già membro della comunità.",
     "community_user_already_banned": "L'utente della comunità è già stato espulso.",
     "couldnt_create_post": "Impossibile creare la pubblicazione.",
     "couldnt_like_post": "Impossibile apprezzare la pubblicazione.",
