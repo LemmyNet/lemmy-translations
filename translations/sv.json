@@ -95,7 +95,6 @@
     "hot": "Hett",
     "new": "Nytt",
     "top_day": "Dagstoppen",
-    "month": "Månadstoppen",
     "all": "Allt",
     "top": "Topp",
     "api": "API",
@@ -281,5 +280,9 @@
     "report_reason_required": "En anledning måste anges.",
     "report_too_long": "Anmälan är för lång.",
     "couldnt_create_report": "Kunde inte skapa anmälan.",
-    "couldnt_resolve_report": "Kunde inte markera anmälan som löst."
+    "couldnt_resolve_report": "Kunde inte markera anmälan som löst.",
+    "top_week": "Veckotoppen",
+    "top_month": "Månadstoppen",
+    "top_year": "Årstoppen",
+    "top_all": "Totaltoppen"
 }
