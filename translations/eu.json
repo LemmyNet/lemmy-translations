@@ -28,7 +28,6 @@
     "title": "Izenburua",
     "both": "Biak",
     "saved": "Gordeta",
-    "month": "Hilabetekoak",
     "all": "Guztiak",
     "api": "API",
     "unread": "Irakurri gabe",
@@ -70,7 +69,7 @@
     "show_context": "Erakutsi testuingurua",
     "formatting_help": "formatuaren laguntza",
     "sorting_help": "ordenatzeko laguntza",
-    "view_source": "Ikusi iturria",
+    "view_source": "ikusi iturria",
     "unlock": "desblokeatu",
     "lock": "blokeatu",
     "sticky": "finkatuta",
@@ -242,8 +241,8 @@
     "what_is": "Zenbat da",
     "bold": "lodia",
     "italic": "etzana",
-    "subscript": "Azpi-indizea",
-    "superscript": "Goi-indizea",
+    "subscript": "azpi-indizea",
+    "superscript": "goi-indizea",
     "header": "goiburua",
     "quote": "aipua",
     "strikethrough": "marratua",
@@ -281,5 +280,9 @@
     "support_lemmy": "Lagundu Lemmy",
     "report_too_long": "Salaketa luzeegia.",
     "couldnt_create_report": "Ezin izan da salaketa sortu.",
-    "couldnt_resolve_report": "Ezin izan da salaketa itxi."
+    "couldnt_resolve_report": "Ezin izan da salaketa itxi.",
+    "top_week": "Asteko Onena",
+    "top_year": "Urteko Onena",
+    "top_month": "Hilabeteko Onena",
+    "top_all": "Onena"
 }
