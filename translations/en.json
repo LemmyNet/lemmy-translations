@@ -291,6 +291,8 @@
     "bio": "Bio",
     "instances": "Instances",
     "linked_instances": "Linked Instances",
+    "allowed_instances": "Allowed Instances",
+    "blocked_instances": "Blocked Instances",
     "none_found": "None found.",
     "report_reason_required": "Report reason required.",
     "report_too_long": "Report too long.",
