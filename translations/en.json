@@ -255,6 +255,8 @@
     "couldnt_get_posts": "Couldn't get posts",
     "couldnt_update_post": "Couldn't update post",
     "couldnt_save_post": "Couldn't save post.",
+    "couldnt_find_parent_comment": "Couldn't find parent comment.",
+    "parent_comment_not_in_post": "The parent comment belongs to another post.",
     "no_slurs": "No slurs.",
     "not_an_admin": "Not an admin.",
     "not_a_moderator": "Not a moderator.",
