@@ -95,7 +95,6 @@
     "hot": "Popolari",
     "new": "Nuovi",
     "top_day": "Migliori della giornata",
-    "month": "Mese",
     "all": "Tutti",
     "top": "Migliori",
     "api": "API",
@@ -281,5 +280,9 @@
     "support_lemmy": "Supporta Lemmy",
     "report_too_long": "Segnalazione troppo lunga.",
     "couldnt_create_report": "Impossibile creare segnalazione.",
-    "couldnt_resolve_report": "Impossibile risolvere segnalazione."
+    "couldnt_resolve_report": "Impossibile risolvere segnalazione.",
+    "top_week": "Migliori della settimana",
+    "top_month": "Migliori del mese",
+    "top_year": "Migliori dell'anno",
+    "top_all": "Migliori di sempre"
 }
