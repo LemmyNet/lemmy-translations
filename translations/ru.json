@@ -289,5 +289,9 @@
     "top_year": "Лучшее за год",
     "top_all": "Лучшее за все время",
     "join_lemmy": "Присоединиться к Lemmy",
-    "support_lemmy": "Поддержать Lemmy"
+    "support_lemmy": "Поддержать Lemmy",
+    "report_reason_required": "Укажите причину жалобы.",
+    "report_too_long": "Жалоба слишком длинная.",
+    "couldnt_create_report": "Невозможно создать жалобу.",
+    "couldnt_resolve_report": "Невозможно разрешить жалобу."
 }
