@@ -1,5 +1,5 @@
 {
-    "post": "Publicar",
+    "post": "publicar",
     "remove_post": "Eliminar publicación",
     "no_posts": "Sin publicaciones.",
     "create_a_post": "Crear una publicación",
@@ -272,7 +272,7 @@
     "instances": "Instancias",
     "linked_instances": "Instancias vinculadas",
     "none_found": "No se ha encontrado nada.",
-    "cake_day_title": "Cumpleaños:",
+    "cake_day_title": "Fecha de inscripción:",
     "invalid_post_title": "Título de la publicación no válido",
     "display_name": "Nombre para visualizar",
     "join_lemmy": "Únete a Lemmy",
@@ -284,5 +284,16 @@
     "top_week": "Lo mejor de la semana",
     "top_month": "Lo mejor del mes",
     "top_year": "Lo mejor del año",
-    "top_all": "Lo mejor de todos los tiempos"
+    "top_all": "Lo mejor de todos los tiempos",
+    "active_in_the_last": "activo en los últimos",
+    "number_of_months": "{{count}} mes",
+    "number_of_months_plural": "{{count}} meses",
+    "parent_comment_not_in_post": "El comentario principal pertenece a otro post.",
+    "most_comments": "La mayoría de los comentarios",
+    "day": "día",
+    "week": "semana",
+    "month": "mes",
+    "allowed_instances": "Instancias permitidas",
+    "blocked_instances": "Instancias bloqueadas",
+    "couldnt_find_parent_comment": "No se pudo encontrar el comentario principal."
 }

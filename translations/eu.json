@@ -284,5 +284,14 @@
     "top_week": "Asteko Onena",
     "top_year": "Urteko Onena",
     "top_month": "Hilabeteko Onena",
-    "top_all": "Onena"
+    "top_all": "Onena",
+    "active_in_the_last": "aktiboa azkenekoetan",
+    "most_comments": "Iruzkin gehienak",
+    "day": "eguna",
+    "week": "astea",
+    "month": "hilabetea",
+    "number_of_months": "{{count}} hilabete",
+    "number_of_months_plural": "{{count}} hilabeteak",
+    "allowed_instances": "Baimendutako instantziak",
+    "blocked_instances": "Blokeatuta dauden instantziak"
 }
