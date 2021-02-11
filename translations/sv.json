@@ -284,5 +284,15 @@
     "top_week": "Veckotoppen",
     "top_month": "Månadstoppen",
     "top_year": "Årstoppen",
-    "top_all": "Totaltoppen"
+    "top_all": "Totaltoppen",
+    "most_comments": "Flest kommentarer",
+    "day": "dag",
+    "week": "vecka",
+    "month": "månad",
+    "number_of_months": "{{count}} månad",
+    "number_of_months_plural": "{{count}} månader",
+    "couldnt_find_parent_comment": "Kunde inte hitta kommentarens förälder.",
+    "parent_comment_not_in_post": "Kommentarens förälder tillhör ett annat inlägg.",
+    "allowed_instances": "Tillåtna instanser",
+    "blocked_instances": "Blockerade instanser"
 }
