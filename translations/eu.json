@@ -59,7 +59,7 @@
     "number_of_subscribers": "Harpidetu {{count}}",
     "number_of_subscribers_plural": "{{count}} harpidetu",
     "invalid_community_name": "Izen baliogabea.",
-    "click_to_delete_picture": "Egin klik irudia ezabatzeko",
+    "click_to_delete_picture": "Egin klik irudia ezabatzeko.",
     "picture_deleted": "Irudia ezabatuta.",
     "send_secure_message": "Bidali mezu segurua",
     "preview": "Aurrebista",
@@ -293,5 +293,7 @@
     "number_of_months": "{{count}} hilabete",
     "number_of_months_plural": "{{count}} hilabeteak",
     "allowed_instances": "Baimendutako instantziak",
-    "blocked_instances": "Blokeatuta dauden instantziak"
+    "blocked_instances": "Blokeatuta dauden instantziak",
+    "couldnt_find_parent_comment": "Ezin izan da iruzkin nagusia aurkitu.",
+    "parent_comment_not_in_post": "Iruzkin nagusia beste bidalketa bati dagokio."
 }
