@@ -295,5 +295,9 @@
     "parent_comment_not_in_post": "Il commento padre appartiene ad un altro post.",
     "allowed_instances": "Istanze consentite",
     "blocked_instances": "Istanze bloccate",
-    "most_comments": "Più commenti"
+    "most_comments": "Più commenti",
+    "new_comments": "Nuovi Commenti",
+    "expand": "Espandi",
+    "collapse": "Riduci",
+    "captcha": "Captcha"
 }
