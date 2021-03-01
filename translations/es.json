@@ -295,5 +295,9 @@
     "month": "mes",
     "allowed_instances": "Instancias permitidas",
     "blocked_instances": "Instancias bloqueadas",
-    "couldnt_find_parent_comment": "No se pudo encontrar el comentario principal."
+    "couldnt_find_parent_comment": "No se pudo encontrar el comentario principal.",
+    "new_comments": "Nuevos comentarios",
+    "expand": "Expandir",
+    "collapse": "Colapsar",
+    "captcha": "Captcha"
 }
