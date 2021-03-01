@@ -268,8 +268,8 @@
     "enter_code": "Εισαγωγή κωδικού",
     "play_captcha_audio": "Αναπαραγωγή ηχητικού captcha",
     "bio": "Βιογραφικό",
-    "instances": "Περιπτώσεις (instances)",
-    "linked_instances": "Συνδεδεμένες περιπτώσεις (instances)",
+    "instances": "Διακομιστές",
+    "linked_instances": "Συνδεδεμένοι διακομιστές",
     "none_found": "Δεν βρέθηκε τίποτα.",
     "remove_posts_comments": "Αφαίρεση δημοσιεύσεων και σχολίων",
     "leave_mod_team": "αποχώρηση από την ομάδα συντονιστών",
@@ -294,5 +294,9 @@
     "couldnt_find_parent_comment": "Δεν μπόρεσε να βρεθεί το σχόλιο γονέας.",
     "parent_comment_not_in_post": "Το σχόλιο γονέας ανήκει σε άλλη δημοσίευση.",
     "allowed_instances": "Επιτρεπόμενοι διακομιστές",
-    "blocked_instances": "Αποκλεισμένοι διακομιστές"
+    "blocked_instances": "Αποκλεισμένοι διακομιστές",
+    "new_comments": "Νέα σχόλια",
+    "expand": "Επέκταση",
+    "collapse": "Σμίκρυνση",
+    "captcha": "Captcha"
 }
