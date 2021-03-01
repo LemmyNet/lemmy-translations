@@ -295,5 +295,9 @@
     "allowed_instances": "Baimendutako instantziak",
     "blocked_instances": "Blokeatuta dauden instantziak",
     "couldnt_find_parent_comment": "Ezin izan da iruzkin nagusia aurkitu.",
-    "parent_comment_not_in_post": "Iruzkin nagusia beste bidalketa bati dagokio."
+    "parent_comment_not_in_post": "Iruzkin nagusia beste bidalketa bati dagokio.",
+    "captcha": "Captcha",
+    "collapse": "Kolapsatu",
+    "expand": "Zabaldu",
+    "new_comments": "Iruzkin berriak"
 }
