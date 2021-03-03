@@ -298,5 +298,6 @@
     "support_lemmy": "Soutenir Lemmy",
     "report_reason_required": "Raison du signalement requise.",
     "couldnt_create_report": "Impossible de créer le signalement.",
-    "couldnt_resolve_report": "Impossible de résoudre le rapport."
+    "couldnt_resolve_report": "Impossible de résoudre le rapport.",
+    "report_too_long": "Rapport trop long."
 }
