@@ -119,7 +119,6 @@
     "display_name": "Display name",
     "display_name_explain": "Display name — shown as the title on the community's page, can be changed.",
     "title": "Title",
-    "category": "Category",
     "subscribers": "Subscribers",
     "both": "Both",
     "saved": "Saved",
