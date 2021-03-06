@@ -114,7 +114,6 @@
     "name_explain": "이름 – 커뮤니티의 식별자로 사용되며 변경할 수 없습니다.",
     "display_name_explain": "표시 이름 — 커뮤니티 페이지에 제목으로 표시되며 변경할 수 있습니다.",
     "title": "제목",
-    "category": "분류",
     "subscribers": "가입자",
     "both": "둘 다",
     "saved": "저장한글",

@@ -83,7 +83,6 @@
     "number_online": "{{count}} 名のユーザーがオンライン",
     "name": "名前",
     "title": "タイトル",
-    "category": "カテゴリー",
     "subscribers": "登録者",
     "saved": "保存済み",
     "unsubscribe": "登録解除",
