@@ -4,7 +4,7 @@
         }
     ],
     "ca": [
-        {"name": "Néfix Estrada", "link": ""},
+        {"name": "Néfix Estrada"},
 	{"name": "spla", "link": "https://weblate.yerbamate.ml/user/spla/"}
     ],
 	"da": [
@@ -13,7 +13,7 @@
 	],
 	
 	"de": [
-		{"name":"0xflotus", "link":""},
+		{"name":"0xflotus"},
 		{"name":"T", "link":""}
 	],
 	"el": [
@@ -27,7 +27,7 @@
 	],
 	"eo": [
 		{
-		"name":"Tirifito", "link":""
+		"name":"Tirifito"
 		}
 	],
 	"es":[
@@ -38,7 +38,7 @@
 	"eu": [
 		{"name":"Sergio Varela", "link":"https://ingrownmink4.tumblr.com"},
 		{"name":"Txopi", "link":"https://librezale.eus/wiki/Lemmy"},
-		{"name":"Porrumentzio", "link":""}
+		{"name":"Porrumentzio"}
 	],
 	"fa": [
 		{
@@ -50,7 +50,7 @@
 	],
 	"fr": [
 		{"name":"Hugo Mechiche", "link":"https://hugo-mechiche.com"},
-		{"name":"Ady Nemo", "link":""}
+		{"name":"Ady Nemo"}
 	],
 	"ga": [
 		{
@@ -75,12 +75,12 @@
 	],
 	"it": [
 		{
-		"name":"riccardo", "link":""
+		"name":"riccardo"
 		}
 	],
 	"ja": [
-		{"name":"Kitaiti Makoto", "link":""},
-		{"name":"Creativ", "link":""}
+		{"name":"Kitaiti Makoto"},
+		{"name":"Creativ"}
 	],
 	"ka": [
 		{
@@ -92,32 +92,32 @@
 	],
 	"ko": [
 		{
-		"name":"Lee Kiwon", "link":""
+		"name":"Lee Kiwon"
 		}
 	],
 	"nl": [
-		{"name":"T", "link":""},
-		{"name":"Tom van Djik", "link":""}
+		{"name":"T"},
+		{"name":"Tom van Djik"}
 	],
 	"oc": [
 		{
 		}
 	],
 	"pl": [
-		{"name":"Adam Adamsky", "link":""},
-		{"name":"Ernest Wisniewski", "link":""},
-		{"name":"harc", "link":""}
+		{"name":"Adam Adamsky"},
+		{"name":"Ernest Wisniewski"},
+		{"name":"harc"}
 	],
 	"pt_BR": [
 		{
-		"name":"Paulo", "link":""
+		"name":"Paulo"
 		}
 	],
 	"ru": [
-		{"name":"Ron", "link":""},
-		{"name":"Serge Tarkovski", "link":""},
-		{"name":"andrei", "link":""},
-		{"name":"kleeon", "link":""}
+		{"name":"Ron"},
+		{"name":"Serge Tarkovski"},
+		{"name":"andrei"},
+		{"name":"kleeon"}
 		
 	],
 	"sq": [
@@ -129,8 +129,8 @@
 		}
 	],
 	"sv": [
-		{"name":"Filip Bengtsson", "link":""},
-		{"name":"Johan Winther", "link":""}
+		{"name":"Filip Bengtsson"},
+		{"name":"Johan Winther"}
 	],
 	"tr": [
 		{
@@ -141,8 +141,8 @@
 		}
 	],
 	"zh": [
-		{"name":"kana", "link":""},
+		{"name":"kana"},
 		{"name":"iggyiccy", "link":" https://rchow.eth.link/"},
-		{"name":"jims", "link":""}
+		{"name":"jims"}
 	],
 }
