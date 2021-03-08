@@ -1,148 +1,140 @@
 {
-    "ar": [
-        {
-        }
-    ],
-    "ca": [
-        {"name": "Néfix Estrada"},
-	{"name": "spla", "link": "https://weblate.yerbamate.ml/user/spla/"}
-    ],
-	"da": [
-		{
-		}
-	],
-	
-	"de": [
-		{"name":"0xflotus"},
-		{"name":"T"}
-	],
-	"el": [
-		{
-		"name":"Panos Alevropoulos", "link":"https://mastodon.social/@panosalevropoulos"
-		}
-	],
-	"en": [
-		{
-		}
-	],
-	"eo": [
-		{
-		"name":"Tirifito"
-		}
-	],
-	"es":[
-		{
-		"name":"Sercio Varela", "link":"https://ingrownmink4.tumblr.com"
-		}
-	],
-	"eu": [
-		{"name":"Sergio Varela", "link":"https://ingrownmink4.tumblr.com"},
-		{"name":"Txopi", "link":"https://librezale.eus/wiki/Lemmy"},
-		{"name":"Porrumentzio"}
-	],
-	"fa": [
-		{
-		}
-	],
-	"fi": [
-		{
-		}
-	],
-	"fr": [
-		{"name":"Hugo Mechiche", "link":"https://hugo-mechiche.com"},
-		{"name":"Ady Nemo"}
-	],
-	"ga": [
-		{
-		"name":"Lucy", "link":"https://twitter.com/o_hartigan"
-		}
-	],
-	"gl": [
-		{
-		}
-	],
-	"hi": [
-		{
-		}
-	],
-	"hr": [
-		{
-		}
-	],	
-	"hu": [
-		{
-		}
-	],
-	"it": [
-		{
-		"name":"riccardo"
-		}
-	],
-	"ja": [
-		{"name":"Kitaiti Makoto"},
-		{"name":"Creativ"}
-	],
-	"ka": [
-		{
-		}
-	],
-	"km": [
-		{
-		}
-	],
-	"ko": [
-		{
-		"name":"Lee Kiwon"
-		}
-	],
-	"nl": [
-		{"name":"T"},
-		{"name":"Tom van Djik"}
-	],
-	"oc": [
-		{
-		}
-	],
-	"pl": [
-		{"name":"Adam Adamsky"},
-		{"name":"Ernest Wisniewski"},
-		{"name":"harc"}
-	],
-	"pt_BR": [
-		{
-		"name":"Paulo"
-		}
-	],
-	"ru": [
-		{"name":"Ron"},
-		{"name":"Serge Tarkovski"},
-		{"name":"andrei"},
-		{"name":"kleeon"}
-		
-	],
-	"sq": [
-		{
-		}
-	],
-	"sr_Latn": [
-		{
-		}
-	],
-	"sv": [
-		{"name":"Filip Bengtsson"},
-		{"name":"Johan Winther"}
-	],
-	"tr": [
-		{
-		}
-	],
-	"uk": [
-		{
-		}
-	],
-	"zh": [
-		{"name":"kana"},
-		{"name":"iggyiccy", "link":" https://rchow.eth.link/"},
-		{"name":"jims"}
-	],
+  "ca": [
+    {
+      "name": "Néfix Estrada"
+    },
+    {
+      "name": "spla",
+      "link": "https://weblate.yerbamate.ml/user/spla/"
+    }
+  ],
+  "de": [
+    {
+      "name": "0xflotus"
+    },
+    {
+      "name": "T"
+    }
+  ],
+  "el": [
+    {
+      "name": "Panos Alevropoulos",
+      "link": "https://mastodon.social/@panosalevropoulos"
+    }
+  ],
+  "eo": [
+    {
+      "name": "Tirifito"
+    }
+  ],
+  "es": [
+    {
+      "name": "Sercio Varela",
+      "link": "https://ingrownmink4.tumblr.com"
+    }
+  ],
+  "eu": [
+    {
+      "name": "Sergio Varela",
+      "link": "https://ingrownmink4.tumblr.com"
+    },
+    {
+      "name": "Txopi",
+      "link": "https://librezale.eus/wiki/Lemmy"
+    },
+    {
+      "name": "Porrumentzio"
+    }
+  ],
+  "fr": [
+    {
+      "name": "Hugo Mechiche",
+      "link": "https://hugo-mechiche.com"
+    },
+    {
+      "name": "Ady Nemo"
+    }
+  ],
+  "ga": [
+    {
+      "name": "Lucy",
+      "link": "https://twitter.com/o_hartigan"
+    }
+  ],
+  "it": [
+    {
+      "name": "riccardo"
+    }
+  ],
+  "ja": [
+    {
+      "name": "Kitaiti Makoto"
+    },
+    {
+      "name": "Creativ"
+    }
+  ],
+  "ko": [
+    {
+      "name": "Lee Kiwon"
+    }
+  ],
+  "nl": [
+    {
+      "name": "T"
+    },
+    {
+      "name": "Tom van Djik"
+    }
+  ],
+  "pl": [
+    {
+      "name": "Adam Adamsky"
+    },
+    {
+      "name": "Ernest Wisniewski"
+    },
+    {
+      "name": "harc"
+    }
+  ],
+  "pt_BR": [
+    {
+      "name": "Paulo"
+    }
+  ],
+  "ru": [
+    {
+      "name": "Ron"
+    },
+    {
+      "name": "Serge Tarkovski"
+    },
+    {
+      "name": "andrei"
+    },
+    {
+      "name": "kleeon"
+    }
+  ],
+  "sv": [
+    {
+      "name": "Filip Bengtsson"
+    },
+    {
+      "name": "Johan Winther"
+    }
+  ],
+  "zh": [
+    {
+      "name": "kana"
+    },
+    {
+      "name": "iggyiccy",
+      "link": " https://rchow.eth.link/"
+    },
+    {
+      "name": "jims"
+    }
+  ]
 }
