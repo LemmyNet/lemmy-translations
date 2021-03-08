@@ -1,200 +1,148 @@
 {
     "ar": [
         {
-            "name": "Dessalines", "link": ""
         }
     ],
     "ca": [
-        {
-            "name": "Dessalines", "link": ""
-			"name": "Néfix Estrada", "link": ""
-			"name": "spla", "link": "https://weblate.yerbamate.ml/user/spla/"
-        }
+        {"name": "Néfix Estrada", "link": ""},
+	{"name": "spla", "link": "https://weblate.yerbamate.ml/user/spla/"}
     ],
 	"da": [
 		{
-			"name":"Dessalines", "link":""
 		}
 	],
 	
 	"de": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"0xflotus", "link":""
-		"name":"T", "link":""
-		}
+		{"name":"0xflotus", "link":""},
+		{"name":"T", "link":""}
 	],
 	"el": [
 		{
-		"name":"Dessalines", "link":""
 		"name":"Panos Alevropoulos", "link":"https://mastodon.social/@panosalevropoulos"
 		}
 	],
 	"en": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"eo": [
 		{
-		"name":"Dessalines", "link":""
 		"name":"Tirifito", "link":""
 		}
 	],
 	"es":[
 		{
-		"name":"Dessalines", "link":""
 		"name":"Sercio Varela", "link":"https://ingrownmink4.tumblr.com"
 		}
 	],
 	"eu": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"Sergio Varela", "link":"https://ingrownmink4.tumblr.com"
-		"name":"Txopi", "link":"https://librezale.eus/wiki/Lemmy"
-		"name":"Porrumentzio", "link":""
-		}
+		{"name":"Sergio Varela", "link":"https://ingrownmink4.tumblr.com"},
+		{"name":"Txopi", "link":"https://librezale.eus/wiki/Lemmy"},
+		{"name":"Porrumentzio", "link":""}
 	],
 	"fa": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"fi": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"fr": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"Hugo Mechiche", "link":"https://hugo-mechiche.com"
-		"name":"Ady Nemo", "link":""
-		}
+		{"name":"Hugo Mechiche", "link":"https://hugo-mechiche.com"},
+		{"name":"Ady Nemo", "link":""}
 	],
 	"ga": [
 		{
-		"name":"Dessalines", "link":""
 		"name":"Lucy", "link":"https://twitter.com/o_hartigan"
 		}
 	],
 	"gl": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"hi": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"hr": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],	
 	"hu": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"it": [
 		{
-		"name":"Dessalines", "link":""
 		"name":"riccardo", "link":""
 		}
 	],
 	"ja": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"Kitaiti Makoto", "link":""
-		"name":"Creativ", "link":""
-		}
+		{"name":"Kitaiti Makoto", "link":""},
+		{"name":"Creativ", "link":""}
 	],
 	"ka": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"km": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"ko": [
 		{
-		"name":"Dessalines", "link":""
 		"name":"Lee Kiwon", "link":""
 		}
 	],
 	"nl": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"T", "link":""
-		"name":"Tom van Djik", "link":""
-		}
+		{"name":"T", "link":""},
+		{"name":"Tom van Djik", "link":""}
 	],
 	"oc": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"pl": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"Adam Adamsky", "link":""
-		"name":"Ernest Wisniewski", "link":""
-		"name":"harc", "link":""
-		}
+		{"name":"Adam Adamsky", "link":""},
+		{"name":"Ernest Wisniewski", "link":""},
+		{"name":"harc", "link":""}
 	],
 	"pt_BR": [
 		{
-		"name":"Dessalines", "link":""
 		"name":"Paulo", "link":""
 		}
 	],
 	"ru": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"Ron", "link":""
-		"name":"Serge Tarkovski", "link":""
-		"name":"andrei", "link":""
-		"name":"kleeon", "link":""
-		}
+		{"name":"Ron", "link":""},
+		{"name":"Serge Tarkovski", "link":""},
+		{"name":"andrei", "link":""},
+		{"name":"kleeon", "link":""}
+		
 	],
 	"sq": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"sr_Latn": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"sv": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"Filip Bengtsson", "link":""
-		"name":"Johan Winther", "link":""
-		}
+		{"name":"Filip Bengtsson", "link":""},
+		{"name":"Johan Winther", "link":""}
 	],
 	"tr": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"uk": [
 		{
-		"name":"Dessalines", "link":""
 		}
 	],
 	"zh": [
-		{
-		"name":"Dessalines", "link":""
-		"name":"kana", "link":""
-		"name":"iggyiccy", "link":" https://rchow.eth.link/"
-		"name":"jims", "link":""
-		}
+		{"name":"kana", "link":""},
+		{"name":"iggyiccy", "link":" https://rchow.eth.link/"},
+		{"name":"jims", "link":""}
 	],
 }
