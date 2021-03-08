@@ -325,5 +325,17 @@
     "bio": "السيرة",
     "site_saved": "حُفظ الموقع.",
     "banner": "اللافتة",
-    "upload_banner": "ارفع صورة"
+    "upload_banner": "ارفع صورة",
+    "couldnt_find_parent_comment": "تعذر العثور على التعليق الأصل.",
+    "parent_comment_not_in_post": "ينتمي التعليق الأصل لمنشور آخر.",
+    "not_a_mod_or_admin": "ليس مشرفًا ولا مديرًا.",
+    "couldnt_like_comment": "تعذر الإعجاب بالتعليق.",
+    "couldnt_like_post": "تعذر الإعجاب بالمنشور.",
+    "couldnt_find_that_username_or_email": "تعذر العثور على مستخدم يملك هذا البريد أو اسم المستخدم.",
+    "system_err_login": "خطأ في النظام. جرب إعادة الولوج.",
+    "captcha": "رمزوالتخق",
+    "couldnt_resolve_report": "تعذر تحليل.",
+    "captcha_incorrect": "رمز التحقق خاطئ.",
+    "play_captcha_audio": "اقرأ رمز",
+    "no_slurs": "بدون اهانات."
 }

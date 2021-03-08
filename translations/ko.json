@@ -288,5 +288,6 @@
     "new_comments": "새 덧글",
     "expand": "자세히",
     "collapse": "간략히",
-    "captcha": "Captcha"
+    "captcha": "Captcha",
+    "not_a_mod_or_admin": "중재자 또는 관리자가 아닙니다."
 }
