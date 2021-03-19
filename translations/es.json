@@ -78,7 +78,7 @@
     "create": "crear",
     "creator": "creador",
     "username": "Nombre de usuario",
-    "email_or_username": "Correo o usuario",
+    "email_or_username": "Correo o nombre de usuario",
     "number_of_users": "{{count}} usuario",
     "number_of_users_plural": "{{count}} usuarios",
     "number_of_subscribers": "{{count}} suscriptor",
