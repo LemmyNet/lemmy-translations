@@ -298,5 +298,6 @@
     "new_comments": "Nuovi Commenti",
     "expand": "Espandi",
     "collapse": "Riduci",
-    "captcha": "Captcha"
+    "captcha": "Captcha",
+    "not_a_mod_or_admin": "Non moderatore o amministratore."
 }
