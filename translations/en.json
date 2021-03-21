@@ -1,3 +1,8 @@
 {
-  "join_a_server": "Join a Server"
+  "join_a_server": "Join a Server",
+  "run_a_server": "Run a Server",
+  "lemmy": "Lemmy",
+  "lemmy_desc": "A link aggregator for the fediverse.",
+  "follow_communities": "Follow communities anywhere in the world",
+  "lemmy_long_desc": "<1>Lemmy</1> is similar to sites like <2>Reddit</2>, <3>Lobste.rs</3>, or <4>Hacker News</4>: you subscribe to communities you're interested in, post links and discussions, then vote and comment on them. Lemmy isn't just a reddit alternative; its a network of interconnected communities ran by different people and organizations, all combining to create <5>a single, personalized front page</5> of your favorite news, articles, and memes."
 }
