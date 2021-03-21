@@ -1,4 +1,5 @@
 {
+  "lemmy_title": "Lemmy - A link aggregator for the fediverse",
   "join_a_server": "Join a Server",
   "run_a_server": "Run a Server",
   "lemmy": "Lemmy",
@@ -25,7 +26,7 @@
   "user_tagging": "User tagging using <1>@</1>, Community tagging using <2>!</2>.",
   "integrated_image_uploading": "Integrated image uploading in both posts and comments.",
   "notifications_including": "Notifications, including via email.",
-  "i18n_support": "<1>i18n / internationalization support for &gt; 30 languages.</1>",
+  "i18n_support": "<1>i18n / internationalization support for > 30 languages.</1>",
   "rss_feeds": "RSS / Atom feeds for <1>All</1>, <2>Subscribed</2>, <3>Inbox</3>, <4>User</4>, and <5>Community</5>.",
   "can_fully_erase": "Can fully erase your data, replacing all posts and comments.",
   "nsfw_support": "NSFW post / community support.",
