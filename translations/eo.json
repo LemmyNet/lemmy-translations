@@ -1,1 +1,8 @@
-{}
+{
+    "join_a_server": "Aliĝu al servilo",
+    "run_a_server": "Havu propran servilon",
+    "lemmy": "Lemmy",
+    "lemmy_title": "Lemmy – kolektilo de ligiloj por la federuniverso",
+    "lemmy_desc": "Kolektilo de ligiloj por la federuniverso.",
+    "lemmy_long_desc": "<1>Lemmy</1> similas retejojn kiel <2>Reddit</2>, <3>Lobste.rs</3>, aŭ <4>Hacker News</4>: oni abonas la komunumojn, kiuj ĝin interesas, afiŝas ligilojn kaj diskutojn, kaj poste ilin voĉdonas kaj komentas. Lemmy ne estas nura alternativo al Reddit; ĝi estas reto de interkonektitaj komunumoj, de diversaj homoj kaj organizaĵoj, kiuj kuniĝas por krei <5>unu solas, persone adaptitan ĉefpaĝon</5> por viaj ŝatataj novaĵoj, artikoloj, kaj memeoj."
+}
