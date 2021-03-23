@@ -4,5 +4,10 @@
     "lemmy": "Lemmy",
     "lemmy_title": "Lemmy – kolektilo de ligiloj por la federuniverso",
     "lemmy_desc": "Kolektilo de ligiloj por la federuniverso.",
-    "lemmy_long_desc": "<1>Lemmy</1> similas retejojn kiel <2>Reddit</2>, <3>Lobste.rs</3>, aŭ <4>Hacker News</4>: oni abonas la komunumojn, kiuj ĝin interesas, afiŝas ligilojn kaj diskutojn, kaj poste ilin voĉdonas kaj komentas. Lemmy ne estas nura alternativo al Reddit; ĝi estas reto de interkonektitaj komunumoj, de diversaj homoj kaj organizaĵoj, kiuj kuniĝas por krei <5>unu solas, persone adaptitan ĉefpaĝon</5> por viaj ŝatataj novaĵoj, artikoloj, kaj memeoj."
+    "lemmy_long_desc": "<1>Lemmy</1> similas retejojn kiel <2>Reddit</2>, <3>Lobste.rs</3>, aŭ <4>Hacker News</4>: oni abonas la komunumojn, kiuj ĝin interesas, afiŝas ligilojn kaj diskutojn, kaj poste ilin voĉdonas kaj komentas. Lemmy ne estas nura alternativo al Reddit; ĝi estas reto de interkonektitaj komunumoj, de diversaj homoj kaj organizaĵoj, kiuj kuniĝas por krei <5>unu solas, persone adaptitan ĉefpaĝon</5> por viaj ŝatataj novaĵoj, artikoloj, kaj memeoj.",
+    "follow_communities": "Abonu komunumojn de la tuta mondo",
+    "open_source": "Malfermitkoda",
+    "open_source_desc": "Lemmy estas kaj ĉiam restos libera, <1>malfermitkoda</1> programo, uzanta la forte <2>kopilasigan</2> <3>permesilon AGPL</3>.",
+    "blazing_fast": "Rapidega",
+    "blazing_fast_desc": "Farita per iuj el la plej rapidaj ilaroj, kiel ekzemple <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, kaj <4>Typescript</4>."
 }
