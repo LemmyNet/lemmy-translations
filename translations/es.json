@@ -38,7 +38,7 @@
     "join": "Unirse",
     "apps": "Aplicaciones",
     "sponsors": "Patrocinadores",
-    "docs": "Documentos",
+    "docs": "Documentación",
     "code_of_conduct": "Código de conducta",
     "join_title": "Lemmy - Unirse a un servidor",
     "lemmy_servers": "Servidores Lemmy",
@@ -53,5 +53,7 @@
     "can_fully_erase": "Se puede borrar completamente sus datos, reemplazando todos los mensajes y comentarios.",
     "donate_desc": "Lemmy es un software libre y de código abierto, lo que significa que no hay publicidad, monetización o capital de riesgo, nunca. <1>Tus donaciones</1> apoyan directamente el desarrollo a tiempo completo del proyecto.",
     "choose_and_join": "Elige y únete a un servidor de los aprobados que aparecen a continuación.",
-    "general_sponsors_desc": "Los Patrocinadores Generales son aquellos que se comprometieron a donar entre 10 y 39 dólares a Lemmy."
+    "general_sponsors_desc": "Los Patrocinadores Generales son aquellos que se comprometieron a donar entre 10 y 39 dólares a Lemmy.",
+    "i18n_support": "<1>i18n / soporte de internacionalización para > 30 idiomas.</1>",
+    "coc": "CoC"
 }
