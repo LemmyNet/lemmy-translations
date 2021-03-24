@@ -105,7 +105,7 @@
     "all": "Todo",
     "top": "Lo mejor",
     "api": "API",
-    "docs": "Documentación",
+    "docs": "Documentos",
     "inbox": "Buzón de entrada",
     "inbox_for": "Buzón de entrada para <1>{{user}}</1>",
     "mark_all_as_read": "marcar todo como leído",
