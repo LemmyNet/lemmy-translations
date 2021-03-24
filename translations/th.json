@@ -96,5 +96,8 @@
     "not_logged_in": "ไม่ได้เข้าสู่ระบบ",
     "create_a_community": "สร้างชุมชน",
     "select_a_community": "เลือกชุมชน",
-    "create_community": "สร้างชุมชน"
+    "create_community": "สร้างชุมชน",
+    "remove_community": "ลบชุมชน",
+    "create_private_message": "สร้างข้อความส่วนตัว",
+    "avatar": "รูปประจำตัว"
 }
