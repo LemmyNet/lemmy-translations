@@ -1,1 +1,16 @@
-{}
+{
+    "lemmy_title": "Lemmy - Un agrégateur de liens pour le fediverse",
+    "join_a_server": "Rejoindre un serveur",
+    "run_a_server": "Héberger un serveur",
+    "lemmy": "Lemmy",
+    "lemmy_desc": "Un agrégateur de liens pour le fediverse.",
+    "follow_communities": "Suivez des communautés partout dans le monde",
+    "open_source": "Source ouverte",
+    "open_source_desc": "Lemmy est et restera toujours un logiciel libre, <1>open source</1>, utilisant la forte <3>Licence AGPL</3> <2>copyleft</2>.",
+    "blazing_fast": "Rapide comme l'éclair",
+    "blazing_fast_desc": "Réalisé à l'aide de certains des frameworks et outils les plus rapides, notamment <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, et <4>Typescript</4>.",
+    "mod_tools": "Outils de modélisation puissants",
+    "create_discussion_platform": "Créez votre propre plateforme de discussion",
+    "lemmy_long_desc": "<1>Lemmy</1> est similaire à des sites comme <2>Reddit</2>, <3>Lobste.rs</3>, ou <4>Hacker News</4> : vous vous abonnez aux communautés qui vous intéressent, vous postez des liens et des discussions, puis vous votez et commentez. Lemmy n'est pas seulement une alternative à reddit ; c'est un réseau de communautés interconnectées gérées par différentes personnes et organisations, qui se combinent toutes pour créer <5>une seule et unique page d'accueil personnalisée</5> de vos nouvelles, articles et mèmes préférés.",
+    "mod_tools_desc": "Chaque serveur peut définir sa propre politique de modération, afin de favoriser un environnement sain où chacun peut se sentir à l'aise pour contribuer."
+}
