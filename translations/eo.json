@@ -298,5 +298,6 @@
     "captcha": "Kontrolo de homeco",
     "new_comments": "Nove komentitaj",
     "expand": "Etendi",
-    "collapse": "Maletendi"
+    "collapse": "Maletendi",
+    "not_a_mod_or_admin": "Nek reguligisto nek administranto."
 }
