@@ -298,5 +298,6 @@
     "bio": "Biografia",
     "name_explain": "Nom – s'utilitza com l'identificador de la comunitat, no pot ser canviat.",
     "display_name_explain": "Nom a mostrar — mostrat com el títol de la pàgina de la comunitat, pot ser canviat.",
-    "bio_length_overflow": "La biografia d'usuari no pot excedir els 300 caràcters."
+    "bio_length_overflow": "La biografia d'usuari no pot excedir els 300 caràcters.",
+    "not_a_mod_or_admin": "No ets un moderador ni un administrador."
 }
