@@ -5,5 +5,7 @@
     "lemmy_desc": "Agregator linków w fediversie.",
     "follow_communities": "Śledź społeczności z całego świata",
     "lemmy_title": "Lemmy - agregator linków w fediversie",
-    "lemmy_long_desc": "<1>Lemmy</1> jest podobny do stron takich jak <2>Reddit</2>, <3>Wykop</3>, czy <4>Hacker News</4>: subskrybujesz interesujące cię społeczności, postujesz linki i uczestniczysz w dyskusjach, oddając głosy lub komentując. Lemmy nie jest po prostu alternatywą reddita; jest siecią wzajemnie połączonych społeczności prowadzonych przez różne osoby i organizacje, łączącą się, aby dać ci <5> jedeną spersonalizowaną stronę główną</5> , najciekawszych dla ciebie tematów, wiadomości, artykłów i memów."
+    "lemmy_long_desc": "<1>Lemmy</1> jest podobny do stron takich jak <2>Reddit</2>, <3>Wykop</3>, czy <4>Hacker News</4>: subskrybujesz interesujące cię społeczności, postujesz linki i uczestniczysz w dyskusjach, oddając głosy lub komentując. Lemmy nie jest po prostu alternatywą reddita; jest siecią wzajemnie połączonych społeczności prowadzonych przez różne osoby i organizacje, łączącą się, aby dać ci <5> jedeną spersonalizowaną stronę główną</5> , najciekawszych dla ciebie tematów, wiadomości, artykłów i memów.",
+    "open_source": "Otwarte Oprogramowanie",
+    "docs": "Dokumentacja"
 }
