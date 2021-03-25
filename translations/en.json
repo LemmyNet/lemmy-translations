@@ -11,6 +11,7 @@
     "cross_posts": "This link has also been posted to:",
     "cross_post": "cross-post",
     "cross_posted_to": "cross-posted to: ",
+    "cross_posted_from": "cross-posted from: ",
     "comments": "Comments",
     "number_of_comments": "{{count}} Comment",
     "number_of_comments_plural": "{{count}} Comments",
