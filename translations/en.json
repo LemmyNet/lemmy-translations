@@ -265,6 +265,7 @@
     "not_a_moderator": "Not a moderator.",
     "not_a_mod_or_admin": "Not a moderator or admin.",
     "site_already_exists": "Site already exists.",
+    "site_description_length_overflow": "Site description cannot exceed 150 characters.",
     "couldnt_update_site": "Couldn't update site.",
     "couldnt_find_that_username_or_email":
       "Couldn't find that username or email.",
