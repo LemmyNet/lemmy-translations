@@ -293,5 +293,10 @@
     "couldnt_find_parent_comment": "Kunde inte hitta kommentarens förälder.",
     "parent_comment_not_in_post": "Kommentarens förälder tillhör ett annat inlägg.",
     "allowed_instances": "Tillåtna instanser",
-    "blocked_instances": "Blockerade instanser"
+    "blocked_instances": "Blockerade instanser",
+    "active_in_the_last": "aktiva under senaste",
+    "expand": "Expandera",
+    "collapse": "Kollapsa",
+    "new_comments": "Nya kommentarer",
+    "not_a_mod_or_admin": "Inte en moderator eller administratör."
 }
