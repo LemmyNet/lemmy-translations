@@ -299,5 +299,8 @@
     "collapse": "Kolapsatu",
     "expand": "Zabaldu",
     "new_comments": "Iruzkin berriak",
-    "not_a_mod_or_admin": "Ez zara moderatzaile bat, ezta administratzaile bat ere."
+    "not_a_mod_or_admin": "Ez zara moderatzaile bat, ezta administratzaile bat ere.",
+    "invalid_matrix_id": "Matrix identitatea baliogabea. Izan behar da @erabiltzailea:instantzia.tld",
+    "site_description_length_overflow": "Gunearen deskribapena ezin da 150 karaktere baino gehiagokoa izan.",
+    "cross_posted_from": "hemendik modu gurutzatuan argitaratua: "
 }

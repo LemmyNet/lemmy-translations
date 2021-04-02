@@ -299,5 +299,8 @@
     "expand": "Expandir",
     "collapse": "Colapsar",
     "captcha": "Captcha",
-    "not_a_mod_or_admin": "No eres un moderador ni un administrador."
+    "not_a_mod_or_admin": "No eres un moderador ni un administrador.",
+    "invalid_matrix_id": "Id. de Matrix inválido. Debe ser @usuario:instancia.tld",
+    "site_description_length_overflow": "La descripción del sitio no puede superar los 150 caracteres.",
+    "cross_posted_from": "publicado de forma cruzada desde: "
 }
