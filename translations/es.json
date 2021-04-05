@@ -47,11 +47,13 @@
     "silver_sponsors_desc": "Los patrocinadores de plata son los que se comprometieron a aportar 40 dólares a Lemmy.",
     "lemmy_title": "Lemmy - Un agregador de enlaces para el fediverso",
     "follow_communities": "Sigue a comunidades en cualquier parte del mundo",
-    "lemmy_long_desc": "<1>Lemmy</1> es similar a sitios como <2>Reddit</2>, <3>Lobste.rs</3>, o <4>Hacker News</4>: te suscribes a las comunidades que te interesan, publicas enlaces y debates, y luego votas y comentas en ellos. Lemmy no es sólo una alternativa a reddit; es una red de comunidades interconectadas gestionadas por diferentes personas y organizaciones, todas ellas combinadas para crear <5>una única portada personalizada</5> de tus noticias, artículos y memes favoritos.",
-    "create_discussion_platform_desc": "Con Lemmy, puedes <1>alojar fácilmente tu propio servidor</1>, y todos estos servidores están <2>federados</2> (piensa en el correo electrónico), y conectados al mismo universo, llamado el <3>Fediverso</3>. Para un agregador de enlaces, esto significa que alguien registrado en un servidor puede suscribirse a comunidades en otros lugares, y puede tener discusiones con personas en un servidor completamente diferente.",
+    "lemmy_long_desc": "<1>Lemmy</1> es similar a sitios como <6>Menéame</6>, <2>Reddit</2>, <3>Lobste.rs</3>, o <4>Hacker News</4>: te suscribes a las comunidades que te interesan, publicas enlaces y debates, y luego votas y comentas en ellos. Lemmy no es sólo una alternativa a menéame/reddit; es una red de comunidades interconectadas gestionadas por diferentes personas y organizaciones, todas ellas combinadas para crear <5>una única portada personalizada</5> de tus noticias, artículos y memes favoritos.",
+    "create_discussion_platform_desc": "Con Lemmy, puedes <4>alojar fácilmente tu propio servidor</4>, y todos estos servidores están <2>federados</2> (piensa en el correo electrónico), y conectados al mismo universo, llamado el <5>Fediverso</5>. Para un agregador de enlaces, esto significa que alguien registrado en un servidor puede suscribirse a comunidades en otros lugares, y puede tener discusiones con personas en un servidor completamente diferente.",
     "integrated_image_uploading": "Carga de imágenes integrada tanto en los mensajes como en los comentarios.",
     "can_fully_erase": "Se puede borrar completamente sus datos, reemplazando todos los mensajes y comentarios.",
     "donate_desc": "Lemmy es un software libre y de código abierto, lo que significa que no hay publicidad, monetización o capital de riesgo, nunca. <1>Tus donaciones</1> apoyan directamente el desarrollo a tiempo completo del proyecto.",
     "choose_and_join": "Elige y únete a un servidor de los aprobados que aparecen a continuación.",
-    "general_sponsors_desc": "Los Patrocinadores Generales son aquellos que se comprometieron a donar entre 10 y 39 dólares a Lemmy."
+    "general_sponsors_desc": "Los Patrocinadores Generales son aquellos que se comprometieron a donar entre 10 y 39 dólares a Lemmy.",
+    "i18n_support": "<1>i18n / soporte de internacionalización para > 30 idiomas.</1>",
+    "coc": "CoC"
 }
