@@ -309,5 +309,8 @@
     "collapse": "Сжать",
     "captcha": "Капча",
     "parent_comment_not_in_post": "Родительский комментарий принадлежит другому посту.",
-    "not_a_mod_or_admin": "Не модератор и не админинстратор."
+    "not_a_mod_or_admin": "Не модератор и не админинстратор.",
+    "invalid_matrix_id": "Неверный matrix ID. Он должен быть в формате @user:instance.tld",
+    "cross_posted_from": "кросспост от: ",
+    "site_description_length_overflow": "Описание сайта не должно превышать 150 символов."
 }
