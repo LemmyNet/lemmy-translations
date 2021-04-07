@@ -289,5 +289,8 @@
     "expand": "자세히",
     "collapse": "간략히",
     "captcha": "Captcha",
-    "not_a_mod_or_admin": "중재자 또는 관리자가 아닙니다."
+    "not_a_mod_or_admin": "중재자 또는 관리자가 아닙니다.",
+    "invalid_matrix_id": "잘못된 매트릭스 ID입니다. @user:instance.tld 여야합니다",
+    "site_description_length_overflow": "웹 사이트 설명은 150자를 초과 할 수 없습니다.",
+    "cross_posted_from": "퍼온글 위치: "
 }
