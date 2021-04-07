@@ -167,7 +167,7 @@
     "upload_image": "Afbeelding uploaden",
     "avatar": "Avatar",
     "upload_avatar": "Avatar uploaden",
-    "show_avatars": "Toon avatars",
+    "show_avatars": "Toon Avatars",
     "formatting_help": "Opmaak hulp",
     "view_source": "bekijk bron",
     "sticky": "vastplakken",
@@ -243,7 +243,9 @@
     "italic": "schuingedrukt",
     "subscript": "subscrip",
     "superscript": "superscrip",
-    "upload_banner": "Banner uploaden",
-    "upload_icon": "Upload",
-    "strikethrough": "doorgestreept"
+    "upload_banner": "Banner Uploaden",
+    "upload_icon": "Upload Icoon",
+    "strikethrough": "doorgestreept",
+    "cross_posted_from": "cross-posted van: ",
+    "icon": "Icoon"
 }
