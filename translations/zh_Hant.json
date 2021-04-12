@@ -1,1 +1,17 @@
-{}
+{
+    "join_a_server": "加入一個伺服器",
+    "run_a_server": "架設一個伺服器",
+    "lemmy": "Lemmy",
+    "follow_communities": "關注來自世界各地的社群",
+    "open_source": "開放原始碼",
+    "blazing_fast": "快如閃電",
+    "mod_tools_desc": "每個伺服器能訂立屬於自己的管理原則，幫助營造一個所有人都能舒適做出貢獻的健康環境。",
+    "create_discussion_platform": "建立你專有的討論平台",
+    "live_updates": "線上更新",
+    "sponsors": "贊助者",
+    "docs": "文件",
+    "join": "加入",
+    "lemmy_title": "Lemmy - 一個聯邦宇宙的鏈路聚合",
+    "lemmy_desc": "一個聯邦宇宙的鏈路聚合。",
+    "open_source_desc": "Lemmy現在及未來永遠保持免費， <1>開放原始碼</1>軟體，使用堅實的 <2>公共版權</2> <3>通用公眾授權</3>."
+}
