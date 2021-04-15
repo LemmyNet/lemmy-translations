@@ -24,7 +24,7 @@
     "create_community": "Δημιουργία κοινότητας",
     "remove_community": "Αφαίρεση κοινότητας",
     "subscribed_to_communities": "Εγγεγραμμένος σε <1>κοινότητες</1>",
-    "trending_communities": "Τάση σε <1>κοινότητες</1>",
+    "trending_communities": "<1>Κοινότητες</1> σε τάση",
     "list_of_communities": "Κατάλογος κοινοτήτων",
     "number_of_communities": "{{count}} Κοινότητα",
     "number_of_communities_plural": "{{count}} Κοινότητες",
@@ -100,7 +100,7 @@
     "name": "Όνομα",
     "title": "Επικεφαλίδα",
     "subscribers": "Εγγεγραμμένοι",
-    "both": "Και οι δύο",
+    "both": "Και τα δύο",
     "saved": "Αποθηκευμένα",
     "prev": "Προηγούμενο",
     "next": "Επόμενο",
@@ -297,5 +297,10 @@
     "new_comments": "Νέα σχόλια",
     "expand": "Επέκταση",
     "collapse": "Σμίκρυνση",
-    "captcha": "Captcha"
+    "captcha": "Captcha",
+    "invalid_matrix_id": "Μη έγκυρη ταυτότητα Matrix. Πρέπει να είναι @user:instance.tld",
+    "not_a_mod_or_admin": "Δεν είστε συντονιστής ή διαχειριστής.",
+    "site_description_length_overflow": "Η περιγραφή της σελίδας δεν μπορεί να υπερβαίνει τους 150 χαρακτήρες.",
+    "active_in_the_last": "τελευταία δραστηριότητα",
+    "cross_posted_from": "αναδημοσιεύτηκε από: "
 }
