@@ -247,5 +247,9 @@
     "active": "活発さ",
     "must_login": "コメントするには<1>ログインまたはユーザー登録</1> が必要です。",
     "instances": "インスタンス",
-    "linked_instances": "接続済みのインスタンス"
+    "linked_instances": "接続済みのインスタンス",
+    "cross_posted_from": "クロスポスト: ",
+    "invalid_community_name": "無効な名前です。",
+    "admin_settings": "管理者設定",
+    "site_config": "サイトの設定"
 }
