@@ -81,6 +81,7 @@
     "admins": "admins",
     "remove_as_admin": "remove as admin",
     "appoint_as_admin": "appoint as admin",
+    "only_admins_can_create_communities": "Only admins can create communities",
     "remove": "remove",
     "removed": "removed by mod",
     "locked": "locked",
