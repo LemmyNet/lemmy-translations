@@ -221,6 +221,7 @@
     "setup": "Setup",
     "lemmy_instance_setup": "Lemmy Instance Setup",
     "setup_admin": "Set Up Site Administrator",
+    "community_creation_admin_only": "Only Admins can create Communities",
     "your_site": "your site",
     "modified": "modified",
     "nsfw": "NSFW",
