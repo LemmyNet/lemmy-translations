@@ -302,5 +302,15 @@
     "bio": "Bio",
     "site_saved": "Sitio gardado.",
     "user_already_exists": "Xa existe a usuaria.",
-    "email_already_exists": "Xa existe o email."
+    "email_already_exists": "Xa existe o email.",
+    "community_creation_admin_only": "Só Admins poden crear Comunidades",
+    "couldnt_mark_post_as_read": "Non se puido marcar como lida.",
+    "show_read_posts": "Mostrar publicacións lidas",
+    "only_admins_can_create_communities": "Só as administradoras poden crear comunidades",
+    "description": "Descrición",
+    "change_password": "Cambiar contrasinal",
+    "password_changed": "Contrasinal cambiado.",
+    "show_scores": "Mostrar puntuacións",
+    "bot_account": "Conta Bot",
+    "show_bot_accounts": "Mostrar contas tipo bot"
 }
