@@ -316,5 +316,6 @@
     "couldnt_resolve_report": "Couldn't resolve report.",
     "expand": "Expand",
     "collapse": "Collapse",
-    "captcha": "Captcha"
+    "captcha": "Captcha",
+    "lemmy_ml_registration_message": "Before you register on lemmy.ml, please have a look at <1>Joinlemmy</1> to see if there is an instance that better fits your region, language or interests. Lemmy is federated, so you can interact with everything that you see on lemmy.ml, even if you are registered on another instance."
 }
