@@ -1,1 +1,8 @@
-{}
+{
+    "lemmy": "Lemmy",
+    "follow_communities": "Segui le comunità in qualsiasi parte del mondo",
+    "join_a_server": "Unirsi a un server",
+    "lemmy_desc": "Un aggregatore di link per il fediverso.",
+    "lemmy_title": "Lemmy - Un aggregatore di link per il fediverso",
+    "lemmy_long_desc": "<1>Lemmy</1> è simile a siti come <2>Reddit</2>, <3>Lobste.rs</3>, o <4>Hacker News</4>: ti iscrivi alle comunità che ti interessano, posti link e discussioni, poi voti e commenti. Lemmy non è solo un'alternativa a Reddit; è una rete di comunità interconnesse gestite da diverse persone e organizzazioni, che si combinano per creare <5>una singola, personalizzata prima pagina</5> delle vostre notizie preferite, articoli e memi."
+}
