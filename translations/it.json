@@ -13,5 +13,14 @@
     "mod_tools_desc": "Ogni server può impostare la propria politica di moderazione, per aiutare a promuovere un ambiente sano dove tutti possono sentirsi a proprio agio nel contribuire.",
     "create_discussion_platform": "Crea la tua piattaforma di discussione",
     "live_updates": "Aggiornamenti in tempo reale",
-    "create_discussion_platform_desc": "Con Lemmy, puoi <1>facilmente ospitare il tuo server</1>, e tutti questi server sono <2>federati</2> (pensa alla posta elettronica), e collegati allo stesso universo, chiamato <3>Fediverso</3>. Per un aggregatore di link, questo significa che qualcuno registrato su un server può iscriversi a comunità altrove, e può avere discussioni con persone su un server completamente diverso."
+    "create_discussion_platform_desc": "Con Lemmy, puoi <1>facilmente ospitare il tuo server</1>, e tutti questi server sono <2>federati</2> (pensa alla posta elettronica), e collegati allo stesso universo, chiamato <3>Fediverso</3>. Per un aggregatore di link, questo significa che qualcuno registrato su un server può iscriversi a comunità altrove, e può avere discussioni con persone su un server completamente diverso.",
+    "live_updates_desc": "Nuovi commenti e post arrivano in streaming nella tua prima pagina e nella tua casella di posta; non è più necessario aggiornare la pagina.",
+    "more_features": "Più caratteristiche",
+    "clean_interface": "Interfaccia pulita e mobile-friendly.",
+    "avatar_support": "Supporto dell'avatar dell'utente.",
+    "full_vote_scores": "Punteggi completi dei voti <1>(+/-)</1> come il vecchio Reddit.",
+    "themes_including": "Temi, tra cui chiaro, scuro e solarizzato.",
+    "emojis_autocomplete": "Emoji con supporto al completamento automatico. Inizia a digitare <1>:</1>",
+    "user_tagging": "Tagging dell'utente con <1>@</1>, tagging della comunità con <2>!</2>.",
+    "integrated_image_uploading": "Caricamento delle immagini integrato sia nei posts che nei commenti."
 }
