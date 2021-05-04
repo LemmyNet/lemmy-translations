@@ -22,5 +22,6 @@
     "themes_including": "Temi, tra cui chiaro, scuro e solarizzato.",
     "emojis_autocomplete": "Emoji con supporto al completamento automatico. Inizia a digitare <1>:</1>",
     "user_tagging": "Tagging dell'utente con <1>@</1>, tagging della comunità con <2>!</2>.",
-    "integrated_image_uploading": "Caricamento delle immagini integrato sia nei posts che nei commenti."
+    "integrated_image_uploading": "Caricamento delle immagini integrato sia nei posts che nei commenti.",
+    "docs": "Documentazione"
 }
