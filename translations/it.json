@@ -23,5 +23,18 @@
     "emojis_autocomplete": "Emoji con supporto al completamento automatico. Inizia a digitare <1>:</1>",
     "user_tagging": "Tagging dell'utente con <1>@</1>, tagging della comunità con <2>!</2>.",
     "integrated_image_uploading": "Caricamento delle immagini integrato sia nei posts che nei commenti.",
-    "docs": "Documentazione"
+    "docs": "Documentazione",
+    "notifications_including": "Notifiche, anche via posta elettronica.",
+    "i18n_support": "<1>Supporto all'internazionalizzazione i18n per > 30 lingue.</1>",
+    "rss_feeds": "Feed RSS / Atom per <1>Tutti</1>, <2>Sottoscritti</2>, <3>Inbox</3>, <4>Utente</4>, e <5>Comunità</5>.",
+    "can_fully_erase": "Può cancellare completamente i tuoi dati, sostituendo tutti i posti e i commenti.",
+    "nsfw_support": "Posti NSFW / supporto della comunità.",
+    "support_donate": "Sostegno / Donare",
+    "apps_title": "Lemmy - Applicazioni e librerie",
+    "lemmy_apps": "Applicazioni di Lemmy",
+    "choose_from_apps": "Scegli tra una qualsiasi delle app qui sotto.",
+    "web_apps": "Applicazioni web",
+    "api_libraries": "Librerie API",
+    "contact_title": "Lemmy - Contatto",
+    "contact": "Contatto"
 }
