@@ -36,5 +36,20 @@
     "web_apps": "Applicazioni web",
     "api_libraries": "Librerie API",
     "contact_title": "Lemmy - Contatto",
-    "contact": "Contatto"
+    "contact": "Contatto",
+    "run_a_server": "Avvia un Server",
+    "donate_desc": "Lemmy è un software open-source e gratis: significa niente pubblicità, monetizzazione o rischio di capitali. Mai. <1>Le tue donazioni</1> andranno direttamente a supportare lo sviluppo a tempo pieno del progetto.",
+    "support_on_patreon": "Sostieni su Patreon",
+    "support_on_liberapay": "Sostieni su Liberapay",
+    "support_on_opencollective": "Sostieni su OpenCollective",
+    "footer_desc": "Realizzato con <1>Inferno</1> e <2>Chota</2>",
+    "join": "Unisciti",
+    "apps": "Applicazioni",
+    "sponsors": "Sponsor",
+    "code_of_conduct": "Codice di Comportamento",
+    "choose_and_join": "Scegli ed unisciti ad un server da quelli approvati qui sotto.",
+    "sponsors_title": "Lemmy - Sponsor",
+    "donate_to_lemmy": "Dona a Lemmy",
+    "silver_sponsors_desc": "Gli Sponsor d'Argento sono quelli che hanno donato 40$ a Lemmy.",
+    "general_sponsors_desc": "Gli Sponsor Generali sono quelli che hanno donato da 10$ a 39$ a Lemmy."
 }
