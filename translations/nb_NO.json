@@ -31,5 +31,10 @@
     "upload_icon": "Laste opp Ikon",
     "show_bot_accounts": "Vis Bot Kontoer",
     "bot_account": "Bot Konto",
-    "view_source": "vis kilde"
+    "view_source": "vis kilde",
+    "remove_post": "Fjern innlegget",
+    "create_a_post": "Lag et innlegg",
+    "name": "Navn",
+    "name_explain": "Navn - brukes som identifikator for samfunnet, det kan ikke endres.",
+    "display_name": "Vis navn"
 }
