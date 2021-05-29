@@ -91,7 +91,7 @@
     "unread_messages": "ข้อความที่ยังไม่ได้อ่าน",
     "browser_default": "ค่าเริ่มต้นของเบราว์เซอร์",
     "recent_comments": "ความคิดเห็นล่าสุด",
-    "joined": "เข้าร่วมแล้ว",
+    "joined": "เข้าร่วมเมื่อ",
     "from": "จาก",
     "not_logged_in": "ไม่ได้เข้าสู่ระบบ",
     "create_a_community": "สร้างชุมชน",
@@ -134,5 +134,9 @@
     "body": "แสดง",
     "community": "ชุมชน",
     "couldnt_create_post": "ไม่สามารถสร้างโพสต์ได้",
-    "post_title_too_long": "หัวข้อโพสต์ยาวเกินไป"
+    "post_title_too_long": "หัวข้อโพสต์ยาวเกินไป",
+    "send_secure_message": "ส่งข้อความปลอดภัย",
+    "show_read_posts": "แสดงโพสต์ที่อ่านแล้ว",
+    "bot_account": "บัญชีบอต",
+    "show_bot_accounts": "แสดงบัญชีบอต"
 }
