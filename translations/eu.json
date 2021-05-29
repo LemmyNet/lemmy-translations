@@ -302,5 +302,16 @@
     "not_a_mod_or_admin": "Ez zara moderatzaile bat, ezta administratzaile bat ere.",
     "invalid_matrix_id": "Matrix identitatea baliogabea. Izan behar da @erabiltzailea:instantzia.tld",
     "site_description_length_overflow": "Gunearen deskribapena ezin da 150 karaktere baino gehiagokoa izan.",
-    "cross_posted_from": "hemendik modu gurutzatuan argitaratua: "
+    "cross_posted_from": "hemendik modu gurutzatuan argitaratua: ",
+    "password_changed": "Pasahitza aldatuta.",
+    "couldnt_mark_post_as_read": "Ezin izan zen argitalpena irakurrita bezala markatu.",
+    "show_read_posts": "Irakurritako argitalpenak erakutsi",
+    "only_admins_can_create_communities": "Soilik administratzaileek sor ditzakete komunitateak",
+    "description": "Deskribapena",
+    "change_password": "Pasahitza aldatu",
+    "community_creation_admin_only": "Soilik administratzaileek sor ditzakete komunitateak",
+    "lemmy_ml_registration_message": "Lemmy.ml-n erregistratu aurretik, begiratu honi: <1>Joinlemmy</1>, zure eskualdera, hizkuntzara edo interesetara hobeto egokitzen den instantziarik dagoen ikusteko. Lemmy federatuta dago, beraz, lemmy.ml-n ikusten duzun guztiarekin elkarreragin dezakezu, baita beste instantzia batean erregistratuta bazaude ere.",
+    "show_scores": "Erakutsi emaitzak",
+    "bot_account": "Bot kontua",
+    "show_bot_accounts": "Erakutsi bot kontuak"
 }
