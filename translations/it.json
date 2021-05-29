@@ -299,5 +299,19 @@
     "expand": "Espandi",
     "collapse": "Riduci",
     "captcha": "Captcha",
-    "not_a_mod_or_admin": "Non moderatore o amministratore."
+    "not_a_mod_or_admin": "Non moderatore o amministratore.",
+    "show_read_posts": "Mostra pubblicazioni già visitate",
+    "only_admins_can_create_communities": "Solo gli amministratori possono creare comunità",
+    "description": "Descrizione",
+    "change_password": "Cambia password",
+    "community_creation_admin_only": "Solo gli amministratori possono creare comunità",
+    "couldnt_mark_post_as_read": "Impossibile contrassegnare post come letto.",
+    "site_description_length_overflow": "La descrizione del sito non può superare i 150 caratteri.",
+    "lemmy_ml_registration_message": "Prima di registrarti su lemmy.ml, per favore visita <1>Joinlemmy</1> per verificare l'esistenza di istanze che corrispondono meglio alla tua regione geografica, lingua od interessi. Lemmy è una piattaforma federata, quindi puoi interagire con i contenuti di lemmy.m anche se sei registrato su un'altra istanza.",
+    "show_scores": "Mostra punteggi",
+    "bot_account": "Profilo bot",
+    "show_bot_accounts": "Mostra profili bot",
+    "password_changed": "Password modificata.",
+    "invalid_matrix_id": "Id matrix non valido. Deve essere nel formato @utente:instanza.tld",
+    "cross_posted_from": "cross-postato da: "
 }
