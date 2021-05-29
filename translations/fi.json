@@ -302,5 +302,16 @@
     "captcha_incorrect": "Captcha on väärin.",
     "invalid_matrix_id": "Virheellinen Matrix-ID. Sen pitää olla muotoa @käyttäjä:instanssi.tld",
     "site_description_length_overflow": "Sivun kuvaus ei voi olla enempää kuin 150 merkkiä.",
-    "cross_posted_from": "jaettu ristiin yhteisöstä: "
+    "cross_posted_from": "jaettu ristiin yhteisöstä: ",
+    "only_admins_can_create_communities": "Vain ylläpitäjät voivat luoda yhteisöjä",
+    "description": "Kuvaus",
+    "change_password": "Vaihda salasana",
+    "password_changed": "Salasana muutettu.",
+    "lemmy_ml_registration_message": "Ennen kuin rekisteröidyt instanssille lemmy.ml, katso <1>Liity Lemmyyn</1> -sivulta jos siellä on paremmin alueellesi, kielellesi tai mielenkiinnon kohteillesi sopiva instanssi. Lemmy federoituu, joten voit vuorovaikuttaa kaiken instanssilla lemmy.ml näkyvän kanssa, vaikka olisit rekisteröitynyt toiselle instanssille.",
+    "show_read_posts": "Näytä luetut viestit",
+    "community_creation_admin_only": "Vain ylläpitäjät voivat luoda yhteisöjä",
+    "couldnt_mark_post_as_read": "Viestiä ei voitu merkitä luetuksi.",
+    "show_scores": "Näytä pisteet",
+    "bot_account": "Botin tili",
+    "show_bot_accounts": "Näytä bottien tilit"
 }
