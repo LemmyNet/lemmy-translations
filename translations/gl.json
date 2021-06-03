@@ -312,5 +312,6 @@
     "password_changed": "Contrasinal cambiado.",
     "show_scores": "Mostrar puntuacións",
     "bot_account": "Conta Bot",
-    "show_bot_accounts": "Mostrar contas tipo bot"
+    "show_bot_accounts": "Mostrar contas tipo bot",
+    "lemmy_ml_registration_message": "Antes de rexistrarte en lemmy.ml, vaite a <1>Joinlemmy</1> e mira se hai algunha instancia que se adapta mellor aos teus intereses, idioma ou rexión. Lemmy está federado, polo que podes interactuar con todo o que ves en lemmy.ml, incluso se estás rexistrada noutra instancia."
 }

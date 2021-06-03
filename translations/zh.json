@@ -302,5 +302,8 @@
     "not_a_mod_or_admin": "不是仲裁员或管理员。",
     "site_description_length_overflow": "网站说明不能超过150个字符。",
     "invalid_matrix_id": "无效的Matrix ID，必须为@user:instance.tld",
-    "cross_posted_from": "同時发布自： "
+    "cross_posted_from": "同時发布自： ",
+    "show_scores": "显示分数",
+    "bot_account": "机器人账户",
+    "show_bot_accounts": "显示机器人账户"
 }
