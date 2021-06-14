@@ -30,5 +30,8 @@
     "donate_to_lemmy": "捐赠给",
     "general_sponsors_desc": "向Lemmy捐款$10到$39美元会成为一般赞助商。",
     "silver_sponsors_desc": "向Lemmy捐款$40美元可以成为白银赞助商。",
-    "nsfw_support": "支持NSFW帖子/社区。"
+    "nsfw_support": "支持NSFW帖子/社区。",
+    "lemmy": "Lemmy",
+    "open_source_desc": "Lemmy 永久免费、<1>开源</1>，以<2>公共版权</2>的 <3>AGPL 协议</3>发布。",
+    "blazing_fast_desc": "使用超快的框架和工具打造，如 <1>Rust</1>、<2>Actix</2>、<3>Diesel</3>、<4>Inferno</4> 和 <4>Typescript</4>。"
 }
