@@ -1,1 +1,14 @@
-{}
+{
+    "lemmy": "Lemmy",
+    "lemmy_desc": "Pengumpul tautan untuk fediverse.",
+    "follow_communities": "Ikuti komunitas-komunitas di bagian dunia mana pun",
+    "open_source": "Sumber Terbuka",
+    "open_source_desc": "Lemmy adalah dan akan selalu tetap menjadi perangkat lunak bebas dan <1>sumber terbuka</1>, menggunakan <3>Lisensi AGPL</3> dengan <2>copyleft</2> yang kuat.",
+    "blazing_fast": "Sangat Cepat",
+    "blazing_fast_desc": "Dibuat menggunakan beberapa kerangka dan alat tercepat, termasuk <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, dan <4>Typescript</4>.",
+    "mod_tools": "Alat Moderator Sangat Kuat",
+    "lemmy_title": "Lemmy - Pengumpul tautan untuk fediverse",
+    "join_a_server": "Gabung sebuah peladen",
+    "run_a_server": "Jalankan sebuah peladen",
+    "lemmy_long_desc": "<1>Lemmy</1> serupa seperti situs-situs kayak <2>Reddit</2>, <3>Lobster.rs</3>, atau <4>Hacker News</4>: Anda berlangganan ke komunitas yang Anda tertarik dengan mereka, pos tautan dan diskusi, setelahnya berikan suara dan komentar ke pos tersebut. Lemmy bukan hanya alternatif dari Reddit, tapi juga merupakan jaringan dari komunitas yang saling berhubungan yang dijalankan oleh orang dan organisasi yang berbeda, semua bersatu membentuk <5>satu halaman depan yang dipersonalisasi</5> dari berita, artikel, dan meme favorit Anda."
+}
