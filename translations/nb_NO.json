@@ -36,5 +36,11 @@
     "create_a_post": "Lag et innlegg",
     "name": "Navn",
     "name_explain": "Navn - brukes som identifikator for samfunnet, det kan ikke endres.",
-    "display_name": "Vis navn"
+    "display_name": "Vis navn",
+    "no_posts": "Ingen innlegg.",
+    "post": "Innlegg",
+    "create_post": "Opprett innlegg",
+    "number_of_posts": "{{count}} Innlegg",
+    "number_of_posts_plural": "{{count}} innleggene",
+    "posts": "innleggene"
 }
