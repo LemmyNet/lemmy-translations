@@ -10,5 +10,7 @@
     "lemmy_title": "Lemmy - Pengumpul tautan untuk fediverse",
     "join_a_server": "Gabung sebuah peladen",
     "run_a_server": "Jalankan sebuah peladen",
-    "lemmy_long_desc": "<1>Lemmy</1> serupa seperti situs-situs kayak <2>Reddit</2>, <3>Lobster.rs</3>, atau <4>Hacker News</4>: Anda berlangganan ke komunitas yang Anda tertarik dengan mereka, pos tautan dan diskusi, setelahnya berikan suara dan komentar ke pos tersebut. Lemmy bukan hanya alternatif dari Reddit, tapi juga merupakan jaringan dari komunitas yang saling berhubungan yang dijalankan oleh orang dan organisasi yang berbeda, semua bersatu membentuk <5>satu halaman depan yang dipersonalisasi</5> dari berita, artikel, dan meme favorit Anda."
+    "lemmy_long_desc": "<1>Lemmy</1> serupa seperti situs-situs kayak <2>Reddit</2>, <3>Lobster.rs</3>, atau <4>Hacker News</4>: Anda berlangganan ke komunitas yang Anda tertarik dengan mereka, pos tautan dan diskusi, setelahnya berikan suara dan komentar ke pos tersebut. Lemmy bukan hanya alternatif dari Reddit, tapi juga merupakan jaringan dari komunitas yang saling berhubungan yang dijalankan oleh orang dan organisasi yang berbeda, semua bersatu membentuk <5>satu halaman depan yang dipersonalisasi</5> dari berita, artikel, dan meme favorit Anda.",
+    "mod_tools_desc": "Setiap peladen bisa mengatur kebijakan moderasinya sendiri untuk membantu mengembangkan lingkungan yang sehat dimana semua bisa nyaman berkontribusi.",
+    "docs": "Dokumentasi"
 }
