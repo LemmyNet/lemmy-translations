@@ -50,5 +50,10 @@
     "donate_to_lemmy": "Wesprzyj Lemmiego",
     "open_source_desc": "Lemmy jest i zawsze będzie wolnym, <1>otwartym</1> oprogramowaniem, wykorzystując silną <2>copyleftową</2> <3>licencję AGPL</3>.",
     "create_discussion_platform_desc": "Z Lemmym możęsz <1>łatwo hostować swój własny serwer</1>, serwery te są <2>federowane</2> (podobnie jak poczty) i funkcjonują w tej samej przestrzeni, znanej jako <3>Fediwersum</3>. Dla agregatora linków, oznacza to, że osoba zarejestrowana na jednym serwerze może subskrybować społeczności znajdujące się na innych, oraz dyskutować z osobami z zupełnie różnych serwerów.",
-    "choose_from_apps": "Wybierz dowolną z poniższych aplikacji."
+    "choose_from_apps": "Wybierz dowolną z poniższych aplikacji.",
+    "code_of_conduct": "Kodeks postępowania",
+    "coc": "Kodeks",
+    "general_sponsors_desc": "Sponsorzy to osoby które zadeklarowały od 10 do 39 dolarów na Lemmiego.",
+    "silver_sponsors_desc": "Srebrni sponsorzy to osoby, które zobowiązały się płacić po 40 dolarów na Lemmiego.",
+    "donate_desc": "Lemmy to darmowe, wolne oprogramowanie. Oznacza to brak reklam, monetyzacji czy kapitału inwestycyjnego, na zawsze. <1>Twoje wpłaty</1> bezpośrednio wspierają pełnoetatowy rozwój projektu."
 }
