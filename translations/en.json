@@ -177,6 +177,7 @@
     "sign_up": "Sign Up",
     "notifications_error":
       "Desktop notifications not available in your browser. Try Firefox or Chrome.",
+    "websocket_disconnected": "Websocket disconnected",
     "unread_messages": "Unread Messages",
     "messages": "Messages",
     "password": "Password",
