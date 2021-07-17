@@ -26,6 +26,7 @@
     "remove_community": "Remove Community",
     "subscribed_to_communities": "Subscribed to <1>communities</1>",
     "trending_communities": "Trending <1>communities</1>",
+    "trending": "Trending",
     "list_of_communities": "List of communities",
     "number_of_communities": "{{count}} Community",
     "number_of_communities_plural": "{{count}} Communities",
