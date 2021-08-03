@@ -100,7 +100,7 @@
     "deleted": "deleted by creator",
     "delete_account": "Delete Account",
     "delete_account_confirm":
-      "Warning: this will permanently delete all your data. Enter your password to confirm.",
+      "Warning: this will permanently delete all of your data from this instance. Your data may not be deleted on other, existing instances. Enter your password to confirm.",
     "click_to_delete_picture": "Click to delete picture.",
     "picture_deleted": "Picture deleted.",
     "restore": "restore",
