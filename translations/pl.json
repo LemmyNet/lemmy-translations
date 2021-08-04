@@ -323,5 +323,14 @@
     "cross_posted_from": "cross-postowane z: ",
     "new_comments": "Nowe komentarze",
     "not_a_mod_or_admin": "Nie moderuje ani administruje.",
-    "site_description_length_overflow": "Opis strony nie może przekraczać 150 znaków."
+    "site_description_length_overflow": "Opis strony nie może przekraczać 150 znaków.",
+    "comment_here": "Komentuj...",
+    "explore_communities": "Przeglądaj Społczności",
+    "trending": "Popularne",
+    "show_new_post_notifs": "Pokazuj notyfikacje dla nowych postów",
+    "subscribed_description": "Pokazuje społeczności do których jesteś zapisany",
+    "all_description": "Pokazuje wszystkie społeczności",
+    "local_description": "Pokazuje tylko lokalne społeczności",
+    "websocket_disconnected": "Websocket rozłączony",
+    "websocket_reconnected": "Websocket połączony"
 }
