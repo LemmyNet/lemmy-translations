@@ -313,5 +313,14 @@
     "lemmy_ml_registration_message": "Antes de registrarte en lemmy.ml, echa un vistazo a <1>Joinlemmy</1> para ver si hay una instancia que se ajuste mejor a tu región, idioma o intereses. Lemmy está federado, así que puedes interactuar con todo lo que veas en lemmy.ml, incluso si estás registrado en otra instancia.",
     "show_scores": "Mostrar puntuaciones",
     "bot_account": "Cuenta de bot",
-    "show_bot_accounts": "Mostrar las cuentas de bots"
+    "show_bot_accounts": "Mostrar las cuentas de bots",
+    "comment_here": "Escriba aquí para comentar...",
+    "explore_communities": "Explora las comunidades",
+    "trending": "En tendencia",
+    "show_new_post_notifs": "Mostrar notificaciones de nuevos mensajes",
+    "subscribed_description": "Muestra las comunidades a las que te has suscrito",
+    "all_description": "Muestra todas las comunidades, incluidas las federadas",
+    "local_description": "Muestra sólo las comunidades locales",
+    "websocket_disconnected": "Websocket desconectado",
+    "websocket_reconnected": "Websocket reconectado"
 }
