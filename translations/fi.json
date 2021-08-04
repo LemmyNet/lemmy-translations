@@ -313,5 +313,14 @@
     "couldnt_mark_post_as_read": "Viestiä ei voitu merkitä luetuksi.",
     "show_scores": "Näytä pisteet",
     "bot_account": "Botin tili",
-    "show_bot_accounts": "Näytä bottien tilit"
+    "show_bot_accounts": "Näytä bottien tilit",
+    "comment_here": "Kirjoita tähän kommentoidaksesi....",
+    "explore_communities": "Tutustu yhteisöihin",
+    "trending": "Nousussa",
+    "show_new_post_notifs": "Näytä ilmoitukset uusille viesteille",
+    "subscribed_description": "Näyttää tilaamasi yhteisöt",
+    "all_description": "Näytä kaikki yhteisöt, mukaanlukien federoidut",
+    "local_description": "Näytä vain paikalliset yhteisöt",
+    "websocket_disconnected": "Web-socket katkaistu",
+    "websocket_reconnected": "Web-socket yhdistetty uudelleen"
 }
