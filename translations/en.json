@@ -327,6 +327,7 @@
     "block_community": "Block community",
     "unblock_user": "Unblock user",
     "unblock_community": "Unblock community",
+    "blocks": "Blocks",
     "none_found": "None found.",
     "report_reason_required": "Report reason required.",
     "report_too_long": "Report too long.",
