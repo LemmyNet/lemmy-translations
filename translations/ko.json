@@ -85,7 +85,7 @@
     "show_context": "컨텍스트 표시",
     "delete": "삭제",
     "delete_account": "계정 삭제",
-    "delete_account_confirm": "경고: 모든 데이터가 영구적으로 삭제됩니다. 확인을 위해 비밀번호를 입력하십시오.",
+    "delete_account_confirm": "경고: 이 인스턴스에서 모든 데이터가 영구적으로 삭제됩니다.기존의 다른 인스턴스에서는 데이터를 삭제할 수 없습니다. 확인을 위해 비밀번호를 입력하십시오.",
     "save": "저장",
     "create": "등록",
     "email_or_username": "이메일 또는 유저명",
@@ -303,5 +303,14 @@
     "lemmy_ml_registration_message": "lemmy.ml에 등록하기 전에 <1>Joinlemmy</1>에서 귀하의 지역, 언어 또는 관심사에 더 적합한 인스턴스가 있는지 확인하십시오. Lemmy는 페더레이션되므로 다른 인스턴스에 등록 된 경우에도 lemmy.ml에서 보는 모든 것과 상호 작용할 수 있습니다.",
     "bot_account": "봇 계정",
     "show_bot_accounts": "봇 계정 보기",
-    "show_scores": "점수 보기"
+    "show_scores": "점수 보기",
+    "comment_here": "이곳에 덧글을 작성하세요...",
+    "explore_communities": "커뮤니티 탐색",
+    "trending": "트렌드중",
+    "show_new_post_notifs": "새 게시물에 대한 알림 표시",
+    "subscribed_description": "구독한 커뮤니티를 보여줍니다",
+    "all_description": "연합 커뮤니티를 포함한 모든 커뮤니티를 보여줍니다",
+    "local_description": "지역 커뮤니티만 보여줍니다",
+    "websocket_disconnected": "웹소켓 연결 끊김",
+    "websocket_reconnected": "웹소켓 다시 연결"
 }
