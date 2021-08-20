@@ -7,7 +7,7 @@
     "open_source_desc": "Lemmy on ja tulee aina olemaan ilmainen, <1>avoimen lähdekoodin</1> ohjelmisto, joka käyttää vapaata <3>AGPL-lisenssiä</3>.",
     "blazing_fast": "Kiitävän nopea",
     "blazing_fast_desc": "Tehty nopeimmilla työkaluilla kuten <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> ja <4>Typescript</4>.",
-    "mod_tools": "Tehokkaat moderoinnin työkalut",
+    "mod_tools": "Tehokkaat moderointi työkalut",
     "mod_tools_desc": "Kukin instanssi voi asettaa omat moderoinnin käytäntönsä edistääkseen tervettä ympäristöä, jossa kaikki tuntevat olonsa mukavaksi osallistua.",
     "create_discussion_platform": "Luo oma keskustelupalstasi",
     "live_updates": "Suorat päivitykset",
