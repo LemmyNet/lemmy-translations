@@ -1,0 +1,17 @@
+{
+    "join_a_server": "Gå med i en server",
+    "run_a_server": "Starta en server",
+    "lemmy": "Lemmy",
+    "lemmy_desc": "En länkaggregator för fediversumet.",
+    "follow_communities": "Följ gemenskaper från hela världen",
+    "open_source": "Öppen källkod",
+    "blazing_fast": "Blixtsnabbt",
+    "mod_tools": "Kraftfulla moderationsverktyg",
+    "mod_tools_desc": "Varje server kan skriva sin egen moderationspolicy för att främja en frisk miljö där alla kan känna sig trygga när de bidrar.",
+    "create_discussion_platform": "Skapa din egen diskussionsplattform",
+    "live_updates": "Automatiska uppdateringar",
+    "more_features": "Fler funktioner",
+    "lemmy_title": "Lemmy – En länkaggregator för fediversumet",
+    "blazing_fast_desc": "Byggt på några av de snabbaste ramverken och verktygen, såsom <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> och <4>Typescript</4>.",
+    "live_updates_desc": "Nya kommentarer och inlägg hamnar på din startsida och inkorg utan att du behöver uppdatera sidan."
+}
