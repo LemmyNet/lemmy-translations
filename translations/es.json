@@ -250,7 +250,6 @@
     "strikethrough": "tachado",
     "must_login": "Necesita<1>iniciar sesión o registrarse</1> para comentar.",
     "cake_day_info": "¡Hoy es el cumpleaños de {{ creator_name }}!",
-    "remove_posts_comments": "Eliminar publicaciones y comentarios",
     "leave_mod_team": "dejar el equipo de moderación",
     "name_explain": "Nombre – usado como identificador de la comunidad, no puede ser cambiado.",
     "display_name_explain": "Nombre de pantalla – se muestra como el título en la página de la comunidad, puede ser cambiado.",

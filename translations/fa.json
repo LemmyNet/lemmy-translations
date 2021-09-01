@@ -155,7 +155,6 @@
     "email_already_exists": "این رایانامه از قبل وجود دارد.",
     "couldnt_update_user": "ناتوانی در به‌روزرسانی کاربر.",
     "system_err_login": "خطای سامانه. سعی کنید خارج شده و دوباره وارد شوید.",
-    "remove_posts_comments": "حذف مطالب و نظرات",
     "upvote": "رای بالا",
     "send_message": "ارسال پیام",
     "show_read_posts": "نمایش فرسته‌های خوانده شده",

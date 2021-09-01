@@ -20,7 +20,6 @@
     "comments": "評論",
     "number_of_comments": "{{count}} 則評論",
     "remove_comment": "移除評論",
-    "remove_posts_comments": "移除貼文及評論",
     "communities": "社群",
     "users": "使用者",
     "create_a_community": "建立新社群",

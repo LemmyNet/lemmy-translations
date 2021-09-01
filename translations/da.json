@@ -4,7 +4,6 @@
     "number_of_posts": "{{count}} Indlæg",
     "number_of_posts_plural": "{{count}} Indlæg",
     "delete_account_confirm": "Advarsel: Dette vil slette alle dine data. Indtast adgangskode for at bekræfte.",
-    "remove_posts_comments": "Slet Indlæg og Kommentarer",
     "number_of_users": "{{count}} Bruger",
     "number_of_users_plural": "{{count}} Brugere",
     "community_reqs": "små bogstaver, understregning, og ingen mellemrum.",

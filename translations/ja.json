@@ -219,7 +219,6 @@
     "couldnt_update_private_message": "プライベートメッセージが更新されませんでした。",
     "couldnt_like_comment": "コメントを「いいね」できませんでした。",
     "couldnt_like_post": "投稿を「いいね」できませんでした。",
-    "remove_posts_comments": "投稿およびコメントを削除",
     "select_a_community": "コミュニティを選択",
     "display_name_explain": "表示名 — コミュニティーページでタイトルとして表示され、コミュニティ作成後に変更可能です。",
     "bio_length_overflow": "自己紹介は 300 文字までです。",

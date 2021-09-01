@@ -15,7 +15,6 @@
     "number_of_comments": "{{count}} 条评论",
     "number_of_comments_plural": "{{count}} 条评论",
     "remove_comment": "移除评论",
-    "remove_posts_comments": "删除帖子和评论",
     "communities": "社群",
     "users": "用户",
     "create_a_community": "创建新社群",

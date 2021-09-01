@@ -22,7 +22,6 @@
     "comments": "댓글",
     "number_of_comments": "댓글 수 {{count}}",
     "remove_comment": "댓글 삭제",
-    "remove_posts_comments": "게시물과 댓글 삭제",
     "communities": "커뮤니티",
     "users": "유저",
     "create_a_community": "커뮤니티 만들기",
