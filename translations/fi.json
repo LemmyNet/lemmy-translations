@@ -322,5 +322,17 @@
     "local_description": "Näytä vain paikalliset yhteisöt",
     "websocket_disconnected": "Web-socket katkaistu",
     "websocket_reconnected": "Web-socket yhdistetty uudelleen",
-    "profile": "Profiili"
+    "profile": "Profiili",
+    "remove_content": "Poista sisältö",
+    "remove_content_more": "Poista viestit, kommentit ja yhteisöt",
+    "blocked_users": "Estetyt käyttäjät",
+    "block_user": "Estä käyttäjä",
+    "blocked_communities": "Estetyt yhteisöt",
+    "blocked": "Estetty",
+    "unblocked": "Sallitut",
+    "block_community": "Estä yhteisö",
+    "unblock_user": "Salli käyttäjä",
+    "unblock_community": "Salli yhteisö",
+    "blocks": "Estot",
+    "person_block": "Tämä käyttäjä on estänyt sinut."
 }
