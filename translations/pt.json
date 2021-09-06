@@ -4,7 +4,7 @@
     "lemmy_desc": "Um agregador de ligações para o fediverso.",
     "follow_communities": "Siga comunidades em qualquer lugar do mundo",
     "open_source": "Código Aberto",
-    "open_source_desc": "Lemmy é, e sempre será, grátis, software <1>aberto</1>, fazendo uso da forte licença <2>copyleft</2> <3>AGPL</3>.",
+    "open_source_desc": "Lemmy é, e sempre será, software grátis e <1>aberto</1>, fazendo uso da forte licença <2>copyleft</2> <3>AGPL</3>.",
     "blazing_fast": "Incrivelmente rápido",
     "blazing_fast_desc": "Construído com algumas das ferramentas e bibliotecas mais rápidas, incluindo <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> e <4>TypeScript</4>.",
     "mod_tools": "Ferramentas de moderação poderosas",
@@ -52,7 +52,7 @@
     "lemmy_title": "Lemmy - Um agregador de ligações para o fediverso",
     "join_a_server": "Juntar-se a um Servidor",
     "lemmy_long_desc": "<1>Lemmy</1> é semelhante a sites como o <2>Reddit</2>, <3>Lobste.rs</3>, ou <4>Hacker News</4>: subscreves comunidades nas quais estás interessado, publicas ligações e discussões, e depois votas e comentas. Lemmy não é apenas uma alternativa ao Reddit; é uma rede de comunidades interligadas geridas por diferentes pessoas e organizações, todas combinadas para criar <5>uma única página personalisada</5> com as tuas notícias, artigos e memes favoritos.",
-    "mod_tools_desc": "Cada servidor pode colocar a sua política de moderação, de modo a promover um ambiente saudável onde todos se podem sentir confortáveis em contribuir.",
+    "mod_tools_desc": "Cada servidor pode implantar a sua política de moderação, de modo a promover um ambiente saudável onde todos se podem sentir confortáveis em contribuir.",
     "create_discussion_platform_desc": "Com o Lemmy, podes <1> facilmente alojar o teu próprio servidor</1>, que se pode <2>federar</2> com todos os outros servidores, e ligar-se ao mesmo \"universo\", chamado <3>Fediverso</3>. Para um agregador de ligações, isto significa que alguém registado num servidor pode subscrever comunidades noutros sítios, e pode ter discussões com pessoas num servidor completamente diferente.",
     "full_vote_scores": "Pontuações total de votos <1>(+/-)</1> como o Reddit antigo.",
     "user_tagging": "Identificação de utilizadores com <1>@</1>, e de comunidades com <2>!</2>."
