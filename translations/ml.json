@@ -161,5 +161,7 @@
     "create_community": "കൂട്ടായ്മ സൃഷ്ടിക്കുക",
     "communities": "കൂട്ടായ്മകൾ",
     "number_of_communities": "{{count}} കൂട്ടായ്മ",
-    "number_of_communities_plural": "{{count}} കൂട്ടായ്മകൾ"
+    "number_of_communities_plural": "{{count}} കൂട്ടായ്മകൾ",
+    "number_of_comments": "{{count}} കമ്മന്റ്",
+    "number_of_comments_plural": "{{count}} കമ്മന്റുകൾ"
 }
