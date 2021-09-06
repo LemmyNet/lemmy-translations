@@ -311,5 +311,18 @@
     "all_description": "연합 커뮤니티를 포함한 모든 커뮤니티를 보여줍니다",
     "local_description": "지역 커뮤니티만 보여줍니다",
     "websocket_disconnected": "웹소켓 연결 끊김",
-    "websocket_reconnected": "웹소켓 다시 연결"
+    "websocket_reconnected": "웹소켓 다시 연결",
+    "remove_content_more": "글, 덧글, 커뮤니티 삭제",
+    "block_user": "유저 차단",
+    "blocked": "차단됨",
+    "unblocked": "차단 해제",
+    "block_community": "커뮤니티 차단",
+    "unblock_user": "유저 차단 해제",
+    "unblock_community": "커뮤니티 차단 해제",
+    "blocks": "차단",
+    "person_block": "이 사용자는 당신을 차단했습니다.",
+    "profile": "프로필",
+    "remove_content": "콘텐츠 삭제",
+    "blocked_users": "차단된 유저",
+    "blocked_communities": "차단된 커뮤니티"
 }
