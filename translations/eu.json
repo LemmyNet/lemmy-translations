@@ -119,7 +119,7 @@
     "reason": "Arrazoia",
     "mark_as_read": "markatu irakurritakoa bezala",
     "deleted": "sortzaileak ezabatu du",
-    "delete_account_confirm": "Abisua: honek zure datu guztiak betirako ezabatu ditu. Sartu zure pasahitza baieztatzeko.",
+    "delete_account_confirm": "Oharra: honek etengabe ezabatuko ditu zure datu guztiak instantzia honetatik. Zure datuak ezin izango dira ezabatu beste instantzia batzuetan. Sartu zure pasahitza baieztatzeko.",
     "restore": "leheneratu",
     "unban_from_site": "berronartu gunean",
     "banned": "kaleratuta",
@@ -321,5 +321,18 @@
     "all_description": "Erkidego guztiak erakusten ditu, federatuak barne",
     "local_description": "Tokiko komunitateak bakarrik erakusten ditu",
     "websocket_disconnected": "Websocket deskonektatua",
-    "websocket_reconnected": "Websocket birkonektatua"
+    "websocket_reconnected": "Websocket birkonektatua",
+    "remove_content": "Ezabatu edukia",
+    "remove_content_more": "Argitalpenak, iruzkinak eta komunitateak ezabatu",
+    "blocked_users": "Blokeatutako erabiltzaileak",
+    "block_user": "Blokeatu erabiltzailea",
+    "blocked_communities": "Blokeatutako komunitateak",
+    "blocked": "Blokeatuta",
+    "unblocked": "Desblokeatuta",
+    "unblock_user": "Desblokeatu erabiltzailea",
+    "unblock_community": "Desblokeatu komunitatea",
+    "blocks": "Blokeoak",
+    "person_block": "Erabiltzaile honek blokeatu egin zaitu.",
+    "profile": "Profila",
+    "block_community": "Komunitatea blokeatu"
 }

@@ -66,7 +66,7 @@
     "delete": "eliminar",
     "deleted": "eliminado por creador",
     "delete_account": "Eliminar cuenta",
-    "delete_account_confirm": "Advertencia: esta acción eliminará permanentemente toda su información. Introduzca su contraseña para confirmar.",
+    "delete_account_confirm": "Advertencia: esto eliminará permanentemente todos sus datos de esta instancia. Tus datos no podrán ser eliminados en otras instancias existentes. Introduzca su contraseña para confirmar.",
     "restore": "restaurar",
     "ban": "expulsar",
     "ban_from_site": "expulsar del sitio",
@@ -321,5 +321,18 @@
     "all_description": "Muestra todas las comunidades, incluidas las federadas",
     "local_description": "Muestra sólo las comunidades locales",
     "websocket_disconnected": "Websocket desconectado",
-    "websocket_reconnected": "Websocket reconectado"
+    "websocket_reconnected": "Websocket reconectado",
+    "remove_content": "Eliminar contenido",
+    "blocked_users": "Usuarios bloqueados",
+    "block_user": "Bloquear usuario",
+    "blocked_communities": "Comunidades bloqueadas",
+    "blocked": "Bloqueado",
+    "unblocked": "Desbloqueado",
+    "block_community": "Bloquear comunidad",
+    "unblock_user": "Desbloquear usuario",
+    "unblock_community": "Desbloquear comunidad",
+    "blocks": "Bloqueos",
+    "person_block": "Este usuario te ha bloqueado.",
+    "profile": "Perfil",
+    "remove_content_more": "Eliminar publicaciones, comentarios y comunidades"
 }
