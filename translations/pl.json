@@ -97,7 +97,7 @@
     "number_of_points_1": "{{count}} punktów",
     "number_of_points_2": "{{count}} punktów",
     "number_online_0": "{{count}} osoba zalogowana online",
-    "number_online_1": "{{count}} zalogowanych unline",
+    "number_online_1": "{{count}} zalogowanych online",
     "number_online_2": "{{count}} osoby zalogowane online",
     "name": "Nazwa",
     "title": "Tytuł",
@@ -343,5 +343,6 @@
     "person_block": "Ta osoba zablokowała cię.",
     "blocked": "Zablokowano",
     "unblocked": "Odblokowano",
-    "blocks": "Zablokowania"
+    "blocks": "Zablokowania",
+    "remove_content": "Usuń treść"
 }
