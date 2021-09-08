@@ -15,7 +15,7 @@
     "support_donate": "Wesprzyj / przekaż darowiznę",
     "contact": "Kontakt",
     "blazing_fast": "Niesamowicie szybki",
-    "blazing_fast_desc": "Stworzony z wykorzystaniem najszybszych frameworków i narzędzi, w tym <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, i <4>Typescript</4>.",
+    "blazing_fast_desc": "Stworzony z wykorzystaniem najszybszych frameworków i narzędzi, w tym <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, i <5>Typescript</5>.",
     "mod_tools": "Potężne narzędnia moderacyjne",
     "mod_tools_desc": "Każdy serwer może określić własną politykę moderacji, aby wspierać zdrowe środowisko, gdzie każda osoba może uczestniczyć komfortowo.",
     "live_updates": "Aktualizacje na żywo",
@@ -55,5 +55,17 @@
     "coc": "Kodeks",
     "general_sponsors_desc": "Sponsorzy to osoby które zadeklarowały od 10 do 39 dolarów na Lemmiego.",
     "silver_sponsors_desc": "Srebrni sponsorzy to osoby, które zobowiązały się płacić po 40 dolarów na Lemmiego.",
-    "donate_desc": "Lemmy to darmowe, wolne oprogramowanie. Oznacza to brak reklam, monetyzacji czy kapitału inwestycyjnego, na zawsze. <1>Twoje wpłaty</1> bezpośrednio wspierają pełnoetatowy rozwój projektu."
+    "donate_desc": "Lemmy to darmowe, wolne oprogramowanie. Oznacza to brak reklam, monetyzacji czy kapitału inwestycyjnego, na zawsze. <1>Twoje wpłaty</1> bezpośrednio wspierają pełnoetatowy rozwój projektu.",
+    "support": "Wsparcie",
+    "thanks_translators": "Specjalne podziękowania dla osób tłumaczących: ",
+    "instance_totals": "Lemmywers ma obecnie {{instances}} instancji i {{users}} zarejestrowanych kont.",
+    "support_title": "Wsparcie Lemmiego",
+    "support_lemmy": "Wesprzyj Lemmiego",
+    "contributers": "Osoba wnoszące wkład",
+    "thanks_coders": "Specjalne podziękowania dla osób piszących kod: ",
+    "about": "Więcej o",
+    "about_title": "O Lemmym",
+    "month": "miesiąc",
+    "add_weblate": "Możesz dodać swoje tłumaczenia przez nasz <1>weblate</1>.",
+    "users": "osoby zalogowane"
 }
