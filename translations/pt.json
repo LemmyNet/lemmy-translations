@@ -187,7 +187,7 @@
     "notifications_error": "Notificações de ambiente de trabalho não disponíveis no teu navegador. Experimenta o Firefox ou Chrome.",
     "old_password": "Palavra-passe antiga",
     "forgot_password": "Esqueci-me da palavra-passe",
-    "reset_password_mail_sent": "Enviar email para redefinir palavra-passe.",
+    "reset_password_mail_sent": "Email para redefinir a palavra-passe enviado.",
     "password_change": "Alteraração de palavra-passe",
     "new_password": "Nova palavra-passe",
     "no_email_setup": "Este servidor não tem o email configurado corretamente.",
