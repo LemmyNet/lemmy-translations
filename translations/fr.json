@@ -287,7 +287,6 @@
     "number_of_months_plural": "{{count}} mois",
     "couldnt_find_parent_comment": "Impossible de trouver le commentaire parent.",
     "allowed_instances": "Instances autorisées",
-    "active_in_the_last": "actif dans les dernières",
     "new_comments": "Nouveaux commentaires",
     "blocked_instances": "Instances bloquées",
     "expand": "Agrandir",

@@ -283,7 +283,6 @@
     "top_month": "Lo mejor del mes",
     "top_year": "Lo mejor del año",
     "top_all": "Lo mejor de todos los tiempos",
-    "active_in_the_last": "activo en los últimos",
     "number_of_months": "{{count}} mes",
     "number_of_months_plural": "{{count}} meses",
     "parent_comment_not_in_post": "El comentario principal pertenece a otro post.",

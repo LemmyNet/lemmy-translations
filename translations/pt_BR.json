@@ -274,7 +274,6 @@
     "bio_length_overflow": "Uma biografia de usuário não pode ter mais de 300 caracters.",
     "captcha_incorrect": "Captcha incorreto.",
     "enter_code": "Digite o Código",
-    "active_in_the_last": "Ativo nos últimos",
     "not_a_mod_or_admin": "Não é moderador ou administrador.",
     "new_comments": "Novos comentários",
     "allowed_instances": "Instâncias permitidas",

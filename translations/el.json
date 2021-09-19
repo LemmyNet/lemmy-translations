@@ -300,7 +300,6 @@
     "invalid_matrix_id": "Μη έγκυρη ταυτότητα Matrix. Πρέπει να είναι @user:instance.tld",
     "not_a_mod_or_admin": "Δεν είστε συντονιστής ή διαχειριστής.",
     "site_description_length_overflow": "Η περιγραφή της σελίδας δεν μπορεί να υπερβαίνει τους 150 χαρακτήρες.",
-    "active_in_the_last": "τελευταία δραστηριότητα",
     "cross_posted_from": "αναδημοσιεύτηκε από: ",
     "couldnt_mark_post_as_read": "Δεν μπόρεσε να σημανθεί η δημοσίευση ως αναγνωσμένη.",
     "show_scores": "Προβολή σκορ",

@@ -294,7 +294,6 @@
     "number_of_months_0": "{{count}} miesiąc",
     "number_of_months_1": "{{count}} miesięcy",
     "number_of_months_2": "{{count}} miesiące",
-    "active_in_the_last": "aktywnych w ostatnich",
     "invalid_password": "Nieprawidłowe hasło. Hasło musi mieć mniej niż 60 znaków.",
     "join_lemmy": "Dołącz do Lemmiego",
     "support_lemmy": "Wesprzyj Lemmiego",

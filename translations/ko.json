@@ -265,7 +265,6 @@
     "instances": "인스턴스",
     "local": "Local",
     "invalid_password": "잘못된 비밀번호입니다. 비밀번호는 60글자 이하로 만들어야 합니다.",
-    "active_in_the_last": "최근 활동",
     "top_all": "전체",
     "most_comments": "최근 댓글",
     "day": "일",
