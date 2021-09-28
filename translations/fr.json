@@ -300,5 +300,19 @@
     "not_a_mod_or_admin": "Pas un modérateur ou un administrateur.",
     "invalid_matrix_id": "Identifiant Matrix invalide. Doit être @user:instance.tld",
     "site_description_length_overflow": "Description du site ne peut excéder 150 caractères.",
-    "cross_posted_from": "publication croisée depuis : "
+    "cross_posted_from": "publication croisée depuis : ",
+    "blocked_communities": "Les communautés bloquées",
+    "local_description": "Affichez uniquement les communautés",
+    "bot_account": "Compte",
+    "change_password": "Modifier le mot de passe",
+    "too_weak": "Très",
+    "blocked_users": "Utilisateur·rice·s bloqué·e·s",
+    "block_user": "Bloquer l’utilisateur·",
+    "block_community": "Bloquer la communauté",
+    "person_block": "Cet utilisateur·rice vous a bloqu",
+    "explore_communities": "Explorer les communautés",
+    "comment_here": "Saisissez votre commentaire ici …",
+    "only_admins_can_create_communities": "Saud les administrateurs peuvent créer des communautés",
+    "description": "Description",
+    "community_creation_admin_only": "Sauf les admins peuvent créer des communautés"
 }
