@@ -358,6 +358,8 @@
     "unresolved_by": "Unresolved by <1></1>",
     "show_report_dialog": "Show Report Dialog",
     "create_report": "Create Report",
+    "resolve_report": "Resolve Report",
+    "unresolve_report": "Unresolve Report",
     "report_created": "Report Created.",
     "lemmy_ml_registration_message": "Before you register on lemmy.ml, please have a look at <1>Joinlemmy</1> to see if there is an instance that better fits your region, language or interests. Lemmy is federated, so you can interact with everything that you see on lemmy.ml, even if you are registered on another instance."
 }
