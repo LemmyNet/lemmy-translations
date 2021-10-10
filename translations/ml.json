@@ -163,5 +163,10 @@
     "number_of_communities": "{{count}} കൂട്ടായ്മ",
     "number_of_communities_plural": "{{count}} കൂട്ടായ്മകൾ",
     "number_of_comments": "{{count}} കമ്മന്റ്",
-    "number_of_comments_plural": "{{count}} കമ്മന്റുകൾ"
+    "number_of_comments_plural": "{{count}} കമ്മന്റുകൾ",
+    "both": "രണ്ടും",
+    "prev": "മുമ്പത്തെ",
+    "logout": "ലോഗൗട്ട്",
+    "password": "രഹസ്യവാക്ക്",
+    "joined": "ചേർന്നു"
 }
