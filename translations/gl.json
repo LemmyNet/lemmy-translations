@@ -205,7 +205,8 @@
     "overview": "Vista xeral",
     "logout": "Desconectar",
     "login_sign_up": "Conexión / Rexistro",
-    "unread_messages": "Mensaxes sen ler",
+    "unread_messages": "{{formattedCount}} mensaxe sen ler",
+    "unread_messages_plural": "{{formattedCount}} mensaxes sen ler",
     "messages": "Mensaxes",
     "password": "Contrasinal",
     "forgot_password": "esquecín o contrasinal",
@@ -345,5 +346,16 @@
     "unblock_user": "Desbloquear usuaria",
     "unblock_community": "Desbloquear comunidade",
     "blocks": "Bloqueos",
-    "person_block": "Esta usuaria bloqueoute."
+    "person_block": "Esta usuaria bloqueoute.",
+    "resolve_report": "Resolver denuncia",
+    "unresolve_report": "Deixar ser resolver denuncia",
+    "unread_reports": "{{formattedCount}} denuncia non lida",
+    "unread_reports_plural": "{{formattedCount}} denuncias non lidas",
+    "reports": "Denuncias",
+    "resolved_by": "Resolta por <1></1>",
+    "reporter": "Denunciante",
+    "unresolved_by": "Sen resolver por <1></1>",
+    "show_report_dialog": "Mostra diálogo para a Denuncia",
+    "create_report": "Crear denuncia",
+    "report_created": "Creouse a denuncia."
 }
