@@ -249,6 +249,7 @@
     "setup_admin": "Set Up Site Administrator",
     "community_creation_admin_only": "Only Admins can create Communities",
     "your_site": "your site",
+    "created": "created",
     "modified": "modified",
     "nsfw": "NSFW",
     "show_nsfw": "Show NSFW content",
