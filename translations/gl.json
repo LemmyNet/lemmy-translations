@@ -356,5 +356,7 @@
     "unresolved_by": "Sen resolver por <1></1>",
     "show_report_dialog": "Mostra diálogo para a Denuncia",
     "create_report": "Crear denuncia",
-    "report_created": "Creouse a denuncia."
+    "report_created": "Creouse a denuncia.",
+    "very_weak": "Moi feble",
+    "created": "creada"
 }
