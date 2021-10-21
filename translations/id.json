@@ -315,7 +315,6 @@
     "all_description": "Perlihatkan seluruh komunitas, termasuk yang terfederasi",
     "local_description": "Perlihatkan hanya komunitas lokal",
     "active_users_in_the_last_six_months": "{{formattedCount}} pengguna aktif enam bulan terakhir",
-    "too_weak": "Terlalu lemah",
     "weak": "Lemah",
     "medium": "Sedang",
     "strong": "Kuat",

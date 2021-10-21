@@ -324,7 +324,6 @@
     "active_users_in_the_last_week_plural": "{{formattedCount}} ενεργοί χρήστες την τελευταία εβδομάδα",
     "active_users_in_the_last_month": "{{formattedCount}} ενεργός χρήστης τον τελευταίο μήνα",
     "active_users_in_the_last_month_plural": "{{formattedCount}} ενεργοί χρήστες τον τελευταίο μήνα",
-    "too_weak": "Πολύ αδύναμος",
     "weak": "Αδύναμος",
     "medium": "Μέτριος",
     "strong": "Δυνατός",

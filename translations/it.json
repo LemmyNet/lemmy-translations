@@ -339,7 +339,6 @@
     "unresolve_report": "Contrassegna Segnalazione Come Non Risolta",
     "unread_reports": "{{formattedCount}} Segnalazione Non Letta",
     "unread_reports_plural": "{{formattedCount}} Segnalazioni Non Lette",
-    "too_weak": "Troppo debole",
     "weak": "Debole",
     "medium": "Media",
     "strong": "Forte",

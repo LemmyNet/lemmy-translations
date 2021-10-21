@@ -355,7 +355,6 @@
     "active_users_in_the_last_month_0": "{{formattedCount}} aktywny użytkownik w ostatnim miesiącu",
     "active_users_in_the_last_month_1": "{{formattedCount}} aktywni użytkownicy w ostatnim miesiącu",
     "active_users_in_the_last_month_2": "{{formattedCount}} aktywnych użytkowników w ostatnim miesiącu",
-    "too_weak": "Zbyt słabe",
     "weak": "Słabe",
     "active_users_in_the_last_day_0": "{{formattedCount}} aktywny użytkownik w ostatnim dniu",
     "active_users_in_the_last_day_1": "{{formattedCount}} aktywni użytkownicy w ostatnim dniu",

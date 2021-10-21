@@ -257,7 +257,6 @@
     "active_users_in_the_last_month_0": "{{formattedCount}} aktivní uživatel za poslední měsíc",
     "active_users_in_the_last_month_1": "{{formattedCount}} aktivní uživatelé za poslední měsíc",
     "active_users_in_the_last_month_2": "{{formattedCount}} aktivních uživatelů za poslední měsíc",
-    "too_weak": "Příliš slabé",
     "weak": "Slabé",
     "subscribed_description": "Zobrazuje komunity, které odebíráte",
     "sort_type": "Řadit dle",

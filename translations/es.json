@@ -344,7 +344,6 @@
     "weak": "Débil",
     "active_users_in_the_last_month": "{{formattedCount}} usuario activo en el último mes",
     "active_users_in_the_last_month_plural": "{{formattedCount}} usuarios activos en el último mes",
-    "too_weak": "Demasiado débil",
     "medium": "Regular",
     "strong": "Fuerte",
     "active_users_in_the_last_six_months": "{{formattedCount}} usuario activo en los últimos 6 meses",

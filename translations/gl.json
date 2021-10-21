@@ -334,7 +334,6 @@
     "active_users_in_the_last_month_plural": "{{formattedCount}} usuarias activas no último mes",
     "active_users_in_the_last_six_months": "{{formattedCount}} usuaria activa nos últimos 6 meses",
     "active_users_in_the_last_six_months_plural": "{{formattedCount}} usuarias activas nos últimos 6 meses",
-    "too_weak": "Demasiado feble",
     "weak": "Feble",
     "medium": "Medio",
     "strong": "Forte",

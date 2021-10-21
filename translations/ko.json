@@ -328,7 +328,6 @@
     "active_users_in_the_last_week": "{{formattedCount}} 지난 주 활동한 가입자",
     "active_users_in_the_last_month": "{{formattedCount}} 지난 달 활동한 가입자",
     "active_users_in_the_last_six_months": "{{formattedCount}} 지난 6개월 활동한 가입자",
-    "too_weak": "너무 약함",
     "weak": "약함",
     "medium": "중간",
     "strong": "강함",
