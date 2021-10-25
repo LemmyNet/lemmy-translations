@@ -8,7 +8,7 @@
     "open_source": "Open Source",
     "blazing_fast": "Fiammeggiante veloce",
     "open_source_desc": "Lemmy è e rimarrà sempre software libero e <1>open source</1>, utilizzando la licenza <3>AGPL</3> con <2>copyleft</2> forte.",
-    "blazing_fast_desc": "Realizzato utilizzando alcuni dei framework e strumenti più veloci, tra cui <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, e <4>Typescript</4>.",
+    "blazing_fast_desc": "Realizzato utilizzando alcuni dei framework e strumenti più veloci, tra cui <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, e <5>Typescript</5>.",
     "mod_tools": "Potenti strumenti di moderazione",
     "mod_tools_desc": "Ogni server può impostare la propria politica di moderazione, per aiutare a promuovere un ambiente sano dove tutti possono sentirsi a proprio agio nel contribuire.",
     "create_discussion_platform": "Crea la tua piattaforma di discussione",
@@ -53,5 +53,12 @@
     "silver_sponsors_desc": "Gli Sponsor d'Argento sono quelli che hanno donato 40$ a Lemmy.",
     "general_sponsors_desc": "Gli Sponsor Generali sono quelli che hanno donato da 10$ a 39$ a Lemmy.",
     "month": "mese",
-    "support_lemmy": "Supporta Lemmy"
+    "support_lemmy": "Supporta Lemmy",
+    "support": "Supporta",
+    "coc": "CoC",
+    "join_title": "Lemmy - Unisciti ad un Server",
+    "lemmy_servers": "Server Lemmy",
+    "support_title": "Lemmy - Supporta",
+    "thanks_translators": "Un grazie speciale ad i nostri traduttori: ",
+    "thanks_coders": "Un grazie speciale ad i nostri sviluppatori: "
 }
