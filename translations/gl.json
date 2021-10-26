@@ -122,7 +122,7 @@
     "number_of_upvotes_plural": "{{formattedCount}} votos positivos",
     "number_of_downvotes": "{{formattedCount}} voto negativo",
     "number_of_downvotes_plural": "{{formattedCount}}} votos negativos",
-    "body": "Body",
+    "body": "Corpo",
     "recent_comments": "Comentarios recentes",
     "no_results": "Sen resultados.",
     "setup": "Configurar",
