@@ -356,5 +356,7 @@
     "unresolved_by": "No resuelto por <1></1>",
     "show_report_dialog": "Mostrar el diálogo del informe",
     "create_report": "Crear informe",
-    "report_created": "Informe creado."
+    "report_created": "Informe creado.",
+    "very_weak": "Muy débil",
+    "created": "creado"
 }

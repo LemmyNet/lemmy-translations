@@ -356,5 +356,7 @@
     "report_created": "Berriematea sortuta.",
     "resolved_by": "<1></1>(e)k argituta",
     "unresolved_by": "<1></1>(e)k argitu gabea",
-    "show_report_dialog": "Erakutsi berriemate dialogoa"
+    "show_report_dialog": "Erakutsi berriemate dialogoa",
+    "very_weak": "Oso ahula",
+    "created": "sortuta"
 }
