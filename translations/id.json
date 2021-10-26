@@ -11,7 +11,7 @@
     "remove_comment": "Hapus Komentar",
     "communities": "Komunitas",
     "users": "Pengguna",
-    "create_post": "Buat Postingan",
+    "create_post": "Buat Pos",
     "remove_post": "Hapus Pos",
     "create_a_community": "Buat sebuah Komunitas",
     "select_a_community": "Pilih sebuah Komunitas",
@@ -20,7 +20,7 @@
     "trending_communities": "<1>Komunitas</1> Yang Sedang Tren",
     "post": "pos",
     "number_of_comments": "{{formattedCount}} Komentar",
-    "create_a_post": "Buat sebuah postingan",
+    "create_a_post": "Buat sebuah pos",
     "subscribed_to_communities": "Berlanggan ke <1>komunitas</1>",
     "list_of_communities": "Daftar komunitas",
     "number_of_communities": "{{formattedCount}} Komunitas",
@@ -340,5 +340,7 @@
     "resolved_by": "Diselesaikan oleh <1></1>",
     "unresolved_by": "Tidak terselesaikan oleh <1></1>",
     "show_report_dialog": "Perlihatkan Dialog Laporan",
-    "create_report": "Buat Laporan"
+    "create_report": "Buat Laporan",
+    "very_weak": "Sangat lemah",
+    "created": "dibuat"
 }
