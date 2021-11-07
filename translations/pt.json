@@ -356,5 +356,7 @@
     "resolved_by": "Resolvido por <1></1>",
     "unresolved_by": "Reaberto por <1></1>",
     "create_report": "Criar denúncia",
-    "show_report_dialog": "Mostrar diálogo de denúncia"
+    "show_report_dialog": "Mostrar diálogo de denúncia",
+    "very_weak": "Muito fraca",
+    "created": "criado"
 }
