@@ -381,6 +381,7 @@
     "email_required": "Email required.",
     "registration_application_answer_required": "Registration application required.",
     "instance_is_private": "This instance is private.",
+    "apply_to_join": "Apply to Join",
     "registration_applications": "Registration Applications",
     "applicant": "Applicant", 
     "deny_reason": "Deny Reason", 
