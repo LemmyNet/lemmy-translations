@@ -358,5 +358,21 @@
     "create_report": "Crea Segnalazione",
     "report_created": "Segnalazione Creata.",
     "very_weak": "Molto debole",
-    "created": "creato"
+    "created": "creato",
+    "number_of_days": "Numero di giorni",
+    "couldnt_find_comment": "Impossibile trovare il commento.",
+    "answer": "Rispondi",
+    "verify_email_sent": "Email di verifica inviata.",
+    "email_not_verified": "Email non verificata.",
+    "required": "Richiesto",
+    "verify_email": "Verifica Email",
+    "require_email_verification": "Richiedi verifica Email",
+    "private_instance": "Istanza Privata",
+    "email_verified": "La tua email è stata verificata.",
+    "instance_is_private": "Questa istanza è privata.",
+    "deny_reason": "Motivazione Rifiuto",
+    "approved_by": "Approvato da <1></1>",
+    "denied_by": "Rifiutato da <1></1>",
+    "approve": "Approva",
+    "deny": "Rifiuta"
 }
