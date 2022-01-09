@@ -374,5 +374,6 @@
     "resolved_by": "Rozwiązane przez <1></1>",
     "unresolved_by": "Cofnięte rozwiązanie przez <1></1>",
     "created": "stworzono",
-    "very_weak": "Bardzo słabe"
+    "very_weak": "Bardzo słabe",
+    "number_of_days": "Liczba dni"
 }
