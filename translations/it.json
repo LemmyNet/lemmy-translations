@@ -288,7 +288,7 @@
     "week": "settimana",
     "month": "mese",
     "number_of_months": "{{formattedCount}} mese",
-    "number_of_months_plural": "{{formattedCount}}} mesi",
+    "number_of_months_plural": "{{formattedCount}} mesi",
     "couldnt_find_parent_comment": "Commento padre non trovato.",
     "parent_comment_not_in_post": "Il commento padre appartiene ad un altro post.",
     "allowed_instances": "Istanze consentite",
