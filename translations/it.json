@@ -374,5 +374,7 @@
     "approved_by": "Approvato da <1></1>",
     "denied_by": "Rifiutato da <1></1>",
     "approve": "Approva",
-    "deny": "Rifiuta"
+    "deny": "Rifiuta",
+    "unread_registration_applications": "{{formattedCount}} Applicazione non letta",
+    "unread_registration_applications_plural": "{{formattedCount}} Applicazioni non lette"
 }
