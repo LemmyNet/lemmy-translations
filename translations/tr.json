@@ -1,1 +1,20 @@
-{}
+{
+    "run_a_server": "Sunucuyu Çalıştır",
+    "join_a_server": "Bir Sunucuya Katıl",
+    "lemmy": "Lemmy",
+    "follow_communities": "Dünyanın her yerinden toplulukları takip edin",
+    "open_source": "Açık Kaynak",
+    "open_source_desc": "Lemmy her zaman özgür kalacak olan, güçlü <2>copyleft</2> <3>AGPL Lisansı</3> kullanan <1>açık kaynaklı</1> bir yazılımdır.",
+    "blazing_fast": "Çok Hızlı",
+    "blazing_fast_desc": "<1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> ve <5>Typescript</5> gibi en hızlı framework ve araçlardan bazılarının kullanılmasıyla yapılmıştır.",
+    "mod_tools": "Güçlü Mod Araçları",
+    "mod_tools_desc": "Her sunucu, herkesin rahatça katkıda bulunabileceği sağlıklı bir ortamın geliştirilmesine yardımcı olmak için kendi denetleme politikasını belirleyebilir.",
+    "create_discussion_platform": "Kendi tartışma platformunuzu oluşturun",
+    "live_updates": "Canlı Güncellemeler",
+    "live_updates_desc": "Yeni yorumlar ve gönderiler ön sayfanıza ve gelen kutunuza akar; Daha fazla sayfa yenileme gerekmez.",
+    "more_features": "Daha fazla özellik",
+    "self_hostable": "<1>Docker</1> veya <2>Ansible</2> aracılığıyla kendi kendine barındırılabilir, dağıtımı kolay.",
+    "clean_interface": "Temiz, mobil uyumlu arayüz.",
+    "lemmy_long_desc": "<1>Lemmy</1>, <2>Reddit</2>, <3>Lobste.rs</3> veya <4>Hacker News</4> gibi sitelere benzer: topluluklara abone olup, İlgilendiğiniz, bağlantı ve tartışmaları yayınlayın, oy verin ve bunlara yorum yapın. Lemmy sadece bir reddit alternatifi değil; farklı kişiler ve kuruluşlar tarafından yönetilen birbirine bağlı topluluklardan oluşan bir ağdır ve hepsi en sevdiğiniz haberler, makaleler ve memlerin <5>tek, kişiselleştirilmiş bir ön sayfasını</5> oluşturmak için birleşir.",
+    "create_discussion_platform_desc": "Lemmy ile <1>kendi sunucunuzu kolayca başlatabilirsiniz</1> ve tüm bu sunucular <2>federedir</2> (e-posta düşünün) ve <3>Fediverse< /3> olarak adlandırılan aynı evrene bağlıdır. Bir bağlantı toplayıcı için bu, bir sunucuda kayıtlı birinin başka bir yerde topluluklara abone olabileceği ve tamamen farklı bir sunucudaki kişilerle tartışabileceği anlamına gelir."
+}
