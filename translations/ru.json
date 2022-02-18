@@ -60,5 +60,10 @@
     "support": "Поддержка",
     "thanks_translators": "Особая благодарность нашим переводчикам: ",
     "support_title": "Lemmy - Поддержка",
-    "instance_totals": "В настоящее время леммиверс имеет {{instances}} экземпляров и {{users}} пользователей."
+    "instance_totals": "В настоящее время леммиверс имеет {{instances}} экземпляров и {{users}} пользователей.",
+    "support_lemmy": "Поддержать Lemmy",
+    "contributers": "Авторы",
+    "users": "пользователей",
+    "about_title": "Про Lemmy",
+    "add_weblate": "Вы можете добавить ваш перевод с помощью <1>weblate</1>."
 }
