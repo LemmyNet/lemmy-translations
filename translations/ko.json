@@ -370,5 +370,8 @@
     "require_registration_application": "등록 신청서가 필요합니다",
     "registration_denied": "등록 신청이 거부되었습니다.",
     "applicant": "신청자",
-    "deny": "거부함"
+    "deny": "거부함",
+    "left_admin_team": "관리팀에서 탈퇴했습니다",
+    "cannot_leave_admin": "관리자는 서버에서 탈퇴할 수 없습니다",
+    "leave_admin_team": "관리팀 나가기"
 }
