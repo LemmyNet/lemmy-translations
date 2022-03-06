@@ -11,5 +11,6 @@
     "blazing_fast": "Rapidega",
     "blazing_fast_desc": "Farita per iuj el la plej rapidaj ilaroj, kiel ekzemple <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, kaj <4>Typescript</4>.",
     "users": "uzantoj",
-    "month": "monato"
+    "month": "monato",
+    "docs": "Dokumentaĵo"
 }
