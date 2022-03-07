@@ -147,7 +147,7 @@
     "replies": "Respostas",
     "mentions": "Mencións",
     "setup_admin": "Axustar Administradora da instancia",
-    "not_logged_in": "Non está en liña.",
+    "not_logged_in": "Non accedeches.",
     "chat": "Chat",
     "downvote": "Voto negativo",
     "open_registration": "Abrir rexistro",
@@ -387,5 +387,8 @@
     "denied_by": "Rexeitada por <1></1>",
     "approve": "Aprobar",
     "deny": "Rexeitar",
-    "required": "Requerido"
+    "required": "Requerido",
+    "leave_admin_team": "Saír do equipo de administración",
+    "left_admin_team": "Saíches do equipo de administración",
+    "cannot_leave_admin": "Non podes deixar o servidor sen administración"
 }
