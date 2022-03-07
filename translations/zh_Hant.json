@@ -362,7 +362,7 @@
     "email_required": "需要 Email。",
     "registration_application_answer_required": "需要申請表。",
     "instance_is_private": "本站台為私人站台。",
-    "apply_to_join": "申請加入",
+    "apply_to_join": "申請以加入",
     "registration_applications": "申請表單",
     "applicant": "申請表單",
     "deny_reason": "拒絕理由",
@@ -370,5 +370,9 @@
     "denied_by": "<1></1> 拒絕申請",
     "approve": "接受",
     "deny": "拒絕",
-    "required": "必填"
+    "required": "必填",
+    "leave_admin_team": "離開站務組",
+    "left_admin_team": "你已離開站務組",
+    "default_theme": "預設樣式",
+    "cannot_leave_admin": "你無法離開沒有管理員的伺服器"
 }
