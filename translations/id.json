@@ -370,5 +370,8 @@
     "deny_reason": "Tolak Alasan",
     "approved_by": "Disetujui oleh <1></1>",
     "denied_by": "Ditolak oleh <1></1>",
-    "apply_to_join": "Daftar untuk Bergabung"
+    "apply_to_join": "Daftar untuk Bergabung",
+    "leave_admin_team": "Keluar dari tim admin",
+    "left_admin_team": "Anda telah keluar dari tim admin",
+    "cannot_leave_admin": "Anda tidak bisa meninggalkan peladen tanpa admin"
 }
