@@ -9,5 +9,8 @@
     "open_source": "Malfermitkoda",
     "open_source_desc": "Lemmy estas kaj ĉiam restos libera, <1>malfermitkoda</1> programo, uzanta la forte <2>kopilasigan</2> <3>permesilon AGPL</3>.",
     "blazing_fast": "Rapidega",
-    "blazing_fast_desc": "Farita per iuj el la plej rapidaj ilaroj, kiel ekzemple <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, kaj <4>Typescript</4>."
+    "blazing_fast_desc": "Farita per iuj el la plej rapidaj ilaroj, kiel ekzemple <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, kaj <4>Typescript</4>.",
+    "users": "uzantoj",
+    "month": "monato",
+    "docs": "Dokumentaĵo"
 }
