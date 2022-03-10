@@ -390,5 +390,6 @@
     "required": "Requerido",
     "leave_admin_team": "Saír do equipo de administración",
     "left_admin_team": "Saíches do equipo de administración",
-    "cannot_leave_admin": "Non podes deixar o servidor sen administración"
+    "cannot_leave_admin": "Non podes deixar o servidor sen administración",
+    "default_theme": "Decorado por defecto"
 }
