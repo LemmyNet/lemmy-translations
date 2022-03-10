@@ -387,5 +387,9 @@
     "denied_by": "Denegado por <1></1>",
     "approve": "Aprobar",
     "deny": "Denegar",
-    "required": "Requerido"
+    "required": "Requerido",
+    "leave_admin_team": "Dejar el equipo de administración",
+    "left_admin_team": "Has dejado el equipo de administración",
+    "default_theme": "Tema predeterminado",
+    "cannot_leave_admin": "No puedes dejar el servidor sin un administrador"
 }

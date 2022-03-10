@@ -387,5 +387,9 @@
     "approved_by": "<1></1> onartu du",
     "approve": "Onartu",
     "deny": "Ukatu",
-    "required": "Beharrezkoa"
+    "required": "Beharrezkoa",
+    "cannot_leave_admin": "Ezin duzu zerbitzaria utzi administratzailerik gabe",
+    "leave_admin_team": "Administrazio-taldea utzi",
+    "left_admin_team": "Administrazio-taldea utzi duzu",
+    "default_theme": "Gai lehenetsia"
 }
