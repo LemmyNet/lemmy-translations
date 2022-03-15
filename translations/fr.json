@@ -55,5 +55,7 @@
     "integrated_image_uploading": "Téléchargement intégré d'images dans les messages et les commentaires.",
     "rss_feeds": "Flux RSS / Atom pour <1>Tout</1>, <2>Souscrit</2>, <3>Boîte de réception</3>, <4>Utilisateur</4>, et <5>Communauté</5>.",
     "donate_desc": "Lemmy est un logiciel gratuit et open-source, ce qui signifie pas de publicité, de monétisation ou de capital de risque, jamais. <1>Vos dons</1> soutiennent directement le développement à plein temps du projet.",
-    "general_sponsors_desc": "Les Parrains Généraux sont ceux qui ont fait une promesse de don de 10 à 39 dollars à Lemmy."
+    "general_sponsors_desc": "Les Parrains Généraux sont ceux qui ont fait une promesse de don de 10 à 39 dollars à Lemmy.",
+    "month": "mois",
+    "support_lemmy": "Soutenir Lemmy"
 }
