@@ -195,7 +195,7 @@
     "to": "/",
     "transfer_community": "커뮤니티 양도",
     "by": "작성",
-    "joined": "가입",
+    "joined": "구독중",
     "from": "에서",
     "transfer_site": "사이트 양도",
     "are_you_sure": "확실합니까?",
@@ -373,5 +373,6 @@
     "deny": "거부함",
     "left_admin_team": "관리팀에서 탈퇴했습니다",
     "cannot_leave_admin": "관리자는 서버에서 탈퇴할 수 없습니다",
-    "leave_admin_team": "관리팀 나가기"
+    "leave_admin_team": "관리팀 나가기",
+    "default_theme": "기본 테마"
 }
