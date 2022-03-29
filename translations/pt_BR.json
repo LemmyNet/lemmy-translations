@@ -201,7 +201,7 @@
     "couldnt_update_post": "Não foi possível atualizar a publicação",
     "couldnt_save_post": "Não foi possível guardar a publicação.",
     "no_slurs": "Sem insultos.",
-    "not_an_admin": "Não é administrador.",
+    "not_an_admin": "Não é um administrador.",
     "site_already_exists": "O site já existe.",
     "couldnt_update_site": "Não foi possível atualizar o site.",
     "couldnt_find_that_username_or_email": "Não foi possível encontrar esse usuário ou e-mail.",
@@ -275,7 +275,7 @@
     "bio_length_overflow": "Uma biografia de usuário não pode ter mais de 300 caracters.",
     "captcha_incorrect": "Captcha incorreto.",
     "enter_code": "Digite o Código",
-    "not_a_mod_or_admin": "Não é moderador ou administrador.",
+    "not_a_mod_or_admin": "Não é um moderador ou administrador.",
     "new_comments": "Novos comentários",
     "allowed_instances": "Instâncias permitidas",
     "blocked_instances": "Instâncias bloqueadas",
@@ -387,5 +387,9 @@
     "deny": "Recusar",
     "require_registration_application": "Exigir solicitação de registro",
     "email_verified": "O seu e-mail foi verificado.",
-    "answer": "Responder"
+    "answer": "Responder",
+    "cannot_leave_admin": "Você não pode deixar o servidor sem um administrador",
+    "default_theme": "Tema padrão",
+    "leave_admin_team": "Deixar a equipe de administração",
+    "left_admin_team": "Você saiu da equipe de administração"
 }
