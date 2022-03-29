@@ -376,5 +376,13 @@
     "approve": "Approva",
     "deny": "Rifiuta",
     "unread_registration_applications": "{{formattedCount}} Applicazione non letta",
-    "unread_registration_applications_plural": "{{formattedCount}} Applicazioni non lette"
+    "unread_registration_applications_plural": "{{formattedCount}} Applicazioni non lette",
+    "cannot_leave_admin": "Non puoi lasciare un server sprovvisto di amministratore",
+    "leave_admin_team": "Esci dal gruppo amministratori",
+    "left_admin_team": "Sei uscito dal gruppo amministratori",
+    "applicant": "Richiedente",
+    "default_theme": "Tema predefinito",
+    "email_required": "Email obbligatoria.",
+    "fill_out_application": "Per registrarti in questo server, devi compilare questo modulo, ed aspettare che venga accettato.",
+    "registration_application_sent": "Modulo di richiesta registrazione inviato."
 }
