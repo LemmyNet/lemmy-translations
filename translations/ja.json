@@ -369,5 +369,9 @@
     "denied_by": "<1></1>によって、拒否されました",
     "approve": "承認",
     "deny": "拒否",
-    "required": "必須"
+    "required": "必須",
+    "leave_admin_team": "管理チームから離れる",
+    "left_admin_team": "管理チームから離れました",
+    "cannot_leave_admin": "管理者無しの状態では、サーバーを離れることはできません",
+    "default_theme": "デフォルトのテーマ"
 }
