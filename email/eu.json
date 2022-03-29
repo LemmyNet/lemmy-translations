@@ -1,1 +1,18 @@
-{}
+{
+    "registration_approved_subject": "Erregistroa {username}(e)rako onartu da",
+    "registration_approved_body": "Zure erregistro-eskaera onartu egin da. Ongi etorri {hostname}ra!",
+    "password_reset_subject": "{username}rako pasahitza berrezartzea",
+    "password_reset_body": "<h1>Pasahitza berrezartzeko eskaera {username}rentzat</h1><br><a href={reset_link}>Egin klik hemen zure pasahitza berrezartzeko</a>",
+    "verify_email_subject": "Egiaztatu zure helbide elektronikoa {hostname}",
+    "verify_email_body": "Egin klik esteka honetan konturako helbide elektronikoa egiaztatzeko @{username}@{hostname}. Ez egin kasurik mezu honi kontua zurea ez bada.<br><br>, <a href=\"{verify_link}\">Egiaztatu zure helbide elektronikoa</a>",
+    "email_verified_subject": "Posta elektroniko egiaztatua {username}-rako",
+    "email_verified_body": "Zure helbide elektronikoa egiaztatu da.",
+    "notification_post_reply_subject": "{username}-ren erantzuna",
+    "notification_comment_reply_subject": "{username}-ren erantzuna",
+    "notification_comment_reply_body": "<h1>Iruzkinaren erantzuna</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>",
+    "notification_post_reply_body": "<h1>Argitalpenaren erantzuna</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>",
+    "notification_mentioned_by_subject": "{username}-k aipatua",
+    "notification_private_message_subject": "{username}-ren mezu pribatua(k)",
+    "notification_private_message_body": "<h1>Mezu pribatua</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>",
+    "notification_mentioned_by_body": "<h1>Pertsona baten aipamena</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>"
+}
