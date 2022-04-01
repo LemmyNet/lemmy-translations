@@ -1,1 +1,4 @@
-{}
+{
+    "registration_approved_subject": "Inscripcion aprovada per {username}",
+    "registration_approved_body": "Vòstra demanda d’inscripcion es estada aprovada. La benvenguda a {hostname} !"
+}
