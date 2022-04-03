@@ -1,1 +1,7 @@
-{}
+{
+    "email_verified_body": "Votre adresse email a été vérifiée.",
+    "notification_post_reply_subject": "Réponse de {username}",
+    "notification_comment_reply_subject": "Réponse de {username}",
+    "notification_private_message_subject": "Message privé de {username}",
+    "notification_mentioned_by_subject": "{username} vous a mentionné"
+}
