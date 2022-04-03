@@ -380,7 +380,7 @@
     "email_required": "Sähköposti vaaditaan.",
     "registration_application_answer_required": "Rekisteröintihakemus vaaditaan.",
     "instance_is_private": "Tämä instanssi on yksityinen.",
-    "apply_to_join": "Hae jäseneksi",
+    "apply_to_join": "Täytä liittymishakemus",
     "applicant": "Hakija",
     "deny_reason": "Evää syy",
     "approved_by": "Hyväksytty, hyväksyjänä <1></1>",
