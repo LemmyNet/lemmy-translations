@@ -8,10 +8,10 @@
     "open_source": "Source ouverte",
     "open_source_desc": "Lemmy est et restera toujours un logiciel libre, <1>open source</1>, utilisant la forte <3>Licence AGPL</3> <2>copyleft</2>.",
     "blazing_fast": "Rapide comme l'éclair",
-    "blazing_fast_desc": "Réalisé à l'aide de certains des frameworks et outils les plus rapides, notamment <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, et <4>Typescript</4>.",
+    "blazing_fast_desc": "Réalisé à l’aide de certains des frameworks et outils les plus rapides, notamment <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, et <5>Typescript</5>.",
     "mod_tools": "Outils de modélisation puissants",
     "create_discussion_platform": "Créez votre propre plateforme de discussion",
-    "lemmy_long_desc": "<1>Lemmy</1> est similaire à des sites comme <2>Reddit</2>, <3>Lobste.rs</3>, ou <4>Hacker News</4> : vous vous abonnez aux communautés qui vous intéressent, vous postez des liens et des discussions, puis vous votez et commentez. Lemmy n'est pas seulement une alternative à reddit ; c'est un réseau de communautés interconnectées gérées par différentes personnes et organisations, qui se combinent toutes pour créer <5>une seule et unique page d'accueil personnalisée</5> de vos nouvelles, articles et mèmes préférés.",
+    "lemmy_long_desc": "Lemmy est une plateforme sociale auto-hébergée de discussion et d’agrégation de liens. Elle est complètement libre, gratuite et n’est pas contrôlée par une entreprise.\nCela signifie qu’il n’y a ni publicité, ni mouchards, ni algorithme secret. Le contenu est organisé en communautés. Il est donc facile de s’abonner aux thématiques qui vous intéressent et d’ignorer les autres. Le vote sert à placer les contenus jugés les plus intéressants au sommet du fil.",
     "mod_tools_desc": "Chaque serveur peut définir sa propre politique de modération, afin de favoriser un environnement sain où chacun peut se sentir à l'aise pour contribuer.",
     "live_updates": "Mises à jour en direct",
     "live_updates_desc": "Les nouveaux commentaires et messages arrivent en continu sur votre page d'accueil et dans votre boîte de réception ; plus besoin de rafraîchir la page.",
@@ -57,5 +57,7 @@
     "donate_desc": "Lemmy est un logiciel gratuit et open-source, ce qui signifie pas de publicité, de monétisation ou de capital de risque, jamais. <1>Vos dons</1> soutiennent directement le développement à plein temps du projet.",
     "general_sponsors_desc": "Les Parrains Généraux sont ceux qui ont fait une promesse de don de 10 à 39 dollars à Lemmy.",
     "month": "mois",
-    "support_lemmy": "Soutenir Lemmy"
+    "support_lemmy": "Soutenir Lemmy",
+    "users": "utilisateur·rice·s",
+    "mobile_apps_for_ios_and_android": "Applications mobiles pour iOS et Android."
 }
