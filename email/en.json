@@ -1,6 +1,7 @@
 {
   "registration_approved_subject": "Registration approved for {username}",
   "registration_approved_body": "Your registration application has been approved. Welcome to {hostname}!",
+  "application_question_required": "You must add an application questionnaire if applications are required.",
   "password_reset_subject": "Password reset for {username}",
   "password_reset_body": "<h1>Password Reset Request for {username}</h1><br><a href=\"{reset_link}\">Click here to reset your password</a>",
   "verify_email_subject": "Verify your email address for {hostname}",
