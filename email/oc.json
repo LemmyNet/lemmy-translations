@@ -1,4 +1,18 @@
 {
     "registration_approved_subject": "Inscripcion aprovada per {username}",
-    "registration_approved_body": "Vòstra demanda d’inscripcion es estada aprovada. La benvenguda a {hostname} !"
+    "registration_approved_body": "Vòstra demanda d’inscripcion es estada aprovada. La benvenguda a {hostname} !",
+    "password_reset_subject": "Reïnicializacion de senhal per {username}",
+    "password_reset_body": "<h1>Demanda de reïnicializacion de senhal per {username}</h1><br><a href={reset_link}>Clicar aicí per cambiar lo senhal</a>",
+    "verify_email_subject": "Verificatz vòstra adreça electronica per {hostname}",
+    "verify_email_body": "Se vos plai clicatz lo ligam seguent per validar vòstra adreça electronica pel compte @{username}@{hostname}. Ignoratz aqueste messatge se lo compte es pas lo vòstre.<br><br>, <a href=\"{verify_link}\">Validar mon adreça</a>",
+    "email_verified_subject": "Adreça validada per {username}",
+    "email_verified_body": "Vòstra adreça es estada validada.",
+    "notification_post_reply_subject": "Responsa de {username}",
+    "notification_post_reply_body": "<h1>Responsa a la publicacion</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>bóstia de recepcion</a>",
+    "notification_comment_reply_subject": "Responsa de {username}",
+    "notification_comment_reply_body": "<h1>Responsa al comentari</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>bóstia de recepcion</a>",
+    "notification_mentioned_by_subject": "{username} vos a mencionat",
+    "notification_mentioned_by_body": "<h1>Mencion</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>bóstia de recepcion</a>",
+    "notification_private_message_subject": "Messatge privat de {username}",
+    "notification_private_message_body": "<h1>Messatge privat</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>bóstia de recepcion</a>"
 }
