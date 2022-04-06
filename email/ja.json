@@ -1,1 +1,18 @@
-{}
+{
+    "email_verified_body": "あなたのメールアドレスが認証されました。",
+    "notification_post_reply_body": "<h1>投稿への返信</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>受信箱</a>",
+    "notification_comment_reply_body": "<h1>コメントへの返信</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>受信箱</a>",
+    "notification_private_message_body": "<h1>プライベートメッセージ</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>受信箱</a>",
+    "notification_mentioned_by_body": "<h1>あなたについて言及した人およびその内容</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>受信箱</a>",
+    "registration_approved_subject": "{username}さんの新規登録申し込みへの承認について",
+    "password_reset_subject": "{username}さんのパスワードリセットについて",
+    "password_reset_body": "<h1>{username}さんのパスワードリセットのリクエスト</h1><br><a href={reset_link}>このリンクをクリックしてパスワードをリセットしてください</a>",
+    "email_verified_subject": "{username}さんのメールアドレス認証について",
+    "notification_post_reply_subject": "{username}さんから返信がありました",
+    "notification_comment_reply_subject": "{username}さんから返信がありました",
+    "notification_mentioned_by_subject": "{username}さんがあなたについて言及しました",
+    "notification_private_message_subject": "{username}さんからプライベートメッセージがありました",
+    "registration_approved_body": "あなたの新規登録申し込みは承認されました。{hostname}へようこそ！",
+    "verify_email_subject": "{hostname}でのメールアドレス認証について",
+    "verify_email_body": "以下のリンクをクリックして、アカウント@{username}@{hostname}のメールアドレスを認証してください。このアカウントがあなたのものではない場合は、このメールを無視して下さい。<br><br>, <a href=\"{verify_link}\">メールアドレスを認証する</a>"
+}
