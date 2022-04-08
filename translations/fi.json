@@ -51,7 +51,7 @@
     "code_of_conduct": "Toimintaperiaatteet",
     "lemmy_title": "Lemmy - Fediversen keskustelupalsta",
     "lemmy_desc": "Fediversen keskustelupalsta.",
-    "lemmy_long_desc": "<1>Lemmy<1>on samanlainen kuten <2>Reddit</2>: tilaat yhteisöjä joista olet kiinnostunut, julkaiset linkkejä ja keskusteluja, ja sitten äänestät ja kommentoit niitä. Lemmy ei ole vain vaihtoehto Redditille; se on verkosto eri ihmisten ja organisaatioiden luomia toisiinsa kytkettyjä yhteisöjä, jotka kaikki yhdistyvät luoden <5>yhden, personoidun etusivun</5> suosikkiuutisistasi, artikkeleistasi ja meemeistäsi.",
+    "lemmy_long_desc": "<1>Lemmy<1>on samanlainen kuten <2>Reddit</2>: tilaat yhteisöjä joista olet kiinnostunut, julkaiset linkkejä ja keskusteluja, ja sitten äänestät ja kommentoit niitä. Lemmy ei ole vain vaihtoehto Redditille; se on verkosto eri ihmisten ja organisaatioiden luomia toisiinsa kytkettyjä yhteisöjä, jotka kaikki yhdistyvät luoden <5>yhden, personoidun etusivun</5> suosikkiuutisistasi, artikkeleistasi ja meemeistäsi. Lemmy on täysin vapaa ja avoin ohjelmisto, jota ei hallitse yksi yritys. Tämä tarkoittaa, että mukana ei tule mainoksia, käyttäjän jäljittämistä tai salaisia algoritmeja.",
     "create_discussion_platform_desc": "Lemmyn avulla voit <1>helposti ylläpitää omaa instanssiasi</1>, ja kaikki nämä instanssit ovat <2>federoituja</2> (kuten sähköposti), ja ne ovat yhteydessä samaan kokonaisuuteen, jota kutsutaan <3>Fediverseksi</3>. Keskustelupalstalle tämä tarkoittaa, että yhdelle instanssille rekisteröitynyt henkilö voi tilata yhteisöjä muualta ja käydä keskusteluja täysin eri instanssilla olevien ihmisten kanssa.",
     "user_tagging": "Käyttäjän mainitseminen käyttäen <1>@</1>, yhteisön mainitseminen käyttäen <2>!</2>.",
     "rss_feeds": "RSS / Atom -syötteet <1>kaikille</1>, <2>tilatuille</2>, <3>postilaatikolle</3>, <4>käyttäjälle</4> ja <5>yhteisölle</5>.",
@@ -67,5 +67,9 @@
     "about": "Tietoja",
     "about_title": "Tietoja Lemmystä",
     "add_weblate": "Voit lisätä käännöksiä <weblaten</1> kautta.",
-    "support": "Tue"
+    "support": "Tue",
+    "mobile_apps_for_ios_and_android": "Mobiilisovellukset iOSille ja Androidille.",
+    "donate": "Lahjoita",
+    "gold_sponsors_desc": "Kultatason sponsorit ovat antaneet 100 $ Lemmylle.",
+    "apply_to_join": "Täytä liittymishakemus"
 }
