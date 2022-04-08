@@ -11,7 +11,7 @@
     "blazing_fast_desc": "Réalisé à l’aide de certains des frameworks et outils les plus rapides, notamment <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, et <5>Typescript</5>.",
     "mod_tools": "Outils de modélisation puissants",
     "create_discussion_platform": "Créez votre propre plateforme de discussion",
-    "lemmy_long_desc": "Lemmy est une plateforme sociale auto-hébergée de discussion et d’agrégation de liens. Elle est complètement libre, gratuite et n’est pas contrôlée par une entreprise.\nCela signifie qu’il n’y a ni publicité, ni mouchards, ni algorithme secret. Le contenu est organisé en communautés. Il est donc facile de s’abonner aux thématiques qui vous intéressent et d’ignorer les autres. Le vote sert à placer les contenus jugés les plus intéressants au sommet du fil.",
+    "lemmy_long_desc": "Lemmy est une plateforme sociale auto-hébergée de discussion et d’agrégation de liens. Elle est complètement libre, gratuite et n’est pas contrôlée par une entreprise. Cela signifie qu’il n’y a ni publicité, ni mouchards, ni algorithme secret. Le contenu est organisé en communautés. Il est donc facile de s’abonner aux thématiques qui vous intéressent et d’ignorer les autres. Le vote sert à placer les contenus jugés les plus intéressants au sommet du fil.",
     "mod_tools_desc": "Chaque serveur peut définir sa propre politique de modération, afin de favoriser un environnement sain où chacun peut se sentir à l'aise pour contribuer.",
     "live_updates": "Mises à jour en direct",
     "live_updates_desc": "Les nouveaux commentaires et messages arrivent en continu sur votre page d'accueil et dans votre boîte de réception ; plus besoin de rafraîchir la page.",
