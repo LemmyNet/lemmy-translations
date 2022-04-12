@@ -387,5 +387,9 @@
     "denied_by": "Recusada por <1></1>",
     "approve": "Aprovar",
     "deny": "Recusar",
-    "email_not_verified": "Email não verificado."
+    "email_not_verified": "Email não verificado.",
+    "default_theme": "Tema padrão",
+    "cannot_leave_admin": "Não podes deixar o servidor sem administradores",
+    "left_admin_team": "Saiste da equipa de administração",
+    "leave_admin_team": "Sair da equipa de administração"
 }
