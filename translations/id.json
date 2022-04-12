@@ -194,7 +194,7 @@
     "invalid_password": "Kata sandi tidak valid. Kata sandi harus <= 60 karakter.",
     "top_day": "Teratas Hari Ini",
     "invalid_matrix_id": "Matrix id tidak valid. Harus @pengguna:peladen.tld",
-    "private_message_disclaimer": "Peringatan: Pesan privat di Lemmy tidak aman. Mohon untuk membuat akun di <1>Element.io</1> untuk pemesanan aman.",
+    "private_message_disclaimer": "Peringatan: Pesan pribadi di Lemmy tidak aman. Mohon untuk membuat akun di <1>Element.io</1> untuk pemesanan aman.",
     "body": "Isi",
     "copy_suggested_title": "salin judul yang disarankan: {{title}}",
     "community": "Komunitas",
