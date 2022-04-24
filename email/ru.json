@@ -1,1 +1,18 @@
-{}
+{
+    "registration_approved_subject": "Одобрена регистрация пользователя {username}",
+    "password_reset_subject": "Сброс пароля для {username}",
+    "verify_email_subject": "Подтверждение почты для {hostname}",
+    "verify_email_body": "Пожалуйста перейдите по ссылке ниже для подтверждение электронной почты пользователя @{username}@{hostname}. Игнорируйте это письмо, если это не вы.<br><br>, <a href=\"{verify_link}\">Подтвердить почту</a>",
+    "email_verified_subject": "Почта подтверждена для пользователя {username}",
+    "email_verified_body": "Ваш адрес электронной почты успешно подтверждён.",
+    "notification_post_reply_subject": "Ответ от {username}",
+    "notification_post_reply_body": "<h1>Ответ на ваше сообщение</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>входящие</a>",
+    "notification_comment_reply_subject": "Ответ от {username}",
+    "notification_comment_reply_body": "<h1>Ответ на ваш комментарий</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>входящие</a>",
+    "notification_mentioned_by_subject": "Вас упомянул {username}",
+    "notification_mentioned_by_body": "<h1>Личное упоминание</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>входящие</a>",
+    "notification_private_message_subject": "Личное сообщение от {username}",
+    "notification_private_message_body": "<h1>Личное сообщение</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>входящие</a>",
+    "registration_approved_body": "Ваша регистрация была одобрена. Добро пожаловать на {hostname}!",
+    "password_reset_body": "<h1>Запрос на сброс пароля для пользователя {username}</h1><br><a href={reset_link}>Нажмите здесь для сброса пароля</a>"
+}
