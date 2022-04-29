@@ -94,7 +94,7 @@
     "remove_as_admin": "remove as admin",
     "appoint_as_admin": "appoint as admin",
     "only_admins_can_create_communities": "Only admins can create communities",
-    "only_mods_can_post": "Only moderators can post to this community",
+    "only_mods_can_post_in_community": "Only moderators can post to this community",
     "remove": "remove",
     "removed": "removed by mod",
     "locked": "locked",
