@@ -374,5 +374,6 @@
     "left_admin_team": "관리팀에서 탈퇴했습니다",
     "cannot_leave_admin": "관리자는 서버에서 탈퇴할 수 없습니다",
     "leave_admin_team": "관리팀 나가기",
-    "default_theme": "기본 테마"
+    "default_theme": "기본 테마",
+    "only_mods_can_post_in_community": "중재자만 이 커뮤니티에 게시할 수 있습니다"
 }
