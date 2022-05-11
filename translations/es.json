@@ -391,5 +391,6 @@
     "leave_admin_team": "Dejar el equipo de administración",
     "left_admin_team": "Has dejado el equipo de administración",
     "default_theme": "Tema predeterminado",
-    "cannot_leave_admin": "No puedes dejar el servidor sin un administrador"
+    "cannot_leave_admin": "No puedes dejar el servidor sin un administrador",
+    "only_mods_can_post_in_community": "Sólo los moderadores pueden publicar en esta comunidad"
 }
