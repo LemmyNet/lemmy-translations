@@ -147,6 +147,7 @@
     "sidebar": "Sidebar",
     "description": "Description",
     "sort_type": "Sort type",
+    "listing_type": "Listing type",
     "hot": "Hot",
     "active": "Active",
     "active_users_in_the_last_day": "{{formattedCount}} active user in the last day",
