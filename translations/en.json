@@ -141,6 +141,7 @@
     "unsubscribe": "Unsubscribe",
     "subscribe": "Subscribe",
     "subscribed": "Subscribed",
+    "subscribe_pending": "Subscribe Pending",
     "subscribed_description": "Shows the communities you've subscribed to",
     "prev": "Prev",
     "next": "Next",
