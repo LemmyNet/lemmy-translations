@@ -289,7 +289,7 @@
     "captcha": "验证码",
     "not_a_mod_or_admin": "不是仲裁员或管理员。",
     "site_description_length_overflow": "网站描述不能超过150字符。",
-    "invalid_matrix_id": "Matrix ID 无效, 格式必须为 @user:instance.tld",
+    "invalid_matrix_id": "Matrix ID 无效, 格式应为 @user:instance.tld",
     "cross_posted_from": "转发自: ",
     "show_scores": "显示分数",
     "bot_account": "机器人账户",
@@ -376,5 +376,6 @@
     "approve": "批准",
     "deny": "拒绝",
     "required": "必填",
-    "only_mods_can_post_in_community": "只有版主才能在此社区发帖"
+    "only_mods_can_post_in_community": "只有版主才能在此社区发帖",
+    "legal_information": "条款"
 }
