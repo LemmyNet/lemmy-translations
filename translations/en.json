@@ -92,6 +92,9 @@
     "appoint_as_mod": "appoint as mod",
     "leave_mod_team": "leave mod team",
     "modlog": "Modlog",
+    "filter_by_action": "Filter by action",
+    "filter_by_mod": "Filter by mod",
+    "filter_by_user": "Filter by user",
     "admin": "admin",
     "admins": "admins",
     "remove_as_admin": "remove as admin",
@@ -412,5 +415,6 @@
     "required": "Required",
     "lemmy_ml_registration_message": "Before you register on lemmy.ml, please have a look at <1>Joinlemmy</1> to see if there is an instance that better fits your region, language or interests. Lemmy is federated, so you can interact with everything that you see on lemmy.ml, even if you are registered on another instance.",
     "default_theme": "Default theme",
-    "legal_information": "Legal"
+    "legal_information": "Legal",
+    "hide_modlog_mod_names": "Hide modlog mod names"
 }
