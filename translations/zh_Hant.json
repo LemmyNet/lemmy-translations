@@ -374,5 +374,7 @@
     "leave_admin_team": "離開站務組",
     "left_admin_team": "你已離開站務組",
     "default_theme": "預設樣式",
-    "cannot_leave_admin": "你無法離開沒有管理員的伺服器"
+    "cannot_leave_admin": "你無法離開沒有管理員的伺服器",
+    "legal_information": "條款",
+    "only_mods_can_post_in_community": "只有版主能在此社群貼文"
 }
