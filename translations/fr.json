@@ -373,5 +373,6 @@
     "denied_by": "Refusée par <1></1>",
     "deny": "Refuser",
     "required": "Requis",
-    "registration_application_sent": "La demande d’inscription a été envoyée."
+    "registration_application_sent": "La demande d’inscription a été envoyée.",
+    "apply_to_join": "Demander à rejoindre"
 }
