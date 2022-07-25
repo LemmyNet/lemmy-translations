@@ -373,5 +373,8 @@
     "leave_admin_team": "管理チームから離れる",
     "left_admin_team": "管理チームから離れました",
     "cannot_leave_admin": "管理者無しの状態では、サーバーを離れることはできません",
-    "default_theme": "デフォルトのテーマ"
+    "default_theme": "デフォルトのテーマ",
+    "legal_information": "利用規約等",
+    "listing_type": "表示タイプ",
+    "only_mods_can_post_in_community": "コミュニティへの投稿をモデレーターのみに限定する"
 }
