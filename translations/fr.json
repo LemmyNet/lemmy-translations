@@ -16,7 +16,7 @@
     "number_of_comments_plural": "{{formattedCount}} Commentaires",
     "remove_comment": "Supprimer le commentaire",
     "communities": "Communautés",
-    "users": "Utilisateurs",
+    "users": "Utilisateur·rice·s",
     "create_a_community": "Créer une Communauté",
     "create_community": "Créer une communauté",
     "remove_community": "Supprimer la Communauté",
@@ -364,5 +364,14 @@
     "approve": "Approuver",
     "approved_by": "Approuvé par <1></1>",
     "private_instance": "Instance privée",
-    "couldnt_find_comment": "Commentaire non trouvé."
+    "couldnt_find_comment": "Commentaire non trouvé.",
+    "resolve_report": "Résoudre le rapport",
+    "create_report": "Créer un signalement",
+    "report_created": "Le signalement a été créé.",
+    "registration_applications": "Demandes d’inscription",
+    "deny_reason": "Raison du refus",
+    "denied_by": "Refusée par <1></1>",
+    "deny": "Refuser",
+    "required": "Requis",
+    "registration_application_sent": "La demande d’inscription a été envoyée."
 }
