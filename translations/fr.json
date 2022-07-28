@@ -59,5 +59,17 @@
     "month": "mois",
     "support_lemmy": "Soutenir Lemmy",
     "users": "utilisateur·rice·s",
-    "mobile_apps_for_ios_and_android": "Applications mobiles pour iOS et Android."
+    "mobile_apps_for_ios_and_android": "Applications mobiles pour iOS et Android.",
+    "apply_to_join": "Demander à rejoindre",
+    "donate": "Dons",
+    "gold_sponsors_desc": "Les Parrains d'Or sont ceux qui ont promis 100 dollars à Lemmy.",
+    "instance_totals": "Le lemmyverse regroupe actuellement {{instances}} instances, et {{users}} utilisateur⋅ice⋅s.",
+    "gold_pressed_latinum_sponsors_desc": "Les sponsors Gold Pressed Latinum sont ceux qui ont promis 500 $ ou plus à Lemmy.",
+    "about": "À propos",
+    "about_title": "À propos de Lemmy",
+    "contributers": "Contributeur⋅ice⋅s",
+    "thanks_translators": "Un spécial remerciement à nos traducteur⋅ice⋅s : ",
+    "thanks_coders": "Un spécial remerciement à nos programmeurs et programmeuses : ",
+    "support": "Soutenir",
+    "support_title": "Lemmy - Support"
 }
