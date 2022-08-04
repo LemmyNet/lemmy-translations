@@ -1,1 +1,6 @@
-{}
+{
+    "apply_to_join": "Fogadd el a csatlakozáshoz",
+    "month": "hónap",
+    "docs": "Dokumentáció",
+    "support_lemmy": "Támogasd a Lemmy-t"
+}
