@@ -384,5 +384,13 @@
     "default_theme": "Tema predefinito",
     "email_required": "Email obbligatoria.",
     "fill_out_application": "Per registrarti in questo server, devi compilare questo modulo, ed aspettare che venga accettato.",
-    "registration_application_sent": "Modulo di richiesta registrazione inviato."
+    "registration_application_sent": "Modulo di richiesta registrazione inviato.",
+    "application_questionnaire": "Richiesta di registrazione",
+    "require_registration_application": "Richiedi domanda per la registrazione",
+    "registration_application_pending": "La tua richiesta di iscrizione è in attesa di approvazione.",
+    "registration_denied": "Domanda di registrazione respinta.",
+    "registration_application_answer_required": "È necessario compilare la domanda di registrazione.",
+    "registration_applications": "Richieste di Registrazione",
+    "apply_to_join": "Richiedi di Partecipare",
+    "only_mods_can_post_in_community": "Solo i moderatori possono postare in questa comunità"
 }

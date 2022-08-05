@@ -391,5 +391,19 @@
     "leave_admin_team": "Poistu ylläpitäjistä",
     "left_admin_team": "Olet jättänyt ylläpitäjien tiimin",
     "default_theme": "Oletusteema",
-    "cannot_leave_admin": "Et voi jättää instanssia ilman ylläpitäjää"
+    "cannot_leave_admin": "Et voi jättää instanssia ilman ylläpitäjää",
+    "view_all_comments": "Näytä kaikki kommentit",
+    "purge_warning": "Varoitus: Puhdistaminen poistaa tämän kohteen ja kaiken siihen kuuluvan tietokannasta. Et pysty palauttamaan dataa. Käydä noudattaen äärimmäistä varovaisuutta.",
+    "x_more_replies": "{{formattedCount}} vastaus lisää",
+    "x_more_replies_plural": "{{formattedCount}} lisää vastauksia",
+    "legal_information": "Oikeudelliset tiedot",
+    "listing_type": "Listauksen tyyppi",
+    "only_mods_can_post_in_community": "Vain moderaattorit voivat luoda viestejä tähän yhteisöön",
+    "purge": "puhdista",
+    "purge_post": "puhdista viesti",
+    "purge_comment": "puhdista kommentti",
+    "purge_community": "puhdista yhteisö",
+    "purge_user": "puhdista käyttäjä",
+    "purge_success": "Tämä kohde on puhdistettu onnistuneesti.",
+    "subscribe_pending": "Tilaus vireillä"
 }
