@@ -78,6 +78,8 @@
     "list": "list",
     "mod": "mod",
     "mods": "mods",
+    "distinguish": "speak as moderator",
+    "undistinguish": "speak as user",
     "moderates": "Moderates",
     "settings": "Settings",
     "admin_settings": "Admin Settings",
