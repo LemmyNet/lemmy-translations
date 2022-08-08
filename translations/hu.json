@@ -220,7 +220,7 @@
     "community_moderator_already_exists": "Már létezik a közösségi moderátor.",
     "community_follower_already_exists": "Már létezik a közösségi követő.",
     "community_user_already_banned": "A közösségi felhasználó már ki lett tiltva.",
-    "couldnt_create_post": "Nem lehetett létrehozni a bejegyzést.",
+    "couldnt_create_post": "Nem sikerült létrehozni a bejegyzést.",
     "post_title_too_long": "A bejegyzés címe túl hosszú.",
     "by": "szerző",
     "to": "‎posztolta, ide:",
@@ -405,5 +405,6 @@
     "denied_by": "Elutasította: <1></1>",
     "approve": "Elfogad",
     "deny": "Elutasít",
-    "required": "Szükséges"
+    "required": "Szükséges",
+    "application_email_admins": "Email értesítés az adminoknak az új alkalmazásokról"
 }

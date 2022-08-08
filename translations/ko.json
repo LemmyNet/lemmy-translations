@@ -377,5 +377,16 @@
     "default_theme": "기본 테마",
     "only_mods_can_post_in_community": "중재자만 이 커뮤니티에 게시할 수 있습니다",
     "legal_information": "정책",
-    "listing_type": "정렬 방식"
+    "listing_type": "정렬 방식",
+    "purge_warning": "경고: 제거하면 데이터베이스에서 이 항목과 모든 하위 항목이 삭제됩니다. 데이터를 복구할 수 없습니다. 극도로 주의하여 사용하십시오.",
+    "application_email_admins": "신규 가입 신청서 수신 시 관리자에게 이메일 보내기",
+    "view_all_comments": "모든 댓글",
+    "purge_success": "항목이 제거되었습니다.",
+    "purge": "제거",
+    "purge_post": "글 삭제",
+    "purge_comment": "댓글 삭제",
+    "purge_community": "커뮤니티 삭제",
+    "purge_user": "유저 삭제",
+    "subscribe_pending": "구독 보류중",
+    "x_more_replies": "더 많은 댓글 {{formattedCount}}"
 }
