@@ -394,5 +394,19 @@
     "cannot_leave_admin": "No puedes dejar el servidor sin un administrador",
     "only_mods_can_post_in_community": "Sólo los moderadores pueden publicar en esta comunidad",
     "legal_information": "Información legal",
-    "listing_type": "Tipo de listado"
+    "listing_type": "Tipo de listado",
+    "application_email_admins": "Envia un correo electrónico a los administradores al recibir nuevas solicitudes",
+    "distinguish": "hablar como moderador",
+    "undistinguish": "hablar como usuario",
+    "purge": "purgar",
+    "purge_post": "purgar publicación",
+    "purge_comment": "purgar comentario",
+    "purge_community": "purgar comunidad",
+    "purge_user": "purgar usuario",
+    "purge_warning": "Advertencia: La purga eliminará este elemento y todos sus hijos de la base de datos. No podrás recuperar los datos. Utilízalo con extrema precaución.",
+    "purge_success": "El elemento ha sido purgado con éxito.",
+    "subscribe_pending": "Suscripción pendiente",
+    "view_all_comments": "Ver todos los comentarios",
+    "x_more_replies": "{{formattedCount}} respuesta más",
+    "x_more_replies_plural": "{{formattedCount}} respuestas más"
 }
