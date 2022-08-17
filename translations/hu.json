@@ -406,5 +406,11 @@
     "approve": "Elfogad",
     "deny": "Elutasít",
     "required": "Szükséges",
-    "application_email_admins": "Email értesítés az adminoknak az új alkalmazásokról"
+    "application_email_admins": "Email értesítés az adminoknak az új alkalmazásokról",
+    "hide_modlog_mod_names": "Mod nevek elrejtése modnaplóban",
+    "filter_by_action": "Szűrés esemény szerint",
+    "filter_by_mod": "Szűrés mod szerint",
+    "filter_by_user": "Szűrés felhasználó szerint",
+    "distinguish": "moderátorként beszél",
+    "undistinguish": "felhasználóként beszél"
 }
