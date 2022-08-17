@@ -387,5 +387,9 @@
     "approve": "Goedkeuren",
     "deny": "Afkeuren",
     "denied_by": "Afgekeurd door <1></1>",
-    "required": "Vereist"
+    "required": "Vereist",
+    "undistinguish": "Reageer als een gebruiker",
+    "distinguish": "Reageer als een moderator",
+    "view_all_comments": "Alle reacties tonen",
+    "cannot_leave_admin": "U kan de server niet verlaten zonder een vervangende beheerder aan te stellen"
 }
