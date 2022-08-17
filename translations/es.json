@@ -408,5 +408,9 @@
     "subscribe_pending": "Suscripción pendiente",
     "view_all_comments": "Ver todos los comentarios",
     "x_more_replies": "{{formattedCount}} respuesta más",
-    "x_more_replies_plural": "{{formattedCount}} respuestas más"
+    "x_more_replies_plural": "{{formattedCount}} respuestas más",
+    "filter_by_action": "Filtrar por acción",
+    "filter_by_mod": "Filtrar por moderador",
+    "filter_by_user": "Filtrar por usuario",
+    "hide_modlog_mod_names": "Esconder nombres de moderador del registro de moderación"
 }

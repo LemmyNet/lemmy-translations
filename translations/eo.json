@@ -339,5 +339,8 @@
     "unread_registration_applications_plural": "{{formattedCount}} Nelegitaj Aplikaĵoj",
     "remove_content_more": "Forigi Afiŝojn, Komentojn, kaj Komunumojn",
     "profile": "Profilo",
-    "only_admins_can_create_communities": "Nur administraro povas krei komunumojn"
+    "only_admins_can_create_communities": "Nur administraro povas krei komunumojn",
+    "view_all_comments": "Vidi ĉiujn komentojn",
+    "distinguish": "Paroli kiel reguligisto",
+    "undistinguish": "paroli kiel uzanto"
 }
