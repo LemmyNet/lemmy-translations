@@ -388,5 +388,11 @@
     "purge_community": "커뮤니티 삭제",
     "purge_user": "유저 삭제",
     "subscribe_pending": "구독 보류중",
-    "x_more_replies": "더 많은 댓글 {{formattedCount}}"
+    "x_more_replies": "더 많은 댓글 {{formattedCount}}",
+    "hide_modlog_mod_names": "중재 기록에서 중재 이름 숨기기",
+    "distinguish": "중개자로 글 쓰기",
+    "undistinguish": "유저로 글 쓰기",
+    "filter_by_action": "작업으로 필터링",
+    "filter_by_mod": "모드로 필터링",
+    "filter_by_user": "사용자 별 필터링"
 }
