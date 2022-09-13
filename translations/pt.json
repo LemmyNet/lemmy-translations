@@ -406,5 +406,11 @@
     "purge_user": "purgar utilizador",
     "purge_warning": "Aviso: Purgar irá eliminar este item e todos os seus descendentes da base de dados. A sua recuperação será impossível. Utiliza com extrema cautela.",
     "purge_success": "O item foi purgado com sucesso.",
-    "subscribe_pending": "Subscrever Pendentes"
+    "subscribe_pending": "Subscrever Pendentes",
+    "filter_by_action": "Filtrar por ação",
+    "filter_by_mod": "Filtrar por mod",
+    "filter_by_user": "Filtrar por utilizador",
+    "hide_modlog_mod_names": "Ocultar nomes dos moderadores no registo de moderação",
+    "distinguish": "falar como moderador",
+    "undistinguish": "falar como utilizador"
 }
