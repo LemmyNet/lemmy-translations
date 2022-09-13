@@ -361,5 +361,15 @@
     "emoji_picker": "Vybrat Emoji",
     "unresolved_by": "Odmítl/a <1></1>",
     "by": "od",
-    "very_weak": "Velmi slabé"
+    "very_weak": "Velmi slabé",
+    "purge_warning": "Upozornění: Čistka smaže tuto položku a všechny její podřízené z databáze. Smazaná data nebude možné obnovit. Použijte s extrémní opatrností.",
+    "distinguish": "mluvit jako moderátor",
+    "undistinguish": "mluvit jako uživatel",
+    "leave_admin_team": "Opustit administrátorský tým",
+    "left_admin_team": "Opustili jste administrátorský tým",
+    "only_mods_can_post_in_community": "Pouze moderátoři mohou přispívat do této komunity",
+    "view_all_comments": "Zobrazit všechny komentáře",
+    "x_more_replies_0": "{{formattedCount}} další odpověď",
+    "x_more_replies_1": "{{formattedCount}} další odpovědi",
+    "x_more_replies_2": "{{formattedCount}} dalších odpovědí"
 }
