@@ -405,5 +405,11 @@
     "purge_success": "Eliminouse correctamente o elemento.",
     "subscribe_pending": "Subscrición pendente",
     "x_more_replies": "{{formattedCount}} resposta máis",
-    "x_more_replies_plural": "{{formattedCount}} respostas máis"
+    "x_more_replies_plural": "{{formattedCount}} respostas máis",
+    "filter_by_action": "Filtrar por acción",
+    "filter_by_mod": "Filtrar por mod",
+    "filter_by_user": "Filtrar por usuaria",
+    "application_email_admins": "Enivar email a admins ao recibir novas solicitudes",
+    "distinguish": "actuar como mod",
+    "undistinguish": "actuar como usuaria"
 }
