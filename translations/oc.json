@@ -394,5 +394,21 @@
     "legal_information": "Informacions legalas",
     "listing_type": "Tipe de lista",
     "only_mods_can_post_in_community": "Sonque los moderators pòdon publicat dins aquesta comunitat",
-    "apply_to_join": "Demandar a rejónher"
+    "apply_to_join": "Demandar a rejónher",
+    "filter_by_action": "Filtrar per accion",
+    "filter_by_mod": "Filtrar per moderator",
+    "filter_by_user": "Filtrar per utilizaire",
+    "x_more_replies": "{{formattedCount}} responsa de mai",
+    "x_more_replies_plural": "{{formattedCount}} responsas de mai",
+    "distinguish": "parlar coma moderator",
+    "undistinguish": "parlar coma utilizaire",
+    "purge": "purgar",
+    "purge_post": "purgar la publicacion",
+    "purge_comment": "purgar lo comentari",
+    "purge_community": "purgar la comunitat",
+    "purge_user": "purgar utilizaire",
+    "purge_success": "Aqueste element es estat corrèctament purgat.",
+    "subscribe_pending": "Abonament en espèra",
+    "hide_modlog_mod_names": "Rescondre los nom dels moderators dins los logs",
+    "view_all_comments": "Veire totes los comentaris"
 }
