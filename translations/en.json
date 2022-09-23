@@ -344,6 +344,7 @@
     "email_already_exists": "Email already exists.",
     "couldnt_update_user": "Couldn't update user.",
     "system_err_login": "System error. Try logging out and back in.",
+    "rate_limit_error": "Too many requests, try again later.",
     "couldnt_create_private_message": "Couldn't create private message.",
     "no_private_message_edit_allowed": "Not allowed to edit private message.",
     "couldnt_update_private_message": "Couldn't update private message.",
