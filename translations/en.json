@@ -44,6 +44,7 @@
     "cancel": "Cancel",
     "preview": "Preview",
     "upload_image": "upload image",
+    "too_many_images_upload": "Maximum number of images to upload: 20. Please select fewer images.",
     "avatar": "Avatar",
     "upload_avatar": "Upload Avatar",
     "banner": "Banner",
