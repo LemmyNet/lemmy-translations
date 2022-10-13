@@ -116,6 +116,7 @@
     "delete_account_confirm":
       "Warning: this will permanently delete all of your data from this instance. Your data may not be deleted on other, existing instances. Enter your password to confirm.",
     "click_to_delete_picture": "Click to delete picture.",
+    "failed_to_delete_picture": "Failed to delete picture.",
     "picture_deleted": "Picture deleted.",
     "restore": "restore",
     "ban": "ban",
