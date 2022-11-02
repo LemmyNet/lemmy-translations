@@ -233,7 +233,7 @@
     "password": "Password",
     "change_password": "Change Password",
     "password_changed": "Password Changed.",
-    "invalid_password": "Invalid password. Password must be <= 60 characters.",
+    "invalid_password": "Invalid password. Password length must be between 10 and 60 characters.",
     "verify_password": "Verify Password",
     "old_password": "Old Password",
     "forgot_password": "forgot password",
