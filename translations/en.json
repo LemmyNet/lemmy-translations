@@ -422,5 +422,24 @@
     "lemmy_ml_registration_message": "Before you register on lemmy.ml, please have a look at <1>Joinlemmy</1> to see if there is an instance that better fits your region, language or interests. Lemmy is federated, so you can interact with everything that you see on lemmy.ml, even if you are registered on another instance.",
     "default_theme": "Default theme",
     "legal_information": "Legal",
-    "hide_modlog_mod_names": "Hide modlog mod names"
+    "hide_modlog_mod_names": "Hide modlog mod names",
+    "slur_filter_regex": "Slur filter regex",
+    "actor_name_max_length": "Max actor name length",
+    "federation_enabled": "Federation enabled",
+    "federation_debug": "Federation debug mode",
+    "federation_strict_allowlist": "Federation strict allowlist",
+    "federation_http_fetch_retry_limit": "Federation HTTP fetch retry limit",
+    "federation_worker_count": "Federation worker count",
+    "captcha_enabled": "Captcha enabled",
+    "captcha_difficulty": "Captcha difficulty",
+    "easy": "Easy",
+    "hard": "Hard",
+    "rate_limit_message": "Message rate limit",
+    "rate_limit_post": "Post rate limit",
+    "rate_limit_register": "Register rate limit",
+    "rate_limit_image": "Image rate limit",
+    "rate_limit_comment": "Comment rate limit",
+    "rate_limit_search": "Search rate limit",
+    "per_second": "Per second"
+
 }
