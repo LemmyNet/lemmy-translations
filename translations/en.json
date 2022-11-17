@@ -440,6 +440,7 @@
     "rate_limit_image": "Image rate limit",
     "rate_limit_comment": "Comment rate limit",
     "rate_limit_search": "Search rate limit",
-    "per_second": "Per second"
-
+    "per_second": "Per second",
+    "taglines": "Taglines",
+    "add_tagline": "Add Tagline"
 }
