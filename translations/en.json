@@ -442,5 +442,10 @@
     "rate_limit_search": "Search rate limit",
     "per_second": "Per second",
     "taglines": "Taglines",
-    "add_tagline": "Add Tagline"
+    "add_tagline": "Add Tagline",
+    "featured": "Featured",
+    "feature_in_local": "Feature in Local",
+    "unfeature_from_local": "Unfeature in Local",
+    "feature_in_community": "Feature in Community",
+    "unfeature_from_community": "Unfeature in Community"
 }
