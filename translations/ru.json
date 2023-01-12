@@ -24,6 +24,7 @@
     "lemmy_apps": "Приложения Lemmy",
     "choose_from_apps": "Выберите любое из приложений ниже.",
     "web_apps": "Web Приложения",
+    "cli_apps": "CLI/TUI Приложения",
     "api_libraries": "Библиотеки API",
     "contact": "Контакты",
     "support_on_liberapay": "Поддержать на Liberapay",

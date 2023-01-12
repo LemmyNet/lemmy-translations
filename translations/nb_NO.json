@@ -48,6 +48,7 @@
     "api_libraries": "API Biblioteker",
     "choose_from_apps": "Velg blant appene nedenfor.",
     "web_apps": "Web Apper",
+    "cli_apps": "CLI/TUI Apper",
     "donate_desc": "Lemmy er gratis programvare med åpen kildekode, noe som betyr ingen reklame, inntektsgenerering eller venture kapital noensinne. <1> Donasjonene dine </1> støtter direkte utviklingen av prosjektet på heltid.",
     "join_a_server": "Bli med på en server",
     "open_source_desc": "Lemmy er og vil alltid forbli gratis, <1>åpen kildekode</1>programvare,med den sterke <2> copyleft </2> <3> AGPL License </3>.",

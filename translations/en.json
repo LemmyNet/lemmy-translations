@@ -36,6 +36,7 @@
   "lemmy_apps": "Lemmy Apps",
   "choose_from_apps": "Choose from any of the apps below.",
   "web_apps": "Web Apps",
+  "cli_apps": "CLI/TUI Apps",
   "api_libraries": "API Libraries",
   "contact_title": "Lemmy - Contact",
   "contact": "Contact",

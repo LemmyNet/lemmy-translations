@@ -20,6 +20,7 @@
     "lemmy_apps": "Lemmyren aplikazioak",
     "choose_from_apps": "Aukeratu aplikazio hauetako bat.",
     "web_apps": "Web aplikazioak",
+    "cli_apps": "CLI/TUI aplikazioak",
     "contact_title": "Lemmy - Kontaktua",
     "contact": "Kontaktua",
     "support_on_liberapay": "Liberapayen lagundu",

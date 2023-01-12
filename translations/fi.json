@@ -29,6 +29,7 @@
     "lemmy_apps": "Lemmy-sovellukset",
     "choose_from_apps": "Valitse mikä tahansa alhaalla olevista sovelluksista.",
     "web_apps": "Web-sovellukset",
+    "cli_apps": "CLI/TUI-sovellukset",
     "api_libraries": "API-kirjastot",
     "contact_title": "Lemmy - ota yhteyttä",
     "contact": "Ota yhteyttä",

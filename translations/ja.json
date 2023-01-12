@@ -4,6 +4,7 @@
     "open_source": "オープンソース",
     "lemmy_apps": "Lemmy アプリ",
     "web_apps": "Webクライアントアプリ",
+    "cli_apps": "CLI/TUIクライアントアプリ",
     "apps_title": "Lemmy - アプリとライブラリ",
     "support_donate": "支援 / 寄付",
     "mod_tools": "強力なモデレーションツール",
