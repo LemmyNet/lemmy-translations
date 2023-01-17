@@ -16,5 +16,16 @@
     "self_hostable": "<1>Docker</1> veya <2>Ansible</2> aracılığıyla kendi kendine barındırılabilir, dağıtımı kolay.",
     "clean_interface": "Temiz, mobil uyumlu arayüz.",
     "lemmy_long_desc": "<1>Lemmy</1>, <2>Reddit</2>, <3>Lobste.rs</3> veya <4>Hacker News</4> gibi sitelere benzer: topluluklara abone olup, İlgilendiğiniz, bağlantı ve tartışmaları yayınlayın, oy verin ve bunlara yorum yapın. Lemmy sadece bir reddit alternatifi değil; farklı kişiler ve kuruluşlar tarafından yönetilen birbirine bağlı topluluklardan oluşan bir ağdır ve hepsi en sevdiğiniz haberler, makaleler ve memlerin <5>tek, kişiselleştirilmiş bir ön sayfasını</5> oluşturmak için birleşir.",
-    "create_discussion_platform_desc": "Lemmy ile <1>kendi sunucunuzu kolayca başlatabilirsiniz</1> ve tüm bu sunucular <2>federedir</2> (e-posta düşünün) ve <3>Fediverse< /3> olarak adlandırılan aynı evrene bağlıdır. Bir bağlantı toplayıcı için bu, bir sunucuda kayıtlı birinin başka bir yerde topluluklara abone olabileceği ve tamamen farklı bir sunucudaki kişilerle tartışabileceği anlamına gelir."
+    "create_discussion_platform_desc": "Lemmy ile <1>kendi sunucunuzu kolayca başlatabilirsiniz</1> ve tüm bu sunucular <2>federedir</2> (e-posta düşünün) ve <3>Fediverse< /3> olarak adlandırılan aynı evrene bağlıdır. Bir bağlantı toplayıcı için bu, bir sunucuda kayıtlı birinin başka bir yerde topluluklara abone olabileceği ve tamamen farklı bir sunucudaki kişilerle tartışabileceği anlamına gelir.",
+    "lemmy_apps": "Lemmy Uygulamaları",
+    "api_libraries": "API Kitaplıkları",
+    "contact": "İletişim",
+    "web_apps": "Ağ Uygulamaları",
+    "support_on_liberapay": "Liberapay'da destekle",
+    "support_on_patreon": "Patreon'da destekle",
+    "support_on_opencollective": "OpenCollective'de destekle",
+    "apps": "Uygulamalar",
+    "lemmy_servers": "Lemmy sunucuları",
+    "about": "Hakkında",
+    "about_title": "Lemmy Hakkında"
 }
