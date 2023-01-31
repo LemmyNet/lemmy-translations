@@ -437,5 +437,21 @@
     "filter_by_action": "Filtuj według akcji",
     "filter_by_mod": "Filtruj według moderatora",
     "filter_by_user": "Filtruj według użytkownika",
-    "purge_community": "wyczyść społeczność"
+    "purge_community": "wyczyść społeczność",
+    "column_shortcode": "Skrócony kod",
+    "deleted_emoji": "Usuń emoji",
+    "column_imageurl": "Adres Url obrazu",
+    "x_more_replies_0": "Jeszcze {{formattedCount}} odpowiedź",
+    "x_more_replies_1": "Jeszcze {{formattedCount}} odpowiedzi",
+    "x_more_replies_2": "Jeszcze {{formattedCount}} odpowiedzi",
+    "registration_mode": "Tryb rejestracji",
+    "close_registration": "Zamknij rejestrację",
+    "saved_emoji": "Zapisano emoji",
+    "column_category": "Kategoria",
+    "column_emoji": "Emoji",
+    "emojis": "Emoji",
+    "emoji": "Emoji",
+    "column_alttext": "Tekst alternatywnt",
+    "custom_emojis": "Niestandardowe emoji",
+    "listing_type": "Rodzaj listowania"
 }
