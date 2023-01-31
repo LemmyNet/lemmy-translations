@@ -19,6 +19,7 @@
     "support_donate": "Подкрепа / Дарение",
     "lemmy_apps": "Приложения Lemmy",
     "web_apps": "Web Приложения",
+    "cli_apps": "CLI/TUI Приложения",
     "api_libraries": "API Библиотеки",
     "join_a_server": "Присъедини се към сървър",
     "run_a_server": "Стартирай свой сървър",

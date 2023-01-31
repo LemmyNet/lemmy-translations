@@ -37,6 +37,7 @@
     "lemmy_apps": "Додатки Lemmy",
     "choose_from_apps": "Виберіть будь який з перелічених додатків.",
     "web_apps": "Web Додатки",
+    "cli_apps": "CLI/TUI Додатки",
     "api_libraries": "API Бібліотеки",
     "contact_title": "Lemmy - Контакт",
     "contact": "Звʼязки",

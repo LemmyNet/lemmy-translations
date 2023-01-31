@@ -29,6 +29,7 @@
     "apps_title": "Lemmy - Applicaties en bibliotheken",
     "lemmy_apps": "Lemmy Applicaties",
     "web_apps": "Webapplicaties",
+    "cli_apps": "CLI/TUIapplicaties",
     "api_libraries": "API-bibliotheken",
     "contact": "Contact",
     "contact_title": "Lemmy - Contact",

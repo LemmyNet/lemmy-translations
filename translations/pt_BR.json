@@ -30,6 +30,7 @@
     "lemmy_apps": "Aplicativos Lemmy",
     "choose_from_apps": "Escolha algum aplicativo abaixo.",
     "web_apps": "Web Apps",
+    "cli_apps": "CLI/TUI Apps",
     "contact_title": "Lemmy - Contato",
     "contact": "Contato",
     "donate_desc": "Lemmy é um software livre e de código aberto, ou seja, não há anúncios, monetização ou investidores, e nunca haverá. <1>As suas doações</1> apoiam diretamente o desenvolvimento do projeto em tempo integral.",

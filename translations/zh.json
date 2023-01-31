@@ -17,6 +17,7 @@
     "lemmy_apps": "Lemmy应用程式",
     "choose_from_apps": "从下面的任何应用中选择。",
     "web_apps": "Web应用程式",
+    "cli_apps": "CLI/TUI应用程式",
     "contact_title": "Lemmy - 联系",
     "contact": "联系我们",
     "support_on_liberapay": "透过Liberapay支持",
