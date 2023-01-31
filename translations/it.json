@@ -4,7 +4,7 @@
     "join_a_server": "Unirsi a un server",
     "lemmy_desc": "Un aggregatore di link per il fediverso.",
     "lemmy_title": "Lemmy - Un aggregatore di link per il fediverso",
-    "lemmy_long_desc": "<1>Lemmy</1> è simile a siti come <2>Reddit</2>, <3>Lobste.rs</3>, o <4>Hacker News</4>: ti iscrivi alle comunità che ti interessano, posti link e discussioni, poi voti e commenti. Lemmy non è solo un'alternativa a Reddit; è una rete di comunità interconnesse gestite da diverse persone e organizzazioni, che si combinano per creare <5>una singola, personalizzata prima pagina</5> delle vostre notizie preferite, articoli e memi.",
+    "lemmy_long_desc": "Lemmy è una piattaforma di aggregazione e discussione di link sociali autogestita. È completamente libera e aperta e non è controllata da alcuna azienda. Significa che non ci sono pubblicità, tracciamenti o algoritmi segreti. I contenuti sono organizzati in comunità, per cui è facile iscriversi agli argomenti che interessano e ignorare gli altri. Le votazioni vengono utilizzate per portare in cima gli articoli più interessanti.",
     "open_source": "Open Source",
     "blazing_fast": "Fiammeggiante veloce",
     "open_source_desc": "Lemmy è e rimarrà sempre software libero e <1>open source</1>, utilizzando la licenza <3>AGPL</3> con <2>copyleft</2> forte.",
@@ -61,5 +61,16 @@
     "support_title": "Lemmy - Supporta",
     "thanks_translators": "Un grazie speciale ad i nostri traduttori: ",
     "thanks_coders": "Un grazie speciale ad i nostri sviluppatori: ",
-    "apply_to_join": "Richiedi di Partecipare"
+    "apply_to_join": "Richiedi di Partecipare",
+    "self_hostable": "Semplice da self-hostare attraverso <1>Docker</1> oppure <2>Ansible</2>.",
+    "mobile_apps_for_ios_and_android": "Applicazioni per smartphone iOS e Android.",
+    "donate": "Donazioni",
+    "gold_pressed_latinum_sponsors_desc": "Gli sponsor Gold Pressed Latinum sono quelli che hanno donato 500 dollari o più a Lemmy.",
+    "gold_sponsors_desc": "Gli sponsor Gold sono quelli che hanno donato almeno 100 dollari a Lemmy.",
+    "contributers": "Contributori",
+    "instance_totals": "Il <i>lemmyverso</i> ha attualmente {{instances}} istanze e {{users}} utenti.",
+    "users": "utenti",
+    "about": "Info",
+    "about_title": "Informazioni su Lemmy",
+    "add_weblate": "Puoi aggiungere e modificare traduzioni su <1>weblate</1>."
 }
