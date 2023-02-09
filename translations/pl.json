@@ -453,5 +453,17 @@
     "emoji": "Emoji",
     "column_alttext": "Tekst alternatywnt",
     "custom_emojis": "Niestandardowe emoji",
-    "listing_type": "Rodzaj listowania"
+    "listing_type": "Rodzaj listowania",
+    "custom_emoji_save_validation": "Wszystkie pola muszą być wypełnione, a skrócony kod nie może być duplikatem innego kodu.",
+    "add_tagline": "Dodaj slogan",
+    "taglines": "Slogany",
+    "application_email_admins": "Wysyłanie wiadomości e-mail do administratorów o otrzymaniu nowych podań",
+    "column_keywords": "Słowa kluczowe (odzielone spacją)",
+    "add_custom_emoji": "Dodaj niestandardowe emoji",
+    "federation_debug": "Tryb debugowania federacji",
+    "actor_name_max_length": "Maksymalna długość nazwy aktora",
+    "federation_strict_allowlist": "Ścisła lista dozwolonych federacji",
+    "federation_http_fetch_retry_limit": "Limit ponownych ponownych prób pobierania HTTP federacji",
+    "hide_modlog_mod_names": "Ukryj nazwy moderatorów w dzienniku",
+    "purge_success": "Element został pomyślnie wyczyszczony."
 }
