@@ -465,5 +465,11 @@
     "custom_emojis": "Custom Emojis",
     "emojis": "Emojis",
     "emoji": "Emoji",
-    "site": "Site"
+    "site": "Site",
+    "missing_totp_token": "TOTP token is missing",
+    "incorrect_totp_token": "Incorrect TOTP token",
+    "set_up_2fa": "Set up 2-factor authentication",
+    "2fa_link": "2FA installation link",
+    "2fa_setup_instructions": "After you click save, and the page reloads, scroll down and click '2FA installation link' to add it to your authenticator.",
+    "remove_2fa": "Remove 2-factor authentication"
 }
