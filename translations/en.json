@@ -121,6 +121,7 @@
     "restore": "restore",
     "ban": "ban",
     "ban_from_site": "ban from site",
+    "ban_from_community": "ban from community",
     "unban": "unban",
     "unban_from_site": "unban from site",
     "banned": "banned",
