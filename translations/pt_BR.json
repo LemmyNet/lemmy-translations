@@ -412,7 +412,7 @@
     "x_more_replies_plural": "mais {{formattedCount}} respostas",
     "too_many_images_upload": "O limite de {{formattedCount}} imagem para upload foi ultrapassado. Selecione apenas uma imagem, por favor.",
     "too_many_images_upload_plural": "O limite de {{formattedCount}} imagens para upload foi ultrapassado. Selecione menos imagens, por favor.",
-    "application_email_admins": "Enviar e-mail para Admins quando receber novas solicitações",
+    "application_email_admins": "Enviar e-mail para Admins ao receber novas solicitações",
     "view_all_comments": "Ver todos os comentários",
     "undistinguish": "falar como usuárie",
     "filter_by_user": "Filtrar por usuárie",
@@ -452,5 +452,10 @@
     "column_emoji": "Emoji",
     "custom_emojis": "Emojis Customizados",
     "emojis": "Emojis",
-    "emoji": "Emoji"
+    "emoji": "Emoji",
+    "site": "Site",
+    "not_top_admin": "Não é Admin Principal.",
+    "ban_from_community": "banir da comunidade",
+    "undetermined_language_warning": "Aviso: Se 'Undetermined' não estiver selecionado, você não verá a maior parte dos conteúdos.",
+    "reports_email_admins": "Enviar e-mail para Admins ao receber novas denúncias"
 }
