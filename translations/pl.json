@@ -465,5 +465,14 @@
     "federation_strict_allowlist": "Ścisła lista dozwolonych federacji",
     "federation_http_fetch_retry_limit": "Limit ponownych ponownych prób pobierania HTTP federacji",
     "hide_modlog_mod_names": "Ukryj nazwy moderatorów w dzienniku",
-    "purge_success": "Element został pomyślnie wyczyszczony."
+    "purge_success": "Element został pomyślnie wyczyszczony.",
+    "two_factor_token": "Token 2FA",
+    "set_up_two_factor": "Ustaw uwierzytelnianie dwuskładnikowe",
+    "site": "Strona",
+    "reports_email_admins": "Wysyłanie wiadomości e-mail do administratorów o nowych zgłoszeniach",
+    "ban_from_community": "zablokuj w społeczności",
+    "remove_two_factor": "Usuń uwierzytelnianie dwuskładnikowe",
+    "enter_two_factor_code": "Wpisz swój kod 2FA",
+    "incorrect_totp_token": "Nieprawidłowy token TOTP",
+    "missing_totp_token": "Brakuje tokenu TOTP"
 }
