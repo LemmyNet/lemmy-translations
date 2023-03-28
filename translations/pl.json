@@ -474,5 +474,7 @@
     "remove_two_factor": "Usuń uwierzytelnianie dwuskładnikowe",
     "enter_two_factor_code": "Wpisz swój kod 2FA",
     "incorrect_totp_token": "Nieprawidłowy token TOTP",
-    "missing_totp_token": "Brakuje tokenu TOTP"
+    "missing_totp_token": "Brakuje tokenu TOTP",
+    "two_factor_setup_instructions": "Po kliknięciu przycisku Zapisz i ponownym załadowaniu strony przewiń w dół i kliknij \"Link instalacyjny 2FA\", aby dodać go do swojego tokena uwierzytelniającego.",
+    "two_factor_link": "Link instalacyjny 2FA"
 }
