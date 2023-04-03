@@ -1,7 +1,7 @@
 {
     "invalid_community_name": "Μη έγκυρο όνομα.",
-    "click_to_delete_picture": "Κλικ για διαγραφή εικόνας.",
-    "picture_deleted": "Η φωτογραφία διαγράφηκε.",
+    "click_to_delete_picture": "Κλικ για διαγραφή εικόνας: {{filename}}",
+    "picture_deleted": "Η φωτογραφία διαγράφηκε: {{filename}}",
     "cross_posts": "Αυτός ο σύνδεσμος έχει επίσης δημοσιευτεί σε:",
     "create_post": "Δημιουργία δημοσίευσης",
     "create_a_post": "Δημιουργία μιας δημοσίευσης",
@@ -457,7 +457,7 @@
     "too_many_images_upload": "Υπερβήκατε το όριο της {{formattedCount}} εικόνας που μπορείτε να ανεβάσετε. Παρακαλούμε επιλέξτε μόνο μία εικόνα.",
     "too_many_images_upload_plural": "Υπερβήκατε το όριο των {{formattedCount}} εικόνων που μπορείτε να ανεβάσετε. Παρακαλούμε επιλέξτε λιγότερες εικόνες.",
     "interface_language": "Γλώσσα διεπαφής",
-    "failed_to_delete_picture": "Αποτυχία διαγραφής της εικόνας.",
+    "failed_to_delete_picture": "Αποτυχία διαγραφής της εικόνας: {{filename}}",
     "not_top_admin": "Ο χρήστης δεν είναι ανώτατος διαχειριστής.",
     "rate_limit_search": "Όριο ρυθμού αποστολής αναζητήσεων",
     "deleted_emoji": "Διαγραμμένα emoji",
