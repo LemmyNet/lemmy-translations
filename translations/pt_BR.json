@@ -457,5 +457,6 @@
     "not_top_admin": "Não é Admin Principal.",
     "ban_from_community": "banir da comunidade",
     "undetermined_language_warning": "Aviso: Se 'Undetermined' não estiver selecionado, você não verá a maior parte dos conteúdos.",
-    "reports_email_admins": "Enviar e-mail para Admins ao receber novas denúncias"
+    "reports_email_admins": "Enviar e-mail para Admins ao receber novas denúncias",
+    "pictures_uploded_progess": "{{uploaded}}/{{total}} imagens carregadas"
 }
