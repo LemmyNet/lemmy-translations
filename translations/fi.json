@@ -292,7 +292,7 @@
     "upload_banner": "Lataa banneri",
     "icon": "Kuvake",
     "upload_icon": "Lataa kuvake",
-    "leave_mod_team": "poistu yhteisön moderaattoreista",
+    "leave_mod_team": "poistu moderaattoreista",
     "name_explain": "Nimi - käytetään tunnisteena yhteisölle, ei voi muuttaa.",
     "display_name": "Näyttönimi",
     "display_name_explain": "Näyttönimi — näytetään otsikkona yhteisön sivulla, on muutettavissa.",
@@ -460,7 +460,10 @@
     "close_registration": "Sulje rekisteröinti",
     "column_category": "Luokka",
     "column_emoji": "Emoji",
-    "failed_to_delete_picture": "Kuvan poistaminen epäonnistui.",
+    "failed_to_delete_picture": "Kuvan {{filename}} poistaminen epäonnistui.",
     "rate_limit_error": "Liian paljon pyyntöjä, yritä myöhemmin uudestaan.",
-    "rate_limit_post": "Viestien lähettämisen rajoitus"
+    "rate_limit_post": "Viestien lähettämisen rajoitus",
+    "custom_emoji_save_validation": "Kaikki kentät on täydettävä eikä lyhyttä koodia voi kopioida.",
+    "column_shortcode": "Lyhyt koodi",
+    "pictures_uploded_progess": "{{uploaded}} / {{total}} kuvasta ladattu"
 }
