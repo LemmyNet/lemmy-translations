@@ -106,6 +106,7 @@
     "remove": "remove",
     "removed": "removed by mod",
     "locked": "locked",
+    "loading": "Loading",
     "stickied": "stickied",
     "reason": "Reason",
     "mark_as_read": "mark as read",
