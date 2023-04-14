@@ -276,7 +276,7 @@
     "display_name": "Prezenta nomo",
     "couldnt_create_report": "Ne povis krei raporton.",
     "join_lemmy": "Aliĝu al Lemmy",
-    "support_lemmy": "Subtenu al Lemmy",
+    "support_lemmy": "Subtenu Lemmy",
     "enter_code": "Enigu kodon",
     "report_reason_required": "Necesas kialo de raporto.",
     "report_too_long": "Raporto estas tro longa.",
@@ -343,5 +343,6 @@
     "view_all_comments": "Vidi ĉiujn komentojn",
     "distinguish": "Paroli kiel reguligisto",
     "undistinguish": "paroli kiel uzanto",
-    "instance_is_private": "Ĉi tiu nodo estas privata."
+    "instance_is_private": "Ĉi tiu nodo estas privata.",
+    "apply_to_join": "Peti por aliĝi"
 }
