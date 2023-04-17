@@ -68,9 +68,15 @@
     "support_lemmy": "Subtenu Lemmy",
     "contributers": "Kontribuintoj",
     "thanks_coders": "Specialan dankon al niaj programistoj: ",
-    "instance_totals": "La lemmyverso nuntempe havas {{instances}} nodojn kaj {{users}} uzantojn.",
+    "instance_totals": "La lemmyverso nuntempe havas {{instances}} nodojn kaj {{users}} monate aktivajn uzantojn.",
     "general_sponsors_desc": "Ĝeneralaj Sponsoroj estas tiuj, kiuj donacis inter $10 kaj $39 al Lemmy.",
     "silver_sponsors_desc": "Arĝentaj Sponsoroj estas tiuj, kiuj donacis $40 al Lemmy.",
     "support": "Subteno",
-    "choose_and_join": "Elektu kaj aliĝu al servilo el la jenaj aprobitaj serviloj."
+    "choose_and_join": "Elektu kaj aliĝu al servilo el la jenaj aprobitaj serviloj.",
+    "news": "Novaĵoj",
+    "recommended_instances": "Rekomenditaj",
+    "popular_instances": "Popularaj",
+    "cli_apps": "Komandliniaj apoj",
+    "releases": "Lemmy-eldonoj",
+    "users_active_per_month": "{{formattedCount}} uzantoj / monate"
 }
