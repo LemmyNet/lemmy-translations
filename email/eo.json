@@ -1,1 +1,18 @@
-{}
+{
+    "password_reset_subject": "Restarigo de pasvorto por {username}",
+    "password_reset_body": "<h1>Peto de restarigo de pasvorto por {username}</h1><br><a href={reset_link}>Alklaku ĉi tie por restarigi vian pasvorton</a>",
+    "email_verified_subject": "Retpoŝtadreso konfirmita por {username}",
+    "notification_post_reply_subject": "Respondo el {username}",
+    "notification_comment_reply_subject": "Respondo el {username}",
+    "notification_comment_reply_body": "<h1>Komenta respondo</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>ricevujo</a>",
+    "notification_mentioned_by_subject": "Menciita de {username}",
+    "notification_mentioned_by_body": "<h1>Homa mencio</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>ricevujo</a>",
+    "notification_private_message_subject": "Privata mesaĝo el {username}",
+    "notification_private_message_body": "<h1>Privata mesaĝo</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>ricevujo</a>",
+    "notification_post_reply_body": "<h1>Afiŝa respondo</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>ricevujo</a>",
+    "registration_approved_subject": "Aliĝo aprobita por {username}",
+    "registration_approved_body": "Via aliĝpeto estis aprobita. Bonvenon al {hostname}!",
+    "verify_email_subject": "Konfirmu vian retpoŝtadreson por {hostname}",
+    "verify_email_body": "Bonvolu alklaki la jenan ligilon por konfirmi vian retpoŝtadreson por la konto @{username}@{hostname}. Ignoru ĉi tiun retleteron, se la konto ne estas via.<br><br>, <a href=\"{verify_link}\">Konfirmi vian retpoŝtadreson</a>",
+    "email_verified_body": "Via retpoŝtadreso estis konfirmita."
+}
