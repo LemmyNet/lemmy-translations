@@ -64,7 +64,7 @@
     "contributers": "Contribuyentes",
     "thanks_translators": "Un agradecimiento especial a nuestros traductores: ",
     "thanks_coders": "Un agradecimiento especial a nuestros programadores: ",
-    "instance_totals": "El lemmyverse tiene actualmente {{instances}} instancias, y {{users}} usuarios.",
+    "instance_totals": "El lemmyverso tiene actualmente {{instances}} instancias y {{users}} usuarios mensualmente activos.",
     "users": "usuarios",
     "month": "mes",
     "about_title": "Acerca de Lemmy",
@@ -73,5 +73,11 @@
     "apply_to_join": "Solicita tu inscripción",
     "donate": "Donar",
     "gold_pressed_latinum_sponsors_desc": "Los patrocinadores del «Latinum Prensado de Oro» son aquellos que se comprometieron a donar 500 dólares o más a Lemmy.",
-    "gold_sponsors_desc": "Los patrocinadores de «Oro» son los que se comprometieron a aportar 100 dólares a Lemmy."
+    "gold_sponsors_desc": "Los patrocinadores de «Oro» son los que se comprometieron a aportar 100 dólares a Lemmy.",
+    "cli_apps": "Aplicaciones de terminal",
+    "news": "Noticias",
+    "releases": "Publicaciones de Lemmy",
+    "recommended_instances": "Recomendadas",
+    "popular_instances": "Populares",
+    "users_active_per_month": "{{formattedCount}} usuarios / mes"
 }
