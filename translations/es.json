@@ -254,7 +254,7 @@
     "leave_mod_team": "dejar el equipo de moderación",
     "name_explain": "Nombre – usado como identificador de la comunidad, no puede ser cambiado.",
     "display_name_explain": "Nombre de pantalla – se muestra como el título en la página de la comunidad, puede ser cambiado.",
-    "invalid_password": "Contraseña no válida. La contraseña debe ser <= 60 carácteres.",
+    "invalid_password": "Contraseña inválida. La contraseña debe tener entre 10 y 60 caracteres.",
     "not_a_moderator": "No eres moderador.",
     "captcha_incorrect": "Captcha incorrecto.",
     "play_captcha_audio": "Reproducir Audio Captcha",
@@ -412,5 +412,12 @@
     "filter_by_action": "Filtrar por acción",
     "filter_by_mod": "Filtrar por moderador",
     "filter_by_user": "Filtrar por usuario",
-    "hide_modlog_mod_names": "Esconder nombres de moderador del registro de moderación"
+    "hide_modlog_mod_names": "Esconder nombres de moderador del registro de moderación",
+    "ban_from_community": "expulsar de comunidad",
+    "pictures_uploded_progess": "{{uploaded}}/{{total}} imágenes subidas",
+    "interface_language": "Idioma de la interfaz",
+    "undetermined_language_warning": "Advertencia: si",
+    "too_many_images_upload": "Excedido el máximo de {{formattedCount}} subida de imágenes. Por favor, selecciona solo una imagen.",
+    "too_many_images_upload_plural": "Excedido el máximo de {{formattedCount}} subidas de imágenes. Por favor, selecciona menos imágenes.",
+    "failed_to_delete_picture": "Fallo al eliminar imagen: {{filename}}"
 }
