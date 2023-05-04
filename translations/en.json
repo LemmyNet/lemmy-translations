@@ -136,6 +136,7 @@
     "purge_community": "purge community",
     "purge_user": "purge user",
     "purge_warning": "Warning: Purging will delete this item, and all its children from the database. You will not be able to recover the data. Use with extreme caution.",
+    "modlog_content_warning": "<1>CONTENT WARNING</1>: Some deleted posts may contain disturbing or adult material. Proceed with caution.",
     "purge_success": "The item has been successfully purged.",
     "save": "save",
     "unsave": "unsave",
