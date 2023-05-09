@@ -250,7 +250,7 @@
     "what_is": "Qué es",
     "bold": "negrita",
     "strikethrough": "tachado",
-    "must_login": "Necesita<1>iniciar sesión o registrarse</1> para comentar.",
+    "must_login": "Necesita <1>iniciar sesión o registrarse</1> para comentar.",
     "cake_day_info": "¡Hoy es el día en el que se inscribió {{ creator_name }}!",
     "leave_mod_team": "dejar el equipo de moderación",
     "name_explain": "Nombre – usado como identificador de la comunidad, no puede ser cambiado.",
@@ -473,5 +473,8 @@
     "custom_emojis": "Emoticonos personalizados",
     "emojis": "Emoticonos",
     "emoji": "Emoticono",
-    "site": "Sitio"
+    "site": "Sitio",
+    "community_not_logged_in_alert": "No has iniciado sesión. Sin embargo, puedes suscribirte desde otra cuenta del fediverso; por ejemplo, Lemmy o Mastodon. Para hacerlo, pega lo siguiente en el campo de búsqueda de tu nodo: !{{community}}@{{instance}}",
+    "profile_not_logged_in_alert": "No has iniciado sesión. Si usas una cuenta del fediverso capaz de seguir a usuarios, puedes seguir a este usuario.",
+    "modlog_content_warning": "<1>ADVERTENCIA SOBRE EL CONTENIDO</1>: Algunas publicaciones borradas pueden incluir contenido perturbador o para adultos. Continúa con cautela."
 }

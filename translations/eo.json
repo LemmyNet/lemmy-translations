@@ -473,5 +473,8 @@
     "default_theme": "Implicita haŭto",
     "lemmy_ml_registration_message": "Antaŭ ol vi registru en lemmy.ml, bonvolu rigardi <1>Joinlemmy</1> por vidi, ĉu estas nodo, kiu pli bone adaptas al viaj regiono, lingvo aŭ interesoj. Lemmy estas federacia, do vi povas interagi kun ĉio, kion vi vidas en lemmy.ml, eĉ se vi estas registrita en alia nodo.",
     "legal_information": "Leĝa informo",
-    "hide_modlog_mod_names": "Kaŝi nomojn de administrantoj en la administrada protokolo"
+    "hide_modlog_mod_names": "Kaŝi nomojn de administrantoj en la administrada protokolo",
+    "community_not_logged_in_alert": "Vi ne estas ensalutita. Tamen vi povas aboni el alia fediversa konto, ekzemple Lemmy aŭ Mastodon. Por fari tion algluu la jenon en la serĉa kampo de via nodo: !{{community}}@{{instance}}",
+    "profile_not_logged_in_alert": "Vi ne estas ensalutita. Se vi uzas fediversan-konton, kiu kapablas sekvi uzantojn, vi povas sekvi ĉi tiun uzanton.",
+    "modlog_content_warning": "<1>ENHAVA AVERTO</1>: Iuj forigitaj afiŝoj povas enhavi maltrankviligan aŭ plenkreskulan enhavon. Daŭrigu singarde."
 }
