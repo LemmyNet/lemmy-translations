@@ -473,6 +473,8 @@
     "emojis": "Emojis",
     "emoji": "Emoji",
     "site": "Site",
+    "software": "Software",
+    "version": "Version",
     "missing_totp_token": "TOTP token is missing",
     "incorrect_totp_token": "Incorrect TOTP token",
     "set_up_two_factor": "Set up 2-factor authentication",
