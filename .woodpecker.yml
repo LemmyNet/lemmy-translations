@@ -1,0 +1,13 @@
+pipeline:
+  prettier_markdown_check:
+    image: tmknom/prettier
+    commands:
+      - prettier -c .
+
+  notify_on_failure:
+    image: alpine:3
+    commands:
+      - apk add curl
+      - "curl -d'CI build failed: ${CI_BUILD_LINK}' ntfy.sh/lemmy_drone_ci"
+    when:
+      status: [failure]
