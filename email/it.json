@@ -1,13 +1,13 @@
 {
-    "registration_approved_subject": "Registrazione approvata per {username}",
-    "registration_approved_body": "La tua richiesta di registrazione è stata approvata. Benvenuto in {hostname}!",
-    "password_reset_subject": "Password ripristinata per {username}",
-    "password_reset_body": "<h1>Ripristino password richiesta da {username}</h1><br><a href={reset_link}>Clicca qui per ripristinare la sua password</a>",
-    "verify_email_subject": "Verifica il tuo indirizzo email per {hostname}",
-    "verify_email_body": "Per favore clicca sul link sottostante per verificare l'indirizzo email dell'account @{username}@{hostname}. Ignora questa email se questo account non è tuo.<br><br>, <a href=\"{verify_link}\">Verifica la tua email</a>",
-    "email_verified_subject": "Email verificata per {username}",
-    "email_verified_body": "La tua email è stata verificata.",
-    "notification_post_reply_subject": "Risposta da {username}",
-    "notification_post_reply_body": "<h1>Invia risposta</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>inbox</a>",
-    "notification_comment_reply_subject": "Risposta da {username}"
+  "registration_approved_subject": "Registrazione approvata per {username}",
+  "registration_approved_body": "La tua richiesta di registrazione è stata approvata. Benvenuto in {hostname}!",
+  "password_reset_subject": "Password ripristinata per {username}",
+  "password_reset_body": "<h1>Ripristino password richiesta da {username}</h1><br><a href={reset_link}>Clicca qui per ripristinare la sua password</a>",
+  "verify_email_subject": "Verifica il tuo indirizzo email per {hostname}",
+  "verify_email_body": "Per favore clicca sul link sottostante per verificare l'indirizzo email dell'account @{username}@{hostname}. Ignora questa email se questo account non è tuo.<br><br>, <a href=\"{verify_link}\">Verifica la tua email</a>",
+  "email_verified_subject": "Email verificata per {username}",
+  "email_verified_body": "La tua email è stata verificata.",
+  "notification_post_reply_subject": "Risposta da {username}",
+  "notification_post_reply_body": "<h1>Invia risposta</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>inbox</a>",
+  "notification_comment_reply_subject": "Risposta da {username}"
 }
