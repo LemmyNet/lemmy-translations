@@ -1,5 +1,5 @@
 {
-    "registration_approved_subject": "Registo de {username} aprovado",
+    "registration_approved_subject": "Registro de {username} aprovado",
     "registration_approved_body": "A sua solicitação de registro foi aprovada. Boas-vindas a {hostname}!",
     "password_reset_body": "<h1>Pedido de redefinição de senha de {username}</h1><br><a href=\"{reset_link}\">Clique aqui para redefinir a sua senha</a>",
     "password_reset_subject": "Redefinição de senha de {username}",
