@@ -228,6 +228,7 @@
   "error_page_title": "Error!",
   "error_page_paragraph": "There was an error on the server. Try refreshing your browser. If that doesn't work, come back at a later time. If the problem persists, you can seek help in the <1>Lemmy support community</1> or <1>Lemmy Matrix room</1>.",
   "error_page_admin_matrix": "If you would like to reach out to one of {{instance}} admins for support, try the following Matrix addresses:",
+  "error_code_message": "The server returned this error: <1>{{error}}</1>. This may be useful for admins and developers to diagnose and fix the error",
   "not_found_page_title": "Page Not Found",
   "not_found_page_message": "The page you are looking for does not exist.",
   "not_found_return_home_button": "Click here to return to your homepage",
