@@ -68,14 +68,15 @@
     "month": "月",
     "about": "Lemmyについて",
     "about_title": "Lemmyについて",
-    "instance_totals": "現在、lemmyverseは{{instances}}インスタンスと{{users}}ユーザーで構成されています。",
+    "instance_totals": "現在、lemmyverseは{{instances}}インスタンスと{{users}}月間アクティブユーザーで構成されています。",
     "donate": "寄付",
     "gold_pressed_latinum_sponsors_desc": "Gold Pressed Latinumスポンサーは、Lemmyに500ドル以上の支援をして下さったスポンサーです。",
-    "mobile_apps_for_ios_and_android": "iOSとAndroid向けのスマートフォンアプリ",
+    "mobile_apps_for_ios_and_android": "iOSとAndroid向けのスマートフォンアプリ。",
     "apply_to_join": "参加を申し込む",
     "gold_sponsors_desc": "ゴールドスポンサーは、Lemmyに100ドルの支援をして下さったスポンサーです。",
     "news": "ニュース",
     "recommended_instances": "お勧め",
     "popular_instances": "人気",
-    "users_active_per_month": "{{formattedCount}} ユーザー / 月"
+    "users_active_per_month": "{{formattedCount}} ユーザー / 月",
+    "releases": "Lemmyのリリース"
 }
