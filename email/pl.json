@@ -5,14 +5,18 @@
     "email_verified_subject": "Adres e-mail został zweryfikowany dla {username}",
     "email_verified_body": "Twój adres e-mail został zweryfikowany.",
     "notification_post_reply_subject": "Odpowiedź od {username}",
-    "notification_post_reply_body": "<h1>Odpowiedź na wpis</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>skrzynka odbiorcza</a>",
+    "notification_post_reply_body": "<h1>Odpowiedź na wpis</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
     "notification_comment_reply_subject": "Odpowiedź od {username}",
-    "notification_comment_reply_body": "<h1>Odpowiedź na komentarz</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>skrzynka odbiorcza</a>",
+    "notification_comment_reply_body": "<h1>Odpowiedź na komentarz</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
     "notification_mentioned_by_subject": "Wzmianka od {username}",
     "notification_private_message_subject": "Wiadomość prywatna od {username}",
-    "notification_private_message_body": "<h1>Wiadomość prywatna</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>skrzynka odbiorcza</a>",
+    "notification_private_message_body": "<h1>Wiadomość prywatna</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
     "registration_approved_subject": "Rejestracja zatwierdzona dla {username}",
-    "password_reset_body": "<h1>Prośba o zresetowanie hasła dla {username}</h1><br><a href={reset_link}>Kliknij tutaj, aby zresetować hasło</a>",
+    "password_reset_body": "<h1>Prośba o zresetowanie hasła dla {username}</h1><br><a href=\"{reset_link}\">Kliknij tutaj, aby zresetować hasło</a>",
     "verify_email_body": "Kliknij poniższy link, aby zweryfikować swój adres e-mail dla konta @{username}@{hostname}. Zignoruj ten e-mail, jeśli konto nie należy do Ciebie. <br><br> <a href=\"{verify_link}\">Zweryfikuj swój adres e-mail</a>",
-    "notification_mentioned_by_body": "<h1>Wzmianka o Tobie</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>skrzynka odbiorcza</a>"
+    "notification_mentioned_by_body": "<h1>Wzmianka o Tobie</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
+    "registration_denied": "Rejestracja odrzucona",
+    "application_question_required": "Musisz dodać kwestionariusz aplikacyjny jeżeli aplikacja jest wymagana.",
+    "new_application_subject": "{username} chce dołączyć do {hostname}",
+    "new_report_subject": "Nowe zgłoszenie na {reported_username} stworzone przez {reporter_username} na {hostname}"
 }
