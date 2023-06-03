@@ -1,1 +1,24 @@
-{}
+{
+    "registration_approved_subject": "Έγκριση εγγραφής για {username}",
+    "registration_approved_body": "Η αίτηση εγγραφής σας μόλις εγκρίθηκε. Καλωσήρθατε στο {hostname}!",
+    "registration_denied": "Απόρριψη εγγραφής",
+    "password_reset_subject": "Επαναφορά κωδικού πρόσβασης για {username}",
+    "verify_email_subject": "Επιβεβαιώστε την ηλεκτρονική διεύθυνσή σας για το {hostname}",
+    "email_verified_subject": "Επιβεβαίωση εγγραφής για {username}",
+    "email_verified_body": "Η ηλεκτρονική διεύθυνσή σας μόλις επιβεβαιώθηκε.",
+    "notification_comment_reply_subject": "Απάντηση από {username}",
+    "notification_comment_reply_body": "<h1>Απάντηση σχολίου</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
+    "notification_mentioned_by_subject": "Αναφορά από {username}",
+    "notification_private_message_subject": "Ιδιωτικό μήνυμα από {username}",
+    "new_application_subject": "{username} αιτήθηκε να γίνει μέλος στο {hostname}",
+    "new_application_body": "Παρακαλούμε πατήστε τον παρακάτω σύνδεσμο για να προβάλετε την αίτηση .<br><br><a href=\"{applications_link}\">Προβολή αιτήσεων</a>",
+    "new_report_subject": "Νέα αναφορά χρήστη από {reporter_username} για {reported_username} στο {hostname}",
+    "new_report_body": "Παρακαλούμε πατήστε τον παρακάτω σύνδεσμο για να προβάλετε όλες τις αναφορές.<br><br><a href=\"{reports_link}\">Προβολή αναφορών</a>",
+    "application_question_required": "Θα πρέπει να προσθέσετε ενα ερωτηματολόγιο στην αίτηση εάν είναι απαραίτητες οι αιτήσεις.",
+    "password_reset_body": "<h1>Αίτημα επαναφοράς κωδικού πρόσβασης για {username}</h1><br><a href=\"{reset_link}\">Πατήστε εδώ για να επαναφέρετε τον κωδικό σας</a>",
+    "verify_email_body": "Παρακαλούμε πατήστε τον παρακάτω σύνδεσμο για να επιβεβαιώσετε την ηλεκτρονική διεύθυνσή σας για τον λογαριασμό @{username}@{hostname}. Αγνοήστε αυτό το email εάν ο λογαριασμός δεν είναι δικός σας.<br><br>, <a href=\"{verify_link}\">Επιβεβαιώστε την ηλεκτρονική διεύθυνσή σας</a>",
+    "notification_post_reply_subject": "Απάντηση από {username}",
+    "notification_post_reply_body": "<h1>Απάντηση δημοσίευσης</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
+    "notification_mentioned_by_body": "<h1>Αναφορά χρήστη</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
+    "notification_private_message_body": "<h1>Ιδιωτικό μήνυμα</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>"
+}
