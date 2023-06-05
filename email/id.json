@@ -14,5 +14,11 @@
     "notification_mentioned_by_subject": "Disebut oleh {username}",
     "notification_mentioned_by_body": "<h1>Penyebutan</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>kotak masuk</a>",
     "notification_private_message_subject": "Pesan pribadi dari {username}",
-    "notification_private_message_body": "<h1>Pesan pribadi</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>kotak masuk</a>"
+    "notification_private_message_body": "<h1>Pesan pribadi</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>kotak masuk</a>",
+    "registration_denied": "Pendaftaran ditolak",
+    "application_question_required": "Kamu harus menambahkan pertanyaan aplikasi jika aplikasi diperlukan.",
+    "new_application_subject": "{username} telah mendaftar untuk masuk {hostname}",
+    "new_application_body": "Silakan klik tautan di bawah ini untuk melihat aplikasi mereka.<br><br><a href=\"{applications_link}\">Lihat Aplikasi</a>",
+    "new_report_subject": "Laporan baru dibuat oleh {reporter_username} untuk {reported_username} di {hostname}",
+    "new_report_body": "Silakan klik tautan di bawah ini untuk melihat seluruh laporan.<br><br><a href=\"{reports_link}\">Lihat Laporan</a>"
 }
