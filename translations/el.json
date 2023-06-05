@@ -63,7 +63,7 @@
   "contributers": "Συντελεστές",
   "thanks_translators": "Ιδιαίτερες ευχαριστίες στους μεταφραστές μας: ",
   "thanks_coders": "Ιδιαίτερες ευχαριστίες στους προγραμματιστές μας: ",
-  "instance_totals": "Το σύμπαν lemmy έχει αυτή τη στιγμή {{instances}} διακομιστές και {{users}} χρήστες.",
+  "instance_totals": "Το σύμπαν lemmy έχει αυτή τη στιγμή {{instances}} διακομιστές και {{users}} ενεργούς χρήστες ανά μήνα.",
   "users": "χρήστες",
   "month": "μήνα",
   "about": "Σχετικά",
@@ -73,5 +73,11 @@
   "donate": "Δωρεά",
   "apply_to_join": "Αίτηση προς εγγραφή",
   "gold_sponsors_desc": "Χρυσοί χορηγοί είναι όσοι προσέφεραν $100 στο Lemmy.",
-  "gold_pressed_latinum_sponsors_desc": "Χορηγοί Χρυσοτυπωμένου Λάτινουμ είναι όσοι προσέφεραν $500 ή περισσότερα στο Lemmy."
+  "gold_pressed_latinum_sponsors_desc": "Χορηγοί Χρυσοτυπωμένου Λάτινουμ είναι όσοι προσέφεραν $500 ή περισσότερα στο Lemmy.",
+  "cli_apps": "Εφαρμογές CLI/TUI",
+  "news": "Ειδήσεις",
+  "recommended_instances": "Προτεινόμενα",
+  "popular_instances": "Δημοφιλή",
+  "users_active_per_month": "{{formattedCount}} χρήστες / μήνα",
+  "releases": "Κυκλοφορίες lemmy"
 }
