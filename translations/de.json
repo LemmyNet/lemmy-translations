@@ -3,7 +3,7 @@
     "lemmy": "Lemmy",
     "blazing_fast": "Rasend schnell",
     "open_source": "Quelloffen",
-    "open_source_desc": "Lemmy ist und bleibt für immer eine kostenlose, <1>quelloffene</1> Software, die die starke <2>copyleft</2> <3>AGPL Lizenz</3> nutzt.",
+    "open_source_desc": "Lemmy ist und bleibt für immer eine kostenlose, <1>quelloffene</1> Software, welche die starke <2>copyleft</2> <3>AGPL Lizenz</3> nutzt.",
     "mod_tools": "Mächtige Modtools",
     "lemmy_desc": "Ein Link Aggregator für das Fediverse.",
     "blazing_fast_desc": "Gemacht mit ein paar der schnellsten Frameworks und Werkzeuge, darunter <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, und <5>Typescript</5>.",
@@ -31,8 +31,8 @@
     "apps": "Anwendung",
     "sponsors_title": "Lemmy - Sponsoren",
     "donate_to_lemmy": "Spende an Lemmy",
-    "silver_sponsors_desc": "Silber Sponsoren sind die, die $40 an Lemmy gespendet haben.",
-    "general_sponsors_desc": "Allgemeine Sponsoren sind die, die $10 bis $39 an Lemmy gespendet haben.",
+    "silver_sponsors_desc": "Silber Sponsoren sind diejenigen, die $40 an Lemmy gespendet haben.",
+    "general_sponsors_desc": "Allgemeine Sponsoren sind diejenigen, die $10 bis $39 an Lemmy gespendet haben.",
     "join_a_server": "Einem Server beitreten",
     "follow_communities": "Folge Communities überall in der Welt",
     "lemmy_long_desc": "<1>Lemmy</1> ist eine selbst gehostete Plattform zur Sammlung sozialer links und zur Diskussion. Es ist vollkommen kostenlos und frei und wid nicht durch eine Firma kontrolliert. Dies bedeutet, dass es keine Werbung, kein Tracking und keine geheimen Algorithmen gibt. Inhalte sind in Communities organisiert, damit man einfach Themen folgen kann, für die man sich interessiert, und andere ignorieren kann. Durch Abstimmungen werden die interessantesten Inhalte an die Spitze gebracht.",
@@ -77,5 +77,6 @@
     "mobile_apps_for_ios_and_android": "Mobile Anwendungen für iOS und Android.",
     "gold_sponsors_desc": "Gold Sponsoren sind diejenigen, die mehr als 100$ an Lemmy gespendet haben.",
     "thanks_translators": "Ein besonderer Dank an unsere Übersetzer: ",
-    "thanks_coders": "Ein besonderer Dank an unsere Programmierer "
+    "thanks_coders": "Ein besonderer Dank an unsere Programmierer ",
+    "gold_pressed_latinum_sponsors_desc": "\"Gold Pressed Latinum\" Sponsoren sind diejenigen, die $500 oder mehr an Lemmy gespendet haben."
 }
