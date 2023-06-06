@@ -57,7 +57,7 @@
   "rss_feeds": "RSS/Atom iturriak <1>Guztiak</1>, <2>Harpidetuak</2>, <3>Postontzia</3>, <4>Erabiltzailea</4>, eta <5>Komunitatea</5>.",
   "api_libraries": "API liburutegiak",
   "donate_desc": "Lemmy software librea eta kode irekia da, eta horrek esan nahi du ez dagoela publizitaterik, monetizaziorik edo arrisku-kapitalik, inoiz ez. <1>Zure dohaintzek</1> zuzenean babesten dute proiektuaren lanaldi osoko garapena.",
-  "instance_totals": "Lemmybertsoak orain {{instances}} instantzia eta {{users}} erabiltzaile ditu.",
+  "instance_totals": "Lemmybertso osoa izango duzu eskura edozein zerbitzari/instantzia hautatzen duzula ere. Lemmybertsoak orain {{instances}} instantzia eta {{users}} erabiltzaile ditu.",
   "support": "Euskarria",
   "support_title": "Lemmy - Euskarria",
   "support_lemmy": "Lagundu Lemmyri",

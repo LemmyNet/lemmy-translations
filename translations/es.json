@@ -64,7 +64,7 @@
   "contributers": "Contribuyentes",
   "thanks_translators": "Un agradecimiento especial a nuestros traductores: ",
   "thanks_coders": "Un agradecimiento especial a nuestros programadores: ",
-  "instance_totals": "El lemmyverso tiene actualmente {{instances}} instancias y {{users}} usuarios mensualmente activos.",
+  "instance_totals": "Puedes acceder a todo el contenido del lemmyverso desde cualquier servidor/instancia. El lemmyverso tiene actualmente {{instances}} instancias y {{users}} usuarios mensualmente activos.",
   "users": "usuarios",
   "month": "mes",
   "about_title": "Acerca de Lemmy",
