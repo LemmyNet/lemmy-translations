@@ -1,5 +1,4 @@
 {
-  "post": "beitragen",
   "remove_post": "Beitrag löschen",
   "no_posts": "Keine Beiträge.",
   "create_a_post": "Erstelle einen Beitrag",
@@ -25,6 +24,7 @@
   "number_of_communities": "{{formattedCount}} Community",
   "number_of_communities_plural": "{{formattedCount}} Communitys",
   "community_reqs": "Kleinbuchstaben, Großbuchstaben und keine Leerzeichen.",
+  "post": "beitragen",
   "edit": "editieren",
   "reply": "antworten",
   "cancel": "Abbrechen",
