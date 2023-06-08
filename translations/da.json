@@ -73,5 +73,7 @@
     "add_weblate": "Du kan tilføje oversættelser på vores <1>weblate-side</1>.",
     "popular_instances": "Populære",
     "recommended_instances": "Anbefalede",
-    "users_active_per_month": "{{formattedCount}} brugere om måneden"
+    "users_active_per_month": "{{formattedCount}} brugere om måneden",
+    "instance_browser": "Efter du har oprettet dig, kan du finde fællesskaber på tværs af alle servere ved at bruge",
+    "instance_comparison": "For en mere detaljeret sammenligning af Lemmyservere, se"
 }
