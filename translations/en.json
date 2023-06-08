@@ -68,6 +68,8 @@
   "thanks_translators": "A special thanks to our translators: ",
   "thanks_coders": "A special thanks to our coders: ",
   "instance_totals": "You can access all content in the lemmyverse from any server/instance. The lemmyverse currently has {{instances}} instances, and {{users}} monthly active users.",
+  "instance_comparison": "For a more detailed comparison of Lemmy instances, see",
+  "instance_browser": "After you create an account, you can find communites across all instances using",
   "news": "News",
   "releases": "Lemmy Releases",
   "add_weblate": "You can add translations via our <1>weblate</1>.",
