@@ -79,5 +79,7 @@
     "recommended_instances": "Recomendadas",
     "news": "Notícias",
     "popular_instances": "Populares",
-    "users_active_per_month": "{{formattedCount}} utilizadores / mês"
+    "users_active_per_month": "{{formattedCount}} utilizadores / mês",
+    "instance_browser": "Depois de criares uma conta, podes encontrar comunidades de todas as instâncias usando",
+    "instance_comparison": "Para uma comparação mais detalhada das instâncias de Lemmy, ver"
 }
