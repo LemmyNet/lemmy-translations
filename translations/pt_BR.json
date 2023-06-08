@@ -77,5 +77,7 @@
     "news": "Notícias",
     "recommended_instances": "Recomendadas",
     "popular_instances": "Populares",
-    "users_active_per_month": "{{formattedCount}} usuáries / mês"
+    "users_active_per_month": "{{formattedCount}} usuáries / mês",
+    "instance_browser": "Depois de criar uma conta, você pode procurar por comunidades de todas as instâncias usando",
+    "instance_comparison": "Para uma comparação mais detalhada entre as instâncias Lemmy, veja"
 }
