@@ -6,7 +6,7 @@
   "password_reset_subject": "Password reset for {username}",
   "password_reset_body": "<h1>Password Reset Request for {username}</h1><br><a href=\"{reset_link}\">Click here to reset your password</a>",
   "verify_email_subject": "Verify your email address for {hostname}",
-  "verify_email_body": "Please click the link below to verify your email address for the account @{username}@{hostname}. Ignore this email if the account isn't yours.<br><br>, <a href=\"{verify_link}\">Verify your email</a>",
+  "verify_email_body": "Please click the link below to verify your email address for the account @{username}@{hostname}. Ignore this email if the account isn't yours.<br><br><a href=\"{verify_link}\">Verify your email</a>",
   "email_verified_subject": "Email verified for {username}",
   "email_verified_body": "Your email has been verified.",
   "notification_post_reply_subject": "Reply from {username}",
