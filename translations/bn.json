@@ -104,5 +104,6 @@
   "delete_account_confirm": "সতর্কতা:",
   "only_mods_can_post_in_community": "এই কমিউনিটিতে শুধুমাত্র মডারেটরগণ পোস্ট করতে পারবেন",
   "leave_admin_team": "এডমিন টিম পরিত্যাগ করুন",
-  "left_admin_team": "আপনি এডমিন টিম পরিত্যাগ করেছেন"
+  "left_admin_team": "আপনি এডমিন টিম পরিত্যাগ করেছেন",
+  "jump_to_content": "বিষয়বস্তুতে যাও"
 }

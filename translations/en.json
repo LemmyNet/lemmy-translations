@@ -488,5 +488,6 @@
   "two_factor_link": "2FA installation link",
   "two_factor_setup_instructions": "After you click save, and the page reloads, scroll down and click '2FA installation link' to add it to your authenticator.",
   "remove_two_factor": "Remove 2-factor authentication",
-  "two_factor_token": "2FA Token"
+  "two_factor_token": "2FA Token",
+  "jump_to_content": "Jump to content"
 }
