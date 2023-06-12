@@ -4,7 +4,7 @@
     "password_reset_subject": "{username}rako pasahitza berrezartzea",
     "password_reset_body": "<h1>Pasahitza berrezartzeko eskaera {username}rentzat</h1><br><a href={reset_link}>Egin klik hemen zure pasahitza berrezartzeko</a>",
     "verify_email_subject": "Egiaztatu zure helbide elektronikoa {hostname}",
-    "verify_email_body": "Egin klik esteka honetan konturako helbide elektronikoa egiaztatzeko @{username}@{hostname}. Ez egin kasurik mezu honi kontua zurea ez bada.<br><br>, <a href=\"{verify_link}\">Egiaztatu zure helbide elektronikoa</a>",
+    "verify_email_body": "Egin klik esteka honetan konturako helbide elektronikoa egiaztatzeko @{username}@{hostname}. Ez egin kasurik mezu honi kontua zurea ez bada.<br><br><a href=\"{verify_link}\">Egiaztatu zure helbide elektronikoa</a>",
     "email_verified_subject": "Posta elektroniko egiaztatua {username}-rako",
     "email_verified_body": "Zure helbide elektronikoa egiaztatu da.",
     "notification_post_reply_subject": "{username}-ren erantzuna",
