@@ -264,5 +264,7 @@
     "strikethrough": "üzeri çizili",
     "list": "liste",
     "leave_mod_team": "moderatör takımından ayrıl",
-    "only_admins_can_create_communities": "Sadece yöneticiler topluluk oluşturabilirler"
+    "only_admins_can_create_communities": "Sadece yöneticiler topluluk oluşturabilirler",
+    "banner": "Afiş",
+    "bot_account": "Bot Hesabı"
 }
