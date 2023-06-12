@@ -450,5 +450,7 @@
     "purge_community": "bersihkan komunitas",
     "purge_user": "bersihkan pengguna",
     "purge_warning": "Peringatan: Membersihkan akan menghapus yang dipilih dan seluruh anaknya dari basis data. Kamu tidak dapat memulihkan data tersebut. Gunakan dengan hati-hati.",
-    "purge_success": "Berhasil dibersihkan."
+    "purge_success": "Berhasil dibersihkan.",
+    "actor_name_max_length": "Panjang nama aktor maksimal",
+    "error_page_admin_matrix": "Jika kamu menghubungi salah satu admin {{instance}} untuk dukungan, coba ikut alamat Matrix:"
 }
