@@ -400,5 +400,6 @@
     "too_many_images_upload": "超过允许上传的{{formattedCount}}张最大图片数量。请减少选择的图片数量。",
     "view_all_comments": "查看所有评论",
     "undistinguish": "作为用户发言",
-    "failed_to_delete_picture": "删除图片失败：{{filename}}"
+    "failed_to_delete_picture": "删除图片失败：{{filename}}",
+    "jump_to_content": "跳转到内容"
 }
