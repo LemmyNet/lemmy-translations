@@ -488,5 +488,6 @@
     "rate_limit_header": "Opciones de límite de frecuencia",
     "version": "Versión",
     "error_code_message": "El servidor devolvió este error: <1>{{error}}</1>. Esto puede ser útil para que administradores y desarrolladores diagnostiquen y arreglen el error",
-    "software": "Programa"
+    "software": "Programa",
+    "jump_to_content": "Saltar al contenido"
 }
