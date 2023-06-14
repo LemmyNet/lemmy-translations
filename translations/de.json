@@ -251,7 +251,7 @@
     "list": "Liste",
     "not_a_moderator": "Kein Moderator.",
     "invalid_url": "Ungültige URL.",
-    "must_login": "Du musst <1>eingeloggt oder registriert</1> sein um zu Kommentieren.",
+    "must_login": "Du musst <1>eingeloggt oder registriert</1> sein, um zu kommentieren.",
     "no_password_reset": "Du kannst dein Passwort ohne E-Mail nicht zurücksetzen.",
     "cake_day_info": "Heute ist {{ creator_name }}'s cake day!",
     "invalid_post_title": "Ungültiger Beitragstitel",
