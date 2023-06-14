@@ -490,7 +490,5 @@
   "remove_two_factor": "Remove 2-factor authentication",
   "two_factor_token": "2FA Token",
   "jump_to_content": "Jump to content",
-  "cant_enable_private_instance_if_federation_enabled": "Can't enable private instance if federation is also enabled",
-  "cant_enable_federation_if_private_instance": "Can't enable federation if private instance is also enabled"
-
+  "cant_enable_private_instance_and_federation_together": "Can't enable private instance and federation together"
 }
