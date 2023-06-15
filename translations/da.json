@@ -348,7 +348,7 @@
     "explore_communities": "Udforsk Fællesskaber",
     "trending": "Populære",
     "profile_not_logged_in_alert": "Du er ikke logget på. Du kan følge denne bruger hvis du allerede har en Fediversbruger der kan følge andre.",
-    "community_not_logged_in_alert": "Du er ikke logget på. Du kan dog abonnere fra en anden Fediversbruger, som Lemmy eller Mastodon. Tast følgende ind i søgefeltet på din egen server:",
+    "community_not_logged_in_alert": "Du er ikke logget på. Du kan dog abonnere fra en anden Fediversbruger, som Lemmy eller Mastodon. Tast følgende ind i søgefeltet på din egen server: <1>!{{community}}@{{instance}}</1>",
     "filter_by_user": "Filtrér på bruger",
     "failed_to_delete_picture": "Billedet {{filename}} kunne ikke slettes",
     "modlog_content_warning": "<1>INDHOLDSADVARSEL</1>: Slettede indlæg kan indeholde foruroligende eller pornografisk materiale. Fortsæt med forsigtighed.",

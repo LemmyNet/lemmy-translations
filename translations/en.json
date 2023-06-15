@@ -90,7 +90,7 @@
   "left_admin_team": "You have left the admin team",
   "profile": "Profile",
   "profile_not_logged_in_alert": "You are not logged in. If you use a Fediverse account that is able to follow users, you can follow this user.",
-  "community_not_logged_in_alert": "You are not logged in. However you can subscribe from another Fediverse account, for example Lemmy or Mastodon. To do this, paste the following into the search field of your instance:",
+  "community_not_logged_in_alert": "You are not logged in. However you can subscribe from another Fediverse account, for example Lemmy or Mastodon. To do this, paste the following into the search field of your instance: <1>!{{community}}@{{instance}}</1>",
   "site_config": "Site Configuration",
   "remove_as_mod": "remove as mod",
   "appoint_as_mod": "appoint as mod",

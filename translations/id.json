@@ -424,7 +424,7 @@
     "not_found_page_message": "Halaman yang kamu cari tidak ada.",
     "set_up_two_factor": "Kelola autentikasi dua faktor",
     "profile_not_logged_in_alert": "Kamu sedang tidak masuk di peladen ini. Jika kamu menggunakan sebuah akun Fediverse yang bisa mengikuti pengguna, kamu bisa mengikuti pengguna ini.",
-    "community_not_logged_in_alert": "Kamu sedang tidak masuk di peladen ini. Meskipun begitu, kamu bisa berlangganan dari akun Fediverse lainnya, seperti Lemmy atau Mastodon. Untuk berlangganan, tempel baris berikut ke bilah pencarian peladen kamu:",
+    "community_not_logged_in_alert": "Kamu sedang tidak masuk di peladen ini. Meskipun begitu, kamu bisa berlangganan dari akun Fediverse lainnya, seperti Lemmy atau Mastodon. Untuk berlangganan, tempel baris berikut ke bilah pencarian peladen kamu: <1>!{{community}}@{{instance}}</1>",
     "modlog_content_warning": "<1>PERINGATAN</1>: Beberapa pos yang dihapus mungkin mengandung sesuatu yang mengusik atau porno. Hati-hati.",
     "close_registration": "Tutup Pendaftaran",
     "reports_email_admins": "Kirim surel ke admin ketika menerima laporan baru",
