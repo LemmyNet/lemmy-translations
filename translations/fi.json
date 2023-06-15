@@ -483,7 +483,7 @@
     "version": "Versio",
     "modlog_content_warning": "<1>VAROITUS</1>:Jotkut poistetut viestit voivat sisältää häiritsevää tai aikuisille tarkoitettua materiaalia. Etene varoen.",
     "profile_not_logged_in_alert": "Et ole kirjautunut sisään. Jos käytät fediversumin tiliä, jolla voit seurata käyttäjiä, voit seurata tätä käyttäjää.",
-    "community_not_logged_in_alert": "Et ole kirjautunut sisään. Voit kuitenkin tilata muun fediversumin tilin, esimerkiksi Lemmyn tai Mastodonin kautta. Tehdäksesi näin, kopioi seuraaava instanssisi hakukenttään !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Et ole kirjautunut sisään. Voit kuitenkin tilata muun fediversumin tilin, esimerkiksi Lemmyn tai Mastodonin kautta. Tehdäksesi näin, kopioi seuraaava instanssisi hakukenttään",
     "error_code_message": "Palvelin palautti tämän virheen: <1>{{error}}</1>. Tämä voi olla hyödyllinen kehittäjile ja ylläpitäjille ongelman löytämiseksi ja korjaamiseksi",
     "rate_limit": "Rajoitus (rate limit)",
     "rate_limit_header": "Rajoituksen valinnat",

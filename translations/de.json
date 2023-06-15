@@ -382,7 +382,7 @@
     "too_many_images_upload": "Maximum von {{formattedCount}} Bild überschritten. Bitte wähle weniger Bilder aus.",
     "too_many_images_upload_plural": "Maximum von {{formattedCount}} Bildern überschritten. Bitte wähle weniger Bilder aus.",
     "distinguish": "als Moderator sprechen",
-    "community_not_logged_in_alert": "Du bist nicht angemeldet. Du kannst jedoch dieser Community von einem anderen Fediverse-Account folgen (z.B. auf Lemmy oder Mastodon). Um dies zu tun, füge bitte folgenden Link in das Suchfeld deiner Instanz ein: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Du bist nicht angemeldet. Du kannst jedoch dieser Community von einem anderen Fediverse-Account folgen (z.B. auf Lemmy oder Mastodon). Um dies zu tun, füge bitte folgenden Link in das Suchfeld deiner Instanz ein:",
     "only_mods_can_post_in_community": "Nur Moderatoren können in diese Community posten",
     "modlog_content_warning": "<1>Inhaltswarnung</1>: Manche gelöschte Beiträge könnten verstörende oder nicht jugendfreie Inhalte enthalten.",
     "error_page_paragraph": "Es gab einen Serverfehler. Versuche, die Website neu zu laden. Wenn das nicht funktioniert, komme später zurück. Falls das Problem bleibt, kannst du Hilfe in der <1>Lemmy Support Community</1> oder im <1>Lemmy Matrix Room</1> finden.",
