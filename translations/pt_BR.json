@@ -100,7 +100,7 @@
     "next": "Próximo",
     "sidebar": "Barra lateral",
     "sort_type": "Ordenação",
-    "hot": "Popular",
+    "hot": "Em alta",
     "new": "Novo",
     "old": "Velho",
     "top_day": "Melhor do dia",
@@ -472,5 +472,10 @@
     "not_found_return_home_button": "Clique aqui para voltar à usa página inicial",
     "language_select_placeholder": "Selecione língua",
     "software": "Software",
-    "version": "Versão"
+    "version": "Versão",
+    "federation_http_fetch_retry_limit": "Limite de tentativas para pedidos HTTP de federação",
+    "column_alttext": "Texto Alt",
+    "incorrect_totp_token": "Código TOTP incorreto",
+    "missing_totp_token": "Código TOTP faltando",
+    "federation_worker_count": "Número de processos de federação (\"workers\")"
 }

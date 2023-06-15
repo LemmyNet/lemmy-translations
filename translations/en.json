@@ -38,7 +38,7 @@
   "send_secure_message": "Send Secure Message",
   "send_message": "Send Message",
   "message": "Message",
-  "edit": "edit",
+  "edit": "Edit",
   "reply": "reply",
   "more": "more",
   "cancel": "Cancel",
@@ -488,5 +488,7 @@
   "two_factor_link": "2FA installation link",
   "two_factor_setup_instructions": "After you click save, and the page reloads, scroll down and click '2FA installation link' to add it to your authenticator.",
   "remove_two_factor": "Remove 2-factor authentication",
-  "two_factor_token": "2FA Token"
+  "two_factor_token": "2FA Token",
+  "jump_to_content": "Jump to content",
+  "cant_enable_private_instance_and_federation_together": "Can't enable private instance and federation together"
 }

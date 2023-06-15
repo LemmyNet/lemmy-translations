@@ -392,5 +392,6 @@
     "purge_post": "purger la publication",
     "purge_comment": "purger le commentaire",
     "purge_community": "purger la communauté",
-    "purge_user": "purger l'utilisateur·ice"
+    "purge_user": "purger l'utilisateur·ice",
+    "jump_to_content": "Aller au contenu"
 }
