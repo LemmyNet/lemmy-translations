@@ -342,7 +342,7 @@
     "not_an_admin": "Nie je administrátorom.",
     "not_top_admin": "Nie je vrchným administrátorom.",
     "not_a_moderator": "Nie je moderátorom.",
-    "community_not_logged_in_alert": "Nie ste prihlásení. Môžete však odoberať z iného účtu vo Fediverze, napríklad z platformy Lemmy alebo Mastodon. Ak to chcete urobiť, skopírujte nasledujúci text do vyhľadávacieho poľa vašej inštancie: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Nie ste prihlásení. Môžete však odoberať z iného účtu vo Fediverze, napríklad z platformy Lemmy alebo Mastodon. Ak to chcete urobiť, skopírujte nasledujúci text do vyhľadávacieho poľa vašej inštancie: <1>!{{community}}@{{instance}}</1>",
     "profile_not_logged_in_alert": "Nie ste prihlásení. Ak používate Fediverzový účet, ktorým je možné nasledovať používateľov, môžete nasledovať tohoto používateľa.",
     "removed": "odstránené moderátorom",
     "locked": "zamknuté",

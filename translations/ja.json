@@ -434,7 +434,7 @@
     "what_is": "何が",
     "application_email_admins": "新たな申請を受ける際管理者をメールで通知",
     "profile_not_logged_in_alert": "ログインしていません。ユーザーをフォローすることが可能なfediverseアカウントをお持ちであれば、このユーザーをフォローすることができます。",
-    "community_not_logged_in_alert": "ログインしていません。しかし他のfediverseアカウント（Mastodon, Lemmy等）から登録することができます。そうするには、次をインスタンスの検索欄にペーストします:!{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "ログインしていません。しかし他のfediverseアカウント（Mastodon, Lemmy等）から登録することができます。そうするには、次をインスタンスの検索欄にペーストします:<1>!{{community}}@{{instance}}</1>",
     "modlog_content_warning": "<1>-コンテンツ警告</1>:削除された投稿は不愉快、成人向け内容が入ってる場合があります。注意して続行してください。",
     "reports_email_admins": "新たな報告を受ける際管理者をメールで通知",
     "federation_http_fetch_retry_limit": "連合HTTP読み込み再試行限度",
