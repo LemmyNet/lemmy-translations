@@ -460,7 +460,7 @@
     "reports_email_admins": "Enviar e-mail para Admins ao receber novas denúncias",
     "pictures_uploded_progess": "{{uploaded}}/{{total}} imagens carregadas",
     "profile_not_logged_in_alert": "Você não se logou. Se você usa uma conta no Fediverso que lhe permite seguir perfis, você pode seguir este.",
-    "community_not_logged_in_alert": "Você não se logou. Mas você pode participar a partir de outra conta no Fediverso, como Lemmy ou Mastodon. Para isso, copie e cole no campo de busca da usa instância o seguinte: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Você não se logou. Mas você pode participar a partir de outra conta no Fediverso, como Lemmy ou Mastodon. Para isso, copie e cole no campo de busca da usa instância o seguinte: <1>!{{community}}@{{instance}}</1>",
     "loading": "Carregando",
     "modlog_content_warning": "<1>AVISO DE CONTEÚDO</1>: Algumas publicações removidas podem conter conteúdo perturbador ou para maiores de idade. Prossiga com cuidado.",
     "error_page_title": "Erro!",

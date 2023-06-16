@@ -379,7 +379,7 @@
     "loading": "Chargement",
     "pictures_uploded_progess": "{{uploaded}}/{{total}} images téléchargées",
     "profile_not_logged_in_alert": "Vous n'êtes pas connecté·e. Si vous utilisez un compte du Fédivers qui peut suivre des comptes, vous pouvez suivre cette personne.",
-    "community_not_logged_in_alert": "Vous n'êtes pas connecté·e. Vous pouvez suivre cette communauté depuis un autre compte du fédivers, comme Lemmy ou Mastodon. Pour ce faire, copiez !{{community}}@{{instance}} et collez le texte dans la barre de recherche de votre instance",
+    "community_not_logged_in_alert": "Vous n'êtes pas connecté·e. Vous pouvez suivre cette communauté depuis un autre compte du fédivers, comme Lemmy ou Mastodon. Pour ce faire, copiez <1>!{{community}}@{{instance}}</1> et collez le texte dans la barre de recherche de votre instance",
     "filter_by_action": "Filtrer par action",
     "filter_by_mod": "Filtrer par modérateur·ice",
     "filter_by_user": "Filtrer par utilisateur·ice",
