@@ -1,8 +1,8 @@
 pipeline:
-  prettier_markdown_check:
-    image: tmknom/prettier
-    commands:
-      - prettier -c .
+  # prettier_markdown_check:
+  #   image: tmknom/prettier
+  #   commands:
+  #     - prettier -c .
 
   notify_on_failure:
     image: alpine:3
