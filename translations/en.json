@@ -149,8 +149,6 @@
   "number_of_subscribers_plural": "{{formattedCount}} subscribers",
   "number_of_points": "{{formattedCount}} point",
   "number_of_points_plural": "{{formattedCount}} points",
-  "number_online": "{{formattedCount}} user online",
-  "number_online_plural": "{{formattedCount}} users online",
   "name": "Name",
   "name_explain": "Name – used as the identifier for the community, cannot be changed.",
   "display_name": "Display name",
