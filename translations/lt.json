@@ -478,7 +478,7 @@
     "unfeature_from_community": "Atsegti įrašą bendruomenėje",
     "password_incorrect": "Slaptažodis neteisingas.",
     "profile_not_logged_in_alert": "Jūs esate neprisijungęs. Jei naudojate federuoto tinklo paskyrą, kurioje galima sekti naudotojus, galite sekti ir šį naudotoją.",
-    "community_not_logged_in_alert": "Jūs esate neprisijungęs. Tačiau galite vis tiek tai užsiprenumeruoti iš kitos federuoto tinklo paskyros (pavyzdžiui, „Lemmy“ arba „Mastodon“). Norėdami tai padaryti, į savo serverio paieškos laukelį įklijuokite šiuos žodžius: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Jūs esate neprisijungęs. Tačiau galite vis tiek tai užsiprenumeruoti iš kitos federuoto tinklo paskyros (pavyzdžiui, „Lemmy“ arba „Mastodon“). Norėdami tai padaryti, į savo serverio paieškos laukelį įklijuokite šiuos žodžius: <1>!{{community}}@{{instance}}</1>",
     "filter_by_action": "Filtruoti pagal veiksmą",
     "filter_by_mod": "Filtruoti pagal moderatorių",
     "filter_by_user": "Filtruoti pagal naudotoją",

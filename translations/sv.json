@@ -365,7 +365,7 @@
     "too_many_images_upload_plural": "Du får endast ladda upp {{formattedCount}} bilder.",
     "ban_from_community": "bannlys från community",
     "profile_not_logged_in_alert": "Du är inte inloggad. Du behöver vara inloggad på ett konto som kan följa andra användare för att kunna följa denna användare.",
-    "community_not_logged_in_alert": "Du är inte inloggad, men du kan prenumerera från ett annat Fediversekonto, till exempel Lemmy eller Mastodon. För att göra detta, klistra in följande i sökrutan på din instans: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Du är inte inloggad, men du kan prenumerera från ett annat Fediversekonto, till exempel Lemmy eller Mastodon. För att göra detta, klistra in följande i sökrutan på din instans: <1>!{{community}}@{{instance}}</1>",
     "filter_by_action": "Filtrera på handling",
     "filter_by_mod": "Filtrera på moderator",
     "filter_by_user": "Filtrera på användare",
