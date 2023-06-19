@@ -418,6 +418,7 @@
   "application_questionnaire": "Application Questionnaire",
   "require_email_verification": "Require email verification",
   "require_registration_application": "Require registration application",
+  "application_email_reason_none": "Application denied",
   "application_email_admins": "Email admins on receiving new applications",
   "reports_email_admins": "Email admins on receiving new reports",
   "private_instance": "Private Instance",
