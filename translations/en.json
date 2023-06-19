@@ -462,6 +462,8 @@
   "taglines": "Taglines",
   "add_tagline": "Add Tagline",
   "featured": "Featured",
+  "featured_in_local": "Featured in Local",
+  "featured_in_community": "Featured in Community",
   "feature_in_local": "Feature in Local",
   "unfeature_from_local": "Unfeature in Local",
   "feature_in_community": "Feature in Community",
