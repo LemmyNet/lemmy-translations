@@ -1,7 +1,7 @@
 {
     "registration_approved_subject": "Registo de {username} aprovado",
     "registration_approved_body": "A tua candidatura de registo foi aprovada. Bem-vindo(a) à {hostname}!",
-    "verify_email_body": "Por favor, clica no link abaixo para verificares o endereço de email da conta @{username}@{hostname}. Ignora este email se a conta não é tua. <br><br>, <a href=\"{verify_link}\">Verificar email</a>",
+    "verify_email_body": "Por favor, clica no link abaixo para verificares o endereço de email da conta @{username}@{hostname}. Ignora este email se a conta não é tua. <br><br><a href=\"{verify_link}\">Verificar email</a>",
     "email_verified_subject": "Verificado o email de {username}",
     "password_reset_subject": "Redefinição de palavra-passe de {username}",
     "password_reset_body": "<h1>Pedido de redefinição de palavra-passe de {username}</h1><br><a href=\"{reset_link}\">Clica aqui para redefinir a tua palavra-passe</a>",
