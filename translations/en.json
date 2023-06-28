@@ -503,5 +503,7 @@
   "two_factor_token": "2FA Token",
   "jump_to_content": "Jump to content",
   "cant_enable_private_instance_and_federation_together": "Can't enable private instance and federation together",
-  "open_links_in_new_tab": "Open links in a new tab"
+  "open_links_in_new_tab": "Open links in a new tab",
+  "op": "OP",
+  "couldnt_create_audio_captcha": "Couldn't create audio captcha."
 }

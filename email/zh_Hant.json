@@ -9,7 +9,7 @@
     "notification_private_message_subject": "{username} 的私人訊息",
     "registration_approved_subject": "{username} 的註冊申請已被接受",
     "password_reset_body": "<h1>{username} 的密碼重置申請</h1><br><a href={reset_link}>點擊本連結</a>重置密碼",
-    "verify_email_body": "請點擊以下連結驗證 @{username}@{hostname}。若此帳號不屬於您請無視此 Email。<br><br>, <a href=\"{verify_link}\">驗證 Email</a>",
+    "verify_email_body": "請點擊以下連結驗證 @{username}@{hostname}。若此帳號不屬於您請無視此 Email。<br><br><a href=\"{verify_link}\">驗證 Email</a>",
     "email_verified_body": "您的 Email 已被驗證。",
     "notification_post_reply_body": "<h1>張貼回覆</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>信箱</a>",
     "notification_comment_reply_subject": "{username} 的回覆",

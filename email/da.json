@@ -11,7 +11,7 @@
     "registration_approved_body": "Din ansøgning om oprettelse er blevet godkendt. Velkommen til {hostname}!",
     "password_reset_body": "<h1>Nulstil Adgangskode for {username}</h1><br><a href=\"{reset_link}\">Klik her for at nulstille din adgangskode</a>",
     "verify_email_subject": "Bekræft din email hos {hostname}",
-    "verify_email_body": "Klik linket nedenfor for at bekræfte din email for brugeren @{username}@{hostname}. Ignorér denne mail hvis den bruger ikke er din.<br><br>, <a href=\"{verify_link}\">Bekræft din email</a>",
+    "verify_email_body": "Klik linket nedenfor for at bekræfte din email for brugeren @{username}@{hostname}. Ignorér denne mail hvis den bruger ikke er din.<br><br><a href=\"{verify_link}\">Bekræft din email</a>",
     "notification_post_reply_body": "<h1>{username} har svaret på dit indlæg</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">indbakke</a>",
     "notification_comment_reply_body": "<h1>{username} har svaret på din kommentar</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">indbakke</a>",
     "notification_private_message_body": "<h1>Privat besked</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">indbakke</a>",
