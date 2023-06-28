@@ -52,6 +52,7 @@
   "upload_banner": "Upload Banner",
   "icon": "Icon",
   "upload_icon": "Upload Icon",
+  "upload_too_large": "Uploaded image is too large!",
   "show_avatars": "Show Avatars",
   "show_scores": "Show Scores",
   "bot_account": "Bot Account",
