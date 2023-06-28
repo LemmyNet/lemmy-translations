@@ -1,5 +1,4 @@
-{
-  "registration_approved_subject": "Registration approved for {username}",
+{  "registration_approved_subject": "Registration approved for {username}",
   "registration_approved_body": "Your registration application has been approved. Welcome to {hostname}!",
   "registration_denied": "Registration denied",
   "registration_denied_subject": "Registration denied for {username}",
