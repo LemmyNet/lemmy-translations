@@ -12,7 +12,7 @@
     "notification_mentioned_by_body": "<h1>Bahsedildiğiniz Yorum</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "password_reset_body": "<h1>{username} kullanıcısı için parola değiştirme isteği</h1><br><a href=\"{reset_link}\">Parolanızı değiştirmek için buraya tıklayın</a>",
     "password_reset_subject": "{username} İçin parola sıfırlama",
-    "verify_email_body": "Lütfen @{username}@{hostname} kullanıcısı adına kayıtlı epostanızı doğrulamak için aşağıdaki linke tıklayın. Eğer kullanıcı hesabı size ait değilse görmezden gelin.<br><br>, <a href=\"{verify_link}\">Emailinizi doğrulayın</a>",
+    "verify_email_body": "Lütfen @{username}@{hostname} kullanıcısı adına kayıtlı emailinizi doğrulamak için aşağıdaki linke tıklayın. Eğer kullanıcı hesabı size ait değilse görmezden gelin.<br><br><a href=\"{verify_link}\">Emailinizi doğrulayın</a>",
     "notification_comment_reply_subject": "{username}'den yeni bir yorum",
     "notification_post_reply_subject": "{username}'den yeni bir yorum",
     "notification_private_message_subject": "{username}'den özel mesaj",

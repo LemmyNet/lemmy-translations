@@ -14,7 +14,7 @@
     "notification_private_message_subject": "{username}さんからプライベートメッセージがありました",
     "registration_approved_body": "あなたの新規登録申し込みは承認されました。{hostname}へようこそ！",
     "verify_email_subject": "{hostname}でのメールアドレス認証について",
-    "verify_email_body": "以下のリンクをクリックして、アカウント@{username}@{hostname}のメールアドレスを認証してください。このアカウントがあなたのものではない場合は、このメールを無視して下さい。<br><br>, <a href=\"{verify_link}\">メールアドレスを認証する</a>",
+    "verify_email_body": "以下のリンクをクリックして、アカウント@{username}@{hostname}のメールアドレスを認証してください。このアカウントがあなたのものではない場合は、このメールを無視して下さい。<br><br><a href=\"{verify_link}\">メールアドレスを認証する</a>",
     "application_question_required": "申請が必須であれば、申請用アンケートが必要です。",
     "new_report_body": "すべての報告を見るには下記のリンクをクリックしてください<br><br><a href=\"{applications_link}\">報告を見る</a>",
     "registration_denied": "登録が拒否されました",

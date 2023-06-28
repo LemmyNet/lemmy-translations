@@ -1,7 +1,7 @@
 {
     "registration_approved_body": "Vaša žiadosť o registráciu bola schválená. Vitajte na {hostname}!",
     "password_reset_body": "<h1>Žiadosť o reset hesla pre {username}</h1><br><a href=\"{reset_link}\">Kliknite sem pre reset vášho hesla</a>",
-    "verify_email_body": "Prosím, kliknite na odkaz nižšie pre overenie e-mailovej adresy vášho účtu @{username}@{hostname}. Tento e-mail ignorujte, ak účet nie je váš.<br><br>, <a href=\"{verify_link}\">Overte svoj e-mail</a>",
+    "verify_email_body": "Prosím, kliknite na odkaz nižšie pre overenie e-mailovej adresy vášho účtu @{username}@{hostname}. Tento e-mail ignorujte, ak účet nie je váš.<br><br><a href=\"{verify_link}\">Overte svoj e-mail</a>",
     "notification_private_message_body": "<h1>Súkromná správa</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "new_report_body": "Prosím, kliknite na odkaz nižšie pre zobrazenie všetkých nahlásení.<br><br><a href=\"{reports_link}\">Zobraziť nahlásenia</a>",
     "registration_approved_subject": "Registrácia schválená pre {username}",

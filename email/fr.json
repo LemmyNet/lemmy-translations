@@ -6,7 +6,7 @@
     "notification_mentioned_by_subject": "{username} vous a mentionné",
     "registration_approved_subject": "L'inscription pour {username} est approuvé",
     "password_reset_body": "<h1>Réinitialisation du mot de passe demandée pour {username}}</h1><br><a href={reset_link}>Cliquez ici pour réinitialiser le mot de passe</a>",
-    "verify_email_body": "Cliquez sur le lien ci-dessous pour vérifier l'adresse pour le compte @{username}@{hostname}. Si ce compte ne vous est pas destiné, vous pouvez ignorer cet email.<br><br>, <a href=\"{verify_link}\">Vérifier votre email</a>",
+    "verify_email_body": "Cliquez sur le lien ci-dessous pour vérifier l'adresse pour le compte @{username}@{hostname}. Si ce compte ne vous est pas destiné, vous pouvez ignorer cet email.<br><br><a href=\"{verify_link}\">Vérifier votre email</a>",
     "registration_approved_body": "Votre demande d'inscription a été approuvée. Bienvenue sur {hostname} !",
     "password_reset_subject": "Mot de passe réinitialisé pour {username}",
     "verify_email_subject": "Vérifier votre adresse email pour {hostname}",

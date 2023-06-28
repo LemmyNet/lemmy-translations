@@ -14,7 +14,7 @@
     "notification_mentioned_by_body": "<h1>Mención de persona</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">bandeja de entrada</a>",
     "notification_private_message_subject": "Mensaje privado de {username}",
     "notification_private_message_body": "<h1>Mensaje privado</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">bandeja de entrada</a>",
-    "verify_email_body": "Por favor, haz clic en el siguiente enlace para verificar tu dirección de correo electrónico para la cuenta @{username}@{hostname}. Ignora este correo electrónico si la cuenta no es tuya.<br><br>, <a href=\"{verify_link}\">Verificar dirección de correo electrónico</a>",
+    "verify_email_body": "Por favor, haga clic en el siguiente enlace para verificar su dirección de correo electrónico para la cuenta @{username}@{hostname}. Ignore este correo electrónico si la cuenta no es suya.<br><br><a href=\"{verify_link}\">Verificar dirección de correo electrónico</a>",
     "registration_denied": "Registro denegado",
     "new_application_subject": "{username} ha solicitado unirse a {hostname}",
     "application_question_required": "Debes añadir un cuestionario de solicitud si se requieren solicitudes.",

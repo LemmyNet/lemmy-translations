@@ -4,7 +4,7 @@
     "password_reset_subject": "Salasana asetettu käyttäjälle {username}",
     "password_reset_body": "<h1>Salasanan nollauspyyntö käyttäjälle {username}</h1><br><a href=\"{reset_link}\">Paina tästä nollataksesi salasanasi</a>",
     "verify_email_subject": "Vahvista sähköpostiosoitteesi instanssille {hostname}",
-    "verify_email_body": "Paina alhaalla olevaa linkkiä vahvistaaksesi sähköpostiosoitteesi tilille @{username}@{hostname}. Jätä tämä sähköposti huomiotta jos tilisi ei ole sinun. <br><br>, <a href=\"{verify_link}\">Vahvista sähköpostiosoitteesi</a>",
+    "verify_email_body": "Paina alhaalla olevaa linkkiä vahvistaaksesi sähköpostiosoitteesi tilille @{username}@{hostname}. Jätä tämä sähköposti huomiotta jos tilisi ei ole sinun. <br><br><a href=\"{verify_link}\">Vahvista sähköpostiosoitteesi</a>",
     "email_verified_subject": "Sähköposti vahvistettu käyttäjälle {username}",
     "email_verified_body": "Sähköpostisi on vahvistettu.",
     "notification_post_reply_subject": "Vastaus käyttäjältä {username}",
