@@ -16,7 +16,7 @@
     "new_report_body": "Παρακαλούμε πατήστε τον παρακάτω σύνδεσμο για να προβάλετε όλες τις αναφορές.<br><br><a href=\"{reports_link}\">Προβολή αναφορών</a>",
     "application_question_required": "Θα πρέπει να προσθέσετε ενα ερωτηματολόγιο στην αίτηση εάν είναι απαραίτητες οι αιτήσεις.",
     "password_reset_body": "<h1>Αίτημα επαναφοράς κωδικού πρόσβασης για {username}</h1><br><a href=\"{reset_link}\">Πατήστε εδώ για να επαναφέρετε τον κωδικό σας</a>",
-    "verify_email_body": "Παρακαλούμε πατήστε τον παρακάτω σύνδεσμο για να επιβεβαιώσετε την ηλεκτρονική διεύθυνσή σας για τον λογαριασμό @{username}@{hostname}. Αγνοήστε αυτό το email εάν ο λογαριασμός δεν είναι δικός σας.<br><br>, <a href=\"{verify_link}\">Επιβεβαιώστε την ηλεκτρονική διεύθυνσή σας</a>",
+    "verify_email_body": "Παρακαλούμε πατήστε τον παρακάτω σύνδεσμο για να επιβεβαιώσετε την ηλεκτρονική διεύθυνσή σας για τον λογαριασμό @{username}@{hostname}. Αγνοήστε αυτό το email εάν ο λογαριασμός δεν είναι δικός σας.<br><br><a href=\"{verify_link}\">Επιβεβαιώστε την ηλεκτρονική διεύθυνσή σας</a>",
     "notification_post_reply_subject": "Απάντηση από {username}",
     "notification_post_reply_body": "<h1>Απάντηση δημοσίευσης</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
     "notification_mentioned_by_body": "<h1>Αναφορά χρήστη</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",

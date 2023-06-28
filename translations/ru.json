@@ -440,7 +440,7 @@
     "easy": "Легкая",
     "emojis": "Эмоджи",
     "emoji": "Эмоджи",
-    "community_not_logged_in_alert": "Вы не авторизованы. Но вы можете подписаться с другого аккаунта Fediverse, например Lemmy или Mastodon. Для этого вставьте следующее в поле поиска вашего сервера: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "Вы не авторизованы. Но вы можете подписаться с другого аккаунта Fediverse, например Lemmy или Mastodon. Для этого вставьте следующее в поле поиска вашего сервера: <1>!{{community}}@{{instance}}</1>",
     "failed_to_delete_picture": "Не удалось удалить картинку: {{filename}}",
     "subscribe_pending": "Подписка Активна",
     "interface_language": "Язык Интерфейса",

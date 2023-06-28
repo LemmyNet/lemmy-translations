@@ -12,7 +12,7 @@
     "notification_mentioned_by_subject": "Ви були згадані {username}",
     "password_reset_subject": "Скидання паролю для {username}",
     "password_reset_body": "<h1>Запит на скидання паролю для {username}</h1><br><a href={reset_link}>Натисніть сюди для скидання вашого паролю</a>",
-    "verify_email_body": "Будь ласка, скористайтеся посиланням нижче щоб підтвердити вашу пошту @{username}@{hostname}. Ігноруйте якщо це не ви.<br><br>, <a href=\"{verify_link}\">Підтвердити пошту</a>",
+    "verify_email_body": "Будь ласка, скористайтеся посиланням нижче щоб підтвердити вашу пошту @{username}@{hostname}. Ігноруйте якщо це не ви.<br><br><a href=\"{verify_link}\">Підтвердити пошту</a>",
     "notification_comment_reply_body": "<h1>Відповідь до коментаря</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>вхідні</a>",
     "notification_mentioned_by_body": "<h1>Ви були згадані</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>вхідні</a>"
 }

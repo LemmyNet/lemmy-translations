@@ -474,7 +474,7 @@
     "emojis": "Emoticonos",
     "emoji": "Emoticono",
     "site": "Sitio",
-    "community_not_logged_in_alert": "No has iniciado sesión. Sin embargo, puedes suscribirte desde otra cuenta del fediverso; por ejemplo, Lemmy o Mastodon. Para hacerlo, pega lo siguiente en el campo de búsqueda de tu nodo: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "No has iniciado sesión. Sin embargo, puedes suscribirte desde otra cuenta del fediverso; por ejemplo, Lemmy o Mastodon. Para hacerlo, pega lo siguiente en el campo de búsqueda de tu nodo: <1>!{{community}}@{{instance}}</1>",
     "profile_not_logged_in_alert": "No has iniciado sesión. Si usas una cuenta del fediverso capaz de seguir a usuarios, puedes seguir a este usuario.",
     "modlog_content_warning": "<1>ADVERTENCIA SOBRE EL CONTENIDO</1>: Algunas publicaciones borradas pueden incluir contenido perturbador o para adultos. Continúa con cautela.",
     "error_page_title": "¡Error!",
