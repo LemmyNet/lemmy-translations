@@ -207,6 +207,8 @@
   "all_description": "Shows all communities, including federated ones",
   "local": "Local",
   "local_description": "Shows only local communities",
+  "moderator_view": "Moderator view",
+  "moderator_view_description": "Only show contributions from communtities you are a moderator of",
   "top": "Top",
   "api": "API",
   "docs": "Docs",
