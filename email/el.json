@@ -20,5 +20,8 @@
     "notification_post_reply_subject": "Απάντηση από {username}",
     "notification_post_reply_body": "<h1>Απάντηση δημοσίευσης</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
     "notification_mentioned_by_body": "<h1>Αναφορά χρήστη</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
-    "notification_private_message_body": "<h1>Ιδιωτικό μήνυμα</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>"
+    "notification_private_message_body": "<h1>Ιδιωτικό μήνυμα</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
+    "registration_denied_subject": "Η εγγραφή απορρίφθηκε για {username}",
+    "registration_denied_reason_body": "Η αίτηση εγγραφής σας στο {hostname} απορρίφθηκε. <br>Λόγος για την απόρριψη:<br><br>\"{deny_reason}\"",
+    "registration_denied_body": "Η αίτηση εγγραφής σας στο {hostname} απορρίφθηκε."
 }
