@@ -437,7 +437,7 @@
     "purge_warning": "Advarsel: Fuldkommen fjernelse vil slette indholdet og alle dets forbindelser i databasen. Det vil ikke være muligt at gendanne data. Vær yderst forsigtig.",
     "purge_success": "Indhold slettet fuldkomment.",
     "subscribe_pending": "Abonnement afventer",
-    "subscribed_description": "Viser de fællesskaber du abonnere på",
+    "subscribed_description": "Viser de fællesskaber du abonnerer på",
     "description": "Beskrivelse",
     "invalid_matrix_id": "Ugyldigt Matrix-ID. Det skal se ud som @bruger:server.dk",
     "number_of_days": "Antal dage",
@@ -488,5 +488,7 @@
     "rate_limit": "Sendegrænse",
     "rate_limit_header": "Sendegrænseindstillinger",
     "software": "Software",
-    "version": "Version"
+    "version": "Version",
+    "jump_to_content": "Gå til indhold",
+    "cant_enable_private_instance_and_federation_together": "Privat instans og forbund kan ikke være aktiveret samtidig"
 }
