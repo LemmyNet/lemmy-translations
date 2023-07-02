@@ -29,7 +29,7 @@
     "send_secure_message": "Enviar mensaje seguro",
     "send_message": "Enviar mensaje",
     "message": "Mensaje",
-    "edit": "editar",
+    "edit": "Editar",
     "reply": "responder",
     "cancel": "Cancelar",
     "preview": "Previsualizar",
@@ -489,5 +489,6 @@
     "version": "Versión",
     "error_code_message": "El servidor devolvió este error: <1>{{error}}</1>. Esto puede ser útil para que administradores y desarrolladores diagnostiquen y arreglen el error",
     "software": "Programa",
-    "jump_to_content": "Saltar al contenido"
+    "jump_to_content": "Saltar al contenido",
+    "cant_enable_private_instance_and_federation_together": "No puedes activar nodo privado y federación al mismo tiempo"
 }
