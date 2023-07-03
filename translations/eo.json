@@ -23,7 +23,7 @@
     "trending_communities": "Furoraj <1>komunumoj</1>",
     "list_of_communities": "Listo de komunumoj",
     "community_reqs": "minusklaj literoj, substrekoj, kaj neniuj spacetoj.",
-    "edit": "redakti",
+    "edit": "Redakti",
     "reply": "respondi",
     "cancel": "Nuligi",
     "unlock": "malŝlosi",
@@ -488,5 +488,7 @@
     "rate_limit_header": "Opcioj de ofteca limo",
     "software": "Programo",
     "version": "Versio",
-    "error_code_message": "La servilo liveris ĉi tiun eraron: <1>{{error}}</1>. Ĉi tio povas utili, por ke la administrantoj kaj disvolvistoj diagnozu kaj riparu la eraron"
+    "error_code_message": "La servilo liveris ĉi tiun eraron: <1>{{error}}</1>. Ĉi tio povas utili, por ke la administrantoj kaj disvolvistoj diagnozu kaj riparu la eraron",
+    "jump_to_content": "Iri al la enhavo",
+    "cant_enable_private_instance_and_federation_together": "Ne povas samtempe ebligi privatan nodon kaj federacion"
 }
