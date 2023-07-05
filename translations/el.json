@@ -95,8 +95,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} εγγεγραμμένοι",
     "number_of_points": "{{formattedCount}} βαθμός",
     "number_of_points_plural": "{{formattedCount}} βαθμοί",
-    "number_online": "{{formattedCount}} ενεργός χρήστης",
-    "number_online_plural": "{{formattedCount}} ενεργοί χρήστες",
     "name": "Όνομα",
     "title": "Επικεφαλίδα",
     "subscribers": "Εγγεγραμμένοι",

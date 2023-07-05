@@ -101,8 +101,6 @@
     "number_of_users_plural": "{{formattedCount}} utilizadores",
     "number_of_subscribers": "{{formattedCount}} subscritor",
     "number_of_subscribers_plural": "{{formattedCount}} subscritores",
-    "number_online": "{{formattedCount}} utilizador em linha",
-    "number_online_plural": "{{formattedCount}} utilizadores em linha",
     "name": "Nome",
     "name_explain": "Nome - usado como identificador da comunidade, não pode ser alterado.",
     "display_name": "Nome de exibição",

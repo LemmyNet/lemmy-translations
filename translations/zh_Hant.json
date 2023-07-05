@@ -117,7 +117,6 @@
     "strong": "密碼強度強",
     "banned_users": "被封鎖的使用者",
     "number_of_users": "{{formattedCount}} 個使用者",
-    "number_online": "{{formattedCount}} 個使用者在線上",
     "active_users_in_the_last_day": "昨天有 {{formattedCount}} 個活躍使用者",
     "active_users_in_the_last_week": "上周有 {{formattedCount}} 個活躍使用者",
     "active_users_in_the_last_month": "上個月有 {{formattedCount}} 個活躍使用者",

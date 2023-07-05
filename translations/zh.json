@@ -104,7 +104,6 @@
     "number_of_users": "{{formattedCount}} 用户",
     "number_of_subscribers": "{{formattedCount}} 订阅者",
     "number_of_points": "{{formattedCount}} 积分",
-    "number_online": "{{formattedCount}} 在线用户",
     "name": "名称",
     "name_explain": "名称 - 作为社区的标识符号，将来不能更改。",
     "display_name": "显示名称",

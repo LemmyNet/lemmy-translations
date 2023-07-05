@@ -78,8 +78,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} Abonnenten",
     "number_of_points": "{{formattedCount}} Punkt",
     "number_of_points_plural": "{{formattedCount}} Punkte",
-    "number_online": "{{formattedCount}} Benutzer online",
-    "number_online_plural": "{{formattedCount}} Benutzer online",
     "name": "Name",
     "title": "Titel",
     "subscribers": "Abonnenten",

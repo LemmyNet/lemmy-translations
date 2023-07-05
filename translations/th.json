@@ -168,7 +168,6 @@
     "hide_modlog_mod_names": "ซ่อนชื่อของผู้ควบคุมในบันทึก",
     "number_of_subscribers": "{{formattedCount}} ผู้ติดตาม",
     "number_of_points": "{{formattedCount}} คะแนน",
-    "number_online": "{{formattedCount}} ผู้ใช้ออนไลน์",
     "notifications_error": "เบราว์เซอร์ของคุณไม่สามารถการแจ้งเตือนบนเดสก์ท็อป กรุณาใช้ Firefox หรือ Chrome",
     "not_an_admin": "ไม่ใช่ผู้ดูแล",
     "display_name": "ชื่อที่แสดง",

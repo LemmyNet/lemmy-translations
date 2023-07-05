@@ -86,8 +86,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} participantes",
     "number_of_points": "{{formattedCount}} ponto",
     "number_of_points_plural": "{{formattedCount}} pontos",
-    "number_online": "{{formattedCount}} usuárie online",
-    "number_online_plural": "{{formattedCount}} usuáries online",
     "name": "Nome",
     "title": "Título",
     "subscribers": "Participantes",

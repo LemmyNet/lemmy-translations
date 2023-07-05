@@ -77,8 +77,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} prenumeranter",
     "number_of_points": "{{formattedCount}} poäng",
     "number_of_points_plural": "{{formattedCount}} poäng",
-    "number_online": "{{formattedCount}} användare inloggad",
-    "number_online_plural": "{{formattedCount}} användare inloggade",
     "name": "Namn",
     "title": "Titel",
     "subscribers": "Prenumeranter",

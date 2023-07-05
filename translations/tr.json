@@ -46,8 +46,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} Takipçi",
     "number_of_points": "{{formattedCount}} Puan",
     "number_of_points_plural": "{{formattedCount}} Puan",
-    "number_online": "{{formattedCount}} Aktif Kullanıcı",
-    "number_online_plural": "{{formattedCount}} Aktif Kullanıcı",
     "name": "Ad",
     "title": "Başlık",
     "subscribers": "Takipçiler",

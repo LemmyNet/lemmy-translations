@@ -85,8 +85,6 @@
     "number_of_subscribers_plural": "{{count}} subscriptors",
     "number_of_points": "{{count}} punt",
     "number_of_points_plural": "{{count}} punts",
-    "number_online": "{{count}} usuari en línia",
-    "number_online_plural": "{{count}} usuaris en línia",
     "name": "Nom",
     "title": "Títol",
     "subscribers": "Subscriptors",

@@ -130,8 +130,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} abonnenter",
     "number_of_points": "{{formattedCount}} point",
     "number_of_points_plural": "{{formattedCount}} point",
-    "number_online": "{{formattedCount}} bruger online",
-    "number_online_plural": "{{formattedCount}} brugere online",
     "name": "Navn",
     "display_name": "Visningsnavn",
     "title": "Titel",

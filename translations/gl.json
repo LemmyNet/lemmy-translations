@@ -217,8 +217,6 @@
     "number_of_subscribers_plural": "{{formattedCount}} subscritoras",
     "number_of_points": "{{formattedCount}} punto",
     "number_of_points_plural": "{{formattedCount}} puntos",
-    "number_online": "{{formattedCount}} usuaria en liña",
-    "number_online_plural": "{{formattedCount}} usuarias en liña",
     "send_notifications_to_email": "Enviar notificacións ao email",
     "enable_downvotes": "Activar votos negativos",
     "upvote": "Voto positivo",

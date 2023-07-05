@@ -185,8 +185,6 @@
     "upload_avatar": "Alŝuti Profilbildon",
     "banned": "forbarita",
     "creator": "kreinto",
-    "number_online": "{{formattedCount}} enreta uzanto",
-    "number_online_plural": "{{formattedCount}} enretaj uzantoj",
     "old": "Malnovaj",
     "docs": "Dokumentaĵo",
     "view_source": "montri fonton",

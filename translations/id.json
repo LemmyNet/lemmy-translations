@@ -187,7 +187,6 @@
     "delete_account_confirm": "Peringatan: ini akan menghapus secara permanen seluruh data kamu di peladen ini. Data kamu mungkin tidak terhapus di peladen lain yang aktif. Masukkan kata sandi untuk mengonfirmasi.",
     "email_or_username": "Surel atau Nama Pengguna",
     "number_of_subscribers": "{{formattedCount}} pelanggan",
-    "number_online": "{{formattedCount}} pengguna sedang daring",
     "display_name_explain": "Nama Tampilan — ditunjukkan sebagai judul dalam halaman komunitas, tidak bisa diubah.",
     "mark_all_as_read": "tandai semua sebagai telah dibaca",
     "notifications_error": "Notifikasi desktop tidak tersedia di perambanmu. Coba Firefox atau Chrome.",
