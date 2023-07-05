@@ -346,6 +346,7 @@
   "couldnt_update_post": "Couldn't update post",
   "couldnt_save_post": "Couldn't save post.",
   "couldnt_mark_post_as_read": "Couldn't mark post as read.",
+  "couldnt_mark_delete_past_read_posts": "Couldn't delete past read posts.",
   "couldnt_find_parent_comment": "Couldn't find parent comment.",
   "parent_comment_not_in_post": "The parent comment belongs to another post.",
   "no_slurs": "No slurs.",
