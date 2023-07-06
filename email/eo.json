@@ -20,5 +20,8 @@
     "new_application_body": "Bonvolu alklaku la jenan ligilon por vidi rian aliĝpeton<br><br><a href=\"{applications_link}\">Vidi aliĝpetojn</a>",
     "new_report_subject": "Nova raporto kreita de {reporter_username} pri {reported_username} en {hostname}",
     "application_question_required": "Vi devas aldoni aliĝpetan demandaron, se aliĝpetoj estas postulataj.",
-    "new_report_body": "Bonvolu alklaku la jenan ligilon por vidi ĉiujn raportojn<br><br><a href=\"{reports_link}\">Vidi raportojn</a>"
+    "new_report_body": "Bonvolu alklaku la jenan ligilon por vidi ĉiujn raportojn<br><br><a href=\"{reports_link}\">Vidi raportojn</a>",
+    "registration_denied_body": "Via aliĝpeto al {hostname} estis neita.",
+    "registration_denied_reason_body": "Via aliĝpeto al {hostname} estis neita.<br>La jena kialo estis donita:<br><br>«{deny_reason}»",
+    "registration_denied_subject": "Aliĝo neita al {username}"
 }
