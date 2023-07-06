@@ -40,7 +40,7 @@
     "sponsors": "Patrocinadores",
     "docs": "Documentación",
     "code_of_conduct": "Código de conducta",
-    "join_title": "Lemmy - Unirse a un servidor",
+    "join_title": "Lemmy - Navega por los servidores",
     "lemmy_servers": "Servidores Lemmy",
     "sponsors_title": "Lemmy - Patrocinadores",
     "donate_to_lemmy": "Donar a Lemmy",
@@ -81,5 +81,6 @@
     "popular_instances": "Populares",
     "users_active_per_month": "{{formattedCount}} usuarios / mes",
     "instance_browser": "Tras crear una cuenta, puedes encontrar comunidades por todos los nodos usando",
-    "instance_comparison": "Para una comparación más detallada de nodos de Lemmy, consulta"
+    "instance_comparison": "Para una comparación más detallada de nodos de Lemmy, consulta",
+    "browse_instance": "Navegar"
 }
