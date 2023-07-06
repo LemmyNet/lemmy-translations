@@ -20,5 +20,8 @@
     "application_question_required": "Debes añadir un cuestionario de solicitud si se requieren solicitudes.",
     "new_application_body": "Por favor, haga clic en el siguiente enlace para su solicitud.<br><br><a href=\"{applications_link}\">Ver solicitudes</a>",
     "new_report_subject": "Nueva denuncia creada por {reporter_username} sobre {reported_username} en {hostname}",
-    "new_report_body": "Por favor, haz clic en el siguiente enlace para ver todas las denuncias.<br><br><a href=\"{reports_link}\">Ver denuncias</a>"
+    "new_report_body": "Por favor, haz clic en el siguiente enlace para ver todas las denuncias.<br><br><a href=\"{reports_link}\">Ver denuncias</a>",
+    "registration_denied_subject": "Registro denegado a {username}",
+    "registration_denied_body": "Tu solicitud de registro para {hostname} ha sido denegada.",
+    "registration_denied_reason_body": "Tu solicitud de registro para {hostname} ha sido denegada.<br>Se proporcionó el siguiente motivo:<br><br>«{deny_reason}»"
 }
