@@ -54,7 +54,7 @@
     "sponsors": "Sponsoroj",
     "donate": "Donaci",
     "code_of_conduct": "Kondutokodo",
-    "join_title": "Lemmy - Aliĝu al Servilo",
+    "join_title": "Lemmy - Retumi servilojn",
     "lemmy_servers": "Lemmy-serviloj",
     "apply_to_join": "Peti por aliĝi",
     "gold_sponsors_desc": "Oraj Sponsoroj estas tiuj, kiuj monate donacis $100 al Lemmy.",
@@ -80,5 +80,6 @@
     "releases": "Lemmy-eldonoj",
     "users_active_per_month": "{{formattedCount}} uzantoj / monate",
     "instance_browser": "Post kiam vi kreas konton, vi povas trovi komunumojn tra ĉiuj nodoj per",
-    "instance_comparison": "Vidu pli detalan komparon de nodoj de Lemmy en"
+    "instance_comparison": "Vidu pli detalan komparon de nodoj de Lemmy en",
+    "browse_instance": "Retumi"
 }
