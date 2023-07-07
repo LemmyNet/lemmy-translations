@@ -36,7 +36,7 @@
     "apps": "Εφαρμογές",
     "sponsors": "Χορηγοί",
     "code_of_conduct": "Κώδικας Δεοντολογίας",
-    "join_title": "Lemmy - Εγγραφείτε σε έναν διακομιστή",
+    "join_title": "Lemmy - Περιήγηση διακομιστών",
     "lemmy_servers": "Διακομιστές Lemmy",
     "choose_and_join": "Επιλέξτε και εγγραφείτε σε έναν από τους παρακάτω εγκεκριμένους διακομιστές.",
     "sponsors_title": "Lemmy - Χορηγοί",
@@ -81,5 +81,6 @@
     "users_active_per_month": "{{formattedCount}} χρήστες / μήνα",
     "releases": "Κυκλοφορίες lemmy",
     "instance_browser": "Αφού δημιουργήσετε λογαριασμό, μπορείτε να βρείτε κοινότητες σε όλους τους διακομιστές χρησιμοποιώντας",
-    "instance_comparison": "Για λεπτομερέστερη σύγκριση διακομιστών Lemmy, βλέπε"
+    "instance_comparison": "Για λεπτομερέστερη σύγκριση διακομιστών Lemmy, βλέπε",
+    "browse_instance": "Περιήγηση"
 }
