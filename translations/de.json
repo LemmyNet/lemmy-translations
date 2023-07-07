@@ -402,7 +402,7 @@
     "interface_language": "Sprache der Benutzeroberfläche",
     "unread_registration_applications": "{{formattedCount}} ungelesene Bewerbung",
     "unread_registration_applications_plural": "{{formattedCount}} ungelesene Bewerbungen",
-    "undetermined_language_warning": "Warnung: Wenn du \"unbestimmt\" wählst, wirst du die meisten Inhalte nicht sehen.",
+    "undetermined_language_warning": "Warnung: Wenn du \"Undetermined\" deaktivierst, wirst du die meisten Inhalte nicht sehen.",
     "rate_limit_error": "Zu viele Anfragen, versuche es später noch mal.",
     "verify_email": "Email bestätigen",
     "verify_email_sent": "Bestätigungsmail gesendet.",
