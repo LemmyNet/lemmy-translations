@@ -510,5 +510,7 @@
   "add_instance": "Add instance",
   "open_links_in_new_tab": "Open links in a new tab",
   "op": "OP",
-  "couldnt_create_audio_captcha": "Couldn't create audio captcha."
+  "couldnt_create_audio_captcha": "Couldn't create audio captcha.",
+  "federation_disclaimer_title": "By signing up, you consent to your public data being sent to other instances",
+  "federation_disclaimer_body": "Your public data (including your profile, posts, comments and votes) is sent to other instances that your instance is federated with. You acknowledge that your instance has no authority over other instances, and is not able to guarantee future removal of your content from any other server."
 }
