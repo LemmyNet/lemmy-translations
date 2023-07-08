@@ -17,8 +17,11 @@
     "new_application_body": "Dă clic pe linkul de mai jos pentru a-i vedea cererea de înscriere.<br><br><a href=\"{applications_link}\">Vizualizează cererile de înscriere</a>",
     "new_report_subject": "Raportare: {reported_username} a fost raportat de {reporter_username} pe {hostname}",
     "new_report_body": "Dă clic pe linkul de mai jos pentru a vizualiza toate raportările.<br><br><a href=\"{reports_link}\">Vizualizează raportări</a>",
-    "verify_email_body": "Dă clic pe linkul de mai jos pentru a-ți verifica adresa de e-mail asociată contului @{username}@{hostname}. Dacă contul nu îți aparține, ignoră acest e-mail.<br><br><a href=\"{verify_link}\">Verifică-ți e-mailul</a>",
+    "verify_email_body": "Dă clic pe linkul de mai jos pentru a-ți verifica adresa de e-mail asociată contului @{username}@{hostname}. Dacă contul nu îți aparține, ignoră acest e-mail.<br><br>, <a href=\"{verify_link}\">Verifică-ți e-mailul</a>",
     "email_verified_body": "Adresa ta de e-mail a fost verificată.",
     "notification_post_reply_body": "<h1>Postează răspuns</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">Mesaje primite</a>",
-    "notification_mentioned_by_body": "<h1>Cineva te-a mențioant</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">Mesaje primite</a>"
+    "notification_mentioned_by_body": "<h1>Cineva te-a mențioant</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">Mesaje primite</a>",
+    "registration_denied_subject": "Înregistrare refuzată pentru {username}",
+    "registration_denied_body": "Cererea ta de înregistrare pentru {hostname} a fost refuzată.",
+    "registration_denied_reason_body": "Cererea ta de înregistrare pentru {hostname} a fost refuzată.<br>Motivul refuzului:<br><br>\"{deny_reason}\""
 }
