@@ -1,1 +1,7 @@
-{}
+{
+    "contact_title": "Contacteaza - Lemmy",
+    "news": "Știri",
+    "releases": "Versiuni noi Lemmy",
+    "general_sponsors_desc": "Sponsorii generali sunt cei care doneaza între 10 și 39 USD lunar către Lemmy.",
+    "api_libraries": "Librarii API"
+}
