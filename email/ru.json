@@ -14,5 +14,14 @@
     "notification_private_message_subject": "Личное сообщение от {username}",
     "notification_private_message_body": "<h1>Личное сообщение</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>входящие</a>",
     "registration_approved_body": "Ваша регистрация была одобрена. Добро пожаловать на {hostname}!",
-    "password_reset_body": "<h1>Запрос на сброс пароля для пользователя {username}</h1><br><a href={reset_link}>Нажмите здесь для сброса пароля</a>"
+    "password_reset_body": "<h1>Запрос на сброс пароля для пользователя {username}</h1><br><a href={reset_link}>Нажмите здесь для сброса пароля</a>",
+    "new_report_body": "Нажмите на ссылку ниже, чтобы увидеть все отчеты.<br><br><a href=\"{reports_link}\">Просмотреть отчеты</a>",
+    "registration_denied": "Регистрация отклонена",
+    "new_report_subject": "Новый отчет, созданный {reporter_username} для {reported_username} на {hostname}",
+    "new_application_subject": "{username} подал заявку на присоединение к {hostname}",
+    "application_question_required": "Вы должны добавить анкету приложения, если требуется приложением.",
+    "new_application_body": "Нажмите на ссылку ниже, чтобы просмотреть их приложения.<br><br><a href=\"{applications_link}\">Просмотреть приложения</a>",
+    "registration_denied_subject": "Регистрация отклонена для {username}",
+    "registration_denied_body": "Ваша заявка на регистрацию для {hostname} отклонена.",
+    "registration_denied_reason_body": "Ваша заявка на регистрацию для {hostname} была отклонена.<br>Указана следующая причина:<br><br>\"{deny_reason}\""
 }
