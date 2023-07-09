@@ -510,5 +510,6 @@
   "add_instance": "Add instance",
   "open_links_in_new_tab": "Open links in a new tab",
   "op": "OP",
-  "couldnt_create_audio_captcha": "Couldn't create audio captcha."
+  "couldnt_create_audio_captcha": "Couldn't create audio captcha.",
+  "newline": "newline"
 }
