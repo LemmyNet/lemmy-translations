@@ -22,6 +22,6 @@
     "new_report_body": "Por favor, clica na ligação abaixo para veres todas as denúncias.<br><br><a href=\"{reports_link}\">Ver denúncias</a>",
     "new_report_subject": "Nova denúncia criada por {reporter_username} para {reported_username} em {hostname}",
     "registration_denied_subject": "Registo de {username} rejeitado",
-    "registration_denied_body": "A tua candidatura de registo para a lemmy.pt foi rejeitada.",
+    "registration_denied_body": "A tua candidatura de registo para a {hostname} foi rejeitada.",
     "registration_denied_reason_body": "A tua candidatura de registo para a lemmy.pt foi rejeitada.<br>Foi dada a seguinte razão:<br><br>\"{deny_reason}\""
 }
