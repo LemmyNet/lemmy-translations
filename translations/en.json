@@ -501,7 +501,7 @@
   "set_up_two_factor": "Set up 2-factor authentication",
   "enter_two_factor_code": "Enter your 2FA code",
   "two_factor_link": "2FA installation link",
-  "two_factor_setup_instructions": "Click save, then manually reload this page, scroll down and use the '2FA installation link' to obtain the oauth URL for your authenticator.",
+  "two_factor_setup_instructions": "Click 'Save', then manually reload this page, scroll down and use the '2FA installation link' to obtain the oauth URL for your authenticator.",
   "remove_two_factor": "Remove 2-factor authentication",
   "two_factor_token": "2FA Token",
   "jump_to_content": "Jump to content",
