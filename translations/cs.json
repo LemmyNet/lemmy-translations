@@ -368,5 +368,11 @@
     "view_all_comments": "Zobrazit všechny komentáře",
     "x_more_replies_0": "{{formattedCount}} další odpověď",
     "x_more_replies_1": "{{formattedCount}} další odpovědi",
-    "x_more_replies_2": "{{formattedCount}} dalších odpovědí"
+    "x_more_replies_2": "{{formattedCount}} dalších odpovědí",
+    "upload_too_large": "Nahraný obrázek je příliš velký!",
+    "profile_not_logged_in_alert": "Nejsi přihlášen. Pokud používáš Fediverse účet, který má povolené sledování uživatelů, můžeš sledovat tohoto uživatele.",
+    "too_many_images_upload_0": "Překročen maximální počet {{formattedCount}} obrázků pro nahrání. Prosím, vyber pouze jeden obrázek.",
+    "too_many_images_upload_1": "Překročen maximální počet {{formattedCount}} obrázků pro nahrání. Prosím, vyber méně obrázků.",
+    "too_many_images_upload_2": "",
+    "interface_language": "Jazyk prostředí"
 }
