@@ -512,5 +512,7 @@
   "open_links_in_new_tab": "Open links in a new tab",
   "op": "OP",
   "couldnt_create_audio_captcha": "Couldn't create audio captcha.",
-  "incorrect_login": "Incorrect login credentials"
+  "incorrect_login": "Incorrect login credentials",
+  "show_password": "Show Password",
+  "hide_password": "Hide Password"
 }
