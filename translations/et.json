@@ -1,4 +1,13 @@
 {
     "docs": "Dokumentatsioon",
-    "support_lemmy": "Toeta Lemmyt"
+    "support_lemmy": "Toeta Lemmyt",
+    "join_a_server": "Liitu serveriga",
+    "run_a_server": "Hosti serverit",
+    "lemmy": "Lemmy",
+    "lemmy_desc": "Fediverse'il põhinev lingiagregaator.",
+    "open_source": "Avatud lähtekoodiga",
+    "contact": "Kontakt",
+    "lemmy_title": "Lemmy - fediverse'il põhinev lingiagregaator",
+    "follow_communities": "Jälgi kogukondi kõikjal üle maa",
+    "open_source_desc": "Lemmy on ja jääb alati vabaks, <1>avatud lähtekoodiga</1> tarkvaraks, kasutades tugevat <2>copyleft</2> <3>AGPL litsentsi</3>."
 }
