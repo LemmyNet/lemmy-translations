@@ -20,5 +20,8 @@
     "password_reset_subject": "Passwort für {username} zurücksetzen",
     "password_reset_body": "<h1>Anforderung zur Kennwortrücksetzung für {username}</h1><br><a href=\"{reset_link}\">Klicke hier um dein Passwort zurückzusetzen</a>",
     "verify_email_body": "Bitte klicke auf den Link unten um deine Email Adresse für das Konto @{username}@{hostname} zu verifizieren. Ignoriere diese Email, falls es sich nicht um dein Konto handelt.<br><br><a href=\"{verify_link}\">Email Adresse verifizieren</a>",
-    "notification_private_message_body": "<h1>Private Nachricht</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">Posteingang</a>"
+    "notification_private_message_body": "<h1>Private Nachricht</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">Posteingang</a>",
+    "registration_denied_subject": "Registrierung für {username} abgelehnt",
+    "registration_denied_body": "Deine Registrierung für {hostname} wurde abgelehnt.",
+    "registration_denied_reason_body": "Deine Registrierung für {hostname} wurde abgelehnt.<br>Der folgende Grund wurde dafür genannt:<br><br>\"{deny_reason}\""
 }
