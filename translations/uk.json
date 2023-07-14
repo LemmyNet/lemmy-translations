@@ -264,7 +264,7 @@
     "strikethrough": "закреслений",
     "only_admins_can_create_communities": "Лише адміністратори можуть створювати спільноти",
     "only_mods_can_post_in_community": "Лише модератори можуть додавати дописи у цю спільноту",
-    "name_explain": "Ім’я — використовується як унікальний ідентифікатор спільноти, його не можна змінювати.",
+    "name_explain": "Ім’я — використовується як унікальний ідентифікатор для спільноти, його не можна змінювати.",
     "active_users_in_the_last_day_0": "{{formattedCount}} діяльний користувач за останній день",
     "active_users_in_the_last_day_1": "{{formattedCount}} діяльні користувачі за останній день",
     "active_users_in_the_last_day_2": "{{formattedCount}} діяльних користувачів за останній день",
