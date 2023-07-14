@@ -293,5 +293,20 @@
     "private_message_disclaimer": "هشدار: پیام‌های خصوصی در لمی، امن نیستند. لطفا برای فرستادن پیام امن، حسابی روی <1>Element.io</1> ایجاد کنید.",
     "banned_users": "کاربران ممنوع شده",
     "joined": "عضو شده",
-    "logged_in": "وارد شده."
+    "logged_in": "وارد شده.",
+    "remove_content": "حذف محتوا",
+    "remove_content_more": "حذف نوشته ها، نظرات و انجمن ها",
+    "icon": "نماد",
+    "upload_too_large": "تصویر بارگذاری شده بسیار بزرگ است!",
+    "show_new_post_notifs": "نمایش اعلان برای نوشته های تازه",
+    "view_all_comments": "نمایش همه نظرات",
+    "comment_here": "نظر خود را اینجا بنویسید...",
+    "explore_communities": "انجمن ها را بگردید",
+    "subscribed_to_communities": "مشترک شده در <1>انجمن ها</1>",
+    "trending": "در حال ترند شدن",
+    "too_many_images_upload": "به حداکثر میزان {{formattedCount}} تصویر برای بارگذاری رسیدید. لطفا تصاویر کمتری انتخاب کنید‌.به حداکثر میزان {{formattedCount}} تصویر برای بارگذاری رسیدید. لطفا تصاویر کمتری انتخاب کنید‌.",
+    "too_many_images_upload_plural": "به حداکثر میزان {{formattedCount}} تصویر برای بارگذاری رسیدید. لطفا تصاویر کمتری انتخاب کنید‌.به حداکثر میزان {{formattedCount}} تصویر برای بارگذاری رسیدید. لطفا تصاویر کمتری انتخاب کنید‌.",
+    "banner": "بنر",
+    "upload_banner": "بارگذاری بنر",
+    "upload_icon": "بارگذاری نماد"
 }
