@@ -510,5 +510,9 @@
     "featured_in_local": "Destacados en Local",
     "featured_in_community": "Destacados en Comunidad",
     "op": "PO",
-    "couldnt_create_audio_captcha": "No se pudo crear un «captcha» de audio."
+    "couldnt_create_audio_captcha": "No se pudo crear un «captcha» de audio.",
+    "hide_password": "Ocultar contraseña",
+    "show_password": "Mostrar contraseña",
+    "incorrect_login": "Credenciales de inicio de sesión incorrectos",
+    "browser_default_compact": "Predeterminado del navegador compacto"
 }

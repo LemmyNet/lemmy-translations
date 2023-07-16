@@ -510,5 +510,9 @@
     "remove_instance": "Forigi nodon",
     "add_instance": "Aldoni nodon",
     "open_links_in_new_tab": "Malfermi ligilojn en nova langeto",
-    "op": "OP"
+    "op": "OP",
+    "show_password": "Montri pasvorton",
+    "hide_password": "Kaŝi pasvorton",
+    "incorrect_login": "Malĝustaj ensalutaj identigiloj",
+    "browser_default_compact": "Retumila implicita kompakta"
 }
