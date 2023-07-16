@@ -191,7 +191,7 @@
     "email": "Correio eletrónico",
     "matrix_user_id": "Utilizador Matrix",
     "verify_password": "Verificar palavra-passe",
-    "send_notifications_to_email": "Enviar notificações por correio eletrónico",
+    "send_notifications_to_email": "Enviar notificações por email",
     "optional": "Opcional",
     "expires": "Expira",
     "language": "Idioma",
@@ -275,7 +275,7 @@
     "couldnt_update_site": "Não foi possível atualizar o site.",
     "password_incorrect": "Palavra-passe incorreta.",
     "passwords_dont_match": "As palavras-passe não coincidem.",
-    "no_password_reset": "Não será possível redefinir a tua palavra passe sem um endereço de correio eletrónico.",
+    "no_password_reset": "Não será possível redefinir a tua palavra passe sem um endereço de email.",
     "captcha_incorrect": "CAPTCHA incorreto.",
     "enter_code": "Inserir código",
     "admin_already_created": "Desculpa, já existe um administrador.",
@@ -329,7 +329,7 @@
     "site_already_exists": "O site já existe.",
     "couldnt_find_that_username_or_email": "Não foi possível encontrar esse nome ou endereço de correio eletrónico.",
     "invalid_username": "Nome de utilizador inválido.",
-    "email_already_exists": "Esse endereço de correio eletrónico já está registado.",
+    "email_already_exists": "Esse endereço de email já está registado.",
     "couldnt_update_private_message": "Não foi possível atualizar a mensagem privada.",
     "blocked_instances": "Instâncias bloqueadas",
     "unblock_community": "Desbloquear comunidade",
@@ -510,5 +510,9 @@
     "add_instance": "Adicionar instância",
     "open_links_in_new_tab": "Abrir ligações num novo separador",
     "couldnt_create_audio_captcha": "Não foi possível criar CAPTCHA de áudio.",
-    "op": "OP"
+    "op": "OP",
+    "hide_password": "Esconder palavra-passe",
+    "show_password": "Mostrar palavra-passe",
+    "browser_default_compact": "Predefinição do navegador compacto",
+    "incorrect_login": "Dados de inicio de sessão incorretos"
 }
