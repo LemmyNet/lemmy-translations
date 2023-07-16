@@ -4,8 +4,8 @@
     "no_posts": "Geen berichten.",
     "create_a_post": "Een bericht plaatsen",
     "create_post": "Bericht plaatsen",
-    "number_of_posts": "{{formattedCount}} bericht",
-    "number_of_posts_plural": "{{formattedCount}} berichten",
+    "number_of_posts": "{{formattedCount}} Bericht",
+    "number_of_posts_plural": "{{formattedCount}} Berichten",
     "posts": "Berichten",
     "related_posts": "Deze berichten kunnen gerelateerd zijn",
     "cross_posts": "Deze koppeling werd ook geplaatst in:",
@@ -489,5 +489,8 @@
     "filter_by_action": "Filteren op actie",
     "filter_by_user": "Filteren op gebruiker",
     "only_mods_can_post_in_community": "Enkel moderators kunnen berichen in deze gemeenschap plaatsen",
-    "filter_by_mod": "Filteren op moderator"
+    "filter_by_mod": "Filteren op moderator",
+    "moderator_view_description": "Toon alleen bijdragen van gemeenschappen waarvan u moderator bent",
+    "purge_warning": "Waarschuwing: Als u dit verwijdert worden ook de onderliggende items uit de database gewist. U kunt de gegevens niet meer herstellen. Gebruik dit met uiterste voorzichtigheid.",
+    "purge_success": "Het item is met succes verwijderd."
 }
