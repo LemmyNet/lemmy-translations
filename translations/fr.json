@@ -43,7 +43,7 @@
     "docs": "Documentation",
     "code_of_conduct": "Code de bonne conduite",
     "coc": "CoC",
-    "join_title": "Lemmy - Rejoindre un serveur",
+    "join_title": "Lemmy - Parcourir les serveurs",
     "lemmy_servers": "Serveurs Lemmy",
     "choose_and_join": "Choisissez et rejoignez un serveur parmi les serveurs approuvés ci-dessous.",
     "sponsors_title": "Lemmy - Parrains",
@@ -79,5 +79,7 @@
     "recommended_instances": "Recommandé",
     "instance_browser": "Après avoir créé un compte, vous pouvez trouver des communautés dans toutes les instances en utilisant",
     "add_weblate": "Vous pouvez ajouter des traductions via notre <1>weblate</1>.",
-    "instance_comparison": "Pour une comparaison plus détaillée des instances Lemmy, voir"
+    "instance_comparison": "Pour une comparaison plus détaillée des instances Lemmy, voir",
+    "releases": "Versions de Lemmy",
+    "browse_instance": "Parcourir"
 }
