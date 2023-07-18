@@ -16,7 +16,7 @@
     "notification_mentioned_by_body": "<h1>Qualcunǝ ti ha taggatǝ</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "notification_private_message_subject": "Messaggio privato da {username}",
     "new_report_body": "Per favore clicca sul link sottostante per vedere tutti i report.<br><br><a href=\"{reports_link}\">Visualizza report</a>",
-    "registration_denied": "Registrazione negata",
+    "registration_denied": "Registrazione respinta",
     "application_question_required": "Devi aggiungere un questionario se è obbligatorio fare domanda di iscrizione.",
     "new_application_subject": "{username} ha fatto richiesta di entrare in {hostname}",
     "new_application_body": "Fare clic sul link sottostante per visualizzare la richiesta di partecipazione.<br><br><a href=\"{applications_link}\">Visualizza richieste</a>",
