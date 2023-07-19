@@ -76,7 +76,7 @@
     "news": "Novaĵoj",
     "recommended_instances": "Rekomenditaj",
     "popular_instances": "Popularaj",
-    "cli_apps": "Komandliniaj apoj",
+    "cli_apps": "Komandliniaj/Terminalaj apoj",
     "releases": "Lemmy-eldonoj",
     "users_active_per_month": "{{formattedCount}} uzantoj / monate",
     "instance_browser": "Post kiam vi kreas konton, vi povas trovi komunumojn tra ĉiuj nodoj per",
