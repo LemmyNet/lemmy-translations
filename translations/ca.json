@@ -40,7 +40,7 @@
     "formatting_help": "ajuda amb la formatació",
     "view_source": "mostra’n el codi font",
     "unlock": "desbloca",
-    "lock": "bloca",
+    "lock": "Bloquejar",
     "sticky": "fijat",
     "unsticky": "no fijat",
     "link": "enllaç",
@@ -63,7 +63,7 @@
     "reason": "Raó",
     "mark_as_read": "marca com a llegit",
     "mark_as_unread": "marca com a no llegit",
-    "delete": "suprimeix",
+    "delete": "Eliminar",
     "deleted": "suprimit pel creador",
     "delete_account": "Suprimeix el compte",
     "delete_account_confirm": "Avís: això suprimirà permanentment totes les teves dades d'aquesta instància. És possible que les teves dades no s'eliminin en altres instàncies existents. Introdueix la teva contrasenya per confirmar.",
@@ -380,7 +380,7 @@
     "version": "Versió",
     "add_custom_emoji": "Afegir emoticona personalitzada",
     "rate_limit_header": "Opcions de límit de peticions",
-    "community_not_logged_in_alert": "No has iniciat sessió. Tanmateix, pots subscriure't des d'un altre compte del Fediverse, per exemple, Lemmy o Mastodon. Per fer-ho, enganxa el següent al camp de cerca de la teva instància: !{{community}}@{{instance}}",
+    "community_not_logged_in_alert": "No has iniciat sessió. Tanmateix, pots subscriure't des d'un altre compte del Fediverse, per exemple, Lemmy o Mastodon. Per fer-ho, enganxa el següent al camp de cerca de la teva instància: <1>!{{community}}@{{instance}}</1>",
     "purge_comment": "purga comentari",
     "only_mods_can_post_in_community": "Només el moderadors poden publicar en aquesta comunitat",
     "modlog_content_warning": "<1>AVÍS DE CONTINGUT</1>: Algunes publicacions esborrades poden incloure contingut pertorbador o per adults. Procedeix amb precaució.",
@@ -486,5 +486,7 @@
     "federation_strict_allowlist": "Llista estricta de servidors amb permissió per federar",
     "ban_from_community": "bandejar de la comunitat",
     "remove_two_factor": "Eliminar l'autentificació en dos factors (A2F)",
-    "two_factor_setup_instructions": "Després de fer clic a Desa i que la pàgina torni a carregar, desplaçat cap avall i fes clic a \"Enllaç d'instal·lació 2FA\" per afegir-lo al teu autenticador."
+    "two_factor_setup_instructions": "Després de fer clic a Desa i que la pàgina torni a carregar, desplaçat cap avall i fes clic a \"Enllaç d'instal·lació 2FA\" per afegir-lo al teu autenticador.",
+    "upload_too_large": "La imatge pujada és massa gran!",
+    "top_hour": "El millor d'aquesta hora"
 }
