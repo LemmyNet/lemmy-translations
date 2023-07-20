@@ -497,5 +497,6 @@
     "add_instance": "Adicionar instância",
     "open_links_in_new_tab": "Abrir links em uma nova aba",
     "couldnt_create_audio_captcha": "Não foi possível criar CAPTCHA sonoro.",
-    "incorrect_login": "Credenciais de entrada incorretos"
+    "incorrect_login": "Credenciais de entrada incorretos",
+    "top_hour": "Melhores da última hora"
 }
