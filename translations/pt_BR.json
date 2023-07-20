@@ -498,5 +498,11 @@
     "open_links_in_new_tab": "Abrir links em uma nova aba",
     "couldnt_create_audio_captcha": "Não foi possível criar CAPTCHA sonoro.",
     "incorrect_login": "Credenciais de entrada incorretos",
-    "top_hour": "Melhores da última hora"
+    "top_hour": "Melhor da última hora",
+    "top_six_hours": "Melhor das últimas 6 horas",
+    "top_twelve_hours": "Melhor das últimas 12 horas",
+    "top_three_months": "Melhor dos últimos 3 meses",
+    "top_six_months": "Melhor dos últimos 6 meses",
+    "top_nine_months": "Melhor dos últimos 9 meses",
+    "site_name_required": "Nome do site necessário."
 }
