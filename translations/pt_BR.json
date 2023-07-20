@@ -504,5 +504,7 @@
     "top_three_months": "Melhor dos últimos 3 meses",
     "top_six_months": "Melhor dos últimos 6 meses",
     "top_nine_months": "Melhor dos últimos 9 meses",
-    "site_name_required": "Nome do site necessário."
+    "site_name_required": "Nome do site necessário.",
+    "site_name_length_overflow": "Nome do site não pode exceder 20 caracteres",
+    "reset_password": "Reiniciar Senha"
 }
