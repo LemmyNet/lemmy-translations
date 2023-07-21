@@ -194,5 +194,7 @@
     "resolve_report": "Løys rapport",
     "invalid_regex": "Ugyldig regulært uttrykk.",
     "rate_limit_register": "Registrer",
-    "version": "Versjon"
+    "version": "Versjon",
+    "number_of_posts": "{{formattedCount}} innlegg",
+    "number_of_posts_plural": "{{formattedCount}} innlegg"
 }
