@@ -509,5 +509,6 @@
     "reset_password": "Redefinir Senha",
     "two_factor_link": "Link de instalação da confirmação em duas etapas",
     "featured_in_community": "Em destaque na comunidade",
-    "enter_two_factor_code": "Digite seu código de duas etapas"
+    "enter_two_factor_code": "Digite seu código de duas etapas",
+    "op": "OP"
 }
