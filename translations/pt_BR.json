@@ -489,7 +489,7 @@
     "invalid_regex": "Expressão regular inválida.",
     "permissive_regex": "A expressão regular iria aceitar qualquer texto informado.",
     "rate_limit": "Limite de Frequência",
-    "featured_in_local": "Destaques Locais",
+    "featured_in_local": "Em destaque em local",
     "remove_two_factor": "Remover autenticação de dois-fatores",
     "jump_to_content": "Ir direto ao conteúdo",
     "cant_enable_private_instance_and_federation_together": "Não é possível habilitar instância privada e federação simultaneamente",
@@ -504,7 +504,10 @@
     "top_three_months": "Melhor dos últimos 3 meses",
     "top_six_months": "Melhor dos últimos 6 meses",
     "top_nine_months": "Melhor dos últimos 9 meses",
-    "site_name_required": "Nome do site necessário.",
+    "site_name_required": "Nome do site é necessário.",
     "site_name_length_overflow": "Nome do site não pode exceder 20 caracteres",
-    "reset_password": "Reiniciar Senha"
+    "reset_password": "Redefinir Senha",
+    "two_factor_link": "Link de instalação da confirmação em duas etapas",
+    "featured_in_community": "Em destaque na comunidade",
+    "enter_two_factor_code": "Digite seu código de duas etapas"
 }
