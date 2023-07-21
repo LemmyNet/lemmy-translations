@@ -1,4 +1,8 @@
 {
     "login": "Logg inn",
-    "search": "Søk"
+    "search": "Søk",
+    "logout": "Logg ut",
+    "required": "Påkravd",
+    "message": "Melding",
+    "optional": "Valfritt"
 }
