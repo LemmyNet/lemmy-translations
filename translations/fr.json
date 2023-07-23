@@ -5,7 +5,7 @@
     "lemmy": "Lemmy",
     "lemmy_desc": "Un agrégateur de liens pour le fédiverse.",
     "follow_communities": "Suivez des communautés partout dans le monde",
-    "open_source": "Source Ouverte",
+    "open_source": "Code Source Ouvert",
     "open_source_desc": "Lemmy est et restera toujours un logiciel libre, <1>open source</1>, utilisant la forte <3>Licence AGPL</3> <2>copyleft</2>.",
     "blazing_fast": "Rapide comme l'éclair",
     "blazing_fast_desc": "Réalisé à l’aide de certains des frameworks et outils les plus rapides, notamment <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, et <5>Typescript</5>.",
