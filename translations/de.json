@@ -27,7 +27,7 @@
     "footer_desc": "Gemacht mit <1>Inferno</1> und <2>Chota</2>",
     "sponsors": "Sponsoren",
     "code_of_conduct": "Verhaltenskodex",
-    "join_title": "Lemmy - Trete einem Server bei",
+    "join_title": "Lemmy - Server durchstöbern",
     "apps": "Anwendung",
     "sponsors_title": "Lemmy - Sponsoren",
     "donate_to_lemmy": "Spende an Lemmy",
@@ -79,5 +79,7 @@
     "thanks_translators": "Ein besonderer Dank an unsere Übersetzer: ",
     "thanks_coders": "Ein besonderer Dank an unsere Programmierer ",
     "gold_pressed_latinum_sponsors_desc": "\"Gold Pressed Latinum\" Sponsoren sind diejenigen, die pro Monat $500 oder mehr an Lemmy gespendet haben.",
-    "instance_comparison": "Für einen detaillierteren Vergleich der Lemmy-Instanzen siehe"
+    "instance_comparison": "Für einen detaillierteren Vergleich der Lemmy-Instanzen siehe",
+    "browse_instance": "Stöbern",
+    "instance_browser": "Nachdem du einen Account erstellt hast, kannst du hiermit Communitys aller Instanzen finden:"
 }
