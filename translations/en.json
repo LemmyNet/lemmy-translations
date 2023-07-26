@@ -516,11 +516,11 @@
   "show_password": "Show Password",
   "hide_password": "Hide Password",
   "controversial": "Controversial",
-  "remote_fetch_prompt": "Enter the instance you would like to follow this community from",
+  "remote_follow_prompt": "Enter the instance you would like to follow this community from",
   "fetch_community": "Fetch Community",
   "community_federated": "Community Federated!",
   "fetching_community": "Fetching {{community}}",
   "could_not_fetch_community": "Could not fetch {{community}}",
-  "remote_fetch": "Remote Fetch",
-  "remote_fetch_modal_title": "Subscribe from Remote Instance"
+  "remote_follow": "Remote Follow",
+  "remote_follow_modal_title": "Subscribe from Remote Instance"
 }
