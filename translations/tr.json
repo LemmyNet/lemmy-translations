@@ -83,12 +83,12 @@
     "email_or_username": "E-mail ya da Kullanıcı Adı",
     "username": "Kullanıcı Adı",
     "messages": "Mesajlar",
-    "password": "Şifre",
+    "password": "Parola",
     "verify_password": "Şifreyi doğrulayın",
     "old_password": "Eski şifre",
     "reset_password_mail_sent": "Şifrenin değiştirilebilmesi için e-mail yollandı.",
     "password_change": "Şifre değişikliği",
-    "new_password": "Yeni Şifre",
+    "new_password": "Yeni Parola",
     "email": "E-mail",
     "matrix_user_id": "Matrix Kullanıcısı",
     "optional": "İhtiyari",
@@ -514,5 +514,5 @@
     "browser_default_compact": "Varsayılan Tarayıcı Kompaktı",
     "show_password": "Şifreyi Göster",
     "hide_password": "Şifreyi Gizle",
-    "incorrect_login": "Yanlış oturum açma bilgileri"
+    "incorrect_login": "Yanlış Oturum Bilgileri"
 }
