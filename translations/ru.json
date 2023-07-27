@@ -96,7 +96,7 @@
     "view": "Просмотр",
     "logout": "Выйти",
     "login_sign_up": "Войти / Регистрация",
-    "login": "Авторизация",
+    "login": "Войти",
     "sign_up": "Регистрация",
     "notifications_error": "Уведомления на рабочем столе недоступны в вашем браузере. Попробуйте Firefox или Chrome.",
     "unread_messages_0": "{{formattedCount}} непрочитанное cообщение",
