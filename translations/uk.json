@@ -99,7 +99,7 @@
     "login_sign_up": "Увійти / Зареєструватися",
     "login": "Увійти",
     "sign_up": "Реєстрація",
-    "notifications_error": "Повідомлення в оглядачі не діють у вашому інтернет-оглядачі. Спробуйте Firefox або Chromium.",
+    "notifications_error": "Сповіщення стільниці не діють у вашому інтернет-оглядачі. Спробуйте Firefox або Chromium.",
     "unread_messages_0": "{{formattedCount}} непрочитане повідомлення",
     "unread_messages_1": "{{formattedCount}} непрочитані повідомлення",
     "unread_messages_2": "{{formattedCount}} непрочитаних повідомлень",
