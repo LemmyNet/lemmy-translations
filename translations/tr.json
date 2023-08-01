@@ -514,5 +514,13 @@
     "browser_default_compact": "Varsayılan Tarayıcı Kompaktı",
     "show_password": "Şifreyi Göster",
     "hide_password": "Şifreyi Gizle",
-    "incorrect_login": "Yanlış Oturum Bilgileri"
+    "incorrect_login": "Yanlış Oturum Bilgileri",
+    "controversial": "Tartışmalı",
+    "remote_follow_prompt": "Bu topluluğu takip etmek istediğiniz oluşumu girin",
+    "fetch_community": "Topluluğu Getir",
+    "community_federated": "Topluluk Birleştirilmiş!",
+    "fetching_community": "{{community}} Getiriliyor",
+    "could_not_fetch_community": "{{community}} getirilemedi",
+    "remote_follow": "Uzak Takip",
+    "remote_follow_modal_title": "Uzak Oluşumdan Abone Ol"
 }
