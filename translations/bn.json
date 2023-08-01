@@ -107,5 +107,8 @@
     "left_admin_team": "আপনি এডমিন টিম পরিত্যাগ করেছেন",
     "jump_to_content": "বিষয়বস্তুতে যাও",
     "couldnt_create_audio_captcha": "",
-    "op": ""
+    "op": "",
+    "support_lemmy": "লেমি-কে সমর্থন করো",
+    "remote_follow_modal_title": "দূরবর্তী ইন্সট্যান্স থেকে সদস্যতা নাও",
+    "docs": "নির্দেশিকা"
 }
