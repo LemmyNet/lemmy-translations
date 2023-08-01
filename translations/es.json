@@ -514,5 +514,13 @@
     "hide_password": "Ocultar contraseña",
     "show_password": "Mostrar contraseña",
     "incorrect_login": "Credenciales de inicio de sesión incorrectos",
-    "browser_default_compact": "Predeterminado del navegador compacto"
+    "browser_default_compact": "Predeterminado del navegador compacto",
+    "fetch_community": "Obtener comunidad",
+    "fetching_community": "Obteniendo {{community}}",
+    "remote_follow": "Seguir remotamente",
+    "controversial": "Controvertido",
+    "remote_follow_prompt": "Introduce el nodo desde el que te gustaría seguir a esta comunidad",
+    "community_federated": "¡Comunidad federada!",
+    "could_not_fetch_community": "No se pudo obtener {{community}}",
+    "remote_follow_modal_title": "Suscribirse desde un nodo remoto"
 }

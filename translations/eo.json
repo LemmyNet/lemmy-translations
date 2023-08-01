@@ -514,5 +514,13 @@
     "show_password": "Montri pasvorton",
     "hide_password": "Kaŝi pasvorton",
     "incorrect_login": "Malĝustaj ensalutaj identigiloj",
-    "browser_default_compact": "Retumila implicita kompakta"
+    "browser_default_compact": "Retumila implicita kompakta",
+    "fetch_community": "Venigi komunumon",
+    "fetching_community": "Venigante {{community}}",
+    "could_not_fetch_community": "Ne eblis venigi {{community}}",
+    "remote_follow": "Fore sekvi",
+    "remote_follow_modal_title": "Aboni el fora nodo",
+    "controversial": "Polemikaj",
+    "remote_follow_prompt": "Enigu la nodon, el kiu vi ŝatus sekvi ĉi tiun komunumon",
+    "community_federated": "Komunumo federita!"
 }
