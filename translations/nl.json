@@ -514,5 +514,12 @@
     "rate_limit_error": "Te veel verzoeken, probeer het later opnieuw.",
     "custom_emoji_save_validation": "Alle velden moeten worden ingevuld en de shortcode kan niet worden gedupliceerd.",
     "incorrect_login": "Onjuiste inloggegevens",
-    "cant_enable_private_instance_and_federation_together": "Privé-instantie en federatie kunnen niet tegelijk ingeschakeld zijn"
+    "cant_enable_private_instance_and_federation_together": "Privé-instantie en federatie kunnen niet tegelijk ingeschakeld zijn",
+    "fetch_community": "Gemeenschap ophalen",
+    "community_federated": "Gemeenschap gefedereerd!",
+    "fetching_community": "{{community}} ophalen",
+    "remote_follow": "Volgen op afstand",
+    "remote_follow_modal_title": "Abonneren vanaf externe instantie",
+    "controversial": "Controversieel",
+    "could_not_fetch_community": "Kon {{community}} niet ophalen"
 }
