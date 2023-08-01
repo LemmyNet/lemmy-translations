@@ -514,5 +514,13 @@
     "open_links_in_new_tab": "Abrir ligazóns en nova pestana",
     "op": "OP",
     "couldnt_create_audio_captcha": "Non se creou o cptcha de audio.",
-    "incorrect_login": "Credenciais incorrectas"
+    "incorrect_login": "Credenciais incorrectas",
+    "fetch_community": "Requerir a Comunidade",
+    "community_federated": "Federouse coa Comunidade!",
+    "fetching_community": "Conectando con {{community}}",
+    "could_not_fetch_community": "Non se conectou con {{community}}",
+    "remote_follow": "Seguimento remoto",
+    "remote_follow_modal_title": "Subscribirse desde unha instancia Remota",
+    "controversial": "Polémica",
+    "remote_follow_prompt": "Escribe a instancia desde onde queres seguir esta comunidade"
 }
