@@ -488,5 +488,16 @@
     "profile_not_logged_in_alert": "Ez duzu saiorik hasi. Erabiltzaileak jarraitzeko gai den Fedibertsoko kontu bat erabiltzen baduzu, erabiltzaile hau jarrai dezakezu.",
     "community_not_logged_in_alert": "Ez duzu saiorik hasi. Hala ere, Fedibertsoko beste kontu batetik harpidetu zaitezke, adibidez Lemmykoa edo Mastodonekoa. Hau egiteko, ondokoa itsatsi zure instantziako bilatu eremuan: <1>!{{community}}@{{instance}}</1>",
     "modlog_content_warning": "<1>KONTUZ EDUKIEKIN</1>: Ezabatutako bidalketa batzuek material aztoragarria edo helduentzako materiala izan dezakete. Kontuz ibili.",
-    "remove_two_factor": "Kendu 2 urratseko autentifikazioa"
+    "remove_two_factor": "Kendu 2 urratseko autentifikazioa",
+    "community_federated": "Komunitatea federatuta!",
+    "remote_follow_modal_title": "Harpidetu urrutiko instantzia batetik",
+    "fetch_community": "Eskuratu komunitatea",
+    "fetching_community": "{{community}} eskuratzen",
+    "hide_password": "Ezkutatu pasahitza",
+    "show_password": "Bistaratu pasahitza",
+    "remote_follow_prompt": "Sartu komunitate hau zein instantziatik jarraitu nahi duzun",
+    "could_not_fetch_community": "Ezin izan da {{community}} eskuratu",
+    "missing_totp_token": "TOTP tokena falta da",
+    "column_keywords": "Hitz-gakoak (hutsuneekin bananduta)",
+    "incorrect_totp_token": "TOTP toke okerra"
 }
