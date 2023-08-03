@@ -535,5 +535,11 @@
     "couldnt_create_audio_captcha": "Captcha-ul audio nu a putut fi creat.",
     "incorrect_login": "Credențiale de login incorecte",
     "controversial": "Controversat",
-    "remote_follow_prompt": "Introdu în acest formular comunitar instanța pe care dorești să o urmărești"
+    "remote_follow_prompt": "Introdu în acest formular comunitar instanța pe care dorești să o urmărești",
+    "fetch_community": "Colectează instanță",
+    "community_federated": "Comunitate federată!",
+    "fetching_community": "Se colectează {{community}}",
+    "could_not_fetch_community": "Nu s-a putut colecta {{community}}",
+    "remote_follow": "Urmărire la distanță",
+    "remote_follow_modal_title": "Abonare la instanță la distanță"
 }
