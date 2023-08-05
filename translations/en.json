@@ -522,5 +522,7 @@
   "fetching_community": "Fetching {{community}}",
   "could_not_fetch_community": "Could not fetch {{community}}",
   "remote_follow": "Remote Follow",
-  "remote_follow_modal_title": "Subscribe from Remote Instance"
+  "remote_follow_modal_title": "Subscribe from Remote Instance",
+  "blur_nsfw": "Blur NSFW content",
+  "auto_expand": "Auto expand media"
 }
