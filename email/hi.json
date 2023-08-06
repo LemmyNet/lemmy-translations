@@ -1,4 +1,8 @@
 {
     "registration_approved_body": "आपका पंजीकरण स्वीकार किया गया। {hostname} में आपका स्वागत है!",
-    "registration_approved_subject": "{username} के लिए पंजीकरण स्वीकार किया गया"
+    "registration_approved_subject": "{username} के लिए पंजीकरण स्वीकार किया गया",
+    "registration_denied": "पंजीकरण मना",
+    "registration_denied_subject": "{username} के लिए पंजीकरण मना",
+    "registration_denied_body": "{hostname} के पंजीकरण का आवेदन खारिच कर दिया गया है।",
+    "registration_denied_reason_body": "{hostname} के पंजीकरण का आवेदन खारिच कर दिया गया है।<br>खारिच करने की वजह:<br><br>\"{deny_reason}\""
 }
