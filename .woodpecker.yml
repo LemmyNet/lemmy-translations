@@ -1,8 +1,8 @@
-pipeline:
+steps:
   notify_on_failure:
     image: alpine:3
     commands:
       - apk add curl
-      - "curl -d'CI build failed: ${CI_BUILD_LINK}' ntfy.sh/lemmy_drone_ci"
+      - "curl -d'joinlemmy-translations CI build failed: ${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
     when:
       status: [failure]
