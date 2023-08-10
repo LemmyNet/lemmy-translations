@@ -83,5 +83,7 @@
     "banner": "बैनर",
     "upload_banner": "बैनर डालिए",
     "icon": "आइकन",
-    "upload_icon": "आइकन डालिए"
+    "upload_icon": "आइकन डालिए",
+    "login": "लॉगिन",
+    "search": "खोजें"
 }
