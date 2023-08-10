@@ -374,5 +374,16 @@
     "too_many_images_upload_0": "Překročen maximální počet {{formattedCount}} obrázků pro nahrání. Prosím, vyber pouze jeden obrázek.",
     "too_many_images_upload_1": "Překročen maximální počet {{formattedCount}} obrázků pro nahrání. Prosím, vyber méně obrázků.",
     "too_many_images_upload_2": "",
-    "interface_language": "Jazyk prostředí"
+    "interface_language": "Jazyk prostředí",
+    "top_hour": "Top za hodinu",
+    "top_six_hours": "Top za šest hodin",
+    "top_twelve_hours": "Top za dvanáct hodin",
+    "top_three_months": "Top za tři měsíce",
+    "top_six_months": "Top za šest měsíců",
+    "top_nine_months": "Top za devět měsíců",
+    "error_page_title": "Chyba!",
+    "not_found_page_message": "Stránka, kterou hledáte, neexistuje.",
+    "not_found_page_title": "Stránka nenalezena",
+    "not_found_return_home_button": "Klikněte zde pro návrat na domovskou stránku",
+    "number_of_days": "Počet dní"
 }
