@@ -522,5 +522,7 @@
     "remote_follow_modal_title": "Aboni el fora nodo",
     "controversial": "Polemikaj",
     "remote_follow_prompt": "Enigu la nodon, el kiu vi ŝatus sekvi ĉi tiun komunumon",
-    "community_federated": "Komunumo federita!"
+    "community_federated": "Komunumo federita!",
+    "blur_nsfw": "Malklarigi konsternan enhavon",
+    "auto_expand": "Aŭtomate etendi aŭdvidaĵojn"
 }
