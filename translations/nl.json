@@ -522,5 +522,7 @@
     "remote_follow_modal_title": "Abonneren vanaf externe instantie",
     "controversial": "Controversieel",
     "could_not_fetch_community": "Kon {{community}} niet ophalen",
-    "remote_follow_prompt": "Voer de instantie in van waaruit u deze gemeenschap wilt volgen"
+    "remote_follow_prompt": "Voer de instantie in van waaruit u deze gemeenschap wilt volgen",
+    "blur_nsfw": "NSFW-inhoud vervagen",
+    "auto_expand": "Media automatisch uitvouwen"
 }
