@@ -167,7 +167,7 @@
     "overview": "Oversigt",
     "view": "Vis",
     "logout": "Log ud",
-    "login": "Log på",
+    "login": "Log ind",
     "sign_up": "Opret dig",
     "unread_messages": "{{formattedCount}} ulæst besked",
     "unread_messages_plural": "{{formattedCount}} ulæste beskeder",
@@ -522,5 +522,7 @@
     "add_instance": "Tilføj instans",
     "open_links_in_new_tab": "Åben links i en ny fane",
     "op": "OP",
-    "couldnt_create_audio_captcha": "Kunne ikke lave lyd-captcha."
+    "couldnt_create_audio_captcha": "Kunne ikke lave lyd-captcha.",
+    "auto_expand": "Automatisk udvid billed/video",
+    "blur_nsfw": "Slør NSFW inhold"
 }
