@@ -390,6 +390,8 @@
   "linked_instances": "Linked Instances",
   "allowed_instances": "Allowed Instances",
   "blocked_instances": "Blocked Instances",
+  "block_instance": "Block instance",
+  "unblock_instance": "Unblock instance",
   "blocked_users": "Blocked Users",
   "block_user": "Block user",
   "blocked_communities": "Blocked Communities",
