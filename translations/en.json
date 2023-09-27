@@ -39,7 +39,7 @@
     "cli_apps": "CLI/TUI Apps",
     "api_libraries": "API Libraries",
     "contact_title": "Lemmy - Contact",
-    "contact": "Contact",
+    "contact": "Contact Us",
     "donate_desc": "Lemmy is free, open-source software, meaning no advertising, monetizing, or venture capital, ever. <1>Your donations</1> directly support full-time development of the project.",
     "support_on_liberapay": "Support on Liberapay",
     "support_on_patreon": "Support on Patreon",
@@ -73,5 +73,5 @@
     "add_weblate": "You can add translations via our <1>weblate</1>.",
     "recommended_instances": "Recommended",
     "popular_instances": "Popular",
-    "users_active_per_month": "{{formattedCount}} users / month"
+    "users_active_per_month": "{{formattedCount}} / month"
 }
