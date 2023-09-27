@@ -74,4 +74,5 @@
     "recommended_instances": "Recommended",
     "popular_instances": "Popular",
     "users_active_per_month": "{{formattedCount}} / month"
+    "read_more": "Read more"
 }
