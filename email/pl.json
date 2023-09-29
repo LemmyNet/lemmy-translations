@@ -13,10 +13,14 @@
     "notification_private_message_body": "<h1>Wiadomość prywatna</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
     "registration_approved_subject": "Rejestracja zatwierdzona dla {username}",
     "password_reset_body": "<h1>Prośba o zresetowanie hasła dla {username}</h1><br><a href=\"{reset_link}\">Kliknij tutaj, aby zresetować hasło</a>",
-    "verify_email_body": "Kliknij poniższy link, aby zweryfikować swój adres e-mail dla konta @{username}@{hostname}. Zignoruj ten e-mail, jeśli konto nie należy do Ciebie. <br><br> <a href=\"{verify_link}\">Zweryfikuj swój adres e-mail</a>",
+    "verify_email_body": "Kliknij poniższy link, aby zweryfikować swój adres e-mail dla konta @{username}@{hostname}. Zignoruj ten e-mail, jeśli konto nie należy do Ciebie. <br><br>, <a href=\"{verify_link}\">Zweryfikuj swój adres e-mail</a>",
     "notification_mentioned_by_body": "<h1>Wzmianka o Tobie</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
     "registration_denied": "Rejestracja odrzucona",
     "application_question_required": "Musisz dodać kwestionariusz aplikacyjny jeżeli aplikacja jest wymagana.",
     "new_application_subject": "{username} chce dołączyć do {hostname}",
-    "new_report_subject": "Nowe zgłoszenie na {reported_username} stworzone przez {reporter_username} na {hostname}"
+    "new_report_subject": "Nowe zgłoszenie na {reported_username} stworzone przez {reporter_username} na {hostname}",
+    "new_application_body": "Kliknij poniższy link, aby wyświetlić ich aplikację.<br><br><a href=\"{applications_link}\">Wyświetl aplikacje</a>",
+    "registration_denied_subject": "Rejestracja odrzucona dla {username}",
+    "registration_denied_body": "Twoja rejestracja złożona w instancji {hostname} została odrzucona.",
+    "registration_denied_reason_body": "Twoja rejestracja została odrzucona na {hostname}. <br>Podano następujący powód:<br><br>„{deny_reason}”"
 }

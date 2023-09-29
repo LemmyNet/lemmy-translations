@@ -522,5 +522,7 @@
     "remote_follow": "Seguimento remoto",
     "remote_follow_modal_title": "Subscribirse desde unha instancia Remota",
     "controversial": "Polémica",
-    "remote_follow_prompt": "Escribe a instancia desde onde queres seguir esta comunidade"
+    "remote_follow_prompt": "Escribe a instancia desde onde queres seguir esta comunidade",
+    "blur_nsfw": "Difuminar contido NSFW",
+    "auto_expand": "Despregar multimedia automáticamente"
 }

@@ -514,5 +514,13 @@
     "cant_enable_private_instance_and_federation_together": "Impossibile abilitare istanza privata e federazione contemporaneamente",
     "op": "Autore",
     "couldnt_create_audio_captcha": "Impossibile creare captcha acustico.",
-    "reports_email_admins": "Manda un'email agli admin alla ricevuta di nuove segnalazioni"
+    "reports_email_admins": "Manda un'email agli admin alla ricevuta di nuove segnalazioni",
+    "fetch_community": "Scarica comunità",
+    "community_federated": "Comunità federata!",
+    "remote_follow": "Segui remota",
+    "remote_follow_modal_title": "Iscriviti da un'istanza remota",
+    "controversial": "Controversi",
+    "remote_follow_prompt": "Inserisci l'istanza da cui vorresti seguire questa comunità",
+    "fetching_community": "Scaricando {{community}}",
+    "could_not_fetch_community": "Impossibile scaricare {{community}}"
 }

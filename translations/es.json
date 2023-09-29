@@ -522,5 +522,7 @@
     "remote_follow_prompt": "Introduce el nodo desde el que te gustaría seguir a esta comunidad",
     "community_federated": "¡Comunidad federada!",
     "could_not_fetch_community": "No se pudo obtener {{community}}",
-    "remote_follow_modal_title": "Suscribirse desde un nodo remoto"
+    "remote_follow_modal_title": "Suscribirse desde un nodo remoto",
+    "blur_nsfw": "Difuminar contenido NSFW",
+    "auto_expand": "Autoexpandir multimedias"
 }

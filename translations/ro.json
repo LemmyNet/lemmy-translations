@@ -541,5 +541,7 @@
     "fetching_community": "Se colectează {{community}}",
     "could_not_fetch_community": "Nu s-a putut colecta {{community}}",
     "remote_follow": "Urmărire la distanță",
-    "remote_follow_modal_title": "Abonare la instanță la distanță"
+    "remote_follow_modal_title": "Abonare la instanță la distanță",
+    "blur_nsfw": "Ascunde conținut NSFW",
+    "auto_expand": "Extinde media automat"
 }

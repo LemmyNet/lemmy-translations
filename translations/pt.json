@@ -522,5 +522,7 @@
     "remote_follow_modal_title": "Subscrever a partir de uma instância remota",
     "controversial": "Controverso",
     "fetch_community": "Buscar comunidade",
-    "remote_follow_prompt": "Introduz a instância a partir da qual pretendes seguir esta comunidade"
+    "remote_follow_prompt": "Introduz a instância a partir da qual pretendes seguir esta comunidade",
+    "blur_nsfw": "Desfocar conteúdo NSFW",
+    "auto_expand": "Expandir multimédia automaticamente"
 }

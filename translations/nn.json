@@ -256,8 +256,8 @@
     "language_plural": "Språk",
     "undetermined_language_warning": "Åtvaring: Vel du fjernar «Undetermined», vert det meste av innhaldet ikkje synleg for deg.",
     "your_site": "nettstaden din",
-    "nsfw": "NSFW/vakseninnhald",
-    "show_nsfw": "Vis NSFW/vakseninnhald",
+    "nsfw": "NSFW-/vakseninnhald",
+    "show_nsfw": "Vis NSFW-/vakseninnhald",
     "transfer_community": "overfør fellesskap",
     "transfer_site": "overfør nettstad",
     "bio_length_overflow": "Biografien kan ikkje vera på meir enn 300 teikn.",
@@ -397,7 +397,7 @@
     "open_registration": "Open registrering",
     "close_registration": "Lukka registrering",
     "registration_closed": "Registrering stengd",
-    "enable_nsfw": "Vis NSFW/vakseninnhald",
+    "enable_nsfw": "Vis NSFW-/vakseninnhald",
     "url": "Nettadresse",
     "body": "Meldingstekst",
     "copy_suggested_title": "Kopier tittel frå nettsida: {{title}}",
@@ -522,5 +522,7 @@
     "fetching_community": "Hentar {{community}}",
     "could_not_fetch_community": "Klarte ikkje henta {{community}}",
     "remote_follow": "Følg eksternt",
-    "remote_follow_modal_title": "Abonner frå ekstern instans"
+    "remote_follow_modal_title": "Abonner frå ekstern instans",
+    "blur_nsfw": "Vis NSFW-bilete som uklare",
+    "auto_expand": "Utvid automatisk bilete/videoar"
 }
