@@ -270,7 +270,7 @@
     "banner": "Bannière",
     "upload_banner": "Téléverser une bannière",
     "icon": "Icône",
-    "upload_icon": "Téléverser une icône",
+    "upload_icon": "Téléverser un icône",
     "leave_mod_team": "quitter l’équipe de modération",
     "active": "Actif",
     "cake_day_info": "Aujourd’hui c’est le gâteau jour de {{ creator_name }} !",
@@ -522,5 +522,7 @@
     "controversial": "Controversé",
     "community_federated": "Communauté fédérée !",
     "fetching_community": "Récupération de {{community}}",
-    "remote_follow_modal_title": "Suivre depuis l'instance distante"
+    "remote_follow_modal_title": "Suivre depuis l'instance distante",
+    "auto_expand": "Développer automatiquement les médias",
+    "blur_nsfw": "Flouter le contenu NSFW"
 }
