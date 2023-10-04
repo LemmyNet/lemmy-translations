@@ -516,5 +516,5 @@
     "actor_name_max_length": "Comprimento máximo para nomes de intervenientes (\"actors\")",
     "remote_follow_prompt": "Entre na instância de onde que você seguir essa comunidade",
     "blur_nsfw": "Borrar conteúdo NSFW",
-    "auto_expand": "Automaticamente expandir mídia",
+    "auto_expand": "Automaticamente expandir mídia"
 }
