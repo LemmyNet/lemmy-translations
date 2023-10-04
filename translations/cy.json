@@ -12,7 +12,7 @@
     "select_a_community": "Dewis Cymuned",
     "create_community": "Creu Cymuned",
     "remove_community": "Dileu Cymuned",
-    "create_post": "Creu Post",
+    "create_post": "Creu",
     "post": "post",
     "remove_post": "Dileu Post",
     "number_of_posts_0": "{{formattedCount}} Postiadau",
