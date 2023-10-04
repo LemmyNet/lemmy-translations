@@ -503,7 +503,7 @@
   "incorrect_totp_code": "Incorrect 2FA code",
   "enable_totp": "Enable 2-factor authentication",
   "enter_totp_code": "Enter your 2FA code",
-  "2fa_link": "Click here for 2FA installation link",
+  "totp_link": "Click here for 2FA installation link",
   "disable_totp": "Disable 2-factor authentication",
   "totp_qr": "2-factor authentication QR code",
   "totp_qr_segue": "or scan this QR code in an authenticator app",
