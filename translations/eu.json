@@ -437,7 +437,6 @@
     "featured": "Nagusi bezala markatuta",
     "feature_in_local": "Markatu nagusi bezala Lokalean",
     "deleted_emoji": "Ezabatutako Emojia",
-    "two_factor_link": "2FA instalazio esteka",
     "ban_from_community": "debekatu komunitatean",
     "upload_too_large": "Igotako irudia handiegia da!",
     "error_page_paragraph": "Zerbitzarian errore bat izan da. Saiatu nabigatzailea freskatzen. Konpontzen ez bada, itzul zaitez bertora beranduago. Arazoak berdin jarraitzen badu, laguntza bila dezakezu <1>Lemmyren laguntza komunitatean</1> edo <1>Lemmyren Matrix gelan</1>.",
@@ -461,9 +460,7 @@
     "saved_emoji": "Gordetako Emojia",
     "column_alttext": "Testu alternatiboa",
     "site": "Gunea",
-    "set_up_two_factor": "Ezarri 2 urratseko autentifikazioa (2FA)",
     "cant_enable_private_instance_and_federation_together": "Ezin dira aldi berean gaitu instantzia pribatua eta federazioa",
-    "two_factor_token": "2FA tokena",
     "jump_to_content": "Salto egin edukira",
     "add_instance": "Gehitu instantzia",
     "remove_instance": "Kendu instantzia",
@@ -484,11 +481,9 @@
     "custom_emoji_save_validation": "Eremu guztiak bete behar dira eta kode-laburrak ezin dira errepikatu.",
     "add_custom_emoji": "Gehitu Emoji pertsonalizatua",
     "column_shortcode": "Kode-laburra",
-    "enter_two_factor_code": "Sartu zure 2FA kodea",
     "profile_not_logged_in_alert": "Ez duzu saiorik hasi. Erabiltzaileak jarraitzeko gai den Fedibertsoko kontu bat erabiltzen baduzu, erabiltzaile hau jarrai dezakezu.",
     "community_not_logged_in_alert": "Ez duzu saiorik hasi. Hala ere, Fedibertsoko beste kontu batetik harpidetu zaitezke, adibidez Lemmykoa edo Mastodonekoa. Hau egiteko, ondokoa itsatsi zure instantziako bilatu eremuan: <1>!{{community}}@{{instance}}</1>",
     "modlog_content_warning": "<1>KONTUZ EDUKIEKIN</1>: Ezabatutako bidalketa batzuek material aztoragarria edo helduentzako materiala izan dezakete. Kontuz ibili.",
-    "remove_two_factor": "Kendu 2 urratseko autentifikazioa",
     "community_federated": "Komunitatea federatuta!",
     "remote_follow_modal_title": "Harpidetu urrutiko instantzia batetik",
     "fetch_community": "Eskuratu komunitatea",
@@ -497,7 +492,5 @@
     "show_password": "Bistaratu pasahitza",
     "remote_follow_prompt": "Sartu komunitate hau zein instantziatik jarraitu nahi duzun",
     "could_not_fetch_community": "Ezin izan da {{community}} eskuratu",
-    "missing_totp_token": "TOTP tokena falta da",
-    "column_keywords": "Hitz-gakoak (hutsuneekin bananduta)",
-    "incorrect_totp_token": "TOTP toke okerra"
+    "column_keywords": "Hitz-gakoak (hutsuneekin bananduta)"
 }

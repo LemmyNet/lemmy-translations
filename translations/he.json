@@ -40,7 +40,6 @@
     "software": "תוכנה",
     "site": "אתר",
     "jump_to_content": "דלג לתוכן",
-    "remove_two_factor": "הסר אימות דו-שלבי",
     "no_posts": "אין פוסטים.",
     "number_of_posts_0": "פוסט אחד",
     "number_of_posts_1": "שני פוסטים",
@@ -154,10 +153,5 @@
     "number_of_users_1": "{{formattedCount}} משתמשים",
     "number_of_users_2": "{{formattedCount}} משתמשים",
     "number_of_users_3": "{{formattedCount}} משתמשים",
-    "set_up_two_factor": "הגדר אימות דו-שלבי (2FA)",
-    "enter_two_factor_code": "הכנס את קוד ה-2FA שלך",
-    "two_factor_link": "קישור להתקנת אימות דו-שלבי (2FA)",
-    "two_factor_setup_instructions": "לאחר לחציה על \"שמור\" וטעינה מחדש של העמוד, עבור לתחתית ולחץ על \"קישור להתקנת אימות דו-שלבי (2FA)\" על מנת להוסיפו לאפליקציית האימות שלך.",
-    "two_factor_token": "טוקן 2FA",
     "cant_enable_private_instance_and_federation_together": "לא ניתן להפעיל מופע פרטי ופדרטיבי יחדיו"
 }
