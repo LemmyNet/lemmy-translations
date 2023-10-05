@@ -179,6 +179,7 @@
   "active_users_in_the_last_month_plural": "{{formattedCount}} active users in the last month",
   "active_users_in_the_last_six_months": "{{formattedCount}} active user in the last 6 months",
   "active_users_in_the_last_six_months_plural": "{{formattedCount}} active users in the last 6 months",
+  "scaled": "Scaled",
   "very_weak": "Very weak",
   "weak": "Weak",
   "medium": "Medium",
