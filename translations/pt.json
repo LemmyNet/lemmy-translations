@@ -516,5 +516,9 @@
     "fetch_community": "Buscar comunidade",
     "remote_follow_prompt": "Introduz a instância a partir da qual pretendes seguir esta comunidade",
     "blur_nsfw": "Desfocar conteúdo NSFW",
-    "auto_expand": "Expandir multimédia automaticamente"
+    "auto_expand": "Expandir multimédia automaticamente",
+    "remote_follow_invalid_instance": "{{instance}} não é um domínio válido.",
+    "block_instance": "Bloquear instância",
+    "unblock_instance": "Desbloquear instância",
+    "remote_follow_local_instance": "Não foi possível obter a instância local para seguir remotamente."
 }
