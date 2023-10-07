@@ -9,6 +9,7 @@
   "lemmy_long_desc": "Lemmy is a selfhosted social link aggregation and discussion platform. It is completely free and open, and not controlled by any company. This means that there is no advertising, tracking, or secret algorithms. Content is organized into communities, so it is easy to subscribe to topics that you are interested in, and ignore others. Voting is used to bring the most interesting items to the top.",
   "open_source": "Open Source",
   "open_source_desc": "Lemmy is and will always remain free, <1>open source</1> software, using the strong <2>copyleft</2> <3>AGPL License</3>.",
+  "copyright_line": "© Lemmy - 2023. All rights reserved.",
   "blazing_fast": "Blazing Fast",
   "blazing_fast_desc": "Made using some of the fastest frameworks and tools, including <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4>, and <5>Typescript</5>.",
   "censorship_resistant": "Censorship resistant",
