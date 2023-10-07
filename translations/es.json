@@ -520,5 +520,7 @@
     "block_instance": "Bloquear nodo",
     "unblock_instance": "Desbloquear nodo",
     "remote_follow_invalid_instance": "{{instance}} no es un dominio válido.",
-    "remote_follow_local_instance": "No se pudo obtener instancia local para seguir remotamente"
+    "remote_follow_local_instance": "No se pudo obtener instancia local para seguir remotamente",
+    "incorrect_totp_code": "Código A2F incorrecto",
+    "enter_totp_code": "Introduce tu código A2F"
 }

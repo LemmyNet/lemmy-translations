@@ -520,5 +520,12 @@
     "block_instance": "Bloki nodon",
     "unblock_instance": "Malbloki nodon",
     "remote_follow_invalid_instance": "{{instance}} ne estas valida domajno.",
-    "remote_follow_local_instance": "Ne eblis venigi lokan nodon por fora sekvado"
+    "remote_follow_local_instance": "Ne eblis venigi lokan nodon por fora sekvado",
+    "enable_totp": "Ebligi dupaŝan aŭtentigon",
+    "disable_totp": "Malebligi dupaŝan aŭtentigon",
+    "enter_totp_code": "Enigi vian dupaŝan aŭtentigan kodon",
+    "totp_qr": "Dupaŝa aŭtentiga rapidresponda kodo",
+    "totp_qr_segue": "aŭ skanu ĉi tiun rapidrespondan kodon en aŭtentiga apo",
+    "enable_totp_success": "Dupaŝa aŭtentigo sukcese ebligita",
+    "disable_totp_success": "Dupaŝa aŭtentigo sukcese malebligita"
 }
