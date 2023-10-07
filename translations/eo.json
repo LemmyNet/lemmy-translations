@@ -527,5 +527,9 @@
     "totp_qr": "Dupaŝa aŭtentiga rapidresponda kodo",
     "totp_qr_segue": "aŭ skanu ĉi tiun rapidrespondan kodon en aŭtentiga apo",
     "enable_totp_success": "Dupaŝa aŭtentigo sukcese ebligita",
-    "disable_totp_success": "Dupaŝa aŭtentigo sukcese malebligita"
+    "disable_totp_success": "Dupaŝa aŭtentigo sukcese malebligita",
+    "totp_link": "Alklaku ĉi tie por vidi dupaŝan aŭtentigan ligilon",
+    "scaled": "Proporcie",
+    "invalid_totp_code": "Nevalida dupaŝa aŭtentiga kodo: devas esti ses-cifera signovico",
+    "incorrect_totp_code": "Malĝusta dupaŝa aŭtentiga kodo"
 }

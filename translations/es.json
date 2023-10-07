@@ -522,5 +522,14 @@
     "remote_follow_invalid_instance": "{{instance}} no es un dominio válido.",
     "remote_follow_local_instance": "No se pudo obtener instancia local para seguir remotamente",
     "incorrect_totp_code": "Código A2F incorrecto",
-    "enter_totp_code": "Introduce tu código A2F"
+    "enter_totp_code": "Introduce tu código A2F",
+    "scaled": "Proporcionado",
+    "invalid_totp_code": "Código A2F inválido: debe ser una cadena de seis dígitos",
+    "enable_totp": "Activar autenticación de dos factores",
+    "disable_totp": "Desactivar autenticación de dos factores",
+    "totp_qr": "Código QR de autenticación de dos factores",
+    "totp_qr_segue": "o escanea este código QR en una aplicación de autenticación",
+    "totp_link": "Haz clic aquí para ver enlace de instalación de A2F",
+    "disable_totp_success": "Autenticación de dos factores desactivada con éxito",
+    "enable_totp_success": "Autenticación de dos factores activada con éxito"
 }
