@@ -23,6 +23,7 @@
   "live_updates": "Live Updates",
   "live_updates_desc": "New comments and posts stream in to your front page and inbox; No more page refreshes required.",
   "more_features": "More <1>Features</1>",
+  "more_information": "More information",
   "self_hostable": "Self hostable, easy to deploy, via <1>Docker</1>, or <2>Ansible</2>.",
   "clean_interface": "Clean, mobile-friendly interface.",
   "avatar_support": "User avatar support.",
