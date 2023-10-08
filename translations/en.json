@@ -80,6 +80,6 @@
   "add_weblate": "You can add translations via our <1>weblate</1>.",
   "recommended_instances": "Recommended",
   "popular_instances": "Popular",
-  "users_active_per_month": "{{formattedCount}} / month",
+  "per_month": "{{formattedCount}} / month",
   "read_more": "Read more"
 }
