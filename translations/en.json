@@ -39,7 +39,7 @@
   "topic": "Topic",
   "interests": "Interests",
   "languages": "Languages",
-
+  "sort": "Sort",
   "what_topic": "What topic are you most interested in?",
   "what_language": "What language do you speak?",
   "random": "Random",
