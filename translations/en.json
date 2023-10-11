@@ -2,6 +2,7 @@
   "lemmy_title": "Lemmy - A link aggregator for the fediverse",
   "join_a_server": "Join a Server",
   "see_all_servers": "See All Servers",
+  "none_found": "None found.",
   "join": "Join",
   "run_a_server": "Run a Server",
   "lemmy": "Lemmy",
