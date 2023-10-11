@@ -6,5 +6,7 @@
     "password_reset_body": "<h1>{username}的密码重置请求</h1><br><a href=\"{reset_link}\">点击此处重置您的密码</a>",
     "verify_email_subject": "验证您在 {hostname} 的电子邮件地址",
     "registration_approved_body": "您的注册申请已获批准。欢迎来到 {hostname}！",
-    "verify_email_body": "请点击下方链接以验证您在 @{username}@{hostname} 账户的电子邮件地址。如果该账户不属于您，请忽略此邮件。<br><br><a href=\"{verify_link}\">验证您的邮箱</a>"
+    "verify_email_body": "请点击下方链接以验证您在 @{username}@{hostname} 账户的电子邮件地址。如果该账户不属于您，请忽略此邮件。<br><br><a href=\"{verify_link}\">验证您的邮箱</a>",
+    "registration_denied_subject": "{username} 注册被拒绝",
+    "registration_denied_body": "{hostname}实例的注册申请已被拒绝。"
 }
