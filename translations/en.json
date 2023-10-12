@@ -107,5 +107,9 @@
   "recommended_instances": "Recommended",
   "popular_instances": "Popular",
   "per_month": "{{formattedCount}} / month",
+  "supporters": "{{formattedCount}} supporters",
+  "devs_funded": "{{formattedCount1}} / {{formattedCount2}} devs funded",
+  "based_on_salary": "Based on a median European €{{formattedCount}} software developer salary from developersalary.com",
+  "months_remaining": "{{formattedCount}} months remaining",
   "read_more": "Read more"
 }
