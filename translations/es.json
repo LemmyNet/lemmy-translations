@@ -30,7 +30,7 @@
     "web_apps": "Aplicaciones web",
     "api_libraries": "Bibliotecas de la API",
     "contact_title": "Lemmy - Contacto",
-    "contact": "Contacto",
+    "contact": "Contáctanos",
     "support_on_liberapay": "Apoyar en Liberapay",
     "support_on_patreon": "Apoyar en Patreon",
     "support_on_opencollective": "Apoyar en OpenCollective",
@@ -79,8 +79,9 @@
     "releases": "Publicaciones de Lemmy",
     "recommended_instances": "Recomendadas",
     "popular_instances": "Populares",
-    "users_active_per_month": "{{formattedCount}} usuarios / mes",
+    "users_active_per_month": "{{formattedCount}} / mes",
     "instance_browser": "Tras crear una cuenta, puedes encontrar comunidades por todos los nodos usando",
     "instance_comparison": "Para una comparación más detallada de nodos de Lemmy, consulta",
-    "browse_instance": "Navegar"
+    "browse_instance": "Navegar",
+    "read_more": "Leer más"
 }
