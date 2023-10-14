@@ -6,6 +6,7 @@
   "join": "Join",
   "run_a_server": "Run a Server",
   "lemmy": "Lemmy",
+  "lemmyverse": "Lemmyverse",
   "lemmy_desc": "A link aggregator for the fediverse.",
   "follow_communities": "Follow communities <1>Anywhere</1> in the world",
   "lemmy_long_desc": "Lemmy is a selfhosted social link aggregation and discussion platform. It is completely free and open, and not controlled by any company. This means that there is no advertising, tracking, or secret algorithms. Content is organized into communities, so it is easy to subscribe to topics that you are interested in, and ignore others. Voting is used to bring the most interesting items to the top.",
