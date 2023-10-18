@@ -33,7 +33,7 @@
     "live_updates": "Новини в реално време",
     "live_updates_desc": "Нови коментари и постове се показват директно на началната страница и в пощенската ти кутия; Без повече обновявания на страницата.",
     "contact_title": "Lemmy - Контакт",
-    "contact": "Контакт",
+    "contact": "Свържете се с нас",
     "support_on_liberapay": "Подкрепи ни на Liberapay",
     "support_on_patreon": "Подкрепи ни на Patreon",
     "support_on_opencollective": "Подкрепи ни на OpenCollective",
@@ -76,11 +76,12 @@
     "apply_to_join": "Кандидатирай се",
     "mobile_apps_for_ios_and_android": "Мобилни приложения за iOS и Android.",
     "news": "Новини",
-    "users_active_per_month": "{{formattedCount}} потребители / месец",
+    "users_active_per_month": "{{formattedCount}} / месец",
     "instance_comparison": "За по-подробно сравнение на Lemmy инстанциите, виж",
     "instance_browser": "След като създадеш акаунт, можеш да намериш общности във всички инстанции, като използваш",
     "recommended_instances": "Препоръчани",
     "browse_instance": "Разгледай",
     "popular_instances": "Популярни",
-    "releases": "Lemmy издания"
+    "releases": "Lemmy издания",
+    "read_more": "Прочети още"
 }
