@@ -115,5 +115,6 @@
   "total_comments": "{{formattedCount}} total comments",
   "total_users": "{{formattedCount}} total users",
   "monthly_active_users": "{{formattedCount}} active users (users who have posted or commented in the last month)",
+  "closed_source_warning": "Warning: this app is closed source, and may collect your data. Use at your own risk.",
   "read_more": "Read more"
 }
