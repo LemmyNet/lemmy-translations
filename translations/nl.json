@@ -31,7 +31,7 @@
     "web_apps": "Web-apps",
     "cli_apps": "CLI-/TUI-apps",
     "api_libraries": "API-bibliotheken",
-    "contact": "Contact",
+    "contact": "Contact met ons opnemen",
     "contact_title": "Lemmy - Contact",
     "support_on_liberapay": "Ondersteun via Liberapay",
     "support_on_patreon": "Ondersteun via Patreon",
@@ -77,9 +77,10 @@
     "popular_instances": "Populair",
     "donate": "Doneren",
     "instance_browser": "Nadat u een account heeft aangemaakt, kunt u gemeenschappen vinden in alle instanties met behulp van",
-    "users_active_per_month": "{{formattedCount}} gebruikers per maand",
+    "users_active_per_month": "{{formattedCount}} per maand",
     "mobile_apps_for_ios_and_android": "Mobiele apps voor iOS en Android.",
     "gold_sponsors_desc": "Gouden sponsors zijn diegenen die maandelijks $100 hebben toegezegd aan Lemmy.",
     "instance_comparison": "Voor een meer gedetailleerde vergelijking van Lemmy-instanties, zie",
-    "gold_pressed_latinum_sponsors_desc": "Goudegedrukte platina-sponsors zijn diegenen die maandelijks $500 of meer hebben toegezegd aan Lemmy."
+    "gold_pressed_latinum_sponsors_desc": "Goudegedrukte platina-sponsors zijn diegenen die maandelijks $500 of meer hebben toegezegd aan Lemmy.",
+    "read_more": "Meer lezen"
 }
