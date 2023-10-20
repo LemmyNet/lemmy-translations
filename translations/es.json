@@ -530,5 +530,6 @@
     "totp_qr_segue": "o escanea este código QR en una aplicación de autenticación",
     "totp_link": "Haz clic aquí para ver enlace de instalación de A2F",
     "disable_totp_success": "Autenticación de dos factores desactivada con éxito",
-    "enable_totp_success": "Autenticación de dos factores activada con éxito"
+    "enable_totp_success": "Autenticación de dos factores activada con éxito",
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} imágenes subidas"
 }
