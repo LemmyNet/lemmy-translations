@@ -516,5 +516,20 @@
     "controversial": "Polémica",
     "remote_follow_prompt": "Escribe a instancia desde onde queres seguir esta comunidade",
     "blur_nsfw": "Difuminar contido NSFW",
-    "auto_expand": "Despregar multimedia automáticamente"
+    "auto_expand": "Despregar multimedia automáticamente",
+    "scaled": "Escaldo",
+    "block_instance": "Bloquear instancia",
+    "unblock_instance": "Desbloquear instancia",
+    "invalid_totp_code": "Código 2FA non válido: ten que ser unha cadea de seis díxitos",
+    "incorrect_totp_code": "Código 2FA incorrecto",
+    "enable_totp": "Activar autenticación con 2 factores",
+    "enter_totp_code": "Escribe o teu código 2FA",
+    "totp_link": "Preme aquí para ter a ligazón para instalar 2FA",
+    "disable_totp": "Desactivar o 2 factor de autenticación",
+    "totp_qr": "Código QR do 2-factor de autenticación",
+    "totp_qr_segue": "ou escanea este código QR nunha app autenticadora",
+    "enable_totp_success": "Activouse correctamente o 2-factor de autenticación",
+    "disable_totp_success": "Desactivouse correctamente o 2-factor de autenticación",
+    "remote_follow_invalid_instance": "{{instance}} non é un dominio válido.",
+    "remote_follow_local_instance": "Non se obtivo a instancia local para o seguimento remoto"
 }
