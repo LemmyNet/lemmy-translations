@@ -34,7 +34,7 @@
     "cli_apps": "CLI/TUI Apps",
     "api_libraries": "Bibliotecas API",
     "contact_title": "Lemmy - Contacto",
-    "contact": "Contacto",
+    "contact": "Contacta con nós",
     "donate_desc": "Lemmy é software libre, de código aberto, o que significa que non haberá nunca publicidade, busca de beneficios ou capital risco. <1>As túas doazóns</1> van directamente á axuda ao desenvolvemento do proxecto.",
     "support_on_liberapay": "Doa en Liberapay",
     "support_on_patreon": "Doa en Patreon",
@@ -80,7 +80,8 @@
     "news": "Novas",
     "recommended_instances": "Recomendadas",
     "popular_instances": "Populares",
-    "users_active_per_month": "{{formattedCount}} usuarias / mes",
+    "users_active_per_month": "{{formattedCount}} / mes",
     "instance_browser": "Após crear a conta, verás comunidades de todas as instancia usando",
-    "instance_comparison": "Para unha comparación detallada das instancias Lemmy, le"
+    "instance_comparison": "Para unha comparación detallada das instancias Lemmy, le",
+    "read_more": "Ler máis"
 }
