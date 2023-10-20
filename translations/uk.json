@@ -500,7 +500,6 @@
     "featured_in_local": "Радимо серед місцевого",
     "rate_limit_header": "Налаштування обмеження запитів",
     "failed_to_delete_picture": "Не вдалося видалити зображення: {{filename}}",
-    "pictures_uploded_progess": "завантажено {{uploaded}} з {{total}} зображень",
     "no_password_reset": "Ви не зможете скинути свій пароль без адреси електронної пошти.",
     "reports": "Скарги",
     "reporter": "Скаржник",

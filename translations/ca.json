@@ -337,7 +337,6 @@
     "too_many_images_upload": "Excedit el màxim de {{formattedCount}} imatge per pujar. Si us plau, selecciona només una imatge.",
     "too_many_images_upload_plural": "Excedit el màxim de {{formattedCount}} imatges per pujar. Si us plau, selecciona menys imatges.",
     "purge_warning": "Avís: la purga suprimirà aquest element i tots els seus fills de la base de dades. No podràs recuperar les dades. Fes servir amb extrema precaució.",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} imatges pujades",
     "cant_enable_private_instance_and_federation_together": "No pots activar els modes privat i federació al mateix temps",
     "active_users_in_the_last_day": "{{formattedCount}} usuari actiu l'últim dia",
     "active_users_in_the_last_day_plural": "{{formattedCount}} usuaris actius l'últim dia",

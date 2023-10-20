@@ -455,7 +455,6 @@
     "rate_limit_post": "Viestien lähettämisen rajoitus",
     "custom_emoji_save_validation": "Kaikki kentät on täydettävä eikä lyhyttä koodia voi kopioida.",
     "column_shortcode": "Lyhyt koodi",
-    "pictures_uploded_progess": "{{uploaded}} / {{total}} kuvasta lähetetty",
     "featured": "Esitellyt",
     "feature_in_local": "Näytä Paikallinen-näkymässä",
     "unfeature_from_local": "Älä näytä Paikallinen-näkymässä",

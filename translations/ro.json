@@ -212,7 +212,6 @@
     "delete_account_confirm": "Atenție: asta va șterge permanent totul de pe această instanță. Nu este garantat că datele tale vor fi șterse pe alte instanțe existente. Introduc parola ta pentru a confirma.",
     "failed_to_delete_picture": "Eroare la ștergerea imaginii: {{filename}}",
     "picture_deleted": "Imagine ștearsă: {{filename}}",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} imagini încărcate",
     "restore": "restaurează",
     "ban": "interzice",
     "ban_from_site": "interzice de pe site",

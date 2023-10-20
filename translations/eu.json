@@ -477,7 +477,6 @@
     "emoji": "Emojia",
     "software": "Softwarea",
     "version": "Bertsioa",
-    "pictures_uploded_progess": "{{total}}(e)tik {{uploaded}} irudi igo dira",
     "custom_emoji_save_validation": "Eremu guztiak bete behar dira eta kode-laburrak ezin dira errepikatu.",
     "add_custom_emoji": "Gehitu Emoji pertsonalizatua",
     "column_shortcode": "Kode-laburra",

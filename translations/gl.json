@@ -469,7 +469,6 @@
     "rate_limit": "Limitacións",
     "rate_limit_header": "Opcións dos Límites",
     "software": "Software",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} imaxes subidas",
     "loading": "A cargar",
     "error_page_title": "Erro!",
     "error_code_message": "O servidor devolveu este erro: <1>{{error}}</1>. Podería axudarlle á administración e desenvolvedoras a diagnosticar e arranxar o problema",

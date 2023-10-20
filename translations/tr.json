@@ -415,7 +415,6 @@
     "purge": "temizle",
     "most_comments": "En Çok Yorum",
     "rate_limit_error": "Çok fazla deneme, daha sonra tekrar deneyin.",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} resmi yüklendi",
     "display_name": "Gösterilen isim",
     "blocked_communities": "Engellenmiş Topluluklar",
     "none_found": "Bulunamadı.",

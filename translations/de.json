@@ -357,7 +357,6 @@
     "show_report_dialog": "Meldungsdialog anzeigen",
     "purge_success": "Der Beitrag wurde vollständig gelöscht.",
     "loading": "Wird geladen",
-    "pictures_uploded_progess": "{{uploaded}} von {{total}} Bildern hochgeladen",
     "very_weak": "Sehr schwach",
     "error_page_title": "Fehler!",
     "error_page_admin_matrix": "Falls du einen der Administratoren von {{instance}} für Unterstützung kontaktieren willst, probiere die folgenden Matrix-Adressen:",

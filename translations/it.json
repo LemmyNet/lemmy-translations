@@ -422,7 +422,6 @@
     "ban_from_community": "espulsione dalla comunità",
     "loading": "Caricamento",
     "upload_too_large": "L'immagine caricata è troppo grande!",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} immagini caricate",
     "purge_warning": "Attenzione: L'eliminazione cancellerà questo elemento e tutti i suoi figli dal database. Non sarà possibile recuperare i dati. Usare con estrema cautela.",
     "modlog_content_warning": "<1>AVVERTENZA SUI CONTENUTI</1>: Alcuni messaggi cancellati possono contenere materiale disturbante o per adulti. Procedere con cautela.",
     "top_hour": "Migliori dell'ora",

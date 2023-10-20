@@ -419,6 +419,5 @@
     "loading": "Betöltés",
     "failed_to_delete_picture": "A következő kép törlése sikertelen: {{filename}}",
     "ban_from_community": "Kitiltás a közösségből",
-    "modlog_content_warning": "<1>Figyelem!</1> Valamennyi törölt poszt felkavaró vagy felnőtt anyagokat tartalmazhat. Óvatosan haladj tovább.",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} kép feltöltve"
+    "modlog_content_warning": "<1>Figyelem!</1> Valamennyi törölt poszt felkavaró vagy felnőtt anyagokat tartalmazhat. Óvatosan haladj tovább."
 }

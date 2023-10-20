@@ -407,7 +407,6 @@
     "language_select_placeholder": "Pilih bahasa",
     "software": "Perangkat Lunak",
     "version": "Versi",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} gambar yang diunggah",
     "listing_type": "Jenis penyortiran",
     "registration_mode": "Mode Pendaftaran",
     "rate_limit_comment": "Komentar",

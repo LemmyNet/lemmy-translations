@@ -273,7 +273,6 @@
     "click_to_delete_picture": "Kl",
     "failed_to_delete_picture": "Pildi kustutamine ebaõnnestus:",
     "picture_deleted": "Pilt kustutatud:",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} pilti üles laaditud",
     "restore": "taasta",
     "ban": "blokeeri eksemplarist",
     "ban_from_community": "blokeeri",

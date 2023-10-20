@@ -314,7 +314,6 @@
     "purge_comment": "slet kommentar fuldkomment",
     "purge_community": "slet fællesskab fuldkomment",
     "purge_user": "slet bruger fuldkomment",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} billeder uploadet",
     "purge": "slet fuldkomment",
     "purge_post": "slet indlæg fuldkomment",
     "require_email_verification": "Kræv emailbekræftigelse",

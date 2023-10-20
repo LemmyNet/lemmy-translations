@@ -398,7 +398,6 @@
     "distinguish": "говори като модератор",
     "upload_too_large": "Каченото изображение е твърде голямо!",
     "undistinguish": "говори като потребител",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} качени снимки",
     "failed_to_delete_picture": "Неуспешно изтриване на снимка: {{filename}}",
     "loading": "Зареждане",
     "ban_from_community": "забрани от общността",

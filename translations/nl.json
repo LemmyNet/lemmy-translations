@@ -394,7 +394,6 @@
     "x_more_replies": "Nog {{formattedCount}} reactie",
     "x_more_replies_plural": "Nog {{formattedCount}} reacties",
     "site": "Site",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} afbeeldingen geüpload",
     "too_many_images_upload": "Het maximum van {{formattedCount}} afbeelding om te uploaden is overschreden. Selecteer minder afbeeldingen.",
     "too_many_images_upload_plural": "Het maximum van {{formattedCount}} afbeeldingen om te uploaden is overschreden. Selecteer minder afbeeldingen.",
     "not_found_page_message": "De pagina die u probeert te vinden bestaat niet.",

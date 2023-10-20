@@ -368,7 +368,6 @@
     "filter_by_mod": "Filtrera på moderator",
     "filter_by_user": "Filtrera på användare",
     "only_mods_can_post_in_community": "Du måste vara moderator för att kunna skapa inlägg i denna community",
-    "pictures_uploded_progess": "{{uploaded}} av {{total}} bilder uppladdade",
     "purge": "radera fullkomligt",
     "view_all_comments": "Visa alla kommentarer",
     "distinguish": "skriv som moderator",

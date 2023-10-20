@@ -368,7 +368,6 @@
     "click_to_delete_picture": "Trykk for å sletta biletet: {{filename}}",
     "failed_to_delete_picture": "Klarte ikkje sletta biletet: {{filename}}",
     "picture_deleted": "Biletet er sletta: {{filename}}",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} bilete opplasta",
     "restore": "gjenopprett",
     "ban": "utesteng",
     "ban_from_site": "utesteng frå nettstaden",

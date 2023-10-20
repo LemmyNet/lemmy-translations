@@ -296,7 +296,6 @@
     "x_more_replies_0": "Dar {{formattedCount}} atsakymas",
     "x_more_replies_1": "Dar {{formattedCount}} atsakymai",
     "x_more_replies_2": "Dar {{formattedCount}} atsakymų",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} paveikslėliai įkelti",
     "error_page_paragraph": "Serveryje įvyko klaida. Pabandykite atnaujinti puslapį. Jei tai nepadės, grįžkite vėliau. Jei problema vis tiek išlieka, galite kreiptis pagalbos <1>„Lemmy“ pagalbos bendruomenėje</1> arba <1>„Lemmy“ „Matrix“ kambaryje</1>.",
     "error_code_message": "Serveris grąžino tokią klaidą: <1>{{error}}</1>. Tai gali būti naudinga administratoriams ir kūrėjams, kad jie galėtų diagnozuoti ir ištaisyti šią klaidą",
     "unread_registration_applications_0": "{{formattedCount}} neskaityta paraiška",

@@ -391,7 +391,6 @@
     "purge_success": "Položka byla úspěšně odstraněna.",
     "loading": "Načítám",
     "failed_to_delete_picture": "Nepodařilo se odstranit obrázek: {{filename}}",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} obrázků nahráno",
     "filter_by_mod": "Filtrovat podle moderátora",
     "filter_by_action": "Filtrovat dle akce",
     "filter_by_user": "Filtrování podle uživatele",

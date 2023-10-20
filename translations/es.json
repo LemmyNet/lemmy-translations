@@ -413,7 +413,6 @@
     "filter_by_user": "Filtrar por usuario",
     "hide_modlog_mod_names": "Esconder nombres de moderador del registro de moderación",
     "ban_from_community": "expulsar de comunidad",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} imágenes subidas",
     "interface_language": "Idioma de la interfaz",
     "undetermined_language_warning": "Advertencia: si deseleccionas Indeterminado, no verás la mayoría del contenido.",
     "too_many_images_upload": "Excedido el máximo de {{formattedCount}} subida de imágenes. Por favor, selecciona solo una imagen.",

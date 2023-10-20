@@ -429,7 +429,6 @@
     "hide_modlog_mod_names": "モデレーションログのモデレーター名を非表示",
     "federation_enabled": "連合が有効化されました",
     "federation_strict_allowlist": "連合の厳重許可リスト",
-    "pictures_uploded_progess": "写真{{total}}枚うち{{uploaded}}枚アップロード済み",
     "what_is": "何が",
     "application_email_admins": "新たな新規登録申し込みを受理した時、管理者にメールを送信",
     "profile_not_logged_in_alert": "ログインしていません。ユーザーをフォローすることが可能なfediverseアカウントをお持ちであれば、このユーザーをフォローすることができます。",

@@ -393,7 +393,6 @@
     "captcha_difficulty": "验证码难度",
     "profile_not_logged_in_alert": "您尚未登录。您可以使用一个能关注用户的联邦宇宙账户来关注此用户。",
     "community_not_logged_in_alert": "您尚未登录。但是您可以使用 Lemmy 或 Mastodon 等其他联邦宇宙账户进行订阅。为此，请将以下内容粘贴到您所在实例的搜索框中：<1>!{{community}}@{{instance}}</1>",
-    "pictures_uploded_progess": "已上传 {{uploaded}}/{{total}} 张图片",
     "modlog_content_warning": "<1>内容警告</1>：部分已删除的帖子可能包含令人不适或成人内容。请谨慎操作。",
     "too_many_images_upload": "超过允许上传的{{formattedCount}}张最大图片数量。请减少选择的图片数量。",
     "view_all_comments": "查看所有评论",

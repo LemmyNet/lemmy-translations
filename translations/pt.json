@@ -474,7 +474,6 @@
     "custom_emojis": "Emojis personalizados",
     "emojis": "Emojis",
     "emoji": "Emoji",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} imagens carregadas",
     "reports_email_admins": "Enviar email aos admins ao receber novas denúncias",
     "profile_not_logged_in_alert": "Não tens sessão iniciada. Se tens uma conta do Fediverso capaz de seguir utilizadores, podes seguir este utilizador.",
     "community_not_logged_in_alert": "Não estás autenticado(a). Porém, podes subscrever a partir de outra conta do Fediverso, por exemplo de Lemmy ou Mastodon. Para isso, cola o seguinte na barra de pesquisa da tua instância:! <1>{{community}}@{{instance}}</1>",

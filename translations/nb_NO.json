@@ -109,7 +109,6 @@
     "both": "Begge",
     "saved": "Lagret",
     "unsubscribe": "Avslutt abonnemang",
-    "pictures_uploded_progess": "{{uploaded}}/{{total}} bilder opplastet",
     "ban_from_site": "utesteng fra nettsiden",
     "click_to_delete_picture": "Trykk for å slette bildet: {{filename}}",
     "failed_to_delete_picture": "Klarte ikke å slette bildet: {{filename}}",
