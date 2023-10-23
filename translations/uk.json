@@ -40,7 +40,7 @@
     "cli_apps": "CLI/TUI Додатки",
     "api_libraries": "API Бібліотеки",
     "contact_title": "Леммі — Контакти",
-    "contact": "Контакти",
+    "contact": "Напишіть нам",
     "support_on_patreon": "Підтримати на Патреоні",
     "support_on_opencollective": "Підтримати на OpenCollective",
     "join": "Приєднатися",
@@ -79,6 +79,7 @@
     "releases": "Релізи Леммі",
     "recommended_instances": "Рекомендовані",
     "popular_instances": "Популярні",
-    "users_active_per_month": "{{formattedCount}} користувачів на місяць",
-    "instance_comparison": "Задля більш детального порівняння серверів Леммі, дивіться"
+    "users_active_per_month": "{{formattedCount}} на місяць",
+    "instance_comparison": "Задля більш детального порівняння серверів Леммі, дивіться",
+    "read_more": "Читати далі"
 }
