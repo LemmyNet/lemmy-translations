@@ -116,5 +116,8 @@
   "total_users": "{{formattedCount}} total users",
   "monthly_active_users": "{{formattedCount}} active users (users who have posted or commented in the last month)",
   "closed_source_warning": "Warning: this app is closed source, and may collect your data. Use at your own risk.",
+  "registrations_open": "Registrations Open",
+  "registrations_closed": "Registrations Closed",
+  "requires_application": "Requires Registration Application",
   "read_more": "Read more"
 }
