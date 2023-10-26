@@ -27,7 +27,7 @@
     "docs": "Έγγραφα",
     "api_libraries": "Βιβλιοθήκες API",
     "contact_title": "Lemmy - Επικοινωνία",
-    "contact": "Επικοινωνία",
+    "contact": "Επικοινωνήστε μαζί μας",
     "donate_desc": "Το Lemmy είναι ελεύθερο, ανοιχτού κώδικα λογισμικό, που σημαίνει ότι δεν θα υπάρξει ποτέ διαφήμιση, κερδοσκοπική δραστηριότητα ή εξαγορά από εταιρία. <1>Οι δωρεές σας</1> συνεισφέρουν στην πλήρη ανάπτυξη αυτού του έργου.",
     "support_on_liberapay": "Υποστηρίξτε μας στο Liberapay",
     "support_on_patreon": "Υποστηρίξτε μας στο Patreon",
@@ -78,9 +78,10 @@
     "news": "Ειδήσεις",
     "recommended_instances": "Προτεινόμενα",
     "popular_instances": "Δημοφιλή",
-    "users_active_per_month": "{{formattedCount}} χρήστες / μήνα",
+    "users_active_per_month": "{{formattedCount}} / μήνα",
     "releases": "Κυκλοφορίες lemmy",
     "instance_browser": "Αφού δημιουργήσετε λογαριασμό, μπορείτε να βρείτε κοινότητες σε όλους τους διακομιστές χρησιμοποιώντας",
     "instance_comparison": "Για λεπτομερέστερη σύγκριση διακομιστών Lemmy, βλέπε",
-    "browse_instance": "Περιήγηση"
+    "browse_instance": "Περιήγηση",
+    "read_more": "Διαβάστε περισσότερα"
 }
