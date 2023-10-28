@@ -530,5 +530,6 @@
     "enable_totp_success": "Activouse correctamente o 2-factor de autenticación",
     "disable_totp_success": "Desactivouse correctamente o 2-factor de autenticación",
     "remote_follow_invalid_instance": "{{instance}} non é un dominio válido.",
-    "remote_follow_local_instance": "Non se obtivo a instancia local para o seguimento remoto"
+    "remote_follow_local_instance": "Non se obtivo a instancia local para o seguimento remoto",
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} imaxes subidas"
 }
