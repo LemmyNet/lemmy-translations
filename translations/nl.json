@@ -530,5 +530,6 @@
     "block_instance": "Instantie blokkeren",
     "unblock_instance": "Instantie deblokkeren",
     "remote_follow_invalid_instance": "{{instance}} is geen geldig domein.",
-    "remote_follow_local_instance": "Kan lokale instantie niet ophalen voor extern volgen"
+    "remote_follow_local_instance": "Kan lokale instantie niet ophalen voor extern volgen",
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} afbeeldingen geüpload"
 }
