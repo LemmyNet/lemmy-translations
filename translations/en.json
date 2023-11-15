@@ -531,5 +531,16 @@
   "blur_nsfw": "Blur NSFW content",
   "auto_expand": "Auto expand media",
   "remote_follow_invalid_instance": "{{instance}} is not a vaild domain.",
-  "remote_follow_local_instance": "Cannot fetch local instance for remote follow"
+  "remote_follow_local_instance": "Cannot fetch local instance for remote follow",
+  "import_export_section_title": "Import/Export Settings",
+  "import_export_section_description": "Import and export your account settings as JSON",
+  "export_file_name": "lemmy_user_settings",
+  "export": "Export",
+  "import": "Import",
+  "exporting": "Exporting",
+  "importing": "Importing",
+  "import_export_rate_limit_error": "Please wait a few minutes before trying to import or export settings again",
+  "export_error": "Error exporting settings",
+  "import_error": "Error importing settings",
+  "import_success": "Settings successfully imported!"
 }
