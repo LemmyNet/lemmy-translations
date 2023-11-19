@@ -515,5 +515,21 @@
     "fetching_community": "Récupération de {{community}}",
     "remote_follow_modal_title": "Suivre depuis l'instance distante",
     "auto_expand": "Développer automatiquement les médias",
-    "blur_nsfw": "Flouter le contenu NSFW"
+    "blur_nsfw": "Flouter le contenu NSFW",
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} images téléversées",
+    "scaled": "Mis à l'échelle",
+    "invalid_totp_code": "Code 2FA invalide : doit être 6 chiffres",
+    "incorrect_totp_code": "Code 2FA incorrect",
+    "enable_totp": "Activer l'authentification à deux facteurs",
+    "enter_totp_code": "Entrez votre code 2FA",
+    "totp_link": "Cliquez ici pour le lien d'installation 2FA",
+    "disable_totp": "Désactiver l'authentification à deux facteurs",
+    "totp_qr": "Code QR pour l'authentification à deux facteurs",
+    "totp_qr_segue": "ou scannez ce code QR dans une application authenticateur",
+    "enable_totp_success": "Authentification à deux facteurs activée avec succès",
+    "disable_totp_success": "Authentification à deux facteurs désactivée avec succès",
+    "remote_follow_invalid_instance": "{{instance}} n'est pas un nom de domaine valide.",
+    "remote_follow_local_instance": "Impossible de récupérer les suivis de l'instance distante depuis l'instance locale",
+    "block_instance": "Bloquer l'instance",
+    "unblock_instance": "Débloquer l'instance"
 }
