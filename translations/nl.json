@@ -1,6 +1,6 @@
 {
     "join_a_server": "Deelnemen aan een server",
-    "run_a_server": "Een server draaien",
+    "run_a_server": "Een server hosten",
     "lemmy": "Lemmy",
     "follow_communities": "Volg gemeenschappen <1>overal</1> ter wereld",
     "open_source": "Open-source",
@@ -51,11 +51,11 @@
     "lemmy_title": "Lemmy - Een link­verzamel­platform voor het fediversum",
     "lemmy_desc": "Een link­verzamel­platform voor het fediversum.",
     "lemmy_long_desc": "Lemmy is een zelfgehost sociaal link-aggregatie- en discussie­platform. Het is volledig vrij en open en wordt niet gecontroleerd door een bedrijf. Dit betekent dat er geen reclame, tracking of geheime algoritmes zijn. Inhoud is georganiseerd in gemeenschappen, dus het is gemakkelijk om u te abonneren op onderwerpen waarin u geïnteresseerd bent en andere te negeren. Stemmen wordt gebruikt om de meest interessante items naar de top te brengen.",
-    "create_discussion_platform_desc": "Met Lemmy kunt u <1>gemakkelijk uw eigen server draaien</1> , en al deze servers zijn <2>gefedereerd</2> (zoals bijvoorbeeld e-mail), en verbonden met hetzelfde universum, het <3>fediversum</3> genaamd. Voor een koppelingsverzamelpunt betekent dit dat iemand die op één server is geregistreerd zich kan abonneren op gemeenschappen elders, en discussies kan voeren met mensen op een compleet andere server.",
+    "create_discussion_platform_desc": "Met Lemmy kunt u <1>gemakkelijk uw eigen server hosten</1>. Al deze servers zijn <2>gefedereerd</2> (zoals e-mail) en verbonden met hetzelfde universum, het <3>fediversum</3> genaamd. Voor een koppelingsverzamelpunt betekent dit dat iemand die op één server is geregistreerd zich kan abonneren op gemeenschappen elders, en discussies kan voeren met mensen op een compleet andere server.",
     "integrated_image_uploading": "Geïntegreerd uploaden van afbeeldingen in zowel berichten als reacties",
     "rss_feeds": "RSS-/Atom-feeds voor: <1>Alles</1>, <2>Geabonneerd</2>, <3>Inbox</3>, <4>Gebruiker</4>, en <5>Gemeenschap</5>",
     "choose_from_apps": "Kies uit een van de onderstaande apps.",
-    "donate_desc": "Lemmy is gratis, open-source software, wat betekent dat er nooit reclame, te-gelde-making of risicokapitaal aan te pas komt. <1>Uw donaties</1> ondersteunen direct de voltijdse ontwikkeling van het project.",
+    "donate_desc": "Lemmy is gratis, open-source software, wat betekent dat er nooit reclame, te-gelde-making of risicokapitaal aan te pas komt. <1>Uw donaties</1> zullen de non-profit-organisatie voor Lemmy-ontwikkelaars helpen groeien en ervoor zorgen dat we nieuwe functies kunnen blijven toevoegen en Lemmy kunnen blijven verbeteren.",
     "general_sponsors_desc": "Algemene sponsors zijn diegenen die maandelijks $10 tot $39 hebben toegezegd aan Lemmy.",
     "thanks_coders": "Een speciaal dankwoord aan onze programmeurs: ",
     "month": "Maand",
@@ -135,5 +135,7 @@
     "based_on_salary": "Gebaseerd op een gemiddeld Europees salaris voor softwareontwikkelaars van € {{formattedCount}} volgens developersalary.com",
     "requires_application": "Vereist registratie­aanvraag",
     "monthly_active_users": "{{formattedCount}} actieve gebruikers (gebruikers die de afgelopen maand berichten of opmerkingen hebben geplaatst)",
-    "closed_source_warning": "Waarschuwing: Deze app is closed-source en kan mogelijk uw gegevens verzamenlen. Gebruik op eigen risico."
+    "closed_source_warning": "Waarschuwing: Deze app is closed-source en kan mogelijk uw gegevens verzamenlen. Gebruik op eigen risico.",
+    "federation_desc": "Lemmy-servers kunnen verbinding met elkaar maken in een web van vertrouwen, waarbij berichten, opmerkingen en gemeenschappen worden gedeeld.",
+    "instance_disclaimer": "U heeft vanaf elke server toegang tot alle inhoud in het Lemmyversum, dus het maakt niet uit welke u kiest."
 }
