@@ -300,7 +300,7 @@
     "invalid_post_title": "Ongeldige berichttitel",
     "instances": "Instanties",
     "linked_instances": "Gekoppelde instanties",
-    "none_found": "Geen enkele gevonden.",
+    "none_found": "Geen enkele gevonden",
     "unread_reports": "{{formattedCount}} ongelezen melding",
     "unread_reports_plural": "{{formattedCount}} ongelezen meldingen",
     "resolve_report": "Melding oplossen",
@@ -531,5 +531,16 @@
     "unblock_instance": "Instantie deblokkeren",
     "remote_follow_invalid_instance": "{{instance}} is geen geldig domein.",
     "remote_follow_local_instance": "Kan lokale instantie niet ophalen voor extern volgen",
-    "pictures_uploaded_progess": "{{uploaded}}/{{total}} afbeeldingen geüpload"
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} afbeeldingen geüpload",
+    "export_file_name": "Lemmy-instellingen",
+    "export": "Exporteren",
+    "import": "Importeren",
+    "exporting": "Exporteren",
+    "importing": "Importeren",
+    "import_success": "Instellingen succesvol geïmporteerd!",
+    "import_export_section_title": "Instellingen importeren/exporteren",
+    "import_export_section_description": "Importeer en exporteer uw account­instellingen als JSON",
+    "import_export_rate_limit_error": "Wacht een paar minuten voordat u opnieuw instellingen probeert te importeren of exporteren",
+    "export_error": "Fout bij exporteren van instellingen",
+    "import_error": "Fout bij importeren van instellingen"
 }
