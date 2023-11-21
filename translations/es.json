@@ -531,5 +531,16 @@
     "totp_link": "Haz clic aquí para ver enlace de instalación de A2F",
     "disable_totp_success": "Autenticación de dos factores desactivada con éxito",
     "enable_totp_success": "Autenticación de dos factores activada con éxito",
-    "pictures_uploaded_progess": "{{uploaded}}/{{total}} imágenes subidas"
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} imágenes subidas",
+    "import_export_section_title": "Importar/exportar ajustes",
+    "import_export_section_description": "Importar y exportar los ajustes de tu cuenta como JSON",
+    "export_file_name": "ajustes_usuario_lemmy",
+    "export": "Exportar",
+    "import": "Importar",
+    "exporting": "Exportando",
+    "export_error": "Error exportando ajustes",
+    "import_error": "Error importando ajustes",
+    "import_success": "¡Ajustes importados con éxito!",
+    "importing": "Importando",
+    "import_export_rate_limit_error": "Por favor, espera unos minutos antes de intentar importar o exportar ajustes de nuevo"
 }

@@ -531,5 +531,16 @@
     "scaled": "Proporcie",
     "invalid_totp_code": "Nevalida dupaŝa aŭtentiga kodo: devas esti ses-cifera signovico",
     "incorrect_totp_code": "Malĝusta dupaŝa aŭtentiga kodo",
-    "pictures_uploaded_progess": "{{uploaded}}/{{total}} bildoj alŝutitaj"
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} bildoj alŝutitaj",
+    "export_file_name": "agordoj_de_lemmy-uzanto",
+    "export": "Eksporti",
+    "import": "Importi",
+    "exporting": "Eksportante",
+    "importing": "Importante",
+    "export_error": "Eraro eksportinte agordojn",
+    "import_error": "Eraro importinte agordojn",
+    "import_success": "Agordoj sukcese importitaj!",
+    "import_export_section_title": "Importi/eksporti agordojn",
+    "import_export_section_description": "Importi kaj eksporti la agordojn de via konto kiel JSON",
+    "import_export_rate_limit_error": "Bonvolu atendi kelkajn minutojn antaŭ importi aŭ eksporti agordojn denove"
 }
