@@ -9,10 +9,18 @@
     "email_verified_body": "Zure helbide elektronikoa egiaztatu da.",
     "notification_post_reply_subject": "{username}-ren erantzuna",
     "notification_comment_reply_subject": "{username}-ren erantzuna",
-    "notification_comment_reply_body": "<h1>Iruzkinaren erantzuna</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>",
+    "notification_comment_reply_body": "<h1>Iruzkinaren erantzuna</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">sarrera-ontzia</a>",
     "notification_post_reply_body": "<h1>Argitalpenaren erantzuna</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>",
     "notification_mentioned_by_subject": "{username}-k aipatua",
     "notification_private_message_subject": "{username}-ren mezu pribatua(k)",
-    "notification_private_message_body": "<h1>Mezu pribatua</h1><br><div>{username} - {message_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>",
-    "notification_mentioned_by_body": "<h1>Pertsona baten aipamena</h1><br><div>{username} - {comment_text}</div><br><a href={inbox_link}>sarrera-ontzia</a>"
+    "notification_private_message_body": "<h1>Mezu pribatua</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">sarrera-ontzia</a>",
+    "notification_mentioned_by_body": "<h1>Pertsona baten aipamena</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">sarrera-ontzia</a>",
+    "new_application_body": "Egin klik esteka honetan zure eskaera ikusteko.<br><br><a href=\"{applications_link}\">Ikusi eskaerak</a>",
+    "new_report_body": "Egin klik esteka honetan, txosten guztiak ikusteko. <br><br><a href=\"{reports_link}\">Ikusi txostenak</a>",
+    "registration_denied": "Erregistroa ukatuta",
+    "new_application_subject": "{username}-k {hostname}-rekin bat egitea eskatu du",
+    "new_report_subject": "{reporter_username}(e)k {reported_username}(e)rako sortutako txosten berria {hostname}ean",
+    "registration_denied_subject": "{username}-ren erregistroa ukatu da",
+    "registration_denied_body": "Zure erregistro-eskaera ukatu egin da {hostname} honetara sartzeko.",
+    "registration_denied_reason_body": "Zure erregistro-eskaera ukatu egin da {hostname} honetarako. <br>Honako arrazoi hau eman da:<br><br>\"{deny_reason}\""
 }
