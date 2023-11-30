@@ -531,5 +531,16 @@
     "disable_totp_success": "Desactivouse correctamente o 2-factor de autenticación",
     "remote_follow_invalid_instance": "{{instance}} non é un dominio válido.",
     "remote_follow_local_instance": "Non se obtivo a instancia local para o seguimento remoto",
-    "pictures_uploaded_progess": "{{uploaded}}/{{total}} imaxes subidas"
+    "pictures_uploaded_progess": "{{uploaded}}/{{total}} imaxes subidas",
+    "import_export_section_title": "Importar/Exportar os Axustes",
+    "import_export_section_description": "Importar e exportar como JSON os axustes da conta",
+    "export_file_name": "lemmy_user_settings",
+    "export": "Exportar",
+    "import": "Importar",
+    "exporting": "Exportando",
+    "importing": "Importando",
+    "export_error": "Erro ao exportar os axustes",
+    "import_error": "Erro ao importar os axustes",
+    "import_success": "Importación correcta dos axustes!",
+    "import_export_rate_limit_error": "Agarda uns minutos antes de volver a intentar importar ou exportar os axustes"
 }
