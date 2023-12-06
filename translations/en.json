@@ -311,6 +311,7 @@
   "send_notifications_to_email": "Send notifications to Email",
   "optional": "Optional",
   "expires": "Expires",
+  "days_until_expiration": "Days until expiration",
   "interface_language": "Interface Language",
   "language": "Language",
   "language_plural": "Languages",
