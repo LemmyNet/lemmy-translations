@@ -127,5 +127,11 @@
     "requires_application": "Изисква кандидатура за регистрация",
     "sign_up": "Регистрация",
     "registrations_open": "Регистрациите са отворени",
-    "monthly_active_users": "{{formattedCount}} активни потребители (публикували или коментирали през последния месец)"
+    "monthly_active_users": "{{formattedCount}} активни потребители (публикували или коментирали през последния месец)",
+    "lemmyverse": "Lemmy вселена",
+    "donate_title": "Lemmy - Дарение",
+    "supporters": "{{formattedCount}} поддръжници",
+    "devs_funded": "{{formattedCount1}} / {{formattedCount2}} разработчици финансирани",
+    "months_remaining": "{{formattedCount}} оставащи месеци",
+    "based_on_salary": "Въз основа на средна европейска €{{formattedCount}} заплата на софтуерен разработчик от developersalary.com"
 }
