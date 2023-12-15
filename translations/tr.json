@@ -116,7 +116,7 @@
     "devs_funded": "{{formattedCount1}} / {{formattedCount2}} finanse edilen geliştiriciler",
     "based_on_salary": "developersalary.com'dan alınan medyan Avrupa yazılım geliştirici maaşına (€{{formattedCount}}) dayanmaktadır",
     "months_remaining": "{{formattedCount}} ay kaldı",
-    "total_comments": "{{formattedCount}} toplam yorum",
+    "total_comments": "toplam {{formattedCount}} yorum",
     "total_users": "{{formattedCount}} toplam kullanıcı",
     "monthly_active_users": "{{formattedCount}} aktif kullanıcı (son bir ay içinde gönderi paylaşan veya yorum yapan kullanıcılar)",
     "registrations_open": "Kayıtlar Açık",
