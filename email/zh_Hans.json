@@ -14,5 +14,14 @@
     "notification_post_reply_body": "<h1>发表回复</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "notification_comment_reply_subject": "{username}的回复",
     "notification_post_reply_subject": "{username}的回复",
-    "registration_denied_reason_body": "您的 {hostname} 注册申请已被拒绝。<br>拒绝原因为：<br><br>\"{deny_reason}\""
+    "registration_denied_reason_body": "您的 {hostname} 注册申请已被拒绝。<br>拒绝原因为：<br><br>\"{deny_reason}\"",
+    "notification_private_message_body": "<h1>私人信息</h1><br><div>{username} - {message_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
+    "new_application_subject": "{username} 已申请加入 {hostname}",
+    "notification_comment_reply_body": "<h1>回复评论</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
+    "new_report_subject": "由 {reporter_username} 对{reported_username}在 {hostname}上所提交的新举报",
+    "new_report_body": "请点击下面的链接查看所有举报。<br><br><a href=\"{reports_link}\">View Reports</a>",
+    "notification_private_message_subject": "{username}的私人信息",
+    "new_application_body": "请点击下面的链接查看他们的申请。<br><br><a href=\"{applications_link}\">View Applications</a>",
+    "notification_mentioned_by_subject": "被{username}提及",
+    "notification_mentioned_by_body": "<h1>人物提及</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>"
 }
