@@ -585,5 +585,11 @@
     "import_export_rate_limit_error": "Odota muutama minuutti ennen kuin yrität tuoda tai viedä asetuksia uudestaan",
     "export_error": "Virhe asetusten viemisessä",
     "import_error": "Virhe asetusten tuomisessa",
-    "import_success": "Asetukset tuotu onnistuneesti!"
+    "import_success": "Asetukset tuotu onnistuneesti!",
+    "community_federated": "Yhteisö federoituu!",
+    "moderator_view_description": "Näytä vain valvomiesi yhteisöjen julkaisut",
+    "fetch_community": "Hae yhteisö",
+    "remote_follow_modal_title": "Tilaa toisen instanssin kautta",
+    "browser_default_compact": "Selaimen oletus tiivistetty",
+    "totp_link": "Paina tästä saadaksesi kaksivaiheisen todennuksen asennuslinkin"
 }
