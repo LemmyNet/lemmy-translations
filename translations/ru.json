@@ -245,7 +245,7 @@
     "number_of_downvotes_1": "{{formattedCount}} голоса против",
     "number_of_downvotes_2": "{{formattedCount}} голосов против",
     "emoji_picker": "Выбор Эмодзи",
-    "select_a_community": "Выбрать Cообщество",
+    "select_a_community": "Выбрать Сообщество",
     "invalid_username": "Неверное имя пользователя.",
     "must_login": "Вы должны <1>авторизоваться или зарегистрироваться</1> чтобы комментировать.",
     "no_password_reset": "Вы не сможете сбросить ваш пароль без адреса электронной почты.",
