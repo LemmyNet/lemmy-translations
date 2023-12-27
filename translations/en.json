@@ -327,6 +327,8 @@
   "downvote": "Downvote",
   "number_of_downvotes": "{{formattedCount}} Downvote",
   "number_of_downvotes_plural": "{{formattedCount}} Downvotes",
+  "view_votes": "View Votes",
+  "votes": "Votes",
   "registration_mode": "Registration Mode",
   "open_registration": "Open Registration",
   "close_registration": "Close Registration",
