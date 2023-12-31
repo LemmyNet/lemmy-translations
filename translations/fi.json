@@ -57,7 +57,7 @@
     "remove_as_admin": "Poista ylläpitäjän asemasta",
     "appoint_as_admin": "Nimitä ylläpitäjäksi",
     "remove": "Poista",
-    "removed": "moderattori on poistanut",
+    "removed": "Valvojan poistama",
     "locked": "Lukittu",
     "stickied": "kiinnitetty",
     "reason": "Syy",
@@ -591,5 +591,6 @@
     "fetch_community": "Hae yhteisö",
     "remote_follow_modal_title": "Tilaa toisen instanssin kautta",
     "browser_default_compact": "Selaimen oletus tiivistetty",
-    "totp_link": "Paina tästä saadaksesi kaksivaiheisen todennuksen asennuslinkin"
+    "totp_link": "Paina tästä saadaksesi kaksivaiheisen todennuksen asennuslinkin",
+    "featured_in_community": "Näytetään yhteisössä"
 }
