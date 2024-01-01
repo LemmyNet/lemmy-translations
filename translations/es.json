@@ -597,5 +597,7 @@
     "report_message": "Denunciar mensaje",
     "featured_post": "Publicación destacada",
     "unfeatured_post": "Publicación quitada de destacadas",
-    "confirmation_required": "Confirmación requerida"
+    "confirmation_required": "Confirmación requerida",
+    "view_votes": "Ver votos",
+    "votes": "Votos"
 }
