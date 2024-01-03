@@ -578,5 +578,7 @@
     "couldnt_create_audio_captcha": "无法创建音频验证码。",
     "incorrect_login": "登录凭证不正确",
     "fetch_community": "Fetch 社区",
-    "confirmation_required": "需要确认"
+    "confirmation_required": "需要确认",
+    "view_votes": "查看投票",
+    "votes": "投票"
 }
