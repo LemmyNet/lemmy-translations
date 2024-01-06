@@ -118,7 +118,7 @@
     "all": "Όλα",
     "top": "Κορυφαία",
     "api": "Διεπαφή Προγραμματισμού Εφαρμογών (API)",
-    "docs": "Έγγραφα",
+    "docs": "Τεκμηρίωση",
     "inbox": "Εισερχόμενα",
     "number_of_upvotes": "{{formattedCount}} θετική ψήφος",
     "number_of_upvotes_plural": "{{formattedCount}} θετικές ψήφοι",
@@ -597,5 +597,7 @@
     "export_error": "Σφάλμα κατά την εξαγωγή ρυθμίσεων",
     "import_error": "Σφάλμα κατά την εισαγωγή ρυθμίσεων",
     "import_success": "Έγινε εισαγωγή ρυθμίσεων με επιτυχία!",
-    "confirmation_required": "Απαιτείται επιβεβαίωση"
+    "confirmation_required": "Απαιτείται επιβεβαίωση",
+    "view_votes": "Προβολή ψήφων",
+    "votes": "Ψήφοι"
 }
