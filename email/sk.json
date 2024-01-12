@@ -20,5 +20,8 @@
     "notification_private_message_subject": "Súkromná správa od {username}",
     "new_application_subject": "{username} podal žiadosť o pripojenie k {hostname}",
     "new_application_body": "Prosím, kliknite na odkaz nižšie pre zobrazenie odoslanej žiadosti.<br><br><a href=\"{applications_link}\">Zobraziť žiadosti</a>",
-    "new_report_subject": "Nové nahlásenie vytvorené používateľom {reporter_username} kvôli {reported_username} z {hostname}"
+    "new_report_subject": "Nové nahlásenie vytvorené používateľom {reporter_username} kvôli {reported_username} z {hostname}",
+    "registration_denied_subject": "Registrácia pre používateľa {username} bola zamietnutá",
+    "registration_denied_reason_body": "Vaša registrácia na {hostname} bola zamietnutá. <br>Bol uvedený nasledujúci dôvod:<br><br>\"{deny_reason}\"",
+    "registration_denied_body": "Vaša registrácia na {hostname} bola zamietnutá."
 }
