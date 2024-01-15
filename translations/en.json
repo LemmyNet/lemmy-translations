@@ -7,7 +7,7 @@
   "no_posts": "No Posts.",
   "create_a_post": "Create a post",
   "create_post": "Create Post",
-  "denied":, "Denied",
+  "denied": "Denied",
   "number_of_posts": "{{formattedCount}} Post",
   "number_of_posts_plural": "{{formattedCount}} Posts",
   "posts": "Posts",
