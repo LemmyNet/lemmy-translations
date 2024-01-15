@@ -599,5 +599,6 @@
   "export_error": "Error exporting settings",
   "import_error": "Error importing settings",
   "import_success": "Settings successfully imported!",
-  "confirmation_required": "Confirmation Required"
+  "confirmation_required": "Confirmation Required",
+  "submit": "Submit"
 }
