@@ -600,5 +600,6 @@
     "confirmation_required": "Confirmación requerida",
     "view_votes": "Ver votos",
     "votes": "Votos",
-    "submit": "Enviar"
+    "submit": "Enviar",
+    "denied": "Denegado"
 }
