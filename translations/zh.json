@@ -580,5 +580,7 @@
     "fetch_community": "Fetch 社区",
     "confirmation_required": "需要确认",
     "view_votes": "查看投票",
-    "votes": "投票"
+    "votes": "投票",
+    "submit": "提交",
+    "denied": "被拒绝"
 }
