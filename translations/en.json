@@ -601,5 +601,7 @@
   "import_error": "Error importing settings",
   "import_success": "Settings successfully imported!",
   "confirmation_required": "Confirmation Required",
-  "submit": "Submit"
+  "submit": "Submit",
+  "community_locked_message": "<1>Community locked:</1> only moderators can create posts. You can still comment on posts.",
+  "community_locked": "Community locked"
 }
