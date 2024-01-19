@@ -599,5 +599,7 @@
     "transfer_community_are_you_sure": "Weet u zeker dat u {{community}} wilt overdragen aan {{user}}?",
     "unfeatured_post": "Onuitgelicht bericht",
     "view_votes": "Stemmen bekijken",
-    "votes": "Stemmen"
+    "votes": "Stemmen",
+    "submit": "Indienen",
+    "denied": "Geweigerd"
 }
