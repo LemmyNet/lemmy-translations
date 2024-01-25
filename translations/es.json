@@ -601,5 +601,7 @@
     "view_votes": "Ver votos",
     "votes": "Votos",
     "submit": "Enviar",
-    "denied": "Denegado"
+    "denied": "Denegado",
+    "community_locked_message": "<1>Cerrado por la comunidad:</1> solo los moderadores pueden publicar. Puedes continuar comentando publicaciones.",
+    "community_locked": "Cerrado por la comunidad"
 }

@@ -601,5 +601,7 @@
     "view_votes": "Vidi voĉdonojn",
     "votes": "Voĉdonoj",
     "submit": "Sendi",
-    "denied": "Neita"
+    "denied": "Neita",
+    "community_locked": "Komunume ŝlosita",
+    "community_locked_message": "<1>Komunume ŝlosita:</1> nur administrantoj povas afiŝi. Vi ankoraŭ povas komenti afiŝojn."
 }
