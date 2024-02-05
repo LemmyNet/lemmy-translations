@@ -601,5 +601,7 @@
     "view_votes": "Stemmen bekijken",
     "votes": "Stemmen",
     "submit": "Indienen",
-    "denied": "Geweigerd"
+    "denied": "Geweigerd",
+    "community_locked": "Gemeen­schap vergrendeld",
+    "community_locked_message": "<1>Gemeen­schap vergrendeld:</1> alleen beheerders kunnen berichten plaatsen. U kunt nog steeds reageren op berichten."
 }
