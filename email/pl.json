@@ -20,7 +20,8 @@
     "new_application_subject": "{username} chce dołączyć do {hostname}",
     "new_report_subject": "Nowe zgłoszenie na {reported_username} stworzone przez {reporter_username} na {hostname}",
     "new_application_body": "Kliknij poniższy link, aby wyświetlić ich aplikację.<br><br><a href=\"{applications_link}\">Wyświetl aplikacje</a>",
-    "registration_denied_subject": "Rejestracja odrzucona dla {username}",
+    "registration_denied_subject": "Rejestracja odmówiona dla {username}",
     "registration_denied_body": "Twoja rejestracja złożona w instancji {hostname} została odrzucona.",
-    "registration_denied_reason_body": "Twoja rejestracja została odrzucona na {hostname}. <br>Podano następujący powód:<br><br>„{deny_reason}”"
+    "registration_denied_reason_body": "Twoja rejestracja została odrzucona na {hostname}. <br>Podano następujący powód:<br><br>„{deny_reason}”",
+    "new_report_body": "Kliknij poniższy link, aby wyświetlić wszystkie raporty.<br><br><a href=\"{reports_link}\">Wyświetl raporty</a>"
 }
