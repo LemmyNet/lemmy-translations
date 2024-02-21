@@ -394,7 +394,7 @@
     "filter_by_action": "작업으로 필터링",
     "filter_by_mod": "모드로 필터링",
     "filter_by_user": "사용자 별 필터링",
-    "actor_name_max_length": "배우 이름 최대 길이",
+    "actor_name_max_length": "액터 이름 최대 길이",
     "federation_enabled": "페더레이션이 활성화됨",
     "slur_filter_regex": "비속어 필터 정규식",
     "federation_http_fetch_retry_limit": "페더레이션 HTTP 다시 가져오기 제한",
@@ -490,5 +490,14 @@
     "incorrect_totp_code": "잘못된 2단계 인증 코드",
     "invalid_totp_code": "잘못된 2단계 인증 코드: 여섯 자리가 숫자가 아님",
     "site": "사이트",
-    "appoint_as_mod_are_you_sure": "{{user}} 님을 {{community}}의 중재자로 임명하시겠습니까?"
+    "appoint_as_mod_are_you_sure": "{{user}} 님을 {{community}}의 중재자로 임명하시겠습니까?",
+    "remove_as_admin_are_you_sure": "{{user}} 님을 {{instance}}의 관리자 팀에서 빼겠습니까?",
+    "removing_admin": "관리자 삭제 중",
+    "removed_admin": "관리자 삭제 완료",
+    "appointing_admin": "관리자 설정 중",
+    "appointed_admin": "관리자 설정 완료",
+    "removed_mod": "제거된 중재자",
+    "removing_mod": "중재자 삭제 중",
+    "appointing_mod": "중재자 설정 중",
+    "appointed_mod": "중재자 설정 됨"
 }
