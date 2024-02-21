@@ -246,7 +246,7 @@
     "invalid_url": "URL invalide.",
     "name_explain": "Nom – utilisé comme identifiant par la communauté, ne peut être changé.",
     "display_name_explain": "Nom affiché – montré comme titre sur la page de la communauté, peut être changé.",
-    "invalid_password": "Mot de passe erroné. La longueur du mot de passe doit être <= 60 caractères.",
+    "invalid_password": "La longueur du mot de passe doit être entre 10 et 60 caractères.",
     "bio_length_overflow": "La bio utilisateur ne peut dépasser 300 caractères.",
     "display_name": "Nom affiché",
     "not_a_moderator": "Pas un modérateur.",
@@ -600,5 +600,8 @@
     "report_comment": "Signaler le commentaire",
     "report_message": "Signaler le message",
     "purge_user_with_name": "Purger {{user}}",
-    "undistinguished_comment": "Commentaire non distingué"
+    "undistinguished_comment": "Commentaire non distingué",
+    "undeleted_comment": "Commentaire restauré",
+    "undeleted_post": "Publication restaurée",
+    "unfeatured_post": "Publication non promue"
 }
