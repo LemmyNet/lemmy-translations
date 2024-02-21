@@ -69,7 +69,7 @@
     "remove": "삭제",
     "formatting_help": "서식 도움말",
     "lock": "잠금",
-    "unlock": "잠금해제",
+    "unlock": "잠금 해제",
     "subscript": "아래첨자",
     "superscript": "윗첨자",
     "strikethrough": "취소선",
@@ -389,8 +389,8 @@
     "subscribe_pending": "구독 보류중",
     "x_more_replies": "더 많은 댓글 {{formattedCount}}",
     "hide_modlog_mod_names": "중재 기록에서 중재 이름 숨기기",
-    "distinguish": "중개자로 글 쓰기",
-    "undistinguish": "유저로 글 쓰기",
+    "distinguish": "중재자로서 글 쓰기",
+    "undistinguish": "유저로서 글 쓰기",
     "filter_by_action": "작업으로 필터링",
     "filter_by_mod": "모드로 필터링",
     "filter_by_user": "사용자 별 필터링",
@@ -445,5 +445,10 @@
     "denied": "거절됨",
     "distinguished_comment": "좋은 댓글",
     "removed_comment": "삭제된 댓글",
-    "restored_comment": "복원된 댓글"
+    "restored_comment": "복원된 댓글",
+    "upload_too_large": "업로드된 이미지가 너무 큽니다!",
+    "profile_not_logged_in_alert": "로그인되어 있지 않습니다. 연합우주 계정이 있다면 이 사용자를 팔로할 수 있습니다.",
+    "community_not_logged_in_alert": "로그인되어 있지 않습니다. 그렇지만 레미나 마스토돈 같은 다른 연합우주 계정으로 구독하실 수 있습니다. 그러려면 <1>!{{community}}@{{instance}}</1>을(를) 사용중인 인스턴스의 검색창에 입력하세요.",
+    "restore_comment": "댓글 되살리기",
+    "remove_as_mod_are_you_sure": "{{community}}의 중재자에서 {{user}} 님을 빼겠습니까?"
 }
