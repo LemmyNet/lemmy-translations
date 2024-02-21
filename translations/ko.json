@@ -440,5 +440,10 @@
     "interface_language": "인터페이스 언어",
     "removed_post": "지워진 글",
     "restore_post": "글 되살리기",
-    "restored_post": "되살린 글"
+    "restored_post": "되살린 글",
+    "undistinguished_comment": "안 좋은 댓글",
+    "denied": "거절됨",
+    "distinguished_comment": "좋은 댓글",
+    "removed_comment": "삭제된 댓글",
+    "restored_comment": "복원된 댓글"
 }
