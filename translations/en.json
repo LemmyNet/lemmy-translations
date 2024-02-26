@@ -603,5 +603,8 @@
   "confirmation_required": "Confirmation Required",
   "submit": "Submit",
   "community_locked_message": "<1>Community locked:</1> only moderators can create posts. You can still comment on posts.",
-  "community_locked": "Community locked"
+  "community_locked": "Community locked",
+  "community_visibility": "Visibility",
+  "local_only": "Local Only",
+  "public": "Public"
 }
