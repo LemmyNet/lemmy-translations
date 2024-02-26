@@ -133,8 +133,8 @@
     "contributors": "Colaboradores",
     "instance_disclaimer": "Você poderá acessar todo o conteúdo do lemmyverso a partir de qualquer servidor, então não importa qual você escolha.",
     "servers": "Servidores",
-    "active_users": "Usuáries Atives",
-    "total_users": "{{formattedCount}} total de usuáries",
+    "active_users": "Usuários Ativos",
+    "total_users": "{{formattedCount}} total de usuários",
     "registrations_closed": "Cadastro Fechado",
     "requires_application": "Requer Cadastro em Aplicativo",
     "sign_up": "Registrar-se"
