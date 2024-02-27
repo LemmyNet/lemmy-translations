@@ -193,6 +193,8 @@
   "number_of_users_plural": "{{formattedCount}} users",
   "number_of_subscribers": "{{formattedCount}} subscriber",
   "number_of_subscribers_plural": "{{formattedCount}} subscribers",
+  "number_of_local_subscribers": "{{formattedCount}} local subscriber",
+  "number_of_local_subscribers_plural": "{{formattedCount}} local subscribers",
   "number_of_points": "{{formattedCount}} point",
   "number_of_points_plural": "{{formattedCount}} points",
   "name": "Name",
