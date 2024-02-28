@@ -253,7 +253,7 @@
     "leave_mod_team": "Dejar el equipo de moderación",
     "name_explain": "Nombre – usado como identificador de la comunidad, no puede ser cambiado.",
     "display_name_explain": "Nombre de pantalla – se muestra como el título en la página de la comunidad, puede ser cambiado.",
-    "invalid_password": "Contraseña inválida. La contraseña debe tener entre 10 y 60 caracteres.",
+    "invalid_password": "La contraseña debe tener entre 10 y 60 caracteres.",
     "not_a_moderator": "No eres moderador.",
     "captcha_incorrect": "Captcha incorrecto.",
     "play_captcha_audio": "Reproducir Audio Captcha",
@@ -603,5 +603,10 @@
     "submit": "Enviar",
     "denied": "Denegado",
     "community_locked_message": "<1>Cerrado por la comunidad:</1> solo los moderadores pueden publicar. Puedes continuar comentando publicaciones.",
-    "community_locked": "Cerrado por la comunidad"
+    "community_locked": "Cerrado por la comunidad",
+    "number_of_local_subscribers": "{{formattedCount}} suscriptor local",
+    "number_of_local_subscribers_plural": "{{formattedCount}} suscriptores locales",
+    "community_visibility": "Visibilidad",
+    "local_only": "Solo local",
+    "public": "Público"
 }
