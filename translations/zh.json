@@ -584,5 +584,9 @@
     "submit": "提交",
     "denied": "被拒绝",
     "community_locked": "社区已被锁定",
-    "community_locked_message": "<1>此社区已被锁定:</1> 只有版主可以创建帖子。 您仍然可以对帖子发表评论。"
+    "community_locked_message": "<1>此社区已被锁定:</1> 只有版主可以创建帖子。 您仍然可以对帖子发表评论。",
+    "number_of_local_subscribers": "{{formattedCount}} 本地订阅者",
+    "community_visibility": "可见度",
+    "local_only": "仅选择本地社区",
+    "public": "公共"
 }
