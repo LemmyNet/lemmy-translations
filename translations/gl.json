@@ -196,7 +196,7 @@
     "login": "Accede",
     "sign_up": "Crear conta",
     "notifications_error": "As notificacións de escritorio non están dispoñibles no teu navegador. Proba con Firefox ou Chrome.",
-    "invalid_password": "Contrasinal non válido. A lonxitude do contrasinal debe estar entre 10 e 60 caracteres.",
+    "invalid_password": "A lonxitude do contrasinal debe estar entre 10 e 60 caracteres.",
     "verify_password": "Verifica o contrasinal",
     "old_password": "Contrasinal anterior",
     "new_password": "Novo contrasinal",
@@ -597,5 +597,16 @@
     "creating_report": "Creando a Denuncia",
     "report_post": "Denunciar publicación",
     "report_message": "Denunciar mensaxe",
-    "unfeatured_post": "Publicación non destacada"
+    "unfeatured_post": "Publicación non destacada",
+    "submit": "Enviar",
+    "community_locked_message": "<1>Comunidade limitada:</1> só a Moderación pode crear publicacións, mais ti podes comentalas.",
+    "community_locked": "Comunidade limitada",
+    "view_votes": "Ver Votos",
+    "votes": "Votos",
+    "denied": "Rexeitado",
+    "number_of_local_subscribers": "{{formattedCount}} subscritora local",
+    "number_of_local_subscribers_plural": "{{formattedCount}} subscritoras locais",
+    "community_visibility": "Visibilidade",
+    "local_only": "Só local",
+    "public": "Pública"
 }
