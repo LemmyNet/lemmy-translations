@@ -2,7 +2,7 @@
     "create_a_post": "पोस्ट बनाएँ",
     "create_post": "पोस्ट बनाएँ",
     "posts": "पोस्ट",
-    "unlock": "ताला खोलें",
+    "unlock": "अनलॉक करें",
     "avatar": "अवतार",
     "upload_image": "फ़ोटो अपलोड करें",
     "comments": "टिप्पणी (कमेंट )",
@@ -85,5 +85,15 @@
     "icon": "आइकन",
     "upload_icon": "आइकन डालिए",
     "login": "लॉगिन",
-    "search": "खोजें"
+    "search": "खोजें",
+    "show_new_post_notifs": "नए पोस्ट्स के लिए नोटिफिकेशन दिखाएं",
+    "view_all_comments": "सभी टिप्पणियाँ देखें",
+    "subscribed_to_communities": "<1>समुदायों</1> की सदस्यता ली",
+    "spoiler": "स्पॉइलर",
+    "list": "सूची",
+    "distinguish": "प्रबंधक के रूप में बोलें",
+    "undistinguish": "उपयोगकर्ता के रूप में",
+    "distinguished_comment": "महत्वपूर्ण टिप्पणी",
+    "undistinguished_comment": "अमहत्वपूर्ण टिप्पणी",
+    "removed_comment": "हटाई गई टिप्पणी"
 }
