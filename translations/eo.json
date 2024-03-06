@@ -179,7 +179,7 @@
     "unsticky": "malpingli",
     "stickied": "pinglita",
     "delete_account": "Forigi Konton",
-    "delete_account_confirm": "Averto: Vi konstante forigu ĉiom da viajn datumojn pri ĉi tia retinstanco. Viaj datumoj povus ne forigi per aliaj, ekzistantaj retinstancoj. Entajpi vian pasvorton por konfirmo.",
+    "delete_account_confirm": "Averto: tio daŭre forigos vian konton. La forigo povus ne okazi en aliaj nodoj. Entajpu vian pasvorton por konfirmo.",
     "preview": "Antaŭrigardo",
     "upload_image": "alŝuti bildon",
     "upload_avatar": "Alŝuti Profilbildon",
@@ -250,7 +250,7 @@
     "upload_icon": "Alŝuti Bildsimbolon",
     "display_name_explain": "Prezenta nomo – montrata kiel la titolo en la paĝo de la komunumo, povas ŝanĝiĝi.",
     "active": "Aktivaj",
-    "invalid_password": "Nevalida pasvorto. Pasvorto devas havi inter 10 kaj 60 signoj.",
+    "invalid_password": "Pasvorto devas havi inter 10 kaj 60 signoj.",
     "captcha_incorrect": "Neĝuste solvita kontrolo de homeco.",
     "play_captcha_audio": "Ludi sonon de kontrolo de homeco",
     "bio": "Prio",
@@ -603,5 +603,11 @@
     "submit": "Sendi",
     "denied": "Neita",
     "community_locked": "Komunume ŝlosita",
-    "community_locked_message": "<1>Komunume ŝlosita:</1> nur administrantoj povas afiŝi. Vi ankoraŭ povas komenti afiŝojn."
+    "community_locked_message": "<1>Komunume ŝlosita:</1> nur administrantoj povas afiŝi. Vi ankoraŭ povas komenti afiŝojn.",
+    "number_of_local_subscribers": "{{formattedCount}} loka abonanto",
+    "number_of_local_subscribers_plural": "{{formattedCount}} lokaj abonantoj",
+    "delete_account_content": "Forigi ĉiujn afiŝojn, komentojn kaj alŝutitajn bildojn",
+    "community_visibility": "Videbleco",
+    "local_only": "Nur loka",
+    "public": "Publika"
 }

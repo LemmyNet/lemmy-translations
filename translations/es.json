@@ -66,7 +66,7 @@
     "delete": "Eliminar",
     "deleted": "eliminado por creador",
     "delete_account": "Eliminar cuenta",
-    "delete_account_confirm": "Advertencia: esto eliminará permanentemente todos sus datos de esta instancia. Tus datos no podrán ser eliminados en otras instancias existentes. Introduzca su contraseña para confirmar.",
+    "delete_account_confirm": "Advertencia: esto eliminará permanentemente tu cuenta. La eliminación podría no propagarse por otras instancias. Introduce tu contraseña para confirmar.",
     "restore": "Restaurar",
     "ban": "Expulsar",
     "ban_from_site": "Expulsar del sitio web",
@@ -608,5 +608,6 @@
     "number_of_local_subscribers_plural": "{{formattedCount}} suscriptores locales",
     "community_visibility": "Visibilidad",
     "local_only": "Solo local",
-    "public": "Público"
+    "public": "Pública",
+    "delete_account_content": "Borrar todos los comentarios, publicaciones e imágenes subidas"
 }
