@@ -176,7 +176,7 @@
     "archive_link": "koppeling archiveren",
     "stickied": "vastgeplakt",
     "delete_account": "Account verwijderen",
-    "delete_account_confirm": "Waarschuwing: dit zal al uw data voorgoed verwijderen van deze instantie. Mogelijk blijft uw data bewaard op andere (reeds bestaande) instanties. Vul uw wachtwoord in om de verwijdering te bevestigen.",
+    "delete_account_confirm": "Waarschuwing: dit zal uw account permanent verwijderen. De verwijdering wordt mogelijk niet altijd gefedereerd naar andere instanties. Vul uw wachtwoord in om de verwijdering te bevestigen.",
     "banned": "Verbannen",
     "creator": "auteur",
     "docs": "Documentatie",
@@ -287,7 +287,7 @@
     "week": "week",
     "number_of_months": "{{formattedCount}} maand",
     "number_of_months_plural": "{{formattedCount}} maanden",
-    "invalid_password": "Ongeldig wachtwoord. Het wachtwoord moet kleiner dan of gelijk aan 60 tekens zijn.",
+    "invalid_password": "Wacht­woord moet tussen de 10 en 60 tekens lang zijn.",
     "what_is": "Wat is",
     "cake_day_title": "Jubileumdag:",
     "invalid_url": "Ongeldige URL.",
@@ -603,5 +603,11 @@
     "submit": "Indienen",
     "denied": "Geweigerd",
     "community_locked": "Gemeen­schap vergrendeld",
-    "community_locked_message": "<1>Gemeen­schap vergrendeld:</1> alleen beheerders kunnen berichten plaatsen. U kunt nog steeds reageren op berichten."
+    "community_locked_message": "<1>Gemeen­schap vergrendeld:</1> alleen beheerders kunnen berichten plaatsen. U kunt nog steeds reageren op berichten.",
+    "delete_account_content": "Alle berichten, opmerkingen en geüploade afbeeldingen verwijderen",
+    "community_visibility": "Zichtbaar­heid",
+    "public": "Publiek",
+    "local_only": "Enkel lokaal",
+    "number_of_local_subscribers": "{{formattedCount}} lokale abbonnee",
+    "number_of_local_subscribers_plural": "{{formattedCount}} lokale abbonnees"
 }
