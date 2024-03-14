@@ -609,5 +609,7 @@
   "community_locked": "Community locked",
   "community_visibility": "Visibility",
   "local_only": "Local Only",
-  "public": "Public"
+  "local_only_blurb": "Only users on this instance can interact with this community.",
+  "public": "Public",
+  "public_blurb": "This community can be federated to other instances and be posted/commented in by their users."
 }
