@@ -85,7 +85,7 @@
     "delete": "删除",
     "deleted": "作者已删除",
     "delete_account": "删除账号",
-    "delete_account_confirm": "警告:此操作将永久删除你在此实例中所有数据(其他实例不会被删除)，请输入密码进行确认。",
+    "delete_account_confirm": "警告：这将永久删除您的账户。 删除后可能不一定会与其他实例连接。请输入您的密码以确认。",
     "click_to_delete_picture": "点击删除图片：{{filename}}",
     "picture_deleted": "图片已删除：{{filename}}",
     "restore": "恢复",
@@ -588,5 +588,6 @@
     "number_of_local_subscribers": "{{formattedCount}} 本地订阅者",
     "community_visibility": "可见度",
     "local_only": "仅选择本地社区",
-    "public": "公共"
+    "public": "公共",
+    "delete_account_content": "删除所有帖子、评论和上传的图片"
 }
