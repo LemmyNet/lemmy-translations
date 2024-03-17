@@ -138,5 +138,6 @@
     "least_active": "Menos activos",
     "politics": "Política",
     "hobbies": "Pasatiempos",
-    "monthly_active_users": "{{formattedCount}} usuarios activos (usuarios que han publicado o comentado en el último mes)"
+    "monthly_active_users": "{{formattedCount}} usuarios activos (usuarios que han publicado o comentado en el último mes)",
+    "moderation_tools": "Herramientas de moderación"
 }
