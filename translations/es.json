@@ -609,5 +609,6 @@
     "community_visibility": "Visibilidad",
     "local_only": "Solo local",
     "public": "Pública",
-    "delete_account_content": "Borrar todos los comentarios, publicaciones e imágenes subidas"
+    "delete_account_content": "Borrar todos los comentarios, publicaciones e imágenes subidas",
+    "local_only_blurb": "Solo los usuarios de este nodo pueden interactuar con esta comunidad."
 }

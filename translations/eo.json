@@ -609,5 +609,6 @@
     "delete_account_content": "Forigi ĉiujn afiŝojn, komentojn kaj alŝutitajn bildojn",
     "community_visibility": "Videbleco",
     "local_only": "Nur loka",
-    "public": "Publika"
+    "public": "Publika",
+    "local_only_blurb": "Nur uzantoj en ĉi tiu nodo povas interagi kun ĉi tiu komunumo."
 }
