@@ -138,5 +138,6 @@
     "registrations_open": "开放注册",
     "registrations_closed": "关闭注册",
     "requires_application": "需要注册申请",
-    "sign_up": "注册"
+    "sign_up": "注册",
+    "moderation_tools": "管理员公具"
 }
