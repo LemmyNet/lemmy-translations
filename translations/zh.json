@@ -589,5 +589,7 @@
     "community_visibility": "可见度",
     "local_only": "仅选择本地社区",
     "public": "公共",
-    "delete_account_content": "删除所有帖子、评论和上传的图片"
+    "delete_account_content": "删除所有帖子、评论和上传的图片",
+    "local_only_blurb": "只有该实例的用户才能与该社区互动。",
+    "public_blurb": "该社区可以联合到其他实例，并由其用户发布/评论。"
 }
