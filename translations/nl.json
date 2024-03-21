@@ -501,7 +501,7 @@
     "error_code_message": "De server heeft deze fout teruggestuurd: <1>{{error}}</1>. Dit kan nuttig zijn voor beheerders en ontwikkelaars om een diagnose te stellen en de fout op te lossen",
     "browser_default_compact": "Browser-standaard (compact)",
     "error_page_admin_matrix": "Als u één van de {{instance}}-administratoren wilt bereiken voor ondersteuning, probeer dan de volgende Matrix-adressen:",
-    "error_page_paragraph": "Er is een fout opgetreden op de server. Probeer uw browser te verversen. Als dat niet werkt, kom dan op een later tijdstip terug. Als het probleem zich blijft voordoen, kunt u hulp zoeken in de <1>Lemmy-ondersteunings­community</1> of <1>Lemmy-Matrix-ruimte</1>.",
+    "error_page_paragraph": "Er is een fout opgetreden op de server. Probeer uw browser te verversen. Als dat niet werkt, kom dan op een later tijdstip terug. Als het probleem zich blijft voordoen, kunt u hulp zoeken in de <1>Lemmy-ondersteunings­gemeenschap</1> of <1>Lemmy-Matrix-ruimte</1>.",
     "rate_limit_error": "Te veel verzoeken, probeer het later opnieuw.",
     "custom_emoji_save_validation": "Alle velden moeten worden ingevuld en de shortcode kan niet worden gedupliceerd.",
     "incorrect_login": "Onjuiste inloggegevens",
@@ -609,5 +609,7 @@
     "public": "Publiek",
     "local_only": "Enkel lokaal",
     "number_of_local_subscribers": "{{formattedCount}} lokale abbonnee",
-    "number_of_local_subscribers_plural": "{{formattedCount}} lokale abbonnees"
+    "number_of_local_subscribers_plural": "{{formattedCount}} lokale abbonnees",
+    "local_only_blurb": "Alleen gebruikers op deze instantie kunnen communiceren met deze gemeenschap.",
+    "public_blurb": "Deze gemeenschap kan worden gefedereerd met andere instanties en hun gebruikers kunnen berichten/opmerkingen plaatsen."
 }
