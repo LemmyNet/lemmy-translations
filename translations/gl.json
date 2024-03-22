@@ -138,5 +138,6 @@
     "sort": "Orde",
     "more_information": "Máis información",
     "federation_desc": "Os servidores Lemmy poden conectarse uns aos outros nunha rede de confianza, compartindo publicacións, comentarios e comunidades.",
-    "copyright_line": "Lemmy está baixo licenza GNU Affero General Public License v3.0"
+    "copyright_line": "Lemmy está baixo licenza GNU Affero General Public License v3.0",
+    "moderation_tools": "Ferramentas da Moderación"
 }
