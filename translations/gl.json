@@ -19,7 +19,7 @@
     "modlog": "Rexistro da moderación",
     "reason": "Razón",
     "delete_account": "Eliminar Conta",
-    "delete_account_confirm": "Aviso: isto eliminará permanentemente tódolos teus datos nesta instancia. Os teus datos poderían non ser eliminados noutras instancias. Escribe o contrasinal para confirmar.",
+    "delete_account_confirm": "Aviso: isto eliminará definitivamente a túa conta. A eliminación non sempre federa con outras instancias. Escribe o contrasinal para confirmar.",
     "cross_posted_from": "republicada desde: ",
     "comments": "Comentarios",
     "number_of_comments": "{{formattedCount}} Comentario",
@@ -608,5 +608,8 @@
     "number_of_local_subscribers_plural": "{{formattedCount}} subscritoras locais",
     "community_visibility": "Visibilidade",
     "local_only": "Só local",
-    "public": "Pública"
+    "public": "Pública",
+    "public_blurb": "Esta comunidade pode federarse con outras instancias e recibir comentarios das súas usuarias.",
+    "local_only_blurb": "Só as usuarias desta instancia poden participar nesta comunidade.",
+    "delete_account_content": "Eliminar todas as publicacións, comentarios e imaxes subidas"
 }
