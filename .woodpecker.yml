@@ -6,4 +6,4 @@ steps:
       - "curl -d'joinlemmy-translations CI build failed: ${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
     when:
       - status: [failure]
-      - event: pull_request
+        event: pull_request
