@@ -207,7 +207,7 @@
     "invalid_password": "אורך הסיסמה צריך להיות בין 10 תווים ל 60 תווים.",
     "removed": "נמחק על ידי מנהל",
     "stickied": "נדבק",
-    "deleted": "נמחק על ידי היוצר",
+    "deleted": "נמחק בידי היוצר",
     "click_to_delete_picture": "לחץ כדי למחוק תמונה: {{filename}}",
     "picture_deleted": "התמונה נמחקה: {{filename}}",
     "time": "זמן",
