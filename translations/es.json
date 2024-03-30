@@ -610,5 +610,8 @@
     "local_only": "Solo local",
     "public": "Pública",
     "delete_account_content": "Borrar todos los comentarios, publicaciones e imágenes subidas",
-    "local_only_blurb": "Solo los usuarios de este nodo pueden interactuar con esta comunidad."
+    "local_only_blurb": "Solo los usuarios de este nodo pueden interactuar con esta comunidad.",
+    "public_blurb": "Esta comunidad puede federarse a otros nodos, y desde estos sus usuarios pueden publicar/comentar.",
+    "private_message_form_user_matrix_blurb": "Este usuario ya tiene una cuenta de Matrix con la que puedes hablar en <1>{{matrix_id}}</1>.",
+    "banned_from_community_blurb": "<1>Bloqueado:</1> No puedes publicar, comentar ni votar en esta comunidad. Sin embargo, aún puedes navegar libremente."
 }

@@ -610,5 +610,6 @@
     "community_visibility": "Videbleco",
     "local_only": "Nur loka",
     "public": "Publika",
-    "local_only_blurb": "Nur uzantoj en ĉi tiu nodo povas interagi kun ĉi tiu komunumo."
+    "local_only_blurb": "Nur uzantoj en ĉi tiu nodo povas interagi kun ĉi tiu komunumo.",
+    "private_message_form_user_matrix_blurb": "Ĉi tiu uzanto jam havas Matrix-konton, al kiu vi povas mesaĝi en <1>{{matrix_id}}</1>."
 }
