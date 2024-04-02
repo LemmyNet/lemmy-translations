@@ -5,4 +5,5 @@ steps:
       - apk add curl
       - "curl -d'joinlemmy-translations CI build failed: ${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
     when:
-      status: [failure]
+      - event: pull_request
+        status: [failure]
