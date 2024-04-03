@@ -612,5 +612,6 @@
   "local_only_blurb": "Only users on this instance can interact with this community.",
   "public": "Public",
   "public_blurb": "This community can be federated to other instances and be posted/commented in by their users.",
-  "banned_from_community_blurb": "<1>Banned:</1> You cannot post, comment, or vote in this community. However, you are still free to browse."
+  "banned_from_community_blurb": "<1>Banned:</1> You cannot post, comment, or vote in this community. However, you are still free to browse.",
+  "private_message_form_user_matrix_blurb": "This user already has a matrix account you can message at <1>{{matrix_id}}</1>."
 }
