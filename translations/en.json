@@ -340,6 +340,7 @@
   "enable_nsfw": "Enable NSFW",
   "url": "URL",
   "body": "Body",
+  "custom_thumbnail_url": "Thumbnail URL",
   "copy_suggested_title": "copy suggested title: {{title}}",
   "community": "Community",
   "expand_here": "Expand here",
