@@ -1,9 +1,9 @@
 {
     "post": "indlæg",
     "mark_as_read": "marker som læst",
-    "number_of_posts": "{{formattedCount}} Indlæg",
-    "number_of_posts_plural": "{{formattedCount}} Indlæg",
-    "delete_account_confirm": "Advarsel: Dette vil permanent slette alle dine data fra denne server. Dine data bliver ikke slettet fra andre eksisterende servere. Indtast adgangskode for at bekræfte.",
+    "number_of_posts": "{{formattedCount}} indlæg",
+    "number_of_posts_plural": "{{formattedCount}} indlæg",
+    "delete_account_confirm": "Advarsel: Dette vil slette din bruger permanent. Det er muligt at forbundede servere ikke sletter dine data. Indtast din adgangskode for at bekræfte.",
     "number_of_users": "{{formattedCount}} bruger",
     "number_of_users_plural": "{{formattedCount}} brugere",
     "community_reqs": "små bogstaver, understregning og ingen mellemrum.",
@@ -173,7 +173,7 @@
     "unread_messages_plural": "{{formattedCount}} ulæste beskeder",
     "messages": "Beskeder",
     "password": "Adgangskode",
-    "invalid_password": "Ugyldig adgangskode. Adgangskoden skal have mellem 10 og 60 tegn.",
+    "invalid_password": "Adgangskoden skal have mellem 10 og 60 tegn.",
     "verify_password": "Bekræft adgangskode",
     "old_password": "Tidligere adgangskode",
     "forgot_password": "glemt adgangskode",
@@ -603,5 +603,15 @@
     "invalid_totp_code": "Ugyldig 2FA kode: Skal være seks tal",
     "enter_totp_code": "Indtast din 2FA kode",
     "remote_follow_invalid_instance": "{{instance}} er ikke et gyldigt domænenavn.",
-    "import_export_rate_limit_error": "Vent et par minutter før du prøver at importere eller eksportere dine indstillinger igen"
+    "import_export_rate_limit_error": "Vent et par minutter før du prøver at importere eller eksportere dine indstillinger igen",
+    "local_only_blurb": "Dette fællesskab kan kun bruges af lokale brugere.",
+    "public_blurb": "Dette fællesskab er forbundet med andre servere, hvis brugere kan lave indlæg og kommentarer.",
+    "delete_account_content": "Slet alle indlæg, kommentarer og uploadede billeder",
+    "local_only": "Kun lokal",
+    "public": "Offentlig",
+    "private_message_form_user_matrix_blurb": "Denne bruger har allerede en Matrix-bruger som du kan skrive til: <1>{{matrix_id}}</1>.",
+    "banned_from_community_blurb": "<1>Bandlyst:</1> Du kan ikke lave indlæg, kommentere eller stemme i dette fællesskab. Du kan stadig se fællesskabet.",
+    "number_of_local_subscribers": "{{formattedCount}} lokal abonnent",
+    "number_of_local_subscribers_plural": "{{formattedCount}} lokale abonnenter",
+    "community_visibility": "Synlighed"
 }
