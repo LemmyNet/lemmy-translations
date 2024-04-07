@@ -137,5 +137,6 @@
     "total_users": "{{formattedCount}} total de usuários",
     "registrations_closed": "Cadastro Fechado",
     "requires_application": "Requer Cadastro em Aplicativo",
-    "sign_up": "Registrar-se"
+    "sign_up": "Registrar-se",
+    "moderation_tools": "Ferramentas de moderação"
 }
