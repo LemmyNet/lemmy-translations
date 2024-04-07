@@ -613,5 +613,6 @@
     "local_only_blurb": "Só as usuarias desta instancia poden participar nesta comunidade.",
     "delete_account_content": "Eliminar todas as publicacións, comentarios e imaxes subidas",
     "banned_from_community_blurb": "<1>Vetada:</1> Non podes publicar, comentar nin votar nesta comunidade. Emporiso, es libre de ler o que queiras.",
-    "private_message_form_user_matrix_blurb": "Podes enviarlle unha mensaxe a esta usuaria na súa conta matrix en <1>{{matrix_id}}</1>."
+    "private_message_form_user_matrix_blurb": "Podes enviarlle unha mensaxe a esta usuaria na súa conta matrix en <1>{{matrix_id}}</1>.",
+    "custom_thumbnail_url": "URL da miniatura"
 }
