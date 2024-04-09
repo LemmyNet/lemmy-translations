@@ -67,7 +67,7 @@
     "delete": "Apagar",
     "deleted": "apagado por quem criou",
     "delete_account": "Apagar conta",
-    "delete_account_confirm": "Aviso: isso vai apagar todos os seus dados dessa instância de forma permanente. Seus dados podem não ser apagados em outras instâncias existentes. Digite sua senha para confirmar.",
+    "delete_account_confirm": "Aviso: isso excluirá permanentemente a sua conta. A exclusão pode não se propagar por outras instâncias. Digite sua senha para confirmar.",
     "restore": "Restaurar",
     "ban": "Banir",
     "ban_from_site": "Banir do site",
@@ -544,7 +544,7 @@
     "remote_follow_invalid_instance": "{{instance}} não é um domínio válido.",
     "remote_follow_local_instance": "Não foi possível localizar a instância local para acompanhar remotamente",
     "import_export_section_description": "Importar e exportar suas configurações de conta como JSON",
-    "export_file_name": "lemmy_configuracoes_usuarie",
+    "export_file_name": "configurações_de_usuário_lemmy",
     "export": "Exportar",
     "totp_qr": "Código QR de autenticação em dois fatores",
     "exporting": "Exportando",
@@ -603,5 +603,12 @@
     "report_comment": "Denunciar comentário",
     "report_message": "Denunciar mensagem",
     "totp_link": "Clique aqui para o link de instalação de autenticação em dois fatores",
-    "confirmation_required": "Confirmação Necessária"
+    "confirmation_required": "Confirmação Necessária",
+    "banned_from_community_blurb": "<1>Banido:</1> Você não pode postar, comentar ou votar nesta comunidade. Porém, você ainda pode navegar livremente.",
+    "private_message_form_user_matrix_blurb": "Este usuário já tem uma conta do Matrix com que pode falar em <1>{{matrix_id}}</1>.",
+    "community_visibility": "Visibilidade",
+    "local_only": "Local Apenas",
+    "public": "Público",
+    "local_only_blurb": "Apenas os usuários desta instância podem interagir com esta comunidade.",
+    "public_blurb": "Esta comunidade pode ser federada a outras instâncias e ser postada/comentada por seus usuários."
 }
