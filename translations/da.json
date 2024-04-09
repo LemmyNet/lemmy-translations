@@ -613,5 +613,6 @@
     "banned_from_community_blurb": "<1>Bandlyst:</1> Du kan ikke lave indlæg, kommentere eller stemme i dette fællesskab. Du kan stadig se fællesskabet.",
     "number_of_local_subscribers": "{{formattedCount}} lokal abonnent",
     "number_of_local_subscribers_plural": "{{formattedCount}} lokale abonnenter",
-    "community_visibility": "Synlighed"
+    "community_visibility": "Synlighed",
+    "custom_thumbnail_url": "Thumbnail-URL"
 }
