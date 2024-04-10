@@ -3,8 +3,8 @@
     "run_a_server": "Uruchom serwer",
     "lemmy": "Lemmy",
     "lemmy_desc": "Agregator linków w fediwersie.",
-    "follow_communities": "Obserwuj społeczności z całego świata",
-    "lemmy_title": "Lemmy - agregator linków w fediversie",
+    "follow_communities": "Obserwuj społeczności z <1>całego</1> świata",
+    "lemmy_title": "Lemmy - agregator linków w fediwersum",
     "lemmy_long_desc": "Lemmy jest samodzielnie zarządzaną platformą społecznościową do agregacji linków i dyskusji. Jest całkowicie wolna i otwarta, a nie kontrolowana przez żadną firmę. Oznacza to, że nie ma żadnych reklam, śledzenia, ani tajnych algorytmów. Treść jest zorganizowana w społeczności, więc łatwo jest obserwować tematy, które Cię interesują i ignorować inne. Głosowanie jest używane, aby przynieść najbardziej interesujące elementy do góry.",
     "open_source": "Otwarte Oprogramowanie",
     "docs": "Dokumentacja",
@@ -113,7 +113,7 @@
     "random": "Losowe",
     "music": "Muzyka",
     "hobbies": "Hobby",
-    "gaming": "Gaming",
+    "gaming": "Gry",
     "sports": "Sporty",
     "contact_us": "Kontakt z <1>Nami</1>",
     "contributors": "Współtwórcy",
@@ -137,5 +137,6 @@
     "active_users": "Aktywni Użytkownicy",
     "closed_source_warning": "Uwaga: ta aplikacja ma zamknięty kod źródłowy i może zbierać twoje dane. Używaj na własną odpowiedzialność.",
     "instance_comparison": "Po bardziej dokładne porównanie serwerów Lemmiego, zobacz",
-    "news": "Aktualności"
+    "news": "Aktualności",
+    "moderation_tools": "Narzędzia moderacji"
 }
