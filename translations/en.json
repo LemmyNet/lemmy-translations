@@ -619,5 +619,7 @@
   "unhide_post": "Unhide Post",
   "show_hidden_posts": "Show hidden posts",
   "post_hidden": "Post hidden",
-  "post_unhidden": "Post unhidden"
+  "post_unhidden": "Post unhidden",
+  "block_urls": "Block URLs",
+  "block_urls_placeholder": "Put your blocked URLs here, one URL per line."
 }
