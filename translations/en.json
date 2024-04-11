@@ -618,6 +618,7 @@
   "hide_post": "Hide Post",
   "unhide_post": "Unhide Post",
   "show_hidden_posts": "Show hidden posts",
+  "hide_hidden_posts": "Hide hidden posts",
   "post_hidden": "Post hidden",
   "post_unhidden": "Post unhidden",
   "block_urls": "Block URLs",
