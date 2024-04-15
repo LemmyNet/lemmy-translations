@@ -51,6 +51,8 @@
   "cancel": "Cancel",
   "preview": "Preview",
   "upload_image": "upload image",
+  "uploader": "Uploader",
+  "uploads": "Uploads",
   "too_many_images_upload": "Exceeded maximum of {{formattedCount}} image to upload. Please select only one image.",
   "too_many_images_upload_plural": "Exceeded maximum of {{formattedCount}} images to upload. Please select fewer images.",
   "avatar": "Avatar",
