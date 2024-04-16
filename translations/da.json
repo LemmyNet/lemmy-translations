@@ -614,5 +614,13 @@
     "number_of_local_subscribers": "{{formattedCount}} lokal abonnent",
     "number_of_local_subscribers_plural": "{{formattedCount}} lokale abonnenter",
     "community_visibility": "Synlighed",
-    "custom_thumbnail_url": "Thumbnail-URL"
+    "custom_thumbnail_url": "Thumbnail-URL",
+    "hide_post": "Skjul indlæg",
+    "post_unhidden": "Indlæg vist",
+    "unhide_post": "Vis indlæg",
+    "show_hidden_posts": "Vis skjulte indlæg",
+    "post_hidden": "Indlæg skjult",
+    "block_urls_placeholder": "Skriv blokerede URL'er her, et URL per linje.",
+    "block_urls": "Bloker URL'er",
+    "hide_hidden_posts": "Vis ikke skjulte indlæg"
 }
