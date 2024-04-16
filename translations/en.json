@@ -624,5 +624,10 @@
   "post_hidden": "Post hidden",
   "post_unhidden": "Post unhidden",
   "block_urls": "Block URLs",
-  "block_urls_placeholder": "Put your blocked URLs here, one URL per line."
+  "block_urls_placeholder": "Put your blocked URLs here, one URL per line.",
+  "content_warning": "Content Warning",
+  "sending_back_message": "Alright 👍. Sending you back in {{seconds}}.",
+  "continue": "Continue",
+  "go_back": "Go Back",
+  "content_warning_setting_blurb": "Setting a content warning will display a prompt with the content warning asking the user for their consent to continue."
 }
