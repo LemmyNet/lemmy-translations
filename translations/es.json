@@ -613,5 +613,14 @@
     "local_only_blurb": "Solo los usuarios de este nodo pueden interactuar con esta comunidad.",
     "public_blurb": "Esta comunidad puede federarse a otros nodos, y desde estos sus usuarios pueden publicar/comentar.",
     "private_message_form_user_matrix_blurb": "Este usuario ya tiene una cuenta de Matrix con la que puedes hablar en <1>{{matrix_id}}</1>.",
-    "banned_from_community_blurb": "<1>Bloqueado:</1> No puedes publicar, comentar ni votar en esta comunidad. Sin embargo, aún puedes navegar libremente."
+    "banned_from_community_blurb": "<1>Bloqueado:</1> No puedes publicar, comentar ni votar en esta comunidad. Sin embargo, aún puedes navegar libremente.",
+    "custom_thumbnail_url": "URL de miniatura",
+    "hide_post": "Ocultar publicación",
+    "post_hidden": "Publicación ocultada",
+    "unhide_post": "Descubrir publicación",
+    "show_hidden_posts": "Mostrar publicaciones ocultas",
+    "post_unhidden": "Publicación descubierta",
+    "block_urls": "Bloquear URLs",
+    "block_urls_placeholder": "Pon aquí tus URLs bloqueadas, una URL por línea.",
+    "hide_hidden_posts": "Esconder publicaciones ocultas"
 }

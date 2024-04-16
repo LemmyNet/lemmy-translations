@@ -611,5 +611,16 @@
     "local_only": "Nur loka",
     "public": "Publika",
     "local_only_blurb": "Nur uzantoj en ĉi tiu nodo povas interagi kun ĉi tiu komunumo.",
-    "private_message_form_user_matrix_blurb": "Ĉi tiu uzanto jam havas Matrix-konton, al kiu vi povas mesaĝi en <1>{{matrix_id}}</1>."
+    "private_message_form_user_matrix_blurb": "Ĉi tiu uzanto jam havas Matrix-konton, al kiu vi povas mesaĝi en <1>{{matrix_id}}</1>.",
+    "public_blurb": "Ĉi tiu komunumo povas federiĝi kun aliaj nodoj kaj ĝiaj uzantoj povas afiŝi/komenti tie.",
+    "banned_from_community_blurb": "<1>Forbarita:</1> Vi ne povas afiŝi, komenti aŭ voĉdoni en ĉi tiu komunumo. Tamen vi ankoraŭ povas libere foliumi.",
+    "custom_thumbnail_url": "URL de miniaturo",
+    "post_unhidden": "Afiŝo malkaŝita",
+    "hide_post": "Kaŝi afiŝon",
+    "unhide_post": "Malkaŝi afiŝon",
+    "post_hidden": "Afiŝo kaŝita",
+    "block_urls_placeholder": "Metu viajn blokitajn URL-ojn ĉi tie, unu URL por linio.",
+    "block_urls": "Bloki URL-ojn",
+    "hide_hidden_posts": "Kaŝi kaŝitajn afiŝojn",
+    "show_hidden_posts": "Montri kaŝitajn afiŝojn"
 }
