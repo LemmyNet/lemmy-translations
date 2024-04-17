@@ -622,5 +622,12 @@
     "post_unhidden": "Publicación descubierta",
     "block_urls": "Bloquear URLs",
     "block_urls_placeholder": "Pon aquí tus URLs bloqueadas, una URL por línea.",
-    "hide_hidden_posts": "Esconder publicaciones ocultas"
+    "hide_hidden_posts": "Esconder publicaciones ocultas",
+    "continue": "Continuar",
+    "go_back": "Volver",
+    "content_warning": "Advertencia de contenido",
+    "uploader": "Subió contenido",
+    "sending_back_message": "Vale 👍. Te mandamos de vuelta en {{seconds}}.",
+    "content_warning_setting_blurb": "Configurar una advertencia de contenido mostrará un diálogo con la advertencia de contenido pidiendo al usuario su consentimiento para continuar.",
+    "uploads": "Subidas"
 }
