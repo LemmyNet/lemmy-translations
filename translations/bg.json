@@ -70,11 +70,11 @@
     "downvotes_disabled": "Отрицателните гласове са изключени",
     "enable_downvotes": "Позволи Отрицателни Гласове",
     "upvote": "Харесвам",
-    "number_of_upvotes": "{{formattedCount}} Положителен глас",
-    "number_of_upvotes_plural": "{{formattedCount}} Положителни гласа",
+    "number_of_upvotes": "{{formattedCount}} положителен глас",
+    "number_of_upvotes_plural": "{{formattedCount}} положителни гласа",
     "downvote": "Не харесвам",
-    "number_of_downvotes": "{{formattedCount}} Отрицателен глас",
-    "number_of_downvotes_plural": "{{formattedCount}} Отрицателни гласа",
+    "number_of_downvotes": "{{formattedCount}} отрицателен глас",
+    "number_of_downvotes_plural": "{{formattedCount}} отрицателни гласа",
     "open_registration": "Отворена Регистрация",
     "registration_closed": "Регистрация затворена",
     "enable_nsfw": "Позволи Деликатно съдържание",
@@ -619,5 +619,11 @@
     "unhide_post": "Покажи поста",
     "show_hidden_posts": "Покажи скритите постове",
     "post_hidden": "Поста е скрит",
-    "hide_hidden_posts": "Скрий скритите постове"
+    "hide_hidden_posts": "Скрий скритите постове",
+    "continue": "Продължаване",
+    "go_back": "Назад",
+    "show_upvotes": "Показване на положителните гласове",
+    "show_upvote_percentage": "Показване на процент положителни гласове",
+    "show_downvotes": "Показване на отрицателните гласове",
+    "upvote_percentage": "{{formattedCount}}% положителни гласа"
 }
