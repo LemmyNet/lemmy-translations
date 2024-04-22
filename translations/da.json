@@ -622,5 +622,16 @@
     "post_hidden": "Indlæg skjult",
     "block_urls_placeholder": "Skriv blokerede URL'er her, et URL per linje.",
     "block_urls": "Bloker URL'er",
-    "hide_hidden_posts": "Vis ikke skjulte indlæg"
+    "hide_hidden_posts": "Vis ikke skjulte indlæg",
+    "content_warning": "Indholdsadvarsel",
+    "sending_back_message": "Okay 👍. Sender dig tilbage om {{seconds}}.",
+    "continue": "Fortsæt",
+    "go_back": "Gå tilbage",
+    "content_warning_setting_blurb": "En indholdsadvarsel vil spørge om samtykke med den angivne advarsel før indholdet bliver vist.",
+    "show_upvotes": "Vis opstemmer",
+    "show_downvotes": "Vis nedstemmer",
+    "show_upvote_percentage": "Vis stemmeprocent",
+    "upvote_percentage": "{{formattedCount}}% opstemt",
+    "uploader": "Uploader",
+    "uploads": "Uploads"
 }
