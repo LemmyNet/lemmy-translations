@@ -633,5 +633,6 @@
   "sending_back_message": "Alright 👍. Sending you back in {{seconds}}.",
   "continue": "Continue",
   "go_back": "Go Back",
-  "content_warning_setting_blurb": "Setting a content warning will display a prompt with the content warning asking the user for their consent to continue."
+  "content_warning_setting_blurb": "Setting a content warning will display a prompt with the content warning asking the user for their consent to continue.",
+  "moderation_history": "Moderation History"
 }
