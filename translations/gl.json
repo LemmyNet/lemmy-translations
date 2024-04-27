@@ -621,5 +621,17 @@
     "hide_post": "Agochar Publicación",
     "show_hidden_posts": "Mostrar publicacións agochadas",
     "block_urls": "Bloquear URLs",
-    "block_urls_placeholder": "Pon aquí os URLs bloqueados, un URL por liña."
+    "block_urls_placeholder": "Pon aquí os URLs bloqueados, un URL por liña.",
+    "uploads": "Subidas",
+    "uploader": "Cargador",
+    "content_warning": "Aviso sobre o Contido",
+    "sending_back_message": "Vale 👍. Enviámoste de volta en {{seconds}}.",
+    "continue": "Continuar",
+    "go_back": "Volver",
+    "show_upvotes": "Mostrar votos positivos",
+    "show_downvotes": "Mostrar votos negativos",
+    "show_upvote_percentage": "Mostrar voto positivo %",
+    "upvote_percentage": "{{formattedCount}}% de votos positivos",
+    "content_warning_setting_blurb": "Ao establecer un aviso sobre o contido vaise mostrar un aviso preguntándolle á usuaria se da o consentimento para continuar.",
+    "hide_hidden_posts": "Agochar publicacións ocultas"
 }
