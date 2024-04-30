@@ -633,5 +633,6 @@
     "show_upvote_percentage": "Vis stemmeprocent",
     "upvote_percentage": "{{formattedCount}}% opstemt",
     "uploader": "Uploader",
-    "uploads": "Uploads"
+    "uploads": "Uploads",
+    "moderation_history": "Moderationshistorik"
 }
