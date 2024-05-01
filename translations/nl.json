@@ -611,5 +611,17 @@
     "number_of_local_subscribers": "{{formattedCount}} lokale abbonnee",
     "number_of_local_subscribers_plural": "{{formattedCount}} lokale abbonnees",
     "local_only_blurb": "Alleen gebruikers op deze instantie kunnen communiceren met deze gemeenschap.",
-    "public_blurb": "Deze gemeenschap kan worden gefedereerd met andere instanties en hun gebruikers kunnen berichten/opmerkingen plaatsen."
+    "public_blurb": "Deze gemeenschap kan worden gefedereerd met andere instanties en hun gebruikers kunnen berichten/opmerkingen plaatsen.",
+    "show_upvotes": "Upvotes tonen",
+    "show_downvotes": "Downvotes tonen",
+    "upvote_percentage": "{{formattedCount}}% geüpvote",
+    "uploader": "Uploader",
+    "uploads": "Uploads",
+    "post_unhidden": "Bericht hersteld",
+    "continue": "Doorgaan",
+    "custom_thumbnail_url": "Miniatuur-URL",
+    "post_hidden": "Bericht verborgen",
+    "hide_post": "Bericht verbergen",
+    "unhide_post": "Bericht herstellen",
+    "show_upvote_percentage": "Upvote-percentage tonen"
 }
