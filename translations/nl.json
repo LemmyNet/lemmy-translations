@@ -623,5 +623,16 @@
     "post_hidden": "Bericht verborgen",
     "hide_post": "Bericht verbergen",
     "unhide_post": "Bericht herstellen",
-    "show_upvote_percentage": "Upvote-percentage tonen"
+    "show_upvote_percentage": "Upvote-percentage tonen",
+    "moderation_history": "Moderatie­geschiedenis",
+    "block_urls_placeholder": "Voer uw geblokkeerde URL's hier in, één URL per regel.",
+    "block_urls": "URL's blokkeren",
+    "banned_from_community_blurb": "<1>Verbannen:</1> u kunt geen berichten plaatsen, reageren of stemmen in deze gemeenschap. U bent echter nog steeds vrij om te bladeren.",
+    "private_message_form_user_matrix_blurb": "Deze gebruiker heeft al een Matrix-account waarnaar u een bericht kunt sturen op <1>{{matrix_id}}</1>.",
+    "content_warning": "Inhouds­waarschuwing",
+    "sending_back_message": "Oké 👍. U wordt over {{seconds}} terug­gestuurd.",
+    "go_back": "Teruggaan",
+    "content_warning_setting_blurb": "Als u een inhouds­waarschuwing instelt, wordt er een prompt weergegeven waarin de inhouds­waarschuwing de gebruiker om toestemming vraagt om door te gaan.",
+    "show_hidden_posts": "Verborgen berichten tonen",
+    "hide_hidden_posts": "Verborgen berichten verbergen"
 }
