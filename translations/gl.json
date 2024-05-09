@@ -633,5 +633,6 @@
     "show_upvote_percentage": "Mostrar voto positivo %",
     "upvote_percentage": "{{formattedCount}}% de votos positivos",
     "content_warning_setting_blurb": "Ao establecer un aviso sobre o contido vaise mostrar un aviso preguntándolle á usuaria se da o consentimento para continuar.",
-    "hide_hidden_posts": "Agochar publicacións ocultas"
+    "hide_hidden_posts": "Agochar publicacións ocultas",
+    "moderation_history": "Historial da Moderación"
 }
