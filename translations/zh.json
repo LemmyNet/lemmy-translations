@@ -596,5 +596,11 @@
     "show_upvote_percentage": "显示顶数百分比%",
     "show_downvotes": "显示踩数",
     "uploader": "上传者",
-    "uploads": "上传"
+    "uploads": "上传",
+    "banned_from_community_blurb": "<1>您已被封禁：</1>您不能在此社区发帖、发表评论或投票。 不过，您仍然可以自由浏览。",
+    "private_message_form_user_matrix_blurb": "该用户已经有一个Matrix账户，您可以在该 <1>{{matrix_id}}</1>账户上留言。",
+    "custom_thumbnail_url": "缩略图URL",
+    "hide_post": "隐藏帖子",
+    "unhide_post": "取消隐藏帖子",
+    "show_hidden_posts": "显示已隐藏的帖子"
 }
