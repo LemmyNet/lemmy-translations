@@ -137,5 +137,6 @@
     "contact_us": "Contactez <1>Nous</1>",
     "instance_disclaimer": "Vous pouvez accéder tout le contenu du lemmyverse sur n'importe quel serveur, peu importe lequel vous choisissez.",
     "devs_funded": "{{formattedCount1}} / {{formattedCount2}} développeurs financés",
-    "total_users": "{{formattedCount}} utilisateurs totaux"
+    "total_users": "{{formattedCount}} utilisateurs totaux",
+    "moderation_tools": "Outils de modération"
 }
