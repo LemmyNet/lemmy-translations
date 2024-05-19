@@ -10,5 +10,8 @@
     "post": "գրառում",
     "number_of_posts": "{{formattedCount}} Գրառում",
     "number_of_posts_plural": "{{formattedCount}} Գրառումներ",
-    "restored_post": "Վերականգնված գրառում"
+    "restored_post": "Վերականգնված գրառում",
+    "related_posts": "Այս գրառումները առնչվող են",
+    "cross_posts": "Այս հղումը հրապարկվել է նաև՝",
+    "cross_post": "խաչաձև գրառում"
 }
