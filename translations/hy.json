@@ -1,1 +1,14 @@
-{}
+{
+    "remove_post": "Ջնջել գրառումը",
+    "restore_post": "Վերականգնել գրառումը",
+    "no_posts": "Գրառում չկա։",
+    "create_a_post": "Նոր գրառում",
+    "create_post": "Նոր Գրառում",
+    "posts": "Գրառումներ",
+    "denied": "Մերժված",
+    "removed_post": "Հեռացված գրառում",
+    "post": "գրառում",
+    "number_of_posts": "{{formattedCount}} Գրառում",
+    "number_of_posts_plural": "{{formattedCount}} Գրառումներ",
+    "restored_post": "Վերականգնված գրառում"
+}
