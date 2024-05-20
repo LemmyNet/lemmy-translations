@@ -52,7 +52,7 @@
     "remove_community": "Slet Fællesskab",
     "subscribed_to_communities": "Fulgte <1>fællesskaber</1>",
     "trending_communities": "Populære <1>fællesskaber</1>",
-    "list_of_communities": "Fællesskabsliste",
+    "list_of_communities": "Fællesskabsoversigt",
     "number_of_communities": "{{formattedCount}} Fællesskab",
     "number_of_communities_plural": "{{formattedCount}} Fællesskaber",
     "invalid_community_name": "Ugyldigt navn.",
@@ -450,11 +450,11 @@
     "unread_reports_plural": "{{formattedCount}} ulæste rapporter",
     "change_password": "Ændr adgangskode",
     "reports": "Rapporter",
-    "reporter": "Rapportér",
+    "reporter": "Rapporter",
     "resolved_by": "Løst af <1></1>",
     "unresolved_by": "Uløst af <1></1>",
     "show_report_dialog": "Vis rapport dialog",
-    "create_report": "Opret rapport",
+    "create_report": "Rapportér",
     "resolve_report": "Løs rapport",
     "verify_email": "Bekræft email",
     "verify_email_sent": "Email-bekræftelse sendt.",
@@ -634,5 +634,7 @@
     "upvote_percentage": "{{formattedCount}}% opstemt",
     "uploader": "Uploader",
     "uploads": "Uploads",
-    "moderation_history": "Moderationshistorik"
+    "moderation_history": "Moderationshistorik",
+    "edited_post": "Redigeret indlæg",
+    "language_not_allowed": "Sprog ikke tilladt"
 }
