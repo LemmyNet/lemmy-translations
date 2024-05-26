@@ -4,7 +4,7 @@
     "lemmy": "Lemmy",
     "lemmy_desc": "Esteka-agregatzaile bat fedibertsoarentzat.",
     "blazing_fast": "Tximista bezain azkarra",
-    "mod_tools": "Neurritasunerako tresna ahaltsuak",
+    "mod_tools": "Moderazio tresna ahaltsuak",
     "create_discussion_platform": "Sortu <1>zure</1> eztabaida-plataforma",
     "live_updates": "Zuzeneko eguneratzeak",
     "more_features": "<1>Ezaugarri</1> gehiago",
@@ -46,7 +46,7 @@
     "open_source": "Kode irekia",
     "open_source_desc": "Lemmy beti software doakoa eta librea izango da, <1>kode irekikoa</1>, <2>copyleft</2> <3>AGPL lizentzia</3> indarra erabiliz.",
     "blazing_fast_desc": "Frameworketako eta tresnarik azkarrenetako batzuk erabiliz egina: <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> eta <5>Typescript</5>.",
-    "mod_tools_desc": "Zerbitzari bakoitzak bere neurritasun-politika ezar dezake, ingurune osasungarri bat sustatzen laguntzeko, non guztiok eroso senti gaitezkeen.",
+    "mod_tools_desc": "Zerbitzari bakoitzak bere moderazio-politika ezar dezake, ingurune osasungarri bat sustatzen laguntzeko, non guztiok eroso senti gaitezkeen.",
     "create_discussion_platform_desc": "Lemmyrekin, <1>zure zerbitzaria</1> erraz ostatatu dezakezu, eta zerbitzari horiek guztiak <2>federatuta daude</2> (pentsatu posta elektronikoan), eta unibertso berera konektatuta, <3>Fedibertsoa</3> izenekoa. Esteka-agregatzaile batentzat, honek esan nahi du zerbitzari batean erregistratutako norbait beste toki batzuetako komunitateetan harpidetu daitekeela, eta erabat ezberdina den zerbitzari batean pertsonekin eztabaidak izan ditzakeela.",
     "live_updates_desc": "Iruzkin eta argitalpen berriak orrialde nagusira eta sarrera-erretilura iristen dira; jada ez da beharrezkoa orria eguneratzea.",
     "self_hostable": "Autoostatagarria, zabaltzeko erraza, <1>Docker</1> edo <2>Ansible</2> bidez.",
@@ -138,5 +138,6 @@
     "based_on_salary": "developersalary.com-eko Europako batezbesteko software garatzaile baten €{{formattedCount}} soldatan oinarrituta",
     "monthly_active_users": "{{formattedCount}} erabiltzaile aktibo (azken hilabetean bidalketak edo iruzkinak egin dituztenak)",
     "closed_source_warning": "Kontuz: app hau kode itxia da, zure datuak bildu ditzake. Erabil ezazu zure ardurapean.",
-    "requires_application": "Izen-emate eskaera galdetzen du"
+    "requires_application": "Izen-emate eskaera galdetzen du",
+    "moderation_tools": "Moderazio tresnak"
 }
