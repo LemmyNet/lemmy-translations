@@ -138,5 +138,6 @@
     "instance_disclaimer": "Podes aceder a todo o conteúdo do \"lemmyverso\" a partir de qualquer servidor, portanto a tua escolha não é muito relevante.",
     "based_on_salary": "Baseado num salário médio Europeu para programadores de {{formattedCount}}€ (segundo a developersalary.com)",
     "closed_source_warning": "Aviso: esta aplicação é de código fechado, e poderá recolher os teus dados. Usa por tua conta e risco.",
-    "requires_application": "Necessita candidatura de registo"
+    "requires_application": "Necessita candidatura de registo",
+    "moderation_tools": "Ferramentas de moderação"
 }
