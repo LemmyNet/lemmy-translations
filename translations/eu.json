@@ -272,7 +272,7 @@
     "linked_instances": "Estekatutako instantziak",
     "none_found": "Ez da bat ere aurkitu.",
     "play_captcha_audio": "Jo soinu-captcha",
-    "invalid_password": "Pasahitz baliogabea. Pasahitzaren luzera 10 eta 60 karaktere artean egon behar da.",
+    "invalid_password": "Pasahitzaren luzera 10 eta 60 karaktere artean egon behar da.",
     "join_lemmy": "Batu Lemmy-ra",
     "report_reason_required": "Salaketaren arrazoia ezinbestekoa da.",
     "support_lemmy": "Lagundu Lemmyri",
@@ -543,5 +543,13 @@
     "transfered_community": "Komunitatea transferitua",
     "report_post": "Salatu bidalketa",
     "report_comment": "Salatu iruzkina",
-    "report_message": "Salatu mezua"
+    "report_message": "Salatu mezua",
+    "not_top_admin": "Ez da admin gorena.",
+    "delete_account_content": "Ezabatu bidalketak, iruzkinak eta igotako irudi guztiak",
+    "view_votes": "Ikusi bozkak",
+    "votes": "Bozkak",
+    "unfeatured_post": "Nagusi marka kendutako bidalketa",
+    "featured_post": "Nagusi bezala markatutako bidalketa",
+    "uploader": "Igotzailea",
+    "uploads": "Igoerak"
 }
