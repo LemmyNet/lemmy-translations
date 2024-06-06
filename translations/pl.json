@@ -49,7 +49,7 @@
     "choose_and_join": "Wybierz i dołącz do jednego z poniższych zatwierdzonych serwerów.",
     "donate_to_lemmy": "Wesprzyj Lemmiego",
     "open_source_desc": "Lemmy jest i zawsze będzie wolnym, <1>otwartym</1> oprogramowaniem, wykorzystując silną <2>copyleftową</2> <3>licencję AGPL</3>.",
-    "create_discussion_platform_desc": "Z Lemmym możęsz <1>łatwo hostować swój własny serwer</1>, serwery te są <2>federowane</2> (podobnie jak poczty) i funkcjonują w tej samej przestrzeni, znanej jako <3>Fediwersum</3>. Dla agregatora linków, oznacza to, że osoba zarejestrowana na jednym serwerze może subskrybować społeczności znajdujące się na innych, oraz dyskutować z osobami z zupełnie różnych serwerów.",
+    "create_discussion_platform_desc": "Z Lemmym możesz <1>łatwo hostować swój własny serwer</1>, serwery te są <2>federowane</2> (podobnie jak poczty) i funkcjonują w tej samej przestrzeni, znanej jako <3>Fediwersum</3>. Dla agregatora linków, oznacza to, że osoba zarejestrowana na jednym serwerze może subskrybować społeczności znajdujące się na innych, oraz dyskutować z osobami z zupełnie różnych serwerów.",
     "choose_from_apps": "Wybierz dowolną z poniższych aplikacji.",
     "code_of_conduct": "Kodeks postępowania",
     "coc": "Kodeks",
