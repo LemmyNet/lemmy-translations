@@ -635,5 +635,7 @@
     "post_unhidden": "Publicação exibida",
     "number_of_local_subscribers_0": "{{formattedCount}} subscritor local",
     "number_of_local_subscribers_1": "{{formattedCount}} subscritores locais",
-    "number_of_local_subscribers_2": "{{formattedCount}} subscritores locais"
+    "number_of_local_subscribers_2": "{{formattedCount}} subscritores locais",
+    "view_votes": "Ver votos",
+    "content_warning_setting_blurb": "Com um aviso de conteúdo definido, este irá ser exibido num pedido de confirmação ao utilizador, antes do conteúdo ficar visualizável."
 }
