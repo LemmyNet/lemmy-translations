@@ -634,5 +634,7 @@
     "go_back": "Teruggaan",
     "content_warning_setting_blurb": "Als u een inhouds­waarschuwing instelt, wordt er een prompt weergegeven waarin de inhouds­waarschuwing de gebruiker om toestemming vraagt om door te gaan.",
     "show_hidden_posts": "Verborgen berichten tonen",
-    "hide_hidden_posts": "Verborgen berichten verbergen"
+    "hide_hidden_posts": "Verborgen berichten verbergen",
+    "edited_post": "Bewerkt bericht",
+    "language_not_allowed": "Taal niet toegestaan"
 }
