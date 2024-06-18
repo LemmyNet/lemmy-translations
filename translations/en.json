@@ -636,5 +636,7 @@
   "content_warning_setting_blurb": "Setting a content warning will display a prompt with the content warning asking the user for their consent to continue.",
   "moderation_history": "Moderation History",
   "language_not_allowed": "Language not allowed",
-  "edited_post": "Edited post"
+  "edited_post": "Edited post",
+  "leave_admin_team_confirmation": "Are you sure you want to leave the admin team?",
+  "leaving_admin_team": "Leaving admin team"
 }
