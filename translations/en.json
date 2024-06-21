@@ -539,6 +539,7 @@
   "rate_limit_comment": "Comment",
   "rate_limit_search": "Search",
   "rate_limit_header": "Rate Limit Options",
+  "rate_limit_info": "Lemmy can limit requests per IP address for various actions. The Rate Limit field is how many times that IP address can perform that action, and Per Second is the number of seconds before the rate limit resets.",
   "per_second": "Per Second",
   "taglines": "Taglines",
   "add_tagline": "Add Tagline",
