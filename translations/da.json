@@ -636,5 +636,7 @@
     "uploads": "Uploads",
     "moderation_history": "Moderationshistorik",
     "edited_post": "Redigeret indlæg",
-    "language_not_allowed": "Sprog ikke tilladt"
+    "language_not_allowed": "Sprog ikke tilladt",
+    "leaving_admin_team": "Forlader administrationsholdet",
+    "leave_admin_team_confirmation": "Er du sikker på at du vil forlade administrationsholdet?"
 }
