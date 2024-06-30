@@ -595,5 +595,16 @@
     "featured_in_community": "Näytetään yhteisössä",
     "view_votes": "Näytä äänet",
     "votes": "Äänet",
-    "featured_post": "Esitelty viesti"
+    "featured_post": "Esitelty viesti",
+    "denied": "Evätty",
+    "number_of_local_subscribers": "{{formattedCount}} paikallinen tilaaja",
+    "number_of_local_subscribers_plural": "{{formattedCount}} paikallista tilaajaa",
+    "custom_thumbnail_url": "Esikatselukuvan osoite",
+    "delete_account_content": "Poista kaikki julkaisut, vastaukset ja ladatut kuvat",
+    "show_upvotes": "Näytä ylä-äänet",
+    "show_downvotes": "Näytä ylä-äänet",
+    "show_upvote_percentage": "Näytä ylä-äänien määrä prosentteina",
+    "upvote_percentage": "{{formattedCount}}% ylä-ääniä",
+    "uploader": "Lataaja",
+    "uploads": "Lataukset"
 }
