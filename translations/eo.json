@@ -636,5 +636,6 @@
     "show_upvote_percentage": "Montri por-voĉdonan %",
     "upvote_percentage": "{{formattedCount}}% por-voĉdonita",
     "uploader": "Alŝutinto",
-    "uploads": "Alŝutoj"
+    "uploads": "Alŝutoj",
+    "rate_limit_info": "Lemmy povas limigi petojn laŭ IP-adreso por kelkaj agoj. La ofteca limiga"
 }
