@@ -625,7 +625,7 @@
     "unhide_post": "Bericht herstellen",
     "show_upvote_percentage": "Upvote-percentage tonen",
     "moderation_history": "Moderatie­geschiedenis",
-    "block_urls_placeholder": "Voer uw geblokkeerde URL's hier in, één URL per regel.",
+    "block_urls_placeholder": "Voer uw geblokkeerde URL's hier in, één URL per regel. Regex-teken­reeksen werken ook, bijvoorbeeld: *.example.com",
     "block_urls": "URL's blokkeren",
     "banned_from_community_blurb": "<1>Verbannen:</1> u kunt geen berichten en opmerkingen plaatsen, of stemmen in deze gemeen­schap. U bent echter nog steeds vrij om te bladeren.",
     "private_message_form_user_matrix_blurb": "Deze gebruiker heeft al een Matrix-account waarnaar u een bericht kunt sturen op <1>{{matrix_id}}</1>.",
@@ -636,5 +636,8 @@
     "show_hidden_posts": "Verborgen berichten tonen",
     "hide_hidden_posts": "Verborgen berichten verbergen",
     "edited_post": "Bewerkt bericht",
-    "language_not_allowed": "Taal niet toegestaan"
+    "language_not_allowed": "Taal niet toegestaan",
+    "rate_limit_info": "Lemmy kan verzoeken per IP-adres beperken voor verschillende acties. Het veld Snelheids­limiet geeft aan hoe vaak dat IP-adres die actie kan uitvoeren, en ‘Per seconde’ is het aantal seconden voordat de snelheids­limiet opnieuw wordt ingesteld.",
+    "leaving_admin_team": "Beheerdersteam verlaten",
+    "leave_admin_team_confirmation": "Weet u zeker dat u het beheerders­team wilt verlaten?"
 }
