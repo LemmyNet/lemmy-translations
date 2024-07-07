@@ -373,5 +373,14 @@
     "deny": "Từ chối",
     "required": "Bắt buộc",
     "default_theme": "Theme mặc định",
-    "number_of_days": "Số ngày"
+    "number_of_days": "Số ngày",
+    "denied": "Từ chối",
+    "custom_emojis": "Emojis tùy chọn",
+    "edited_post": "Bài viết đã sửa",
+    "removed_post": "Bài đăng đã xóa",
+    "restore_post": "Khôi phục bài đăng",
+    "restored_post": "Bài đăng đã được khôi phục",
+    "restored_comment": "Bình luận đã khôi phục",
+    "restore_comment": "Khôi phục bình luận",
+    "removed_comment": "Bình luận đã xóa"
 }
