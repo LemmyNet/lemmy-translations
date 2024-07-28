@@ -621,7 +621,7 @@
     "show_hidden_posts": "Mostrar publicaciones ocultas",
     "post_unhidden": "Publicación descubierta",
     "block_urls": "Bloquear URLs",
-    "block_urls_placeholder": "Pon aquí tus URLs bloqueadas, una URL por línea.",
+    "block_urls_placeholder": "Pon aquí tus URLs bloqueadas, una URL por línea. También funcionan expresiones regulares, por ejemplo, *.example.com",
     "hide_hidden_posts": "Esconder publicaciones ocultas",
     "continue": "Continuar",
     "go_back": "Volver",
@@ -629,5 +629,15 @@
     "uploader": "Subió contenido",
     "sending_back_message": "Vale 👍. Te mandamos de vuelta en {{seconds}}.",
     "content_warning_setting_blurb": "Configurar una advertencia de contenido mostrará un diálogo con la advertencia de contenido pidiendo al usuario su consentimiento para continuar.",
-    "uploads": "Subidas"
+    "uploads": "Subidas",
+    "moderation_history": "Historial de moderación",
+    "edited_post": "Publicación editada",
+    "language_not_allowed": "Idioma no permitido",
+    "leaving_admin_team": "Dejando el equipo de administración",
+    "leave_admin_team_confirmation": "¿Seguro que quieres dejar el equipo de administración?",
+    "show_upvotes": "Mostrar votos positivos",
+    "show_downvotes": "Mostrar votos negativos",
+    "show_upvote_percentage": "Mostrar % de votos positivos",
+    "upvote_percentage": "{{formattedCount}} % de votos positivos",
+    "rate_limit_info": "Lemmy puede limitar peticiones de direcciones IP para varias acciones. El Límite de Frecuencia es cuántas veces esa dirección IP puede realizar esa acción y Por Segundo es el número de segundos antes de que se restablezca el límite de frecuencia."
 }

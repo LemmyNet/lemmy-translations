@@ -622,5 +622,20 @@
     "block_urls_placeholder": "Metu viajn blokitajn URL-ojn ĉi tie, unu URL por linio.",
     "block_urls": "Bloki URL-ojn",
     "hide_hidden_posts": "Kaŝi kaŝitajn afiŝojn",
-    "show_hidden_posts": "Montri kaŝitajn afiŝojn"
+    "show_hidden_posts": "Montri kaŝitajn afiŝojn",
+    "language_not_allowed": "Lingvo ne permesata",
+    "edited_post": "Redaktita afiŝo",
+    "leaving_admin_team": "Elirante el la administrada teamo",
+    "leave_admin_team_confirmation": "Ĉu vi certe volas eliri el la administrada teamo?",
+    "content_warning": "Enhava averto",
+    "sending_back_message": "Bone 👍. Sendante vi reen en {{seconds}}.",
+    "continue": "Daŭrigi",
+    "go_back": "Iri reen",
+    "show_upvotes": "Montri por-voĉdonojn",
+    "show_downvotes": "Montri kontraŭ-voĉdonojn",
+    "show_upvote_percentage": "Montri por-voĉdonan %",
+    "upvote_percentage": "{{formattedCount}}% por-voĉdonita",
+    "uploader": "Alŝutinto",
+    "uploads": "Alŝutoj",
+    "rate_limit_info": "Lemmy povas limigi petojn laŭ IP-adreso por kelkaj agoj. La ofteca limiga"
 }

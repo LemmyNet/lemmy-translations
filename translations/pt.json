@@ -634,12 +634,15 @@
     "unhide_post": "Mostrar publicação",
     "show_hidden_posts": "Mostrar publicações escondidas",
     "block_urls": "Bloquear URLs",
-    "block_urls_placeholder": "Coloca os URLs a bloquear aqui, um por linha.",
+    "block_urls_placeholder": "Coloca os URLs a bloquear aqui, um por linha. Expressões regulares (regex) também funcionam, por exemplo: *.example.com",
     "hide_hidden_posts": "Esconder publicações escondidas",
     "post_unhidden": "Publicação exibida",
     "number_of_local_subscribers_0": "{{formattedCount}} subscritor local",
     "number_of_local_subscribers_1": "{{formattedCount}} subscritores locais",
     "number_of_local_subscribers_2": "{{formattedCount}} subscritores locais",
     "view_votes": "Ver votos",
-    "content_warning_setting_blurb": "Com um aviso de conteúdo definido, este irá ser exibido num pedido de confirmação ao utilizador, antes do conteúdo ficar visualizável."
+    "content_warning_setting_blurb": "Com um aviso de conteúdo definido, este irá ser exibido num pedido de confirmação ao utilizador, antes do conteúdo ficar visualizável.",
+    "rate_limit_info": "O Lemmy pode limitar pedidos por endereço IP para várias ações. O campo \"Limite\" diz quantas vezes um endereço IP pode efetuar uma ação e \"Por segundo\" diz o número de segundos antes do limite reiniciar.",
+    "leave_admin_team_confirmation": "Tens a certeza que queres sair da equipa de administração?",
+    "leaving_admin_team": "A sair da equipa de administração"
 }

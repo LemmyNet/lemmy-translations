@@ -214,7 +214,7 @@
     "show_nsfw": "Vis NSFW indhold",
     "theme": "Tema",
     "code": "Kode",
-    "joined": "Følger",
+    "joined": "Oprettet",
     "join_lemmy": "Opret dig i Lemmy",
     "support_lemmy": "Støt Lemmy",
     "by": "af",
@@ -620,7 +620,7 @@
     "unhide_post": "Vis indlæg",
     "show_hidden_posts": "Vis skjulte indlæg",
     "post_hidden": "Indlæg skjult",
-    "block_urls_placeholder": "Skriv blokerede URL'er her, et URL per linje.",
+    "block_urls_placeholder": "Skriv blokerede URL'er her, et URL per linje. 'Regex'-syntaks er også tilladt her, fx *.example.com.",
     "block_urls": "Bloker URL'er",
     "hide_hidden_posts": "Vis ikke skjulte indlæg",
     "content_warning": "Indholdsadvarsel",
@@ -636,5 +636,8 @@
     "uploads": "Uploads",
     "moderation_history": "Moderationshistorik",
     "edited_post": "Redigeret indlæg",
-    "language_not_allowed": "Sprog ikke tilladt"
+    "language_not_allowed": "Sprog ikke tilladt",
+    "leaving_admin_team": "Forlader administrationsholdet",
+    "leave_admin_team_confirmation": "Er du sikker på at du vil forlade administrationsholdet?",
+    "rate_limit_info": "Lemmy kan begrænse antallet af forespørgsler per IP-adresse for forskellige handlinger. Sendegrænse-feltet er hvor mange gange en IP-adresse kan udføre en handling og per sekund er antallet af sekunder før sendegrænsen nulstiller."
 }
