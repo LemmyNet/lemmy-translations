@@ -642,5 +642,8 @@
   "edited_post": "Edited post",
   "leave_admin_team_confirmation": "Are you sure you want to leave the admin team?",
   "leaving_admin_team": "Leaving admin team",
-  "torrent_help": "Lemmy can use a technology called BitTorrent to view or stream media. <1>Click here</1> to learn how."
+  "torrent_help": "Lemmy can use a technology called BitTorrent to view or stream media. <1>Click here</1> to learn how.",
+  "registration_for_user": "Registration for {{name}}",
+  "loading_registration": "Loading registration",
+  "fetch_registration_error": "Could not fetch registration application"
 }
