@@ -646,5 +646,5 @@
   "registration_for_user": "Registration for {{name}}",
   "loading_registration": "Loading registration",
   "fetch_registration_error": "Could not fetch registration application",
-  "view-registration": "View registration"
+  "view_registration": "View registration"
 }
