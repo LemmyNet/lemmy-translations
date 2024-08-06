@@ -653,8 +653,11 @@
     "go_back": "Wróć",
     "content_warning_setting_blurb": "Ustawienie ostrzeżenia o treści wyświetli komunikat pytający o wyrażenie zgody przed przejściem dalej.",
     "block_urls": "Zablokuj adresy URL",
-    "block_urls_placeholder": "Wprowadź adresy URL do zablokowania, jeden na linię.",
+    "block_urls_placeholder": "Wprowadź adresy URL do zablokowania, jeden na linię. Działają też wyrażenia regularne (regex), np. *.example.com",
     "hide_hidden_posts": "Ukryj ukryte posty",
     "language_not_allowed": "Niedozwolony język",
-    "edited_post": "Edytowany post"
+    "edited_post": "Edytowany post",
+    "leave_admin_team_confirmation": "Na pewno chcesz opuścić zespół administracyjny?",
+    "leaving_admin_team": "Opuszczasz zespół administracyjny",
+    "rate_limit_info": "Lemmy może ograniczyć ilość zapytań z jednego IP w różnych działaniach. Pole \"limitu ograniczenia\" określa ile razy adres IP może wykonać dane działanie, a \"na sekundę\" określa ile czasu mienie zanim ograniczenie zostanie zresetowane."
 }
