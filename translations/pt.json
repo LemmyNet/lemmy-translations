@@ -549,7 +549,6 @@
     "import_export_rate_limit_error": "Por favor, aguarda uns minutos antes de tentares importar ou exportar definições novamente",
     "submit": "Submeter",
     "edited_post": "Publicação editada",
-    "moderation_history": "Histórico de moderação",
     "language_not_allowed": "Idioma não permitido",
     "appoint_as_admin_are_you_sure": "Tens a certeza que queres nomear {{user}} como administrador da {{instance}}?",
     "local_only_blurb": "Apenas os utilizadores desta instância poderão interagir com a comunidade.",

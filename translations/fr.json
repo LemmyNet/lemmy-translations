@@ -623,7 +623,6 @@
     "block_urls": "Bloquer des URLs",
     "block_urls_placeholder": "Entrez la liste des URLs bloquées, une URL par ligne. Les expressions régulières sont supportées, par exemple: «*.example.com»",
     "hide_hidden_posts": "Ne pas afficher les publications cachées",
-    "moderation_history": "Historique de modération",
     "edited_post": "Publication modifiée",
     "language_not_allowed": "Langue non permise",
     "go_back": "Revenir en arrière",

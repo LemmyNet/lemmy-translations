@@ -626,7 +626,6 @@
     "show_upvote_percentage": "Показване на процент положителни гласове",
     "show_downvotes": "Показване на отрицателните гласове",
     "upvote_percentage": "{{formattedCount}}% положителни гласа",
-    "moderation_history": "История на модерирането",
     "edited_post": "Редактирана публикация",
     "language_not_allowed": "Езикът не е позволен",
     "custom_thumbnail_url": "URL адрес на миниатюра",

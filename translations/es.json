@@ -630,7 +630,6 @@
     "sending_back_message": "Vale 👍. Te mandamos de vuelta en {{seconds}}.",
     "content_warning_setting_blurb": "Configurar una advertencia de contenido mostrará un diálogo con la advertencia de contenido pidiendo al usuario su consentimiento para continuar.",
     "uploads": "Subidas",
-    "moderation_history": "Historial de moderación",
     "edited_post": "Publicación editada",
     "language_not_allowed": "Idioma no permitido",
     "leaving_admin_team": "Dejando el equipo de administración",
