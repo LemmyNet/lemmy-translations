@@ -638,5 +638,13 @@
     "language_not_allowed": "Sprog ikke tilladt",
     "leaving_admin_team": "Forlader administrationsholdet",
     "leave_admin_team_confirmation": "Er du sikker på at du vil forlade administrationsholdet?",
-    "rate_limit_info": "Lemmy kan begrænse antallet af forespørgsler per IP-adresse for forskellige handlinger. Sendegrænse-feltet er hvor mange gange en IP-adresse kan udføre en handling og per sekund er antallet af sekunder før sendegrænsen nulstiller."
+    "rate_limit_info": "Lemmy kan begrænse antallet af forespørgsler per IP-adresse for forskellige handlinger. Sendegrænse-feltet er hvor mange gange en IP-adresse kan udføre en handling og per sekund er antallet af sekunder før sendegrænsen nulstiller.",
+    "post_moderation_history": "Indlægsmoderationshistorik",
+    "registration_for_user": "Registrering af {{name}}",
+    "view_registration": "Se registrering",
+    "user_moderation_history": "{{user}} moderationshistorik",
+    "comment_moderation_history": "Kommentarmoderationshistorik",
+    "torrent_help": "Lemmy kan bruge BitTorrent til at se og streame indhold. <1>Klik her</1> for at læse mere.",
+    "loading_registration": "Indlæser registrering",
+    "fetch_registration_error": "Kunne ikke indlæse ansøgning"
 }
