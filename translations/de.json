@@ -561,5 +561,6 @@
     "appointing_admin": "Administrator ernennen",
     "appointed_admin": "Ernannter Administrator",
     "denied": "Verweigert",
-    "uploader": "Hochlader"
+    "uploader": "Hochlader",
+    "distinguished_comment": "Ausgewählter Kommentar"
 }
