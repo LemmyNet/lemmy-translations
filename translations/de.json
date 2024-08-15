@@ -562,5 +562,6 @@
     "appointed_admin": "Ernannter Administrator",
     "denied": "Verweigert",
     "uploader": "Hochlader",
-    "distinguished_comment": "Ausgezeichneter Kommentar"
+    "distinguished_comment": "Ausgezeichneter Kommentar",
+    "undistinguished_comment": "Nicht-ausgewählter Kommentar"
 }
