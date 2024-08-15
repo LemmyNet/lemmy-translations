@@ -559,5 +559,7 @@
     "removing_admin": "Administrator entfernen",
     "removed_admin": "Entfernter Administrator",
     "appointing_admin": "Administrator ernennen",
-    "appointed_admin": "Ernannter Administrator"
+    "appointed_admin": "Ernannter Administrator",
+    "denied": "Verweigert",
+    "uploader": "Hochlader"
 }
