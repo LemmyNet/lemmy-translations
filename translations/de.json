@@ -137,5 +137,6 @@
     "least_active": "Am wenigsten aktiv",
     "registrations_open": "Registrierung offen",
     "registrations_closed": "Registrierung geschlossen",
-    "requires_application": "Erfordert Registrierungsantrag"
+    "requires_application": "Erfordert Registrierungsantrag",
+    "moderation_tools": "Moderationswerkzeuge"
 }
