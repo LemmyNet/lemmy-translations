@@ -131,7 +131,6 @@
     "total_users": "{{formattedCount}} Benutzer insgesamt",
     "monthly_active_users": "{{formattedCount}} aktive Nutzer (Nutzer die im letzten Monat gepostet oder kommentiert haben)",
     "closed_source_warning": "Warnung: Diese App hat keinen öffentlichen Quelltext und sammelt möglicherweise deine Daten. Nutzung auf eigene Gefahr.",
-    "sign_up": "Registrieren",
     "censorship_resistant_desc": "Durch das Hosting deines eigenen Servers hast du die volle Kontrolle über deine Inhalte.",
     "federation_desc": "Lemmy-Server können sich in einem Netz des Vertrauens miteinander verbinden und Beiträge, Kommentare und Gemeinschaften austauschen.",
     "least_active": "Am wenigsten aktiv",

@@ -131,7 +131,6 @@
     "monthly_active_users": "{{formattedCount}} utilizadores ativos (isto é, que tenham publicado ou comentado algo no último mês)",
     "registrations_open": "Registos abertos",
     "registrations_closed": "Registos fechados",
-    "sign_up": "Registar",
     "total_comments": "{{formattedCount}} comentários no total",
     "what_topic": "Que tópico te interessa mais?",
     "contact_us": "<1>Contacta-nos</1>",

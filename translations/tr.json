@@ -122,7 +122,6 @@
     "registrations_open": "Kayıtlar Açık",
     "registrations_closed": "Kayıtlar Kapalı",
     "requires_application": "Kayıt İçin Başvuru Gerekir",
-    "sign_up": "Kayıt ol",
     "see_all_servers": "Tüm Sunucuları Gör",
     "censorship_resistant": "Sansüre dirençli",
     "federation_desc": "Lemmy sunucuları bir güven ağı içinde birbirlerine bağlanabilir, gönderileri, yorumları ve toplulukları paylaşabilir.",

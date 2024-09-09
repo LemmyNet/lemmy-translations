@@ -133,7 +133,6 @@
     "total_comments": "{{formattedCount}} kommenttia yhteensä",
     "total_users": "{{formattedCount}} käyttäjää yhteensä",
     "monthly_active_users": "{{formattedCount}} aktiivista käyttäjää (jotka ovat lähettäneet viestin tai kommentin viimeisen kuukauden aikana)",
-    "sign_up": "Rekisteröidy",
     "requires_application": "Vaatii rekisteröitymishakemuksen",
     "instance_comparison": "Tarkempi vertailu eri Lemmy-palvelinten välillä"
 }
