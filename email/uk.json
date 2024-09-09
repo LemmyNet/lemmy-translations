@@ -22,6 +22,5 @@
     "new_report_subject": "{reporter_username} подав нову скаргу щодо {reported_username} на {hostname}",
     "new_application_body": "Будь ласка, клацніть посилання нижче, аби переглянути його подання.<br><br><a href=\"{applications_link}\">Переглянути подання</a>",
     "registration_denied_subject": "У реєстрації {username} відмовлено",
-    "registration_denied_body": "Ваше подання щодо реєстрації на сервері {hostname} було відхилене.",
-    "registration_denied_reason_body": "Ваше подання щодо реєстрації на сервері {hostname} було відхилене. <br>Це було пояснено таким чином:<br><br>\"{deny_reason}\""
+    "registration_denied_body": "Ваше подання щодо реєстрації на сервері {hostname} було відхилене."
 }

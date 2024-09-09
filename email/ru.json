@@ -22,6 +22,5 @@
     "application_question_required": "Вы должны добавить анкету, если требуется подача заявки.",
     "new_application_body": "Нажмите на ссылку ниже, чтобы просмотреть их заявки.<br><br><a href=\"{applications_link}\">Просмотреть заявки</a>",
     "registration_denied_subject": "Регистрация для {username} отклонена",
-    "registration_denied_body": "Ваша заявка на регистрацию {hostname} была отклонена.",
-    "registration_denied_reason_body": "Ваша заявка на регистрацию для {hostname} была отклонена.<br>Указана следующая причина:<br><br>\"{deny_reason}\""
+    "registration_denied_body": "Ваша заявка на регистрацию {hostname} была отклонена."
 }

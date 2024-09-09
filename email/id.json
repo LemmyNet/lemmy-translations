@@ -22,6 +22,5 @@
     "new_report_subject": "Laporan baru dibuat oleh {reporter_username} untuk {reported_username} di {hostname}",
     "new_report_body": "Silakan klik tautan di bawah ini untuk melihat seluruh laporan.<br><br><a href=\"{reports_link}\">Lihat Laporan</a>",
     "registration_denied_subject": "Registrasi ditolak untuk {username}",
-    "registration_denied_body": "Aplikasi registrasi kamu untuk {hostname} telah ditolak.",
-    "registration_denied_reason_body": "Aplikasi registrasi kamu untuk {hostname} telah ditolak.<br>Alasan penolakan yang diberikan:<br><br>\"{deny_reason}\""
+    "registration_denied_body": "Aplikasi registrasi kamu untuk {hostname} telah ditolak."
 }
