@@ -297,7 +297,6 @@
     "remove_content_more": "移除帖子，评论和社群",
     "explore_communities": "探索社群",
     "trending": "趋势",
-    "show_new_post_notifs": "显示新帖子的通知",
     "description": "描述",
     "active_users_in_the_last_day": "{{formattedCount}}最近一天的活跃用户人数",
     "active_users_in_the_last_week": "{{formattedCount}}最近一周活跃用户人数",

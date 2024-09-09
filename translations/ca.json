@@ -379,7 +379,6 @@
     "only_mods_can_post_in_community": "Només el moderadors poden publicar en aquesta comunitat",
     "modlog_content_warning": "<1>AVÍS DE CONTINGUT</1>: Algunes publicacions esborrades poden incloure contingut pertorbador o per adults. Procedeix amb precaució.",
     "listing_type": "Tipus de llistat",
-    "show_new_post_notifs": "Mostra notificacions de noves publicacions",
     "distinguish": "Parlar com a moderador",
     "undistinguish": "Parlar com a usuari",
     "actor_name_max_length": "Longitud màxima del nom de l'actor",

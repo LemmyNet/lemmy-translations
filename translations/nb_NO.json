@@ -125,7 +125,6 @@
     "too_many_images_upload_plural": "Nådde grensen på {{formattedCount}} bilder som kan bli lastet opp. Velg færre bilder.",
     "show_scores": "Vis påeng",
     "show_read_posts": "Vis leste innlegg",
-    "show_new_post_notifs": "Vis varslinger for nye innlegg",
     "unlock": "Lås opp",
     "lock": "Lås",
     "sticky": "Feste",

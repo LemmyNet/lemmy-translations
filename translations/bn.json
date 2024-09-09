@@ -89,7 +89,6 @@
     "number_of_communities": "{{formattedCount}}টি সম্প্রদায়",
     "number_of_communities_plural": "{{formattedCount}}টি সম্প্রদায়",
     "bot_account": "বট অ্যাকাউন্ট",
-    "show_new_post_notifs": "নতুন ভুক্তির বিজ্ঞপ্তি দেখাও",
     "sticky": "আঠালো",
     "archive_link": "সংযোগ সংরক্ষণাগারে পাঠাও",
     "superscript": "ঊর্ধ্বলিপি",

@@ -257,7 +257,6 @@
     "show_scores": "スコアを表示",
     "comment_here": "ここにコメントを入力...",
     "explore_communities": "コミュニティーを探す",
-    "show_new_post_notifs": "新しい投稿への通知を表示",
     "show_read_posts": "読んだ投稿を表示",
     "picture_deleted": "画像が削除されました: {{filename}}",
     "click_to_delete_picture": "クリックすると画像を削除します: {{filename}}",
