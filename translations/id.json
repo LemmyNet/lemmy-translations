@@ -138,5 +138,5 @@
     "monthly_active_users": "{{formattedCount}} pengguna aktif (pengguna yang pos atau komentar di bulan kemarin)",
     "closed_source_warning": "Peringatan: aplikasi ini bersumber tertutup dan mungkin akan mengumpulkan data kamu. Hati-hati!",
     "registrations_closed": "Pendaftaran ditutup",
-    "requires_application": "Memerlukan Aplikasi Pendaftaran",
+    "requires_application": "Memerlukan Aplikasi Pendaftaran"
 }
