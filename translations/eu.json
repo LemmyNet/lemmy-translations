@@ -120,7 +120,6 @@
     "total_users": "{{formattedCount}} erabiltzaile guztira",
     "registrations_closed": "Izen-ematea itxita",
     "registrations_open": "Izen-ematea irekita",
-    "sign_up": "Izena eman",
     "none_found": "Ez da bat ere aurkitu.",
     "copyright_line": "Lemmyk GNU Affero GPL v3.0 lizentzia du",
     "federation": "Federazioa",

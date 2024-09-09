@@ -128,7 +128,6 @@
     "registrations_open": "Inscriptions ouvertes",
     "registrations_closed": "Inscriptions fermées",
     "requires_application": "Nécessite une demande d'inscription",
-    "sign_up": "S'inscrire",
     "see_all_servers": "Voir tout les serveurs",
     "censorship_resistant_desc": "En hébergeant votre propre serveur, vous êtes en contrôle total de votre contenu.",
     "federation_desc": "Les serveurs Lemmy peuvent se connecter mutuellement dans le Web of trust, partager des posts, commentaires et communautés.",

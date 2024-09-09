@@ -124,7 +124,6 @@
     "registrations_open": "Tilmeldinger åbne",
     "registrations_closed": "Tilmeldinger lukket",
     "requires_application": "Kræver ansøgning",
-    "sign_up": "Opret",
     "copyright_line": "Lemmy er licenseret under GNU Affero General Public License v3.0",
     "censorship_resistant_desc": "Ved at hoste din egen server, kan du fuldt kontrollere alt dit indhold.",
     "federation_desc": "Lemmyservere kan forbinde til hinanden i et net af tillid for at dele indlæg, kommentarer og fællesskaber.",

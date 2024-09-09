@@ -118,7 +118,6 @@
     "servers": "Server",
     "registrations_open": "Registrazioni Aperte",
     "registrations_closed": "Registrazioni Chiuse",
-    "sign_up": "Registrati",
     "federation_desc": "I server Lemmy possono connettersi l'uno all'altro in una rete fiduciaria, condividendo post, commenti e comunità.",
     "all_topics": "Tutti gli argomenti",
     "topic": "Argomento",
