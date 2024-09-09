@@ -638,5 +638,9 @@
     "language_not_allowed": "Taal niet toegestaan",
     "rate_limit_info": "Lemmy kan verzoeken per IP-adres beperken voor verschillende acties. Het veld Snelheids­limiet geeft aan hoe vaak dat IP-adres die actie kan uitvoeren, en ‘Per seconde’ is het aantal seconden voordat de snelheids­limiet opnieuw wordt ingesteld.",
     "leaving_admin_team": "Beheerdersteam verlaten",
-    "leave_admin_team_confirmation": "Weet u zeker dat u het beheerders­team wilt verlaten?"
+    "leave_admin_team_confirmation": "Weet u zeker dat u het beheerders­team wilt verlaten?",
+    "view_registration": "Registratie bekĳken",
+    "registration_for_user": "Registratie voor {{name}}",
+    "loading_registration": "Registratie laden",
+    "fetch_registration_error": "Kon registratie-app niet ophalen"
 }
