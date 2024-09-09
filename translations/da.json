@@ -620,7 +620,7 @@
     "unhide_post": "Vis indlæg",
     "show_hidden_posts": "Vis skjulte indlæg",
     "post_hidden": "Indlæg skjult",
-    "block_urls_placeholder": "Skriv blokerede URL'er her, et URL per linje. 'Regex'-syntaks er også tilladt her, fx *.example.com.",
+    "block_urls_placeholder": "Skriv blokerede URL'er her, et URL per linje. 'Regex'-syntaks er også tilladt her, fx *.example.com",
     "block_urls": "Bloker URL'er",
     "hide_hidden_posts": "Vis ikke skjulte indlæg",
     "content_warning": "Indholdsadvarsel",
