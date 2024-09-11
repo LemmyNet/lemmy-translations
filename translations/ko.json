@@ -203,7 +203,7 @@
     "community_ban": "당신은 이 커뮤니티에서 추방되었습니다.",
     "site_ban": "당신은 사이트에서 추방되었습니다",
     "not_logged_in": "로그인하지 않았습니다.",
-    "bio_length_overflow": "자기 소개는 300자를 초과할 수 없습니다.",
+    "bio_length_overflow": "자기 소개는 1000자를 초과할 수 없습니다.",
     "logged_in": "로그인.",
     "must_login": "댓글을 작성하려면 <1>로그인하거나 가입</1>해야합니다.",
     "site_saved": "사이트 설정이 저장되었습니다.",

@@ -265,7 +265,7 @@
     "active": "Activo",
     "local": "Local",
     "invalid_url": "URL no válido.",
-    "bio_length_overflow": "La biografía del usuario no puede exceder los 300 caracteres.",
+    "bio_length_overflow": "La biografía del usuario no puede exceder los 1000 caracteres.",
     "bio": "Biografía",
     "instances": "Instancias",
     "linked_instances": "Instancias vinculadas",

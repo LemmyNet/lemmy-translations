@@ -138,7 +138,7 @@
     "transfer_site": "轉移網站",
     "site_saved": "網站已儲存。",
     "community_ban": "你已經被這個論壇封鎖。",
-    "bio_length_overflow": "使用者自我介紹不得超過 300 個字元。",
+    "bio_length_overflow": "使用者自我介紹不得超過 1000 個字元。",
     "community_user_already_banned": "社群使用者已被封鎖。",
     "logged_in": "已登入。",
     "must_login": "您必須<1>登入或註冊</1>才能發表留言。",

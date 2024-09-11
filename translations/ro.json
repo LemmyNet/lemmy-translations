@@ -371,7 +371,7 @@
     "by": "de",
     "to": "către",
     "from": "de la",
-    "bio_length_overflow": "Bio-ul utilizatorului nu poate depăși 300 de caractere.",
+    "bio_length_overflow": "Bio-ul utilizatorului nu poate depăși 1000 de caractere.",
     "community_ban": "Accesul în această comunitate ți-a fost interzis.",
     "site_ban": "Accesul la acest site ți-a fost interzis",
     "couldnt_find_comment": "Comentariul nu a fost găsit.",

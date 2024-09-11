@@ -222,7 +222,7 @@
     "are_you_sure": "apakah kamu yakin?",
     "yes": "Ya",
     "no": "Tidak",
-    "bio_length_overflow": "Bio pengguna tidak boleh melibihi 300 karakter.",
+    "bio_length_overflow": "Bio pengguna tidak boleh melibihi 1000 karakter.",
     "logged_in": "Berhasil masuk.",
     "site_saved": "Situs Disimpan.",
     "couldnt_create_comment": "Tidak bisa membuat komentar.",

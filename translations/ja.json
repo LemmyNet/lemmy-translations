@@ -220,7 +220,7 @@
     "couldnt_like_post": "投稿に「いいね」できませんでした。",
     "select_a_community": "コミュニティーを選択",
     "display_name_explain": "表示名 — コミュニティーーページでタイトルとして表示され、変更可能です。",
-    "bio_length_overflow": "自己紹介は300文字以上は入力できません。",
+    "bio_length_overflow": "自己紹介は1000文字以上は入力できません。",
     "enter_code": "Captchaコードの入力",
     "play_captcha_audio": "Captchaコードの音声を再生",
     "none_found": "見つかりませんでした。",

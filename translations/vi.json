@@ -160,7 +160,7 @@
     "private_message_disclaimer": "Cảnh báo: Tin nhắn trong Lemmy không an toàn. Hãy tạo tài khoản trên <1>Element.io</1> để nhắn tin an toàn hơn.",
     "copy_suggested_title": "đề xuất tựa đề: {{title}}",
     "setup_admin": "Cài đặt quản trị",
-    "bio_length_overflow": "Tiểu sử thành viên tối đa 300 ký tự.",
+    "bio_length_overflow": "Tiểu sử thành viên tối đa 1000 ký tự.",
     "community_ban": "Bạn bị cấm ở cộng đồng này.",
     "couldnt_get_comments": "Không thể xem bình luận.",
     "couldnt_find_community": "Không tìm thấy cộng đồng",

@@ -277,7 +277,7 @@
     "time": "Am",
     "subscript": "fo-script",
     "superscript": "sár-script",
-    "bio_length_overflow": "Ní féidir le bith-úsáideoir níos mó ná 300 carachtar.",
+    "bio_length_overflow": "Ní féidir le bith-úsáideoir níos mó ná 1000 carachtar.",
     "banner": "Meirge",
     "upload_banner": "Uaslódáil Meirge",
     "icon": "íocón",

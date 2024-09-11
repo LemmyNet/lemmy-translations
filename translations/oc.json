@@ -315,7 +315,7 @@
     "expand_here": "Espandir aicí",
     "community_creation_admin_only": "Sonque los administrators pòdon crear de comunitats",
     "transfer_site": "transferir lo site",
-    "bio_length_overflow": "La biofragia d'utilizaire pòt pas excedir los 300 caractèrs.",
+    "bio_length_overflow": "La biofragia d'utilizaire pòt pas excedir los 1000 caractèrs.",
     "community_ban": "Vos han expulsat d'aquesta comunitat.",
     "site_ban": "Vos han expulsat del site",
     "community_moderator_already_exists": "Aqueste moderator existís ja.",

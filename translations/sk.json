@@ -322,7 +322,7 @@
     "not_logged_in": "Nie ste prihlásení.",
     "logged_in": "Ste prihlásení.",
     "must_login": "Pre pridanie komentára sa musíte <1>prihlásiť alebo zaregistrovať</1>.",
-    "bio_length_overflow": "Sekcia „o mne“ používateľa nesmie presiahnuť 300 znakov.",
+    "bio_length_overflow": "Sekcia „o mne“ používateľa nesmie presiahnuť 1000 znakov.",
     "transfer_site": "presunúť stránku",
     "are_you_sure": "ste si istí?",
     "yes": "áno",

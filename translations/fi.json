@@ -295,7 +295,7 @@
     "display_name": "Muille näytettävä nimi",
     "display_name_explain": "Muille näytettävä nimi — näytetään otsikkona yhteisön sivulla ja on muutettavissa.",
     "active": "Aktiivinen",
-    "bio_length_overflow": "Käyttäjän kuvaus ei voi olla pidempi kuin 300 merkkiä.",
+    "bio_length_overflow": "Käyttäjän kuvaus ei voi olla pidempi kuin 1000 merkkiä.",
     "not_a_moderator": "Ei ole valvoja.",
     "captcha_incorrect": "Captcha on väärin.",
     "invalid_matrix_id": "Virheellinen Matrix-ID. Sen pitää olla muotoa @käyttäjä:instanssi.tld",

@@ -247,7 +247,7 @@
     "name_explain": "Nom – utilisé comme identifiant par la communauté, ne peut être changé.",
     "display_name_explain": "Nom affiché – montré comme titre sur la page de la communauté, peut être changé.",
     "invalid_password": "La longueur du mot de passe doit être entre 10 et 60 caractères.",
-    "bio_length_overflow": "La bio utilisateur ne peut dépasser 300 caractères.",
+    "bio_length_overflow": "La bio utilisateur ne peut dépasser 1000 caractères.",
     "display_name": "Nom affiché",
     "not_a_moderator": "Pas un modérateur.",
     "enter_code": "Entrez le code",

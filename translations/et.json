@@ -84,7 +84,7 @@
     "created": "loodud",
     "modified": "muudetud",
     "nsfw": "Tööks mittesobilik",
-    "bio_length_overflow": "Kasutaja biograafia ei tohi ületada 300 tähemärki.",
+    "bio_length_overflow": "Kasutaja biograafia ei tohi ületada 1000 tähemärki.",
     "logged_in": "Sisse logitud.",
     "must_login": "Kommenteerimiseks pead <1>sisse logima või registreerima</1>",
     "site_saved": "Sait salvestatud.",

@@ -259,7 +259,7 @@
     "show_nsfw": "Vis NSFW-/vakseninnhald",
     "transfer_community": "overfør fellesskap",
     "transfer_site": "overfør nettstad",
-    "bio_length_overflow": "Biografien kan ikkje vera på meir enn 300 teikn.",
+    "bio_length_overflow": "Biografien kan ikkje vera på meir enn 1000 teikn.",
     "must_login": "Du må <1>logga inn eller registrera deg</1> for å kunna kommentera.",
     "site_saved": "Nettstad lagra.",
     "community_ban": "Du er utestengd frå dette fellesskapet.",

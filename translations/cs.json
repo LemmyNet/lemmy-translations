@@ -56,7 +56,7 @@
     "local_description": "Zobrazuje pouze místní komunity",
     "reply_sent": "Odpověď odeslána",
     "yes": "ano",
-    "bio_length_overflow": "\"O mně\" nesmí přesáhnout 300 znaků.",
+    "bio_length_overflow": "\"O mně\" nesmí přesáhnout 1000 znaků.",
     "couldnt_save_comment": "Nepodařilo se uložit komentář.",
     "related_posts": "Možné související příspěvky",
     "cross_posts": "Tento odkaz již byl zadán:",

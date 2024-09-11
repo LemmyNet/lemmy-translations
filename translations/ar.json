@@ -289,7 +289,7 @@
     "from": "من",
     "transfer_community": "انقل المجتمع",
     "transfer_site": "انقل الموقع",
-    "bio_length_overflow": "لا يمكن أن تزيد السيرة عن 300 محرف.",
+    "bio_length_overflow": "لا يمكن أن تزيد السيرة عن 1000 محرف.",
     "must_login": "لتُعلق <1>لج أو سجل</1>.",
     "couldnt_update_comment": "تعذر تحديث التعليق.",
     "couldnt_save_comment": "تعذر حفظ التعليق.",

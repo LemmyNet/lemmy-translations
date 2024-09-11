@@ -242,7 +242,7 @@
     "yes": "Sim",
     "no": "Não",
     "not_logged_in": "Não autenticado(a).",
-    "bio_length_overflow": "A biografia não pode exceder 300 caracteres.",
+    "bio_length_overflow": "A biografia não pode exceder 1000 caracteres.",
     "logged_in": "Autenticado(a).",
     "site_saved": "Site guardado.",
     "community_ban": "Foste banido desta comunidade.",

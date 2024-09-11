@@ -305,7 +305,7 @@
     "created": "létrehozva",
     "join_lemmy": "Csatlakozz a Lemmy-hez",
     "support_lemmy": "Támogasd a Lemmy-t",
-    "bio_length_overflow": "A felhasználó bemutatkozása nem lehet 300 karakternél hosszabb.",
+    "bio_length_overflow": "A felhasználó bemutatkozása nem lehet 1000 karakternél hosszabb.",
     "must_login": "<1>Be kell jelentkezned vagy regisztrálnod</1> a hozzászólás íráshoz.",
     "couldnt_find_comment": "Nem található hozzászólás.",
     "no_password_reset": "Nem fogsz tudni jelszóemlékeztetőt kérni, ha nem állítasz be email címet.",

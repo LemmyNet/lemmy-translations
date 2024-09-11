@@ -264,7 +264,7 @@
     "display_name": "Bistaratzeko izena",
     "display_name_explain": "Bistaratzeko izena — komunitatearen orrian izenburu bezala bistaratzen da, aldatu daiteke.",
     "active": "Aktibo",
-    "bio_length_overflow": "Erabiltzailearen biografiak ezin ditu 300 hizki baino gehiago izan.",
+    "bio_length_overflow": "Erabiltzailearen biografiak ezin ditu 1000 hizki baino gehiago izan.",
     "captcha_incorrect": "Okerreko captcha.",
     "enter_code": "Sartu kodea",
     "bio": "Biografia",
