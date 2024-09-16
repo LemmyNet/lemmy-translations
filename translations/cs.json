@@ -165,7 +165,6 @@
     "no_community_edit_allowed": "Úprava komunity není povolena.",
     "community_already_exists": "Komunita již existuje.",
     "couldnt_create_post": "Nepodařilo se vytvořit příspěvek.",
-    "post_title_too_long": "Titulek příspěvku je příliš dlouhý.",
     "couldnt_update_post": "Nepodařilo se aktualizovat příspěvek",
     "couldnt_save_post": "Příspěvek se nepodařilo uložit.",
     "couldnt_mark_post_as_read": "Nepodařilo se označit příspěvek jako přečtený.",
