@@ -21,7 +21,7 @@
     "number_of_downvotes_plural": "{{formattedCount}} nedstemmer",
     "lemmy_instance_setup": "Lemmy Instans Opsætning",
     "are_you_sure": "er du sikker?",
-    "must_login": "Du skal <1>logge på eller oprette dig</1> for at kommentere.",
+    "must_login": "Du skal <1>logge på</1> eller <2>oprette dig</2> for at kommentere.",
     "couldnt_get_comments": "Kunne ikke hente kommentarer.",
     "couldnt_find_community": "Kunne ikke finde fællesskabet.",
     "community_already_exists": "Fælleskabet findes allerede.",
