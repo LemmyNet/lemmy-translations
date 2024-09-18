@@ -645,5 +645,6 @@
   "fetch_registration_error": "Could not fetch registration application",
   "view_registration": "View registration",
   "publish_in_time": "Publish {{time}}",
-  "scheduled_publish_time": "Scheduled Publish Time"
+  "scheduled_publish_time": "Scheduled Publish Time",
+  "post_title_only": "Post Title Only"
 }
