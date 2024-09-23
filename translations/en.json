@@ -594,7 +594,6 @@
   "remote_follow": "Remote Follow",
   "remote_follow_modal_title": "Subscribe from Remote Instance",
   "blur_nsfw": "Blur NSFW content",
-  "auto_expand": "Auto expand media",
   "remote_follow_invalid_instance": "{{instance}} is not a vaild domain.",
   "remote_follow_local_instance": "Cannot fetch local instance for remote follow",
   "import_export_section_title": "Import/Export Settings",

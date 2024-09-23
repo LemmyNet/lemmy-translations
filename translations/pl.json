@@ -528,7 +528,6 @@
     "show_password": "Pokaż hasło",
     "hide_password": "Ukryj hasło",
     "blur_nsfw": "Rozmaż treści NSFW",
-    "auto_expand": "Automatycznie rozwijaj treści medialne",
     "remote_follow_prompt": "Wpisz nazwę instancji z której zaobserwujesz tą społeczność",
     "incorrect_login": "Błędne dane logowania",
     "pictures_uploaded_progess": "{{uploaded}}/{{total}} przesłanych zdjęć",

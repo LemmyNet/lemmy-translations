@@ -519,7 +519,6 @@
     "enable_totp_success": "2-Faktor-Authentifikation erfolgreich aktiviert",
     "disable_totp_success": "2-Faktor-Authentifikation erfolgreich deaktiviert",
     "blur_nsfw": "NSFW-Inhalte unscharf machen",
-    "auto_expand": "Medien automatisch erweitern",
     "block_instance": "Instanz blockieren",
     "unblock_instance": "Instanzblockierung aufheben",
     "fetching_community": "{{community}} wird abgerufen",

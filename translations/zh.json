@@ -452,7 +452,6 @@
     "hide_password": "隐藏密码",
     "community_federated": "社区已加入联邦!",
     "blur_nsfw": "模糊NSFW内容",
-    "auto_expand": "自动播放媒体",
     "error_code_message": "服务器返回此错误： <1>{{error}}</1>。 这可能有助于管理员和开发人员诊断和修复错误",
     "import_export_section_title": "导入/导出设置",
     "import_export_section_description": "以 JSON 格式导入和导出账户设置",

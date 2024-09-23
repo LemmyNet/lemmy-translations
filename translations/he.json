@@ -364,7 +364,6 @@
     "federation_worker_count": "ספירת עובדי הפדרציה",
     "rate_limit_register": "הרשם",
     "featured_post": "פוסט מומלץ",
-    "auto_expand": "הרחבת מדיה אוטומטית",
     "remote_follow_invalid_instance": "לאתר {{instance}} אין דומיין תקין.",
     "import_export_section_title": "הגדרות ייבוא/ייצוא",
     "import_export_section_description": "ייבא וייצא את הגדרות החשבון שלך כ-JSON",

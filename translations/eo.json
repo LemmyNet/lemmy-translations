@@ -512,7 +512,6 @@
     "remote_follow_prompt": "Enigu la nodon, el kiu vi ŝatus sekvi ĉi tiun komunumon",
     "community_federated": "Komunumo federita!",
     "blur_nsfw": "Malklarigi konsternan enhavon",
-    "auto_expand": "Aŭtomate etendi aŭdvidaĵojn",
     "block_instance": "Bloki nodon",
     "unblock_instance": "Malbloki nodon",
     "remote_follow_invalid_instance": "{{instance}} ne estas valida domajno.",
