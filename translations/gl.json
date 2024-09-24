@@ -226,7 +226,7 @@
     "community": "Comunidade",
     "expand_here": "Despregar aquí",
     "subscribe_to_communities": "Subscribirse a <1>comunidades</1>.",
-    "bio_length_overflow": "A bio da usuaria non pode superar os 300 caracteres.",
+    "bio_length_overflow": "A bio da usuaria non pode superar os 1000 caracteres.",
     "logged_in": "Sesión iniciada.",
     "community_ban": "Foches vetada nesta comunidade.",
     "site_ban": "Retirouseche o veto nesta comunidade",

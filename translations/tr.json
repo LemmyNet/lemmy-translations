@@ -363,7 +363,7 @@
     "password_changed": "Şifre Değiştirildi.",
     "join_lemmy": "Lemmy'e Katıl",
     "support_lemmy": "Lemmy'ye destek olun",
-    "bio_length_overflow": "Kullanıcı biyografisi 300 karakteri aşamaz.",
+    "bio_length_overflow": "Kullanıcı biyografisi 1000 karakteri aşamaz.",
     "hide_modlog_mod_names": "Moderatör günlüğü moderatör adlarını gizle",
     "easy": "Kolay",
     "not_a_moderator": "Moderatör değil.",

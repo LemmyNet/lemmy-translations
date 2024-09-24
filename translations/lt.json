@@ -393,7 +393,7 @@
     "column_emoji": "Jaustukai",
     "ban_from_community": "išmesti iš bendruomenės",
     "purge": "ištrinti",
-    "bio_length_overflow": "Naudotojo biografija negali būti ilgesnė nei 300 simbolių.",
+    "bio_length_overflow": "Naudotojo biografija negali būti ilgesnė nei 1000 simbolių.",
     "not_logged_in": "Neprisijungęs.",
     "logged_in": "Prisijungęs.",
     "must_login": "Norėdami komentuoti, turite <1>prisijungti arba užsiregistruoti</1>.",

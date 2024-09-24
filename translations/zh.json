@@ -214,7 +214,7 @@
     "yes": "是",
     "no": "否",
     "not_logged_in": "未登录。",
-    "bio_length_overflow": "自我介绍不能超过300个字符。",
+    "bio_length_overflow": "自我介绍不能超过1000个字符。",
     "logged_in": "已登录。",
     "must_login": "您必须<1>登录或注册</1>才能评论。",
     "site_saved": "网站已保存。",

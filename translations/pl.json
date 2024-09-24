@@ -195,7 +195,7 @@
     "are_you_sure": "na pewno?",
     "no": "Nie",
     "not_logged_in": "Nie jesteś zalogowana/y.",
-    "bio_length_overflow": "To pole nie może przekraczać 300 znaków.",
+    "bio_length_overflow": "To pole nie może przekraczać 1000 znaków.",
     "logged_in": "Zalogowano.",
     "community_ban": "Zostałaś/eś zbanowana/y z tej społeczności.",
     "site_ban": "Zostałaś/eś zbanowana/y z tej witryny",

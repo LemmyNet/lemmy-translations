@@ -259,7 +259,7 @@
     "display_name": "Anzeigename",
     "display_name_explain": "Anzeigename — wird als Titel der Community angezeigt, kann geändert werden.",
     "invalid_password": "Das Passwort muss zwischen 10 und 60 Zeichen lang sein.",
-    "bio_length_overflow": "Die Benutzerbiographie darf nicht länger als 300 Zeichen sein.",
+    "bio_length_overflow": "Die Benutzerbiographie darf nicht länger als 1000 Zeichen sein.",
     "captcha_incorrect": "Das Captcha ist inkorrekt.",
     "enter_code": "Code eingeben",
     "play_captcha_audio": "Spiele Captcha-Audio ab",

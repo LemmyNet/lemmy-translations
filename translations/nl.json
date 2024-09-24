@@ -265,7 +265,7 @@
     "couldnt_resolve_report": "Het rapport kon niet opgelost worden.",
     "expand": "Openvouwen",
     "collapse": "Dichtvouwen",
-    "bio_length_overflow": "De gebruikersbiografie mag niet 300 tekens overschrijden.",
+    "bio_length_overflow": "De gebruikersbiografie mag niet 1000 tekens overschrijden.",
     "couldnt_find_parent_comment": "Kan boven­liggende opmerking niet vinden.",
     "not_a_mod_or_admin": "Niet een moderator of administrator.",
     "no_password_reset": "U zult niet in staat zijn uw wachtwoord te herinitialiseren zonder een e-mailadres.",

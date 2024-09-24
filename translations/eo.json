@@ -255,7 +255,7 @@
     "bio": "Prio",
     "instances": "Nodoj",
     "linked_instances": "Ligitaj nodoj",
-    "bio_length_overflow": "Prio de uzanto ne povas havi pli ol 300 signojn.",
+    "bio_length_overflow": "Prio de uzanto ne povas havi pli ol 1000 signojn.",
     "not_a_moderator": "Nereguligisto.",
     "bold": "grase",
     "italic": "kursive",

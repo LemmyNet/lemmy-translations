@@ -270,7 +270,7 @@
     "display_name": "Nome de exibição",
     "display_name_explain": "Nome de exibição – título da página da comunidade, pode ser alterado.",
     "active": "Ativo",
-    "bio_length_overflow": "A biografia não pode ter mais de 300 caracteres.",
+    "bio_length_overflow": "A biografia não pode ter mais de 1000 caracteres.",
     "captcha_incorrect": "Captcha incorreto.",
     "enter_code": "Digite o Código",
     "not_a_mod_or_admin": "Não é Mod ou Admin.",

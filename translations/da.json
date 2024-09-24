@@ -225,7 +225,7 @@
     "yes": "Ja",
     "no": "Nej",
     "not_logged_in": "Ikke logget på.",
-    "bio_length_overflow": "Brugerbeskrivelse skal være mindre end 300 tegn.",
+    "bio_length_overflow": "Brugerbeskrivelse skal være mindre end 1000 tegn.",
     "logged_in": "Logget på.",
     "site_saved": "Side gemt.",
     "community_ban": "Du er blevet bandlyst fra dette fællesskab.",
