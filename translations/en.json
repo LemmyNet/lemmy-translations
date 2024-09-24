@@ -220,6 +220,8 @@
   "sidebar": "Sidebar",
   "description": "Description",
   "sort_type": "Sort type",
+  "post_sort_type": "Post sort type",
+  "comment_sort_type": "Comment sort type",
   "listing_type": "Listing type",
   "hot": "Hot",
   "active": "Active",
