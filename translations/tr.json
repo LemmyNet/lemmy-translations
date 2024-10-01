@@ -514,7 +514,6 @@
     "pictures_uploaded_progess": "{{total}} resimin {{uploaded}} kadarı yüklendi",
     "scaled": "Ölçeklendirilmiş",
     "blur_nsfw": "NSFW içerikleri bulanıklaştır",
-    "auto_expand": "Medyayı otomatik genişlet",
     "remote_follow_local_instance": "Uzak takip için yerel örnek getirilemiyor",
     "block_instance": "Örneği engelle",
     "unblock_instance": "Örneğin engelini kaldır",

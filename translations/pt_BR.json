@@ -512,7 +512,6 @@
     "actor_name_max_length": "Comprimento máximo para nomes de intervenientes (\"actors\")",
     "remote_follow_prompt": "Insira a instância da qual você gostaria de seguir esta comunidade",
     "blur_nsfw": "Borrar conteúdo adulto",
-    "auto_expand": "Expandir mídia automaticamente",
     "block_instance": "Bloquear instância",
     "unblock_instance": "Desbloquear instância",
     "submit": "Enviar",

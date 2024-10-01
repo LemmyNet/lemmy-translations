@@ -511,7 +511,6 @@
     "community_federated": "Communauté fédérée !",
     "fetching_community": "Récupération de {{community}}",
     "remote_follow_modal_title": "Suivre depuis l'instance distante",
-    "auto_expand": "Développer automatiquement les médias",
     "blur_nsfw": "Flouter le contenu NSFW",
     "pictures_uploaded_progess": "{{uploaded}}/{{total}} images téléversées",
     "scaled": "Mis à l'échelle",

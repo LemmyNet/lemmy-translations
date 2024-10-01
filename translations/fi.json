@@ -564,7 +564,6 @@
     "report_comment": "Ilmianna vastaus",
     "report_message": "Ilmianna viesti",
     "blur_nsfw": "Sumenna K18-sisältö",
-    "auto_expand": "Laajenna media automaattisesti",
     "transferring_community": "Siirretään yhteisö",
     "transfer_community_are_you_sure": "Haluatko varmasti siirtää yhteisön {{community}} käyttäjälle {{user}}?",
     "transfered_community": "Yhteisö siirretty",

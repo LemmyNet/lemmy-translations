@@ -577,7 +577,6 @@
     "add_tagline": "إضافة خط وسم",
     "incorrect_login": "مدخلات غير صحيحة",
     "op": "صاحب المنشور",
-    "auto_expand": "تكبير تلقائي للوسائط",
     "browser_default_compact": "وضع المتصفح الافتراضي المُتراصّ",
     "federation_http_fetch_retry_limit": "حد إعادة محاولة تحميل HTTP للفيدرالية",
     "remote_follow_prompt": "أدخل السيرفر الذي تود متابعة هذا المجتمع من خلاله",

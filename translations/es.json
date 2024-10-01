@@ -512,7 +512,6 @@
     "could_not_fetch_community": "No se pudo obtener {{community}}",
     "remote_follow_modal_title": "Suscribirse desde un nodo remoto",
     "blur_nsfw": "Difuminar contenido explícito (NSFW)",
-    "auto_expand": "Autoexpandir multimedias",
     "block_instance": "Bloquear nodo",
     "unblock_instance": "Desbloquear nodo",
     "remote_follow_invalid_instance": "{{instance}} no es un dominio válido.",

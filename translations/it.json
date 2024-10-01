@@ -569,7 +569,6 @@
     "totp_qr_segue": "o scannerizza questo codice QR in un'app di autenticazione",
     "transferring_community": "Trasferimento della comunità",
     "blur_nsfw": "Sfoca i contenuti NSFW",
-    "auto_expand": "Espansione automatica dei media",
     "remote_follow_invalid_instance": "{{instance}} non è un dominio valido.",
     "remote_follow_local_instance": "Impossibile recuperare l'istanza locale per il follow remoto",
     "import_export_section_title": "Importa/Esporta Impostazioni",
