@@ -499,7 +499,7 @@
   "application_email_admins": "Email admins on receiving new applications",
   "reports_email_admins": "Email admins on receiving new reports",
   "private_instance": "Private Instance",
-  "registration_application_pending": "Registration approval pending.",
+  "registration_application_is_pending": "Registration approval pending.",
   "registration_denied": "Registration application denied.",
   "email_not_verified": "Email not verified.",
   "email_verified": "Your email has been verified.",
