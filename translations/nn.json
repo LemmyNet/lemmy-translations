@@ -131,5 +131,6 @@
     "months_remaining": "{{formattedCount}} månadar att",
     "total_comments": "I alt {{formattedCount}} kommentarar",
     "total_users": "I alt {{formattedCount}} brukarar",
-    "monthly_active_users": "{{formattedCount}} aktive brukarar (brukarar med innlegg eller kommentarar siste månad)"
+    "monthly_active_users": "{{formattedCount}} aktive brukarar (brukarar med innlegg eller kommentarar siste månad)",
+    "explore": "Utforsk"
 }
