@@ -639,7 +639,6 @@
   "couldnt_delete_oauth_provider": "Couldn't delete OAuth provider.",
   "couldnt_create_oauth_provider": "Couldn't create OAuth provider.",
   "or": "Or",
-  "available_oauth_providers": "Login with",
   "oauth_login_with_provider": "Login with SSO Provider",
   "oauth_authorization_invalid": "Login Authorization Failed.",
   "oauth_login_failed": "Login Failed.",
