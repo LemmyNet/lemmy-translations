@@ -132,5 +132,6 @@
     "donate_title": "Lemmy - Donér",
     "instance_disclaimer": "Du kan tilgå alt indhold på lemmyverset fra enhver server, så det betyder ikke noget hvilken du vælger.",
     "monthly_active_users": "{{formattedCount}} aktive brugere (brugere der har lavet indlæg eller kommentarer i den sidste måned)",
-    "moderation_tools": "Moderationsværktøjer"
+    "moderation_tools": "Moderationsværktøjer",
+    "explore": "Udforsk"
 }
