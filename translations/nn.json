@@ -643,5 +643,8 @@
     "ban_with_name": "Utesteng {{user}}",
     "banning": "Utestengjer {{user}}",
     "ban_from_community_with_name": "Utesteng {{user}} frå {{community}}",
-    "banned_from_community": "Utestengde {{user}} frå {{community}}"
+    "banned_from_community": "Utestengde {{user}} frå {{community}}",
+    "add": "Legg til",
+    "post_sort_type": "Type sortering for innlegg",
+    "comment_sort_type": "Type sortering for kommentarar"
 }
