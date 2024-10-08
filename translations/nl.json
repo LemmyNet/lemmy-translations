@@ -249,7 +249,7 @@
     "invalid_matrix_id": "Ongeldige Matrix-ID. Deze moet @user:instance.tld zijn",
     "join_lemmy": "Toetreden tot Lemmy",
     "support_lemmy": "Lemmy steunen",
-    "must_login": "U moet <1>inloggen of registreren</1> om opmerkingen te kunnen plaatsen.",
+    "must_login": "U moet <1>inloggen</1> of <2>registreren</2> om opmerkingen te kunnen plaatsen.",
     "parent_comment_not_in_post": "De boven­liggende opmerking hoort bij een ander bericht.",
     "not_a_moderator": "Niet een moderator.",
     "site_description_length_overflow": "De sitebeschrijving mag niet 150 tekens overschrijden.",
@@ -638,5 +638,17 @@
     "view_registration": "Registratie bekĳken",
     "registration_for_user": "Registratie voor {{name}}",
     "loading_registration": "Registratie laden",
-    "fetch_registration_error": "Kon registratie-app niet ophalen"
+    "fetch_registration_error": "Kon registratie-app niet ophalen",
+    "auto_expand": "Media automatisch uitvouwen",
+    "add": "Toevoegen",
+    "post_sort_type": "Sorteer­type van berichten",
+    "comment_sort_type": "Sorteer­type van opmerkingen",
+    "username_already_exists": "Gebruikers­naam bestaat al.",
+    "authentication": "Authenticatie",
+    "oauth_config": "OAuth-configuratie",
+    "oauth_display_name": "Weergave­naam",
+    "or": "Of",
+    "oauth_login_failed": "Inloggen mislukt.",
+    "oauth_registration_closed": "Registratie gesloten.",
+    "publish_in_time": "{{time}} publiceren"
 }
