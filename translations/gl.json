@@ -3,7 +3,7 @@
     "unsticky": "solto",
     "link": "ligazón",
     "settings": "Axustes",
-    "number_of_posts": "{{formattedCount}} Post",
+    "number_of_posts": "{{formattedCount}} Publicación",
     "number_of_posts_plural": "{{formattedCount}} Publicacións",
     "post": "publicar",
     "remove_post": "Eliminar publicación",
@@ -213,8 +213,8 @@
     "forgot_password": "esquecín o contrasinal",
     "reset_password_mail_sent": "Enviar un email para restablecer o contrasinal.",
     "private_message_disclaimer": "Aviso: as mensaxes privadas en Lemmy non son seguras. Crea unha conta en <1>Element.io</1> para comunicarte de xeito seguro.",
-    "number_of_subscribers": "{{formattedCount}} subscritora",
-    "number_of_subscribers_plural": "{{formattedCount}} subscritoras",
+    "number_of_subscribers": "{{formattedCount}} subscritor/a",
+    "number_of_subscribers_plural": "{{formattedCount}} subscritores/as",
     "number_of_points": "{{formattedCount}} punto",
     "number_of_points_plural": "{{formattedCount}} puntos",
     "send_notifications_to_email": "Enviar notificacións ao email",
@@ -475,7 +475,7 @@
     "error_page_paragraph": "Algo fallou no servidor. Intenta actualizar a páxina. Se isto non funciona, volve un pouco máis tarde. Se o problema persiste, podes buscar axuda na <1>comunidade de axuda de Lemmy</1> ou na <1>Sala Matrix de Lemmy</1>.",
     "profile_not_logged_in_alert": "Non iniciaches sesión. Se usas unha conta do Fediverso que pode facer seguimentos, podes seguir esta conta.",
     "undetermined_language_warning": "Aviso: se non seleccionas Undetermined, non verás a maioría dos contidos.",
-    "hide_modlog_mod_names": "Agochar nomes das Mods no modlog",
+    "hide_modlog_mod_names": "Agochar nomes dos mods no modlog",
     "add_tagline": "Engadir Lema",
     "show_password": "Mostrar Contrasinal",
     "hide_password": "Agochar Contrasinal",
@@ -642,5 +642,7 @@
     "registration_for_user": "Creación da conta {{name}}",
     "loading_registration": "Cargando o rexistro",
     "fetch_registration_error": "Non se puido ober a solicitude de creación da conta",
-    "view_registration": "Ver solicitude"
+    "view_registration": "Ver solicitude",
+    "add": "Engadir",
+    "username_already_exists": "O nome de usuario xa existe."
 }
