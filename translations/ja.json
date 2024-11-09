@@ -659,5 +659,6 @@
     "torrent_help": "Lemmyは、メディアを表示またはストリーミングするためにBitTorrentという技術を使用できます。<1>こちらをクリック</1>して方法をご覧いただけます。",
     "registration_for_user": "{{name}}の登録",
     "loading_registration": "登録を読み込み中",
-    "fetch_registration_error": "登録アプリケーションを取得できませんでした"
+    "fetch_registration_error": "登録アプリケーションを取得できませんでした",
+    "community_federated": "コミュニティーを連合しました！"
 }
