@@ -137,5 +137,6 @@
     "closed_source_warning": "Waarschuwing: Deze app is closed-source en kan mogelijk uw gegevens verzamenlen. Gebruik op eigen risico.",
     "federation_desc": "Lemmy-servers kunnen verbinding met elkaar maken in een web van vertrouwen, waarbij berichten, opmerkingen en gemeenschappen worden gedeeld.",
     "instance_disclaimer": "U heeft vanaf elke server toegang tot alle inhoud in het Lemmyversum, dus het maakt niet uit welke u kiest.",
-    "moderation_tools": "Moderatie­gereedschap"
+    "moderation_tools": "Moderatie­gereedschap",
+    "explore": "Verkennen"
 }
