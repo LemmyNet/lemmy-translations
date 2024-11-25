@@ -222,5 +222,8 @@
     "user_already_exists": "მომხმარებელი უკვე არსებობს.",
     "email_already_exists": "ელ-პოსტა უკვე არსებობს.",
     "couldnt_update_user": "მომხმარებლის განახლება ვერ მოხერხდა.",
-    "system_err_login": "ერორი.  თავიდან შემოსვლა ცადეთ."
+    "system_err_login": "ერორი.  თავიდან შემოსვლა ცადეთ.",
+    "restored_post": "პოსტის აღდგენა",
+    "removed_post": "პოსტის წაშლა",
+    "restore_post": "პოსტის აღდგენა"
 }
