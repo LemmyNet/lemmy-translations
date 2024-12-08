@@ -650,5 +650,7 @@
     "oauth_issuer": "Sağlayıcı",
     "oauth_authorization_endpoint": "Kimlik Doğrulama Uç Noktası",
     "oauth_token_endpoint": "Token Uç Noktası",
-    "oauth_userinfo_endpoint": "Kullanıcı Bilgi Uç Noktası"
+    "oauth_userinfo_endpoint": "Kullanıcı Bilgi Uç Noktası",
+    "post_sort_type": "Gönderi sıralama türü",
+    "comment_sort_type": "Yorum sıralama türü"
 }
