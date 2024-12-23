@@ -678,5 +678,7 @@
     "oauth_login_failed": "Fallou o acceso.",
     "oauth_authorization_invalid": "Fallou a autorización do acceso.",
     "oauth_login_with_provider": "Acceder con Provedor SSO",
-    "oauth_userinfo_endpoint": "Punto de acceso Info da usuaria"
+    "oauth_userinfo_endpoint": "Punto de acceso Info da usuaria",
+    "post_sort_type": "Tipo de ordeación de publicacións",
+    "comment_sort_type": "Tipo de ordeación de comentarios"
 }
