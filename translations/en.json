@@ -81,6 +81,7 @@
   "sticky": "sticky",
   "unsticky": "unsticky",
   "link": "link",
+  "fedilink": "fedilink",
   "archive_link": "archive link",
   "bold": "bold",
   "italic": "italic",
