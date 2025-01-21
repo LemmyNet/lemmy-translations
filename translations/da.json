@@ -680,5 +680,6 @@
     "oauth_registration": "Tillad oprettelse via OAuth",
     "publish_in_time": "Udgiv {{time}}",
     "scheduled_publish_time": "Planlagt udgivelsestid",
-    "post_title_only": "Kun indlægstitel"
+    "post_title_only": "Kun indlægstitel",
+    "fedilink": "fedilink"
 }
