@@ -680,5 +680,6 @@
     "user_moderation_history": "Ιστορικό Συντονισμού χρήστη {{user}}",
     "comment_moderation_history": "Ιστορικό συντονισμού σχολίων",
     "registration_for_user": "Εγγραφή για {{name}}",
-    "post_moderation_history": "Ιστορικό συντονισμού δημοσιεύσεων"
+    "post_moderation_history": "Ιστορικό συντονισμού δημοσιεύσεων",
+    "fedilink": "fedilink"
 }
