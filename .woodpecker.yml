@@ -1,4 +1,11 @@
 steps:
+  prettier_check:
+    image: tmknom/prettier:3.2.5
+    commands:
+      - prettier -c .
+    when:
+      - event: pull_request
+
   notify_on_failure:
     image: alpine:3
     commands:
