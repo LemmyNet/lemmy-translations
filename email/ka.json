@@ -1,12 +1,11 @@
 {
-    "registration_approved_body": "თქვენი რეგისტრაციის განაცხადი დადასტურდა. კეთილი იყოს თქვენი მობრძანება {hostname}-ზე!",
-    "registration_denied": "რეგისტრაცია უარყოფილია",
-    "registration_denied_subject": "რეგისტრაცია უარყოფილია {username}-თვის",
-    "password_reset_subject": "პაროლი შეცვლილია {username}-თვის",
-    "notification_private_message_subject": "პირადი მესიჯი {username}-გან",
-    "new_application_subject": "{username}-ს სურს გაწევრიანდეს {hostname}-ზე",
-    "registration_approved_subject": "რეგისტრაცია დადასტურდა {username}-თვის",
-    "registration_denied_reason_body": "თქვენი რეგისტრაციის განაცხადი {hostname}-ზე უარყოფილია.<br>მიზეზი:<br><br>\"{deny_reason}\"",
-    "registration_denied_body": "თქვენი რეგისტრაციის განაცხადი {hostname}-ზე უარყოფილია.",
-    "application_question_required": "თუ განაცხადი სავალდებულოა, განაცხადის კითხვარიც სავალდებულოა."
+  "registration_approved_body": "თქვენი რეგისტრაციის განაცხადი დადასტურდა. კეთილი იყოს თქვენი მობრძანება {hostname}-ზე!",
+  "registration_denied": "რეგისტრაცია უარყოფილია",
+  "registration_denied_subject": "რეგისტრაცია უარყოფილია {username}-თვის",
+  "password_reset_subject": "პაროლი შეცვლილია {username}-თვის",
+  "notification_private_message_subject": "პირადი მესიჯი {username}-გან",
+  "new_application_subject": "{username}-ს სურს გაწევრიანდეს {hostname}-ზე",
+  "registration_approved_subject": "რეგისტრაცია დადასტურდა {username}-თვის",
+  "registration_denied_body": "თქვენი რეგისტრაციის განაცხადი {hostname}-ზე უარყოფილია.",
+  "application_question_required": "თუ განაცხადი სავალდებულოა, განაცხადის კითხვარიც სავალდებულოა."
 }
