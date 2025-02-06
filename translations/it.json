@@ -593,5 +593,16 @@
   "disable_totp_success": "Autenticazione a due fattori disattivata con successo",
   "import_export_rate_limit_error": "Si prega di attendere qualche minuto prima di tentare nuovamente l'importazione o l'esportazione delle impostazioni",
   "totp_link": "Clicca qui per il link di installazione 2FA",
-  "totp_qr": "Codice QR per l'autenticazione a 2 fattori"
+  "totp_qr": "Codice QR per l'autenticazione a 2 fattori",
+  "community_locked_message": "<1>Comunità con restrizioni:</1> solo i moderatori possono creare post. Puoi comunque commentare.",
+  "delete_account_content": "Elimina tutti i post, i commenti e le immagini caricate",
+  "view_votes": "Guarda i Voti",
+  "username_already_exists": "Username già esistente.",
+  "add": "Aggiungi",
+  "denied": "Rifiutate",
+  "show_upvotes": "Mostra i Voti Positivi",
+  "show_downvotes": "Mostra i Voti Negativi",
+  "show_upvote_percentage": "Mostra i Voti Positivi%",
+  "votes": "Voti",
+  "community_locked": "Comunità con restrizioni"
 }
