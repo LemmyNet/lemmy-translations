@@ -12,6 +12,7 @@
   "email_verified_subject": "Email verified for {username}",
   "email_verified_body": "Your email has been verified.",
   "verify_email_body": "Please click the link below to verify your email address for the account @{username}@{hostname}. Ignore this email if the account isn't yours.<br><br><a href=\"{verify_link}\">Verify your email</a>",
+  "verify_email_body_with_application": "Please click the link below to verify your email address for the account @{username}@{hostname}, then wait for your application to be approved. Ignore this email if the account isn't yours.<br><br><a href=\"{verify_link}\">Verify your email</a>",
   "notification_post_reply_subject": "Reply from {username}",
   "notification_post_reply_body": "<h1>Post reply</h1><br><div>{username} replied to \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">comment</a> <a href=\"{inbox_link}\">inbox</a>",
   "notification_comment_reply_subject": "Reply from {username}",
