@@ -18,10 +18,10 @@
     "new_report_body": "Paina linkistä nähdäksesi kaikki ilmiannot.<br><br><a href=\"{reports_link}\">Katso ilmiantoja</a>",
     "registration_denied_subject": "Käyttäjän {username} rekisteröityminen evätty",
     "registration_denied_body": "Rekisteröitymispyyntösi sivustolle {hostname} on evätty.",
-    "notification_mentioned_by_body": "<h1>Käyttäjän maininta<h1><br><div>{username} mainitsi sinut: {comment_text}</div><br><a href=\"{comment_link\">vastaus</a><a href=\"{inbox_ink\">postilaatikko</a>",
+    "notification_mentioned_by_body": "<h1>Käyttäjän maininta<h1><br><div>{username} mainitsi sinut: {comment_text}</div><br><a href=\"{comment_link}\">vastaus</a><a href=\"{inbox_link}\">postilaatikko</a>",
     "registration_denied_reason_body": "Rekisteröitymishakemuksesi instanssille {hostname} on evätty.<br>Esitetty syy:<br><br>\"{deny_reason}\"",
     "password_reset_body": "<h1>Salasanan nollauspyyntö käyttäjälle {username}</h1><br><a href=\"{reset_link}\">Paina tästä nollataksesi salasanasi</a>",
-    "notification_private_message_body": "<h1>Yksityisviesti</h1><br><div>{username} lähetti sinulle yksityisviestin: {message_text}</div><br><a href=\"{inbox_link\">postilaatikko</a>",
-    "notification_post_reply_body": "<h1>Vastaus viestiin</h1><br><div>{username} vastasi viestiin \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link\">vastaus</a><a href=\"{inbox_link}\">Postilaatikko</a>",
-    "notification_comment_reply_body": "<h1>Vastaus</h1><br><div>{username} vastasi vastaukseen \"{parent_comment_text}\" viestissä \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link\">vastaus</a><a href=\"{inbox_link}\">postilaatikko</a>"
+    "notification_private_message_body": "<h1>Yksityisviesti</h1><br><div>{username} lähetti sinulle yksityisviestin: {message_text}</div><br><a href=\"{inbox_link}\">postilaatikko</a>",
+    "notification_post_reply_body": "<h1>Vastaus viestiin</h1><br><div>{username} vastasi viestiin \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">vastaus</a><a href=\"{inbox_link}\">Postilaatikko</a>",
+    "notification_comment_reply_body": "<h1>Vastaus</h1><br><div>{username} vastasi vastaukseen \"{parent_comment_text}\" viestissä \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">vastaus</a><a href=\"{inbox_link}\">postilaatikko</a>"
 }
