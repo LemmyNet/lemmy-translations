@@ -93,5 +93,9 @@
     "gaming": "গেমিং",
     "sports": "খেলা",
     "contact_us": "<1>আমাদের</1> সাথে যোগাযোগ",
-    "none_found": "কিছু পাওয়া যায়নি।"
+    "none_found": "কিছু পাওয়া যায়নি।",
+    "ios": "iOS",
+    "android": "Android",
+    "web": "ওয়েব",
+    "cli": "CLI"
 }
