@@ -1,1 +1,15 @@
-{}
+{
+    "lemmy_title": "Lemmy: un agregador d'enllaços per al fedivers",
+    "join_a_server": "Unir-se a un servidor",
+    "see_all_servers": "Veure tots els servidors",
+    "none_found": "No se n'ha trobat cap.",
+    "join": "Uniu-vos",
+    "lemmy": "Lemmy",
+    "lemmyverse": "Lemmyvers",
+    "lemmy_desc": "Un agregador d'enllaços per al fedivers.",
+    "open_source": "Codi obert",
+    "open_source_desc": "Lemmy és i continuarà sent programari lliure, <1>de codi obert</1>, utilitzant la forta llicència <2>copyleft</2> <3>AGPL</3>.",
+    "follow_communities": "Seguiu comunitats a <1>qualsevol lloc</1> del món",
+    "run_a_server": "Crear un servidor",
+    "lemmy_long_desc": "Lemmy és una plataforma de discussió i agregació d'enllaços socials autoallotjada. És totalment gratuït i obert, i no controlat per cap empresa. Això vol dir que no hi ha publicitat, seguiment o algorismes secrets. El contingut s'organitza en comunitats, de manera que és fàcil subscriure's als temes que t'interessen i ignorar els altres. La votació s'utilitza per promoure els elements més interessants."
+}
