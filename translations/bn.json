@@ -324,5 +324,7 @@
     "or": "বা",
     "continue": "এগিয়ে যাও",
     "uploader": "আপলোডকারী",
-    "uploads": "আপলোডসমূহ"
+    "uploads": "আপলোডসমূহ",
+    "oauth_providers": "সরবরাহক",
+    "public": "প্রকাশ্য"
 }
