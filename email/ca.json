@@ -1,1 +1,15 @@
-{}
+{
+    "registration_approved_subject": "Registre de {username} aprovat",
+    "registration_approved_body": "La vostra sol·licitud de registre ha estat aprovada. Benvinguda a {hostname}!",
+    "registration_denied": "Registre denegat",
+    "registration_denied_subject": "Registre denegat a {username}",
+    "registration_denied_body": "La vostra sol·licitud de registre a {hostname} ha estat denegada.",
+    "registration_denied_reason_body": "La vostra sol·licitud de registre per a {hostname} ha estat denegada.<br>S'ha donat el motiu següent:<br><br>\"{deny_reason}\"",
+    "application_question_required": "Heu d'afegir un qüestionari de sol·licitud si calen sol·licituds.",
+    "password_reset_subject": "Restabliment de contrasenya per a {username}",
+    "verify_email_subject": "Verifiqueu la vostra adreça electrònica a {hostname}",
+    "email_verified_subject": "Adreça electrònica verificada per a {username}",
+    "email_verified_body": "La vostra adreça electrònica ha estat verificada.",
+    "password_reset_body": "<h1>Sol·licitud de restabliment de la contrasenya per a {username}</h1><br><a href=\"{reset_link}\">Feu clic aquí per restablir la contrasenya</a>",
+    "verify_email_body": "Feu clic a l'opció per comprovar l'adreça del compte @{username}@{hostname}. Si el compte no és vostre ignoreu aquest missatge.<br><br>, <a href=\"{verify_link}\">Verifiqueu la vostra adreça electrònica</a>"
+}
