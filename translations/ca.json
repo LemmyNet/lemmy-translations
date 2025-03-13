@@ -571,7 +571,7 @@
     "upvote_percentage": "{{formattedCount}}% han votat positivament",
     "view_votes": "Veure vots",
     "votes": "Vots",
-    "uploader": "Pujat per",
+    "uploader": "Autor",
     "transferring_community": "Transferint comunitat",
     "transfer_community_are_you_sure": "Estàs segur de voler transferir {{community}} a{{user}}?",
     "transfered_community": "Comunitat transferida",
