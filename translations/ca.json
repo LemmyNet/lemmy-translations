@@ -11,5 +11,16 @@
     "open_source_desc": "Lemmy és i continuarà sent programari lliure, <1>de codi obert</1>, utilitzant la forta llicència <2>copyleft</2> <3>AGPL</3>.",
     "follow_communities": "Seguiu comunitats a <1>qualsevol lloc</1> del món",
     "run_a_server": "Crear un servidor",
-    "lemmy_long_desc": "Lemmy és una plataforma de discussió i agregació d'enllaços socials autoallotjada. És totalment gratuït i obert, i no controlat per cap empresa. Això vol dir que no hi ha publicitat, seguiment o algorismes secrets. El contingut s'organitza en comunitats, de manera que és fàcil subscriure's als temes que t'interessen i ignorar els altres. La votació s'utilitza per promoure els elements més interessants."
+    "lemmy_long_desc": "Lemmy és una plataforma de discussió i agregació d'enllaços socials autoallotjada. És totalment gratuït i obert, i no controlat per cap empresa. Això vol dir que no hi ha publicitat, seguiment o algorismes secrets. El contingut s'organitza en comunitats, de manera que és fàcil subscriure's als temes que t'interessen i ignorar els altres. La votació s'utilitza per promoure els elements més interessants.",
+    "copyright_line": "Lemmy està llicenciat sota la Llicència Pública General GNU Affero v3.0",
+    "blazing_fast": "Molt ràpid",
+    "blazing_fast_desc": "Fet amb algunes de les eines més ràpides, com ara <1>Rust</1>, <2>Actix</2>, <3>Diesel</3>, <4>Inferno</4> i <5>Typescript</5>.",
+    "censorship_resistant": "Resistent a la censura",
+    "censorship_resistant_desc": "Allotjament al vostre propi servidor podeu tenir el control total del contingut.",
+    "federation": "Federació",
+    "federation_desc": "Els servidors Lemmy es poden connectar entre ells en una xarxa de confiança, compartint publicacions, comentaris i comunitats.",
+    "mod_tools": "Eines de moderació potents",
+    "create_discussion_platform": "Creeu la <1>la vostra pròpia</1> plataforma de discussió",
+    "docs": "Documentació",
+    "mod_tools_desc": "Cada servidor pot establir la seva pròpia política de moderació per ajudar a fomentar un entorn saludable on sentir-se còmodes contribuint."
 }
