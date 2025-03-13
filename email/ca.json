@@ -11,5 +11,18 @@
     "email_verified_subject": "Adreça electrònica verificada per a {username}",
     "email_verified_body": "La vostra adreça electrònica ha estat verificada.",
     "password_reset_body": "<h1>Sol·licitud de restabliment de la contrasenya per a {username}</h1><br><a href=\"{reset_link}\">Feu clic aquí per restablir la contrasenya</a>",
-    "verify_email_body": "Feu clic a l'opció per comprovar l'adreça del compte @{username}@{hostname}. Si el compte no és vostre ignoreu aquest missatge.<br><br>, <a href=\"{verify_link}\">Verifiqueu la vostra adreça electrònica</a>"
+    "verify_email_body": "Feu clic a l'opció per comprovar l'adreça del compte @{username}@{hostname}. Si el compte no és vostre ignoreu aquest missatge.<br><br>, <a href=\"{verify_link}\">Verifiqueu la vostra adreça electrònica</a>",
+    "notification_post_reply_subject": "Resposta de {username}",
+    "notification_post_reply_body": "<h1>Resposta a publicació</h1><br><div>{username} ha respost a \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">comentari</a> <a href=\"{inbox_link}\">bústia d'entrada</a>",
+    "notification_comment_reply_subject": "Resposta de {username}",
+    "notification_mentioned_by_subject": "Menció per {username}",
+    "notification_mentioned_by_body": "<h1>Menció</h1><br><div>{username} us ha mencionat a: {comment_text}</div><br><a href=\"{comment_link}\">comentari</a> <a href=\"{inbox_link}\">bústia d'entrada</a>",
+    "notification_private_message_subject": "Missatge privat de {username}",
+    "notification_private_message_body": "<h1>Missatge directe</h1><br><div>{username} us ha enviat un missatge privat: {message_text}</div><br><a href=\"{inbox_link}\">bústia d'entrada</a>",
+    "new_application_subject": "{username} ha sol·licitat unir-se a {hostname}",
+    "new_application_body": "Feu clic a l'enllaç següent per veure la seva sol·licitud.<br><br><a href=\"{applications_link}\">Mostra les sol·licituds</a>",
+    "new_report_subject": "Nova denúncia creada per {reporter_username} per a {reported_username} a {hostname}",
+    "new_report_body": "Feu clic a l'enllaç següent per veure totes les denúncies.<br><br><a href=\"{reports_link}\">Mostrar les denúncies</a>",
+    "verify_email_body_with_application": "Feu clic a l'enllaç següent per verificar la vostra adreça electrònica del compte @{username}@{hostname} i, a continuació, espereu que s'aprovi la vostra sol·licitud. Ignoreu aquest correu electrònic si el compte no és vostre.<br><br><a href=\"{verify_link}\">Verifiqueu la vostra adreça electrònica</a>",
+    "notification_comment_reply_body": "<h1>Resposta a comentari</h1><br><div>{username} ha respost a «{parent_comment_text}» a «{post_title}»: {comment_text}</div><br><a href=\"{comment_link}\">comentari</a> <a href=\"{inbox_link}\">bústia d'entrada</a>"
 }
