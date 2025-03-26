@@ -455,5 +455,17 @@
     "import": "Impordi",
     "enter_totp_code": "Sisesta 2FA kood",
     "block_urls": "Blokeeri URL'id",
-    "edited_post": "Muudetud postitus"
+    "edited_post": "Muudetud postitus",
+    "oauth_client_secret": "Kliendi saladus",
+    "number_of_months": "kuu",
+    "number_of_months_plural": "kuud",
+    "denied": "Tagasi lükatud",
+    "add": "Lisa",
+    "removed_mod": "Eemaldatud moderaator",
+    "removed_admin": "Eemaldatud administraator",
+    "appointing_admin": "",
+    "appoint_as_admin_are_you_sure": "Kas oled kindel, et soovid määrata kasutaja {{user}} instantsi {{instance}} administraatoriks?",
+    "blur_nsfw": "Hägusta tööks mittesobilik sisu",
+    "or": "või",
+    "oauth_client_id": "Kliendi ID"
 }
