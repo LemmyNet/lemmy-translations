@@ -11,11 +11,8 @@
   "notification_mentioned_by_subject": "Taggato da {username}",
   "notification_private_message_subject": "Messaggio privato da {username}",
   "new_report_body": "Per favore clicca sul link sottostante per vedere tutti i report.<br><br><a href=\"{reports_link}\">Visualizza report</a>",
-  "registration_denied": "Registrazione respinta",
   "application_question_required": "Devi aggiungere un questionario se è obbligatorio fare domanda di iscrizione.",
   "new_application_subject": "{username} ha fatto richiesta di entrare in {hostname}",
   "new_application_body": "Fare clic sul link sottostante per visualizzare la richiesta di partecipazione.<br><br><a href=\"{applications_link}\">Visualizza richieste</a>",
-  "new_report_subject": "Nuovo report creato da {reporter_username} per {reported_username} su {hostname}",
-  "registration_denied_subject": "Registrazione negata per {username}",
-  "registration_denied_body": "La tua richiesta di registrazione per {hostname} è stata respinta."
+  "new_report_subject": "Nuovo report creato da {reporter_username} per {reported_username} su {hostname}"
 }

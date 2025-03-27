@@ -10,12 +10,9 @@
   "verify_email_subject": "Konfirmu vian retpoŝtadreson por {hostname}",
   "verify_email_body": "Bonvolu alklaki la jenan ligilon por konfirmi vian retpoŝtadreson por la konto @{username}@{hostname}. Ignoru ĉi tiun retleteron, se la konto ne estas via.<br><br><a href=\"{verify_link}\">Konfirmi vian retpoŝtadreson</a>",
   "email_verified_body": "Via retpoŝtadreso estis konfirmita.",
-  "registration_denied": "Aliĝo neita",
   "new_application_subject": "{username} petis aliĝi al {hostname}",
   "new_application_body": "Bonvolu alklaku la jenan ligilon por vidi rian aliĝpeton<br><br><a href=\"{applications_link}\">Vidi aliĝpetojn</a>",
   "new_report_subject": "Nova raporto kreita de {reporter_username} pri {reported_username} en {hostname}",
   "application_question_required": "Vi devas aldoni aliĝpetan demandaron, se aliĝpetoj estas postulataj.",
-  "new_report_body": "Bonvolu alklaku la jenan ligilon por vidi ĉiujn raportojn<br><br><a href=\"{reports_link}\">Vidi raportojn</a>",
-  "registration_denied_body": "Via aliĝpeto al {hostname} estis neita.",
-  "registration_denied_subject": "Aliĝo neita al {username}"
+  "new_report_body": "Bonvolu alklaku la jenan ligilon por vidi ĉiujn raportojn<br><br><a href=\"{reports_link}\">Vidi raportojn</a>"
 }

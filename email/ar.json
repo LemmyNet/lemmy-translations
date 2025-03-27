@@ -1,7 +1,4 @@
 {
-  "registration_denied": "رُفِض تسجيلك",
-  "registration_denied_subject": "رُفِض التسجيل لـ{username}",
-  "registration_denied_body": "طلب تسجيلك إلى {hostname} قد رُفِض.",
   "application_question_required": "عليك إضافة استبانة إن كانت طلبات التسجيل مطلوبة.",
   "password_reset_subject": "إعادة ضبط كلمة السر إلى {username}",
   "verify_email_subject": "فعّل إيميلك إلى {hostname}",

@@ -10,12 +10,9 @@
   "password_reset_subject": "Mot de passe réinitialisé pour {username}",
   "verify_email_subject": "Vérifier votre adresse email pour {hostname}",
   "email_verified_subject": "Email vérifié pour {username}",
-  "registration_denied": "Inscription refusée",
   "application_question_required": "Vous devez remplir le formulaire de candidature si l'instance requiert une candidature.",
   "new_application_subject": "{username} a demandé à intégrer {hostname}",
   "new_application_body": "Cliquez sur le lien ci-dessous pour voir leur candidature. <br><br><a href=\"{applications_link}\">Voir les candidatures</a>",
-  "registration_denied_subject": "Demande d'inscription pour {username} refusée",
-  "registration_denied_body": "Votre demande d'inscription pour {hostname} a été refusée.",
   "new_report_subject": "Nouveau signalement crée par {reporter_username} pour {reported_username} sur {hostname}",
   "new_report_body": "Cliquez sur le lien ci-dessous pour accéder à tous les signalements.<br><br><a href=\"{reports_link}\">Voir les signalements</a>"
 }

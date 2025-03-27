@@ -1,13 +1,10 @@
 {
   "registration_approved_subject": "{username} 的注册申请已获批准",
-  "registration_denied": "注册被拒绝",
   "application_question_required": "如果注册需要申请，您必须先添加一个申请问卷。",
   "password_reset_subject": "为 {username} 重置密码",
   "verify_email_subject": "验证您在 {hostname} 的电子邮件地址",
   "registration_approved_body": "您的注册申请已获批准。欢迎来到 {hostname}！",
   "verify_email_body": "请点击下面的链接验证账户 @{username}@{hostname} 的电子邮件地址。如果该账户不属于您，请忽略此邮件。<br><br><a href=\"{verify_link}\">验证您的电子邮件地址</a>",
-  "registration_denied_subject": "{username} 的注册申请被拒绝",
-  "registration_denied_body": "您在 {hostname} 的注册申请已被拒绝。",
   "email_verified_body": "您的邮件地址已完成验证。",
   "email_verified_subject": "{username} 的邮件地址已验证",
   "notification_comment_reply_subject": "来自 {username} 的回复",

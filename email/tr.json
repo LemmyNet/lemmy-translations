@@ -2,7 +2,6 @@
   "registration_approved_subject": "{username} için kayıt onaylandı",
   "registration_approved_body": "Kayıt isteğiniz onaylanmıştır. {hostname}'e hoşgeldiniz!",
   "notification_mentioned_by_subject": "{username} bir yorumda sizden bahsetti",
-  "registration_denied": "Kayıt reddedildi",
   "application_question_required": "Eğer başvurular zorunluysa başvuru anketi doldurmanız gerekli.",
   "verify_email_subject": "{hostname} için emailinizi doğrulayın",
   "email_verified_body": "Emailiniz doğrulandı.",
@@ -15,7 +14,5 @@
   "new_application_subject": "{username} {hostname}'e katılmak için başvurdu",
   "new_application_body": "Başvuruyu görüntülemek için lütfen aşağıdaki linke tıklayın.<br><br><a href=\"{applications_link}\">View Applications</a>",
   "new_report_subject": "{hostname}'de {reporter_username} kullanıcısı tarafından {reported_username} kullanıcısı için yeni bir şikayet oluşturuldu",
-  "new_report_body": "Tüm şikayetleri görüntülemek için lütfen aşağıdaki linke tıklayın.<br><br><a href=\"{reports_link}\">View Reports</a>",
-  "registration_denied_subject": "Kayıt {username} için reddedildi",
-  "registration_denied_body": "{hostname} için kayıt başvurunuz reddedildi."
+  "new_report_body": "Tüm şikayetleri görüntülemek için lütfen aşağıdaki linke tıklayın.<br><br><a href=\"{reports_link}\">View Reports</a>"
 }

@@ -1,7 +1,4 @@
 {
-    "registration_denied": "Regjistrimi u refuzua",
-    "registration_denied_subject": "Regjistrimi u refuzua për {username}",
-    "registration_denied_body": "Kërkesa juaj për regjistrim në {hostname} është refuzuar.",
-    "registration_approved_subject": "Regjistrimi u aprovua për {username}",
-    "registration_approved_body": "Kërkesa juaj për regjistrim është aprovuar. Mirësevini në {hostname}!"
+  "registration_approved_subject": "Regjistrimi u aprovua për {username}",
+  "registration_approved_body": "Kërkesa juaj për regjistrim është aprovuar. Mirësevini në {hostname}!"
 }
