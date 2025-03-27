@@ -175,6 +175,7 @@
   "unban_from_community": "Unban from community",
   "unban_from_community_with_name": "Unban {{user}} from {{community}}",
   "banned": "Banned",
+  "banned_from_community_badge": "Banned from community",
   "banned_users": "Banned Users",
   "banned_from_community": "Banned {{user}} from {{community}}",
   "unbanned_from_community": "Unbanned {{user}} from {{community}}",
