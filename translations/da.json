@@ -1,5 +1,5 @@
 {
-    "post": "indlæg",
+    "post": "send",
     "mark_as_read": "marker som læst",
     "number_of_posts": "{{formattedCount}} indlæg",
     "number_of_posts_plural": "{{formattedCount}} indlæg",
