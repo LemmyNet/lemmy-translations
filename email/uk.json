@@ -11,7 +11,6 @@
   "password_reset_subject": "Скидання паролю для {username}",
   "verify_email_body": "Будь ласка, скористайтеся посиланням нижче, аби підтвердити адресу вашої е-пошти для облікового запису @{username}@{hostname}. Не зважайте на цей лист, якщо цей обліковий запис не ваш.<br><br>, <a href=\"{verify_link}\">Підтвердити вашу е-пошту</a>",
   "new_application_subject": "{username} подав на приєднання до {hostname}",
-  "application_question_required": "Ви маєте додати реєстраційну анкету, якщо для вступу необхідне подання.",
   "new_report_body": "Будь ласка, клацніть на посилання нижче, аби переглянути всі скарги.<br><br><a href=\"{reports_link}\">Переглянути скарги</a>",
   "new_report_subject": "{reporter_username} подав нову скаргу щодо {reported_username} на {hostname}",
   "new_application_body": "Будь ласка, клацніть посилання нижче, аби переглянути його подання.<br><br><a href=\"{applications_link}\">Переглянути подання</a>"

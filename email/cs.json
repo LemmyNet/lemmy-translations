@@ -9,7 +9,6 @@
   "notification_comment_reply_subject": "Odpověď od {username}",
   "registration_approved_body": "Vaše registrace byla schválena. Vítejte na {hostname}!",
   "verify_email_body_with_application": "Klikněte prosím na odkaz níže pro ověření vaší e-mailové adresy účtu @{username}@{hostname}, pak počkejte na schválení vaší žádosti. Pokud účet není váš, ignorujte tento e-mail.<br><br><a href=\"{verify_link}\">Ověření vašeho e-mailu</a>",
-  "application_question_required": "Musíte přidat dotazník žádosti, pokud jsou žádosti požadovány.",
   "notification_mentioned_by_subject": "Zmínka od {username}",
   "notification_private_message_subject": "Soukromá zpráva od {username}",
   "new_application_subject": "{username} požádal(a) o připojení k {hostname}",

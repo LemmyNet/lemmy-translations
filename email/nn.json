@@ -1,7 +1,6 @@
 {
   "registration_approved_subject": "Registrering for {username} godkjend",
   "registration_approved_body": "Registreringssøknaden din er godkjend. Velkommen til {hostname}!",
-  "application_question_required": "Du må leggja til eit søknads­skjema viss du krev at brukarar må søkja om å registrera seg.",
   "password_reset_subject": "Nullstilling av passord for {username}",
   "password_reset_body": "<h1>Førespurnad om nullstilling av passord for {username}</h1><br><a href=\"{reset_link}\">Trykk her for å nullstilla passordet ditt</a>",
   "verify_email_subject": "Stadfest e-postadressa di for {hostname}",

@@ -1,7 +1,6 @@
 {
   "registration_approved_subject": "Registrierung für {username} genehmigt",
   "registration_approved_body": "Dein Registrierungsantrag wurde genehmigt. Wilkommen auf {hostname}!",
-  "application_question_required": "Du musst einen Bewerbungs-Fragebogen hinzufügen, falls Bewerbungen notwendig sind.",
   "verify_email_subject": "Verifiziere deine Email Adresse für {hostname}",
   "email_verified_subject": "Email verifiziert für {username}",
   "email_verified_body": "Deine Email wurde verifiziert.",

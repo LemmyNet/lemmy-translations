@@ -10,7 +10,6 @@
   "notification_comment_reply_subject": "Vastaus käyttäjältä {username}",
   "notification_mentioned_by_subject": "{username} mainitsi sinut",
   "notification_private_message_subject": "Yksityisviesti käyttäjältä {username}",
-  "application_question_required": "Jos jäsenyyshakemukset on otettu käyttöön, hakemuksen kysymykset on lisättävä.",
   "new_application_subject": "{username} on hakenut instanssin {hostname} jäsenyyttä",
   "new_application_body": "Paina linkistä nähdäksesi hänen hakemuksensa.<br><br><a href=\"{applications_link}\">Katso hakemuksia</a>",
   "new_report_subject": "Uusi ilmianto käyttäjältä {reporter_username} käyttäjästä {reported_username} instanssilla {hostname}",

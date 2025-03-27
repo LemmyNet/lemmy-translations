@@ -1,5 +1,4 @@
 {
-  "application_question_required": "Morate dodati upitnik za prijavu ako su prijave obavezne.",
   "new_application_body": "Kliknite na link ispod da biste pogledali njihovu prijavu.<br><br><a href=\"{applications_link}\">Pogledajte prijave</a>",
   "registration_approved_subject": "Registracija odobrena za {username}.",
   "password_reset_subject": "Resetovanje lozinke za {username}",

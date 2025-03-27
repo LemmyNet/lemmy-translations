@@ -13,6 +13,5 @@
   "new_application_body": "তাদের আবেদন দেখতে এখানে টিপ দাও।<br><br><a href=\"{applications_link}\">আবেদন দেখো</a>",
   "new_report_body": "সবগুলো প্রতিবেদন দেখতে এখানে টিপ দাও।<br><br><a href=\"{reports_link}\">প্রতিবেদন/সমস্যাগুলো দেখো</a>",
   "new_report_subject": "{reporter_username}, {reported_username} বিষয়ে নতুন প্রতিবেদন দিয়েছে {hostname} হোস্টে",
-  "application_question_required": "আবেদনের প্রয়োজন হলে, তোমাকে আবেদন প্রশ্ন যোগ করতে হবে।",
   "password_reset_body": "<h1>{username} এর জন্য পাসওয়ার্ড পাল্টানোর অনুরোধ</h1><br><a href=\"{reset_link}\">পাসওয়ার্ড পাল্টাতে এখানে টিপ দাও</a>"
 }

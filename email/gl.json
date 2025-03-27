@@ -1,6 +1,5 @@
 {
   "registration_approved_subject": "Aprobada a conta para {username}",
-  "application_question_required": "Debes engadir un cuestionario para a aplicación se a solicitude é un requisito.",
   "password_reset_subject": "Restablecer contrasinal de {username}",
   "verify_email_subject": "Verifica o enderezo de correo para {hostname}",
   "email_verified_subject": "Correo verificado para {username}",

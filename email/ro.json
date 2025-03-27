@@ -4,7 +4,6 @@
   "password_reset_subject": "Parolă resetată pentru {username}",
   "verify_email_subject": "Verifică-ți adresa de e-mail pentru {hostname}",
   "email_verified_subject": "E-mail verificat pentru {username}",
-  "application_question_required": "Trebuie să adaugi un chestionar de înscriere dacă serverul necesită trimiterea unei cereri de înscriere.",
   "notification_post_reply_subject": "Răspuns de la {username}",
   "notification_comment_reply_subject": "Răspuns de la {username}",
   "notification_mentioned_by_subject": "{username} te-a menționat",

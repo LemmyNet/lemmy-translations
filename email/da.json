@@ -15,7 +15,6 @@
   "notification_post_reply_body": "<h1>{username} har svaret på dit indlæg</h1><br><div>{username} svarede på \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">Kommentar</a> <a href=\"{inbox_link}\">Indbakke</a>",
   "notification_comment_reply_body": "<h1>{username} har svaret på din kommentar</h1><br><div>{username} svarede på \"{parent_comment_text}\" i \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">Kommentar</a> <a href=\"{inbox_link}\">Indbakke</a>",
   "notification_private_message_body": "<h1>Privat besked</h1><br><div>{username} skrev en privat besked til dig: {message_text}</div><br><a href=\"{inbox_link}\">indbakke</a>",
-  "application_question_required": "Du skal tilføje en ansøgningsformular hvis ansøgninger er krævet.",
   "new_application_subject": "{username} har ansøgt om oprettelse hos {hostname}",
   "new_application_body": "Klik linket nedenfor for at se deres ansøgning.<br><br><a href=\"{applications_link}\">Se ansøgninger</a>",
   "new_report_subject": "Ny rapportering fra {reporter_username} mod {reported_username} på {hostname}",

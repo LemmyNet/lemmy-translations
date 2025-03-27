@@ -18,7 +18,6 @@
   "new_application_subject": "{username} кандидатства за присъединяване към {hostname}",
   "new_report_subject": "Ново оплакване създадено от {reporter_username} за {reported_username} в {hostname}",
   "new_report_body": "Моля, използвайте линка по-долу, за да видите всички оплаквания.<br><br><a href=\"{reports_link}\">Преглед на оплакванията</a>",
-  "application_question_required": "Трябва да добавите въпросник за кандидатура, ако се изискват кандидатури.",
   "new_application_body": "Моля, използвайте линка по-долу, за да видите тяхната кандидатура.<br><br><a href=\"{applications_link}\">Преглед на кандидатурите</a>",
   "verify_email_body_with_application": "Моля, използвайте линка по-долу, за да потвърдите Вашия имейл адрес за този акаунт @{username}@{hostname}, след което изчакайте кандидатурата Ви да бъде одобрена. Игнорирайте този имейл, ако този акаунт не е Ваш.<br><br><a href=\"{verify_link}\">Потвърдете своя имейл</a>"
 }

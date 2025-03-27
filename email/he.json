@@ -1,6 +1,5 @@
 {
   "registration_approved_body": "בקשת ההרשמה שלך אושרה. ברוכים הבאים אל {hostname}!",
-  "application_question_required": "עליך להוסיף שאלון בקשה אם יש צורך בבקשה.",
   "password_reset_subject": "איפוס סיסמה עבור {username}",
   "verify_email_subject": "אמת את כתובת הדוא\"ל שלך עבור {hostname}",
   "email_verified_body": "האימייל שלך אומת.",

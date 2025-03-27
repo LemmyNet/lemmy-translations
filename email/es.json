@@ -11,7 +11,6 @@
   "notification_private_message_subject": "Mensaje privado de {username}",
   "verify_email_body": "Por favor, haga clic en el siguiente enlace para verificar su dirección de correo electrónico para la cuenta @{username}@{hostname}. Ignore este correo electrónico si la cuenta no es suya.<br><br><a href=\"{verify_link}\">Verificar dirección de correo electrónico</a>",
   "new_application_subject": "{username} ha solicitado unirse a {hostname}",
-  "application_question_required": "Debes añadir un cuestionario de solicitud si se requieren solicitudes.",
   "new_application_body": "Por favor, haga clic en el siguiente enlace para su solicitud.<br><br><a href=\"{applications_link}\">Ver solicitudes</a>",
   "new_report_subject": "Nueva denuncia creada por {reporter_username} sobre {reported_username} en {hostname}",
   "new_report_body": "Por favor, haz clic en el siguiente enlace para ver todas las denuncias.<br><br><a href=\"{reports_link}\">Ver denuncias</a>",

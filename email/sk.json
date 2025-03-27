@@ -3,7 +3,6 @@
   "verify_email_body": "Prosím, kliknite na odkaz nižšie pre overenie e-mailovej adresy vášho účtu @{username}@{hostname}. Tento e-mail ignorujte, ak účet nie je váš.<br><br><a href=\"{verify_link}\">Overte svoj e-mail</a>",
   "new_report_body": "Prosím, kliknite na odkaz nižšie pre zobrazenie všetkých nahlásení.<br><br><a href=\"{reports_link}\">Zobraziť nahlásenia</a>",
   "registration_approved_subject": "Registrácia schválená pre {username}",
-  "application_question_required": "Ak sú žiadosti nevyhnutné, musíte pridať dotazník žiadosti.",
   "password_reset_subject": "Reset hesla pre {username}",
   "verify_email_subject": "Overte svoju e-mailovú adresu pre {hostname}",
   "email_verified_subject": "E-mail bol overený pre {username}",

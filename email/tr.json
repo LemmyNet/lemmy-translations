@@ -2,7 +2,6 @@
   "registration_approved_subject": "{username} için kayıt onaylandı",
   "registration_approved_body": "Kayıt isteğiniz onaylanmıştır. {hostname}'e hoşgeldiniz!",
   "notification_mentioned_by_subject": "{username} bir yorumda sizden bahsetti",
-  "application_question_required": "Eğer başvurular zorunluysa başvuru anketi doldurmanız gerekli.",
   "verify_email_subject": "{hostname} için emailinizi doğrulayın",
   "email_verified_body": "Emailiniz doğrulandı.",
   "email_verified_subject": "{username} için email doğrulandı",

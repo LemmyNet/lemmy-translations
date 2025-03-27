@@ -13,6 +13,5 @@
   "new_report_body": "Нажмите на ссылку ниже, чтобы увидеть все жалобы.<br><br><a href=\"{reports_link}\">Просмотреть жалобы</a>",
   "new_report_subject": "Новая жалоба, создана {reporter_username} для {reported_username} на {hostname}",
   "new_application_subject": "{username} подал заявку на присоединение к {hostname}",
-  "application_question_required": "Вы должны добавить анкету, если требуется подача заявки.",
   "new_application_body": "Нажмите на ссылку ниже, чтобы просмотреть их заявки.<br><br><a href=\"{applications_link}\">Просмотреть заявки</a>"
 }

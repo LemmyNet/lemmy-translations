@@ -10,7 +10,6 @@
   "notification_private_message_subject": "Wiadomość prywatna od {username}",
   "registration_approved_subject": "Rejestracja konta {username} została zatwierdzona",
   "verify_email_body": "Kliknij poniższy link, aby zweryfikować swój adres e-mail dla konta @{username}@{hostname}. Zignoruj ten e-mail, jeśli konto nie należy do Ciebie. <br><br>, <a href=\"{verify_link}\">Zweryfikuj swój adres e-mail</a>",
-  "application_question_required": "Musisz dodać kwestionariusz rejestracyjny jeżeli do rejestracji wymagane jest zgłoszenie.",
   "new_application_subject": "{username} chce dołączyć do {hostname}",
   "new_report_subject": "Nowe zgłoszenie na {reported_username} stworzone przez {reporter_username} na {hostname}",
   "new_application_body": "Kliknij poniższy link, aby wyświetlić ich aplikację.<br><br><a href=\"{applications_link}\">Wyświetl aplikacje</a>",

@@ -1,6 +1,5 @@
 {
   "registration_approved_subject": "{username} 的注册申请已获批准",
-  "application_question_required": "如果注册需要申请，您必须先添加一个申请问卷。",
   "password_reset_subject": "为 {username} 重置密码",
   "verify_email_subject": "验证您在 {hostname} 的电子邮件地址",
   "registration_approved_body": "您的注册申请已获批准。欢迎来到 {hostname}！",
