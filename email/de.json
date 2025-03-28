@@ -1,8 +1,6 @@
 {
   "registration_approved_subject": "Registrierung für {username} genehmigt",
   "registration_approved_body": "Dein Registrierungsantrag wurde genehmigt. Wilkommen auf {hostname}!",
-  "application_question_required": "Du musst einen Bewerbungs-Fragebogen hinzufügen, falls Bewerbungen notwendig sind.",
-  "registration_denied": "Registrierungsantrag abgelehnt",
   "verify_email_subject": "Verifiziere deine Email Adresse für {hostname}",
   "email_verified_subject": "Email verifiziert für {username}",
   "email_verified_body": "Deine Email wurde verifiziert.",
@@ -15,7 +13,5 @@
   "new_report_subject": "Neue Meldung von {reporter_username} über {reported_username} auf {hostname} erstellt",
   "new_report_body": "Bitte klicke auf den Link unten, um alle Meldungen anzusehen.<br><br><a href=\"{reports_link}\">Meldungen ansehen</a>",
   "password_reset_subject": "Passwort für {username} zurücksetzen",
-  "verify_email_body": "Bitte klicke auf den Link unten um deine Email Adresse für das Konto @{username}@{hostname} zu verifizieren. Ignoriere diese Email, falls es sich nicht um dein Konto handelt.<br><br><a href=\"{verify_link}\">Email Adresse verifizieren</a>",
-  "registration_denied_subject": "Registrierung für {username} abgelehnt",
-  "registration_denied_body": "Deine Registrierung für {hostname} wurde abgelehnt."
+  "verify_email_body": "Bitte klicke auf den Link unten um deine Email Adresse für das Konto @{username}@{hostname} zu verifizieren. Ignoriere diese Email, falls es sich nicht um dein Konto handelt.<br><br><a href=\"{verify_link}\">Email Adresse verifizieren</a>"
 }

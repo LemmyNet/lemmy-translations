@@ -1,11 +1,7 @@
 {
   "registration_approved_subject": "Registration approved for {username}",
   "registration_approved_body": "Your registration application has been approved. Welcome to {hostname}!",
-  "registration_denied": "Registration denied",
   "registration_denied_subject": "Registration denied for {username}",
-  "registration_denied_body": "Your registration application for {hostname} has been denied.",
-  "registration_denied_reason_body": "Your registration application for {hostname} has been denied.<br>The following reason was provided:<br><br>\"{deny_reason}\"",
-  "application_question_required": "You must add an application questionnaire if applications are required.",
   "password_reset_subject": "Password reset for {username}",
   "password_reset_body": "<h1>Password Reset Request for {username}</h1><br><a href=\"{reset_link}\">Click here to reset your password</a>",
   "verify_email_subject": "Verify your email address for {hostname}",
@@ -24,5 +20,6 @@
   "new_application_subject": "{username} has applied to join {hostname}",
   "new_application_body": "Please click the link below to view their application.<br><br><a href=\"{applications_link}\">View Applications</a>",
   "new_report_subject": "New report created by {reporter_username} for {reported_username} on {hostname}",
-  "new_report_body": "Please click the link below to view all reports.<br><br><a href=\"{reports_link}\">View Reports</a>"
+  "new_report_body": "Please click the link below to view all reports.<br><br><a href=\"{reports_link}\">View Reports</a>",
+  "new_registration_denied_body": "Your registration for {hostname} has been denied with the following reason:<br><br>{reason}<br><br>You can find another Lemmy instance to register on <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>."
 }

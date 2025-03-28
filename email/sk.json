@@ -3,8 +3,6 @@
   "verify_email_body": "Prosím, kliknite na odkaz nižšie pre overenie e-mailovej adresy vášho účtu @{username}@{hostname}. Tento e-mail ignorujte, ak účet nie je váš.<br><br><a href=\"{verify_link}\">Overte svoj e-mail</a>",
   "new_report_body": "Prosím, kliknite na odkaz nižšie pre zobrazenie všetkých nahlásení.<br><br><a href=\"{reports_link}\">Zobraziť nahlásenia</a>",
   "registration_approved_subject": "Registrácia schválená pre {username}",
-  "registration_denied": "Registrácia zamietnutá",
-  "application_question_required": "Ak sú žiadosti nevyhnutné, musíte pridať dotazník žiadosti.",
   "password_reset_subject": "Reset hesla pre {username}",
   "verify_email_subject": "Overte svoju e-mailovú adresu pre {hostname}",
   "email_verified_subject": "E-mail bol overený pre {username}",
@@ -15,7 +13,5 @@
   "notification_private_message_subject": "Súkromná správa od {username}",
   "new_application_subject": "{username} podal žiadosť o pripojenie k {hostname}",
   "new_application_body": "Prosím, kliknite na odkaz nižšie pre zobrazenie odoslanej žiadosti.<br><br><a href=\"{applications_link}\">Zobraziť žiadosti</a>",
-  "new_report_subject": "Nové nahlásenie vytvorené používateľom {reporter_username} kvôli {reported_username} z {hostname}",
-  "registration_denied_subject": "Registrácia pre používateľa {username} bola zamietnutá",
-  "registration_denied_body": "Vaša registrácia na {hostname} bola zamietnutá."
+  "new_report_subject": "Nové nahlásenie vytvorené používateľom {reporter_username} kvôli {reported_username} z {hostname}"
 }

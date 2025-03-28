@@ -1,11 +1,9 @@
 {
   "registration_approved_subject": "Înregistrare aprobată pentru {username}",
   "registration_approved_body": "Cererea ta de înregistrare a fost aprobată. Bun venit pe {hostname}!",
-  "registration_denied": "Înregistrare refuzată",
   "password_reset_subject": "Parolă resetată pentru {username}",
   "verify_email_subject": "Verifică-ți adresa de e-mail pentru {hostname}",
   "email_verified_subject": "E-mail verificat pentru {username}",
-  "application_question_required": "Trebuie să adaugi un chestionar de înscriere dacă serverul necesită trimiterea unei cereri de înscriere.",
   "notification_post_reply_subject": "Răspuns de la {username}",
   "notification_comment_reply_subject": "Răspuns de la {username}",
   "notification_mentioned_by_subject": "{username} te-a menționat",
@@ -15,7 +13,5 @@
   "new_report_subject": "Raportare: {reported_username} a fost raportat de {reporter_username} pe {hostname}",
   "new_report_body": "Dă clic pe linkul de mai jos pentru a vizualiza toate raportările.<br><br><a href=\"{reports_link}\">Vizualizează raportări</a>",
   "verify_email_body": "Dă clic pe linkul de mai jos pentru a-ți verifica adresa de e-mail asociată contului @{username}@{hostname}. Dacă contul nu îți aparține, ignoră acest e-mail.<br><br>, <a href=\"{verify_link}\">Verifică-ți e-mailul</a>",
-  "email_verified_body": "Adresa ta de e-mail a fost verificată.",
-  "registration_denied_subject": "Înregistrare refuzată pentru {username}",
-  "registration_denied_body": "Cererea ta de înregistrare pentru {hostname} a fost refuzată."
+  "email_verified_body": "Adresa ta de e-mail a fost verificată."
 }

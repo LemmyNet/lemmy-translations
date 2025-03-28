@@ -9,9 +9,5 @@
   "notification_post_reply_subject": "{username} válaszolt",
   "notification_mentioned_by_subject": "{username} megemlített téged",
   "notification_private_message_subject": "{username} privát üzenetet küldött",
-  "verify_email_body": "Kérlek, kattints a lenti linkre a @{username}@{hostname} profil emailcímének megerősítéséhez. Hagyd figyelmen kívül, ha nem te hoztad létre ezt a fiókot.<br><br><a href=\"{verify_link}\">Email megerősítése</a>",
-  "registration_denied": "Regisztráció visszautasítva.",
-  "registration_denied_subject": "Regisztráció elutasítva {username} részére",
-  "registration_denied_body": "A {hostname} regisztrációs kérelmét elutasították.",
-  "application_question_required": "Jelentkezési kérdőívet kell hozzáadni, ha a jelentkezésre kötelező."
+  "verify_email_body": "Kérlek, kattints a lenti linkre a @{username}@{hostname} profil emailcímének megerősítéséhez. Hagyd figyelmen kívül, ha nem te hoztad létre ezt a fiókot.<br><br><a href=\"{verify_link}\">Email megerősítése</a>"
 }

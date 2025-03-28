@@ -10,11 +10,7 @@
   "registration_approved_body": "あなたの新規登録申し込みは承認されました。{hostname}へようこそ！",
   "verify_email_subject": "{hostname}でのメールアドレス認証について",
   "verify_email_body": "以下のリンクをクリックして、アカウント@{username}@{hostname}のメールアドレスを認証してください。このアカウントがあなたのものではない場合は、このメールを無視して下さい。<br><br><a href=\"{verify_link}\">メールアドレスを認証する</a>",
-  "application_question_required": "申し込みが必須であれば、申し込み用のアンケートが必要です。",
-  "registration_denied": "新規登録は拒否されました",
   "new_application_subject": "{username}さんが{hostname}に参加申請をしました",
   "new_application_body": "申請アンケートを見るには下記のリンクをクリックしてください<br><br><a href=\"{applications_link}\">申請を見る</a>",
-  "new_report_subject": "{hostname}で{reporter_username}さんから{reported_username}に対しての報告が新たにに来てます",
-  "registration_denied_subject": "{username}さんの新規登録は拒否されました",
-  "registration_denied_body": "あなたの{hostname}への新規登録申し込みは拒否されました。"
+  "new_report_subject": "{hostname}で{reporter_username}さんから{reported_username}に対しての報告が新たにに来てます"
 }

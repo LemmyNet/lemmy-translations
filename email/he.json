@@ -1,8 +1,5 @@
 {
   "registration_approved_body": "בקשת ההרשמה שלך אושרה. ברוכים הבאים אל {hostname}!",
-  "registration_denied": "ההרשמה נדחתה",
-  "registration_denied_subject": "ההרשמה נדחתה עבור {username}",
-  "application_question_required": "עליך להוסיף שאלון בקשה אם יש צורך בבקשה.",
   "password_reset_subject": "איפוס סיסמה עבור {username}",
   "verify_email_subject": "אמת את כתובת הדוא\"ל שלך עבור {hostname}",
   "email_verified_body": "האימייל שלך אומת.",
@@ -14,7 +11,6 @@
   "new_report_subject": "דוח חדש שנוצר על ידי {reporter_username} על {reported_username} ב-{hostname}",
   "new_report_body": "אנא לחץ על הקישור למטה כדי להציג את כל הדוחות.<br><br><a href=\"{reports_link}\">הצג דוחות</a>",
   "registration_approved_subject": "ההרשמה אושרה עבור {username}",
-  "registration_denied_body": "בקשת הרישום שלך עבור {hostname} נדחתה.",
   "email_verified_subject": "אימייל אומת עבור {username}",
   "verify_email_body": "אנא לחץ על הקישור למטה כדי לאמת את כתובת הדוא\"ל שלך עבור החשבון @{username}@{hostname}. התעלם מאימייל זה אם החשבון אינו שלך.<br><br><a href=\"{verify_link}\">אמת את הדוא\"ל שלך</a>",
   "new_application_body": "אנא לחץ על הקישור למטה כדי להציג את הבקשה שלהם.<br><br><a href=\"{applications_link}\">הצג בקשות</a>"

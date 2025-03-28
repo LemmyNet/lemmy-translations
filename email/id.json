@@ -10,12 +10,8 @@
   "notification_comment_reply_subject": "Balasan dari {username}",
   "notification_mentioned_by_subject": "Disebut oleh {username}",
   "notification_private_message_subject": "Pesan pribadi dari {username}",
-  "registration_denied": "Registrasi ditolak",
-  "application_question_required": "Kamu harus menambahkan pertanyaan aplikasi jika aplikasi diperlukan.",
   "new_application_subject": "{username} telah mendaftar untuk masuk {hostname}",
   "new_application_body": "Silakan klik tautan di bawah ini untuk melihat aplikasi mereka.<br><br><a href=\"{applications_link}\">Lihat Aplikasi</a>",
   "new_report_subject": "Laporan baru dibuat oleh {reporter_username} untuk {reported_username} di {hostname}",
-  "new_report_body": "Silakan klik tautan di bawah ini untuk melihat seluruh laporan.<br><br><a href=\"{reports_link}\">Lihat Laporan</a>",
-  "registration_denied_subject": "Registrasi ditolak untuk {username}",
-  "registration_denied_body": "Aplikasi registrasi kamu untuk {hostname} telah ditolak."
+  "new_report_body": "Silakan klik tautan di bawah ini untuk melihat seluruh laporan.<br><br><a href=\"{reports_link}\">Lihat Laporan</a>"
 }

@@ -10,12 +10,8 @@
   "notification_comment_reply_subject": "Resposta de {username}",
   "notification_mentioned_by_subject": "Mencionado por {username}",
   "notification_private_message_subject": "Mensagem privada de {username}",
-  "registration_denied": "Registo recusado",
-  "application_question_required": "Tens que adicionar um questionário de candidatura se as quiseres tornar necessárias.",
   "new_application_subject": "{username} candidatou-se à {hostname}",
   "new_application_body": "Por favor, clica na ligação abaixo para veres a sua candidatura.<br><br><a href=\"{applications_link}\">Ver candidaturas</a>",
   "new_report_body": "Por favor, clica na ligação abaixo para veres todas as denúncias.<br><br><a href=\"{reports_link}\">Ver denúncias</a>",
-  "new_report_subject": "Nova denúncia criada por {reporter_username} para {reported_username} em {hostname}",
-  "registration_denied_subject": "Registo de {username} rejeitado",
-  "registration_denied_body": "A tua candidatura de registo para a {hostname} foi rejeitada."
+  "new_report_subject": "Nova denúncia criada por {reporter_username} para {reported_username} em {hostname}"
 }

@@ -11,11 +11,7 @@
   "notification_private_message_subject": "Личное сообщение от {username}",
   "registration_approved_body": "Ваша заявка на регистрацию была одобрена. Добро пожаловать на{hostname}!",
   "new_report_body": "Нажмите на ссылку ниже, чтобы увидеть все жалобы.<br><br><a href=\"{reports_link}\">Просмотреть жалобы</a>",
-  "registration_denied": "В регистрации отказано",
   "new_report_subject": "Новая жалоба, создана {reporter_username} для {reported_username} на {hostname}",
   "new_application_subject": "{username} подал заявку на присоединение к {hostname}",
-  "application_question_required": "Вы должны добавить анкету, если требуется подача заявки.",
-  "new_application_body": "Нажмите на ссылку ниже, чтобы просмотреть их заявки.<br><br><a href=\"{applications_link}\">Просмотреть заявки</a>",
-  "registration_denied_subject": "Регистрация для {username} отклонена",
-  "registration_denied_body": "Ваша заявка на регистрацию {hostname} была отклонена."
+  "new_application_body": "Нажмите на ссылку ниже, чтобы просмотреть их заявки.<br><br><a href=\"{applications_link}\">Просмотреть заявки</a>"
 }
