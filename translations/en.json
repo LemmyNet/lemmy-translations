@@ -682,5 +682,9 @@
   "view_registration": "View registration",
   "publish_in_time": "Publish {{time}}",
   "scheduled_publish_time": "Scheduled Publish Time",
-  "post_title_only": "Post Title Only"
+  "post_title_only": "Post Title Only",
+  "donation_dialog_message": "Please donate to support Lemmy development",
+  "donation_dialog_button_donate": "Donate",
+  "donation_dialog_button_hide": "Hide",
+  "donation_dialog_button_hide_permanently": "Hide Permanently"
 }
