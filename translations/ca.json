@@ -701,5 +701,6 @@
     "view_registration": "Veure registre",
     "publish_in_time": "Publicar a les {{time}}",
     "scheduled_publish_time": "Hora de publicació programada",
-    "post_title_only": "Només el títol de la publicació"
+    "post_title_only": "Només el títol de la publicació",
+    "banned_from_community_badge": "Bandejat(da) de la comunitat"
 }
