@@ -1,5 +1,5 @@
 {
-    "post": "send",
+    "post": "Send",
     "mark_as_read": "marker som læst",
     "number_of_posts": "{{formattedCount}} indlæg",
     "number_of_posts_plural": "{{formattedCount}} indlæg",
@@ -681,5 +681,6 @@
     "publish_in_time": "Udgiv {{time}}",
     "scheduled_publish_time": "Planlagt udgivelsestid",
     "post_title_only": "Kun indlægstitel",
-    "fedilink": "fedilink"
+    "fedilink": "fedilink",
+    "banned_from_community_badge": "Bandlyst fra fællesskab"
 }
