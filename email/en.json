@@ -2,7 +2,7 @@
   "registration_approved_body": "Your registration application has been approved. Welcome to {hostname}!",
   "registration_denied": "Registration denied",
   "registration_denied_subject": "Registration denied for {username}",
-  "registration_denied_body": "Your registration application for {hostname} has been denied.",
+  "registration_denied_body": "Your registration application for {hostname} has been denied.<br><br>You can find another Lemmy instance to register on <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
   "registration_denied_reason_body": "Your registration application for {hostname} has been denied.<br>The following reason was provided:<br><br>\"{deny_reason}\"",
   "application_question_required": "You must add an application questionnaire if applications are required.",
   "password_reset_subject": "Password reset for {username}",
