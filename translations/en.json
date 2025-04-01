@@ -686,6 +686,5 @@
   "donation_dialog_title": "Please donate to support Lemmy",
   "donation_dialog_message": "Lemmy is an open source project developed by volunteers and provided for free. Unlike commercial social media there is no advertising or tracking to earn money. Nevertheless the developers need money to pay for food and rent. So if you like to use Lemmy and want to see it continuously improved, please consider donating some money.",
   "donation_dialog_button_donate": "Donate",
-  "donation_dialog_button_hide": "Hide for one year",
-  "donation_dialog_button_hide_permanently": "Hide Permanently"
+  "donation_dialog_button_hide": "Hide"
 }
