@@ -657,6 +657,7 @@
   "private_message_form_user_matrix_blurb": "This user already has a matrix account you can message at <1>{{matrix_id}}</1>.",
   "hide_post": "Hide Post",
   "unhide_post": "Unhide Post",
+  "show_content": "Show Content",
   "show_hidden_posts": "Show hidden posts",
   "hide_hidden_posts": "Hide hidden posts",
   "post_hidden": "Post hidden",
