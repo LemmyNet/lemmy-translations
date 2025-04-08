@@ -355,7 +355,6 @@
   "active_users_in_the_last_day_plural": "{{formattedCount}} aktív felhasználó tegnap",
   "resolve_report": "Jelentés megoldása",
   "registration_application_answer_required": "Regisztrációs kérdőív szükséges.",
-  "lemmy_ml_registration_message": "Mielőtt regisztrálsz a lemmy.ml weboldalon, vess egy pillantást a <1>Joinlemmy</1> oldalra, ahol az érdeklődésednek vagy anyanyelvednek megfelelő példányokkal találkozhatsz. A Lemmy föderált, ezért interakcióba léphetsz és láthatod, hogy mi történik a lemmy.ml oldalon akkor is, ha egy másik példányra regisztráltál.",
   "purge_post": "bejegyzés tisztítása",
   "purge_warning": "Figyelmeztetés: a tisztítással törlöd ezt az elemet és minden benne lévő dolgot az adatbázisból. Ezeket az adatokat később nem fogod tudni helyreállítani. Legyél nagyon óvatos.",
   "legal_information": "Jog",

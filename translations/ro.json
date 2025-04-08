@@ -200,7 +200,6 @@
   "report_reason_required": "Motivul raportării este obligatoriu.",
   "reset_password": "Resetează parola",
   "fill_out_application": "Pentru a te alătura acestui server, va trebui să completezi această cerere și apoi să aștepți să fie acceptată.",
-  "lemmy_ml_registration_message": "Înainte de a te înregistra pe lemmy.ml, te rugăm să arunci un ochi pe <1>Joinlemmy</1> pentru a vedea dacă există o instanță care se potrivește mai bine regiunii, limbi sau intereselor tale. Lemmy este federat, ceea ce înseamnă că poți interacționa cu tot ce vezi pe lemmy.ml, chiar dacă ești înregistrat pe altă instanță.",
   "profile_not_logged_in_alert": "Nu ești logat. Dacă folosești un cont Fediverse care poate urmări utilizatori, atunci poți urmări acest utilizator.",
   "community_not_logged_in_alert": "Nu ești logat. Totuși, te poți abona cu un alt cont Fediverse, spre exemplu Lemmy sau Mastodon. Pentru a putea face asta, introdu în câmpul de căutare al instanței tale următoarele: <1>!{{community}}@{{instance}}</1>",
   "remove_as_mod": "șterge ca moderator",

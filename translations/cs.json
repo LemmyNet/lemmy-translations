@@ -324,7 +324,6 @@
   "expand": "Rozbalit",
   "collapse": "Sbalit",
   "show_report_dialog": "Zobrazit formulář pro nahlášení",
-  "lemmy_ml_registration_message": "Než se zaregistrujete na lemmy.ml, podívejte se prosím na <1> Joinlemmy </1>, zda neexistuje instance, která lépe odpovídá vašemu regionu, jazyku nebo zájmům. Lemmy je federovaná platforma, takže můžete komunikovat se vším, co vidíte na lemmy.ml, přestože jste registrováni na jiné instanci.",
   "number_of_upvotes_0": "{{formattedCount}} souhlas",
   "number_of_upvotes_1": "{{formattedCount}} souhlasy",
   "number_of_upvotes_2": "{{formattedCount}} souhlasů",

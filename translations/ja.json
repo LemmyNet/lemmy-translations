@@ -305,7 +305,6 @@
   "person_block": "このユーザーはあなたをブロックしています。",
   "couldnt_resolve_report": "通報を解決できませんでした。",
   "instance_is_private": "このインスタンスは、管理者によるプライベートなものです。",
-  "lemmy_ml_registration_message": "lemmy.mlに新規登録する前に<1>Joinlemmy</1> を見て、あなたの地域や言語または興味により合ったインスタンスがあるかどうかをチェックしてください。Lemmyインスタンス同士は連合されており、lemmy.ml以外の他のインスタンスにアカウントを登録していたとしても、lemmy.ml上の投稿やコミュニティーやユーザーなどのあらゆる対象と交流することができます。",
   "only_admins_can_create_communities": "コミュニティーの作成を管理者に限定する",
   "trending": "話題",
   "number_of_months": "{{formattedCount}}ヶ月",

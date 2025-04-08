@@ -307,7 +307,6 @@
   "description": "Deskripzioa",
   "change_password": "Aldatu pasahitza",
   "community_creation_admin_only": "Soilik administratzaileek sor ditzakete komunitateak",
-  "lemmy_ml_registration_message": "Lemmy.ml-n erregistratu aurretik, begiratu honi: <1>Joinlemmy</1>, zure eskualdera, hizkuntzara edo interesetara hobeto egokitzen den instantziarik dagoen ikusteko. Lemmy federatuta dago, beraz, lemmy.ml-n ikusten duzun guztiarekin elkarreragin dezakezu, baita beste instantzia batean erregistratuta bazaude ere.",
   "show_scores": "Erakutsi emaitzak",
   "bot_account": "Bot kontua",
   "show_bot_accounts": "Erakutsi bot kontuak",

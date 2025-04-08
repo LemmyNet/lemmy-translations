@@ -304,7 +304,6 @@
   "couldnt_mark_post_as_read": "Kunde inte markera inlägg som läst.",
   "site_description_length_overflow": "Webbplatsbeskrivningen får inte innehålla fler än 150 tecken.",
   "captcha": "Captcha",
-  "lemmy_ml_registration_message": "Innan du registrerar dig på lemmy.ml, kan du besöka <1>Joinlemmy</1> för att se om det finns någon instans som bättre passar din region, språk eller intressen. Lemmy är federerat, så du kan interagera med allt du ser på lemmy.ml även från andra instanse.",
   "cross_posted_from": "fjärrinlägg från: ",
   "comment_here": "Skriv här för att kommentera …",
   "trending": "Populärt",

@@ -320,7 +320,6 @@
   "expand": "Erweitern",
   "collapse": "Einklappen",
   "captcha": "Captcha",
-  "lemmy_ml_registration_message": "Bevor du dich bei lemmy.ml anmeldest, schaue doch bitte noch einmal auf <1>Joinlemmy</1>, ob es eine Instanz gibt, die besser zu deiner Region, Sprache und deinen Interessen passt. Lemmy ist föderiert, also kannst du mit allem, was du auf lemmy.ml interagieren, selbst wenn du auf einer anderen Instanz angemeldet bist.",
   "active_users_in_the_last_week": "{{formattedCount}} aktiver Benutzer in der letzten Woche",
   "active_users_in_the_last_week_plural": "{{formattedCount}} aktive Benutzer in der letzten Woche",
   "unread_reports": "{{formattedCount}} ungelesene Meldung",

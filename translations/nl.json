@@ -312,7 +312,6 @@
   "couldnt_mark_post_as_read": "Het bericht kon niet als gelezen gemarkeerd worden.",
   "blocked_users": "Geblokkeerde gebruikers",
   "unblock_community": "Gemeenschap deblokkeren",
-  "lemmy_ml_registration_message": "Voordat u zich registreert op lemmy.ml, kijk dan eens op <1>Joinlemmy</1> om te zien of er een instantie bestaat die beter past bij uw regio, taal of interesses. Lemmy is federatief, dus u kunt communiceren met alles wat u ziet op lemmy.ml, zelfs als u geregistreerd bent op een andere instantie.",
   "remove_content": "Inhoud verwijderen",
   "remove_content_more": "Berichten, opmerkingen en gemeen­schappen verwijderen",
   "explore_communities": "Gemeenschappen verkennen",

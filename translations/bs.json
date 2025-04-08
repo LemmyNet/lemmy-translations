@@ -666,7 +666,6 @@
   "unfeature_from_local": "Ukloni iz izdvojenih u lokalnom",
   "oauth_authorization_invalid": "Prijava nije autorizovana.",
   "torrent_help": "Lemmy može koristiti tehnologiju pod nazivom BitTorrent za pregledanje ili strimovanje medija. <1>Kliknite ovdje</1> da saznate kako.",
-  "lemmy_ml_registration_message": "Prije nego što se registrirate na lemmy.ml, provjerite na <1>Joinlemmy</1> da li postoji neka instanca koja bolje odgovara vašoj regiji, jeziku ili interesima. Lemmy je federirana platforma, što znači da možete interagovati sa svim sadržajem koji vidite na lemmy.ml, čak i ako ste registrovani na nekoj drugoj instanci.",
   "default_theme": "Zadana tema",
   "federation_debug": "Debug način federacije",
   "rate_limit_register": "Registracije",

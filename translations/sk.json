@@ -289,7 +289,6 @@
   "cake_day_info": "{{ creator_name }} má dnes koláčový deň!",
   "resolve_report": "Vyriešiť nahlásenie",
   "registration_application_sent": "Žiadosť o registráciu bola odoslaná.",
-  "lemmy_ml_registration_message": "Predtým ako sa zaregistrujete na lemmy.ml, pozrite sa prosím na <1>Joinlemmy</1>, či neexistuje inštancia, ktorá sa viac zhoduje s vaším regiónom, jazykom alebo záujmami. Lemmy je federovaná platforma, takže môžete interagovať so všetkým, čo vidíte na lemmy.ml, aj keď ste zaregistrovaní na inej inštancii.",
   "subscribed_description": "Zobrazuje komunity, ktoré odoberáte",
   "unread_messages_0": "{{formattedCount}} neprečítaná správa",
   "unread_messages_1": "{{formattedCount}} neprečítané správy",

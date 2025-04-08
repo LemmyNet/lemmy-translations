@@ -417,7 +417,6 @@
   "unread_reports_3": "{{formattedCount}} تقارير غير مقروءة",
   "unread_reports_4": "{{formattedCount}} تقارير غير مقروءة",
   "unread_reports_5": "{{formattedCount}} تقارير غير مقروءة",
-  "lemmy_ml_registration_message": "قبل التسجيل في Lemmy.ml، ألق نظرة على <1>Joinlemmy</1> لعلك تجد مثيلًا يتناسب مع منطقتك و لغتك واهتماماتك. ليمي مرتبط بالشبكة الموحدة، حيث يمكنك التفاعل مع كل المستخدمين في المثيلات الأخرى.",
   "very_weak": "ضعيف جدًا",
   "created": "أُنشئ",
   "unread_registration_applications_0": "{{formattedCount}} طلب غير مقروء",

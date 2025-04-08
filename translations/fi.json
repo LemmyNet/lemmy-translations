@@ -304,7 +304,6 @@
   "description": "Kuvaus",
   "change_password": "Vaihda salasana",
   "password_changed": "Salasana muutettu.",
-  "lemmy_ml_registration_message": "Ennen kuin rekisteröidyt lemmy.ml -palvelimelle, katso <1>Liity Lemmyyn</1> -sivulta onko siellä paremmin alueellesi, kielellesi tai mielenkiinnonkohteillesi sopiva palvelin. Lemmy-palvelimet ovat yhteydessä toisiinsa, joten voit osallistua keskusteluun ja nähdä kaiken lemmy.ml sisällön, vaikka olisit rekisteröitynyt toiselle Lemmy-palvelimelle.",
   "show_read_posts": "Näytä luetut viestit",
   "community_creation_admin_only": "Vain ylläpitäjät voivat luoda yhteisöjä",
   "couldnt_mark_post_as_read": "Viestiä ei voitu merkitä luetuksi.",
