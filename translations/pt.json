@@ -311,7 +311,6 @@
   "expand": "Expandir",
   "collapse": "Colapsar",
   "captcha": "CAPTCHA",
-  "lemmy_ml_registration_message": "Antes de te registares em lemmy.ml, por favor consulta a página <1>Join-Lemmy</1> e vê se existe uma outra instância que se adeque melhor à tua região, língua e interesses. O Lemmy é federado, portanto podes interagir com tudo o que vê em lemmy.ml, mesmo estando registado numa outra instância.",
   "couldnt_resolve_report": "Não foi possível resolver a denúncia.",
   "show_nsfw": "Mostrar conteúdo NSFW",
   "code": "código",

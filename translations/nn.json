@@ -470,7 +470,6 @@
   "deny_reason": "Grunngjeving for avvising",
   "approved_by": "Godkjend av <1></1>",
   "denied_by": "Avvist av <1></1>",
-  "lemmy_ml_registration_message": "Før du eventuelt registrerer deg på lemmy.ml, sjå på <1>Joinlemmy</1> om det finst ein Lemmy-instans som høver betre geografisk, språkleg eller interesse­messig for deg. Lemmy-instansane snakkar saman, så du kan fullverdig delta med alt på lemmy.ml sjølv om du er registrert på ein annan instans.",
   "hide_modlog_mod_names": "Gøym moderatornamn i mod-loggen",
   "slur_filter_regex": "Regulært uttrykk for nedsetjande språkbruk",
   "federation_enabled": "Føderering er slått på",

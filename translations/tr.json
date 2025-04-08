@@ -446,7 +446,6 @@
   "invalid_url": "Geçersiz bağlantı adresi.",
   "play_captcha_audio": "Captcha Sesini Oynat",
   "required": "Gerekli",
-  "lemmy_ml_registration_message": "lemmy.ml'ye kaydolmadan önce bölgenize, dilinize veya ilgi alanlarınıza daha uygun bir oluşum olup olmadığını görmek için lütfen <1>Joinlemmy</1>'e bakın. Lemmy birleştirilmiş olduğundan, başka bir oluşumda kayıtlı olsanız bile lemmy.ml'de gördüğünüz her şeyle etkileşime girebilirsiniz.",
   "default_theme": "Varsayılan tema",
   "legal_information": "Yasal",
   "federation_debug": "Birleştirme hata ayıklama modu",

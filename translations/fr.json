@@ -452,7 +452,6 @@
   "reset_password": "Réinitialiser le mot de passe",
   "unresolve_report": "Annuler la résolution du signalement",
   "application_email_reason_none": "Adhésion refusée",
-  "lemmy_ml_registration_message": "Avant de vous inscrire sur lemmy.ml, vérifiez sur <1>Joinlemmy</1> qu'il n'existe pas une instance qui correspond plus a votre région, langue ou vos intérêts. Lemmy est fédéré, vous pouvez donc interagir avec ce que vous voyez sur lemmy.ml même si vous êtes inscrit sur une autre instance.",
   "legal_information": "Légal",
   "slur_filter_regex": "Regex de filtrage de mots choquants",
   "invalid_regex": "Expression régulière invalide.",

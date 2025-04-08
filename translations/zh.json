@@ -323,7 +323,6 @@
   "couldnt_find_comment": "无法找到评论。",
   "fill_out_application": "要加入此服务器,你需要填写此申请并等待审核。",
   "email_verified": "你的邮箱已通过验证。",
-  "lemmy_ml_registration_message": "在您在 lemmy.ml 注册之前，请查看 <1>Joinlemmy</1>，以查看是否有更适合您所在地区、语言或兴趣的实例。Lemmy 是可联合的，因此即使您注册了其他实例，您也可以与在 lemmy.ml 上看到的所有内容进行互动。",
   "cannot_leave_admin": "你无法让此实例处于没有管理员的状态",
   "leave_admin_team": "离开管理团队",
   "left_admin_team": "你已离开管理团队",

@@ -386,7 +386,6 @@
   "deny": "Refusar",
   "required": "Requerit",
   "registration_applications": "Candidatura d'inscripcion",
-  "lemmy_ml_registration_message": "Abans de vos enregistrar a lemmy.ml, agachat <1>Joinlemmy</1> per veire s’i a una instància qu’es mai adaptada a vòstra situacion geografica, lingüistica o vòstres interèsses. Lemmy es federat, doncas podètz interagir amb totes los que vesètz sus lemmy.ml, encara que siatz marcat endacòm mai.",
   "legal_information": "Informacions legalas",
   "listing_type": "Tipe de lista",
   "only_mods_can_post_in_community": "Sonque los moderators pòdon publicat dins aquesta comunitat",

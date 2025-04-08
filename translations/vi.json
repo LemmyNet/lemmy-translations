@@ -174,7 +174,6 @@
   "cake_day_info": "Hôm nay là sinh nhật {{ creator_name }}!",
   "blocked_instances": "Máy chủ bị cấm",
   "couldnt_resolve_report": "Không thể giải quyết báo cáo.",
-  "lemmy_ml_registration_message": "Trước khi đăng ký ở lemmy.ml, hãy tham khảo <1>Joinlemmy</1> để xem có máy chủ nào khác phù hợp với tôn giáo, ngôn ngữ hay sở thích của bạn chưa. Lemmy liên hợp, nên bạn có thể tuơng tác với bất cứ gì bạn thấy trên Lemmy, kể cả khi bạn đăng ký ở máy chủ khác.",
   "inbox_for": "Nhắn tin cho <1>{{user}}</1>",
   "mark_all_as_read": "đánh dấu tất cả là đã đọc",
   "type": "Loại",

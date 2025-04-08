@@ -283,7 +283,6 @@
     "site": "Side",
     "taglines": "Underrubrikker",
     "undistinguish": "Skriv som bruger",
-    "lemmy_ml_registration_message": "Før du opretter dig på lemmy.ml, så tag et kig på <1>JoinLemmy</1> for at se om der findes en instans der bedre passer dit område, sprog og interesser. Lemmy er et forbund, så du kan interagere med alt du ser på lemmy.ml, selvom du er registreret hos en anden instans.",
     "slur_filter_regex": "Bandeords-regex",
     "federation_enabled": "Forbund aktiveret",
     "federation_debug": "Forbund debug-tilstand",

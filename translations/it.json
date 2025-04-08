@@ -304,7 +304,6 @@
   "community_creation_admin_only": "Solo gli amministratori possono creare comunità",
   "couldnt_mark_post_as_read": "Impossibile contrassegnare post come letto.",
   "site_description_length_overflow": "La descrizione del sito non può superare i 150 caratteri.",
-  "lemmy_ml_registration_message": "Prima di registrarti su lemmy.ml, per favore visita <1>Joinlemmy</1> per verificare l'esistenza di istanze che si adattano meglio alla tua regione, lingua o interessi. Lemmy è una piattaforma federata, quindi puoi interagire con i contenuti di lemmy.ml, anche se sei registrato su un'altra istanza.",
   "show_scores": "Mostra punteggi",
   "bot_account": "bot",
   "show_bot_accounts": "Mostra profili bot",

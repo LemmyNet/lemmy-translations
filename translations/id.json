@@ -299,7 +299,6 @@
   "community_ban": "Kamu sudah dilarang dari komunitas ini.",
   "couldnt_find_parent_comment": "Tidak bisa menemukan komentar induk.",
   "system_err_login": "Sistem ada kesalahan. Coba keluar dan masuk kembali.",
-  "lemmy_ml_registration_message": "Sebelum kamu mendaftar di lemmy.ml, silakan melihat <1>Gabung Lemmy</1> untuk melihat jika ada peladen yang lebih cocok untuk agama, bahasa, atau minatmu. Lemmy itu terfederasi, jadi kamu bisa berinteraksi dengan semua yang kamu lihat di lemmy.ml meskipun kamu terdaftar di peladen lainnya.",
   "resolve_report": "Selesaikan Laporan",
   "unresolve_report": "Tidak Selesaikan Laporan",
   "report_created": "Laporan Dibuat.",

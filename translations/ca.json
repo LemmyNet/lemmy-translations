@@ -493,7 +493,6 @@
     "error_page_admin_matrix": "Si vols contactar amb un dels administradors de {{instance}} per obtenir assistència, prova les següents adreces de Matrix:",
     "profile_not_logged_in_alert": "No has iniciat sessió. Si fas servir un compte del Fediverse que pugui seguir usuaris, pots seguir aquest usuari.",
     "error_page_paragraph": "S'ha produït un error al servidor. Prova d'actualitzar el navegador. Si això no funciona, torna més tard. Si el problema continua, pots buscar ajuda a la <1>comunitat d'assistència de Lemmy</1> o a la <1>sala de Matrix de Lemmy</1>.",
-    "lemmy_ml_registration_message": "Abans de registrar-te a lemmy.ml, fes ullada a <1>Joinlemmy</1> per veure si hi ha una instància que s'adapti millor a la teva regió, idioma o interessos. Lemmy està federat, de manera que pots interactuar amb tot el que vegis a lemmy.ml, fins i tot si estàs registrat en una altra instància.",
     "federation_strict_allowlist": "Llista estricta de servidors amb permissió per federar",
     "ban_from_community": "Bandeja de la comunitat",
     "upload_too_large": "La imatge pujada és massa gran!",

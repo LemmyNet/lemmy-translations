@@ -187,7 +187,6 @@
   "create_report": "檢舉",
   "show_report_dialog": "顯示檢舉視窗",
   "report_created": "已檢舉。",
-  "lemmy_ml_registration_message": "在您到 lemmy.ml 創建帳號之前，請到 <1>Joinlemmy</1> 尋找是否有更符合您的地區、語言或興趣的 Lemmy 站台。Lemmy 是一個大家庭，就算在其他站台註冊，您依舊可以與 Lemmy.ml 互動。",
   "admin": "管理員",
   "admins": "管理員",
   "remove_as_mod": "移除版主權限",

@@ -318,7 +318,6 @@
   "show_read_posts": "Mostrar publicaciones leídas",
   "only_admins_can_create_communities": "Sólo los administradores pueden crear comunidades",
   "couldnt_mark_post_as_read": "No se pudo marcar la publicación como leído.",
-  "lemmy_ml_registration_message": "Antes de registrarte en lemmy.ml, echa un vistazo a <1>Joinlemmy</1> para ver si hay una instancia que se ajuste mejor a tu región, idioma o intereses. Lemmy está federado, así que puedes interactuar con todo lo que veas en lemmy.ml, incluso si estás registrado en otra instancia.",
   "show_scores": "Mostrar puntuaciones",
   "bot_account": "Cuenta de bot",
   "show_bot_accounts": "Mostrar las cuentas de bots",

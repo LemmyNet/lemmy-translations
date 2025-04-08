@@ -452,7 +452,6 @@
   "unresolve_report": "Nespręsti raporto",
   "captcha_difficulty": "CAPTCHA sunkumas",
   "captcha_enabled": "CAPTCHA įjungta",
-  "lemmy_ml_registration_message": "Prieš užsiregistruodami serveryje lemmy.ml, peržiūrėkite svetainę <1>Joinlemmy</1> ir sužinokite, ar yra jūsų regioną, kalbą ar interesus labiau atitinkantis serveris. „Lemmy“ yra federuotas, todėl galite bendrauti ir matyti viską, ką matytumėte ir lemmy.ml serveryje, nors ir esate užsiregistravę kitame serveryje.",
   "default_theme": "Numatytoji tema",
   "legal_information": "Legalu",
   "hide_modlog_mod_names": "Slėpti veiksmų žurnale esančius moderatorių vardus",

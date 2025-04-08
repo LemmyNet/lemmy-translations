@@ -301,7 +301,6 @@
   "all_description": "Mostre todas as comunidades, incluindo as federadas",
   "websocket_disconnected": "Websocket desconectado",
   "websocket_reconnected": "Websocket reconectado",
-  "lemmy_ml_registration_message": "Antes de se registrar no lemmy.ml, veja <1>Joinlemmy</1> para ver se outra instância melhor reflete sua região, língua ou interesses. Lemmy é federado, então você pode interagir com tudo que você ver no lemmy.ml, mesmo se sua conta for de outra instância.",
   "remove_content": "Apagar Conteúdo",
   "show_read_posts": "Mostrar publicações lidas",
   "comment_here": "Digite aqui para comentar...",
