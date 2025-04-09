@@ -702,5 +702,10 @@
     "publish_in_time": "Publicar a les {{time}}",
     "scheduled_publish_time": "Hora de publicació programada",
     "post_title_only": "Només el títol de la publicació",
-    "banned_from_community_badge": "Bandejat(da) de la comunitat"
+    "banned_from_community_badge": "Bandejat(da) de la comunitat",
+    "donation_dialog_button_donate": "Donar",
+    "donation_dialog_button_hide": "Amagar",
+    "show_content": "Mostrar contingut",
+    "donation_dialog_title": "Donar suport al desenvolupament de Lemmy",
+    "donation_dialog_message": "Som capaces de desenvolupar Lemmy com una plataforma de codi obert lliure de seguiment i anuncis gràcies a la vostra generositat. Un cop l'any us demanem que considereu fer una donació per donar suport a la nostra feina. La seguretat financera ens permet seguir mantenint i millorant la plataforma. Si voleu fer una donació única o recurrent, feu clic al botó següent. Gràcies per utilitzar Lemmy.<br/><br/>Nutomic i Dessalines, desenvoluoadors de Lemmy"
 }
