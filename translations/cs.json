@@ -39,5 +39,6 @@
     "open_source_desc": "Lemmy je a vždy zůstane svobodný a <1>open source</1> software, používající silný <2>copyleft</2> <3>licenci AGPL</3>.",
     "copyright_line": "Lemmy je šířen pod licencí GNU Affero General Public License v3.0",
     "censorship_resistant": "Odolný vůči cenzuře",
-    "blazing_fast_desc": "Vytvořen s použitím těch nejrychlejších frameworků a nástrojů, včetně <1>Rustu</1>, <2>Actixu</2>, <3>Dieselu</3>, <4>Inferna</4> a <5>Typescriptu</5>."
+    "blazing_fast_desc": "Vytvořen s použitím těch nejrychlejších frameworků a nástrojů, včetně <1>Rustu</1>, <2>Actixu</2>, <3>Dieselu</3>, <4>Inferna</4> a <5>Typescriptu</5>.",
+    "follow_communities": "Sledujte komunity z <1>celého</1> světa"
 }
