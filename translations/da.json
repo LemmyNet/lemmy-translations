@@ -1,6 +1,6 @@
 {
     "mobile_apps_for_ios_and_android": "Mobilapps til iOS og Android.",
-    "donate_desc": "Lemmy er gratis software med åben kildekode. Det betyder ingen reklamer eller andre indtægter. <1>Din donation</1> hjælper Lemmy-udviklernes non-profit-organisation og sikrer at vi kan fortsætte med at videreudvikle og forbedre Lemmy.",
+    "donate_desc": "Vi er i stand til at udvikle Lemmy som en gratis software platform med åben kildekode, uden sporing og reklamer, takket være vores brugeres generøsitet. En gang om året beder vi dig overveje at donere for at støtte vores arbejde. Økonomisk sikkerhed tillader os at fortsætte med at vedligeholde og forbedre platformen. Hvis du gerne vil give en enkelt eller gentagende donation, så klik bare på knappen nedenfor. Tak fordi du bruger Lemmy.<br/><br/>Nutomic og Dessalines, udviklere af Lemmy",
     "lemmy_title": "Lemmy – En linksamler for fediverset",
     "join_a_server": "Opret dig på en server",
     "run_a_server": "Start en server",
@@ -130,5 +130,10 @@
     "instance_disclaimer": "Du kan tilgå alt indhold på lemmyverset fra enhver server, så det betyder ikke noget hvilken du vælger.",
     "monthly_active_users": "{{formattedCount}} aktive brugere (brugere der har lavet indlæg eller kommentarer i den sidste måned)",
     "moderation_tools": "Moderationsværktøjer",
-    "explore": "Udforsk"
+    "explore": "Udforsk",
+    "support_on_opencollective": "OpenCollective",
+    "support_on_liberapay": "Liberapay",
+    "support_on_patreon": "Patreon",
+    "support_with_crypto": "Kryptovaluta",
+    "donate_subtitle": "Støt udviklingen af Lemmy"
 }
