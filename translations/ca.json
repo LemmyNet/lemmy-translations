@@ -114,9 +114,14 @@
     "nsfw_support": "Suport de publicacions/comunitats explícites.",
     "based_on_salary": "Basat en un salari mitjà de desenvolupador de programari europeu de {{formattedCount}} de developersalary.com",
     "choose_from_apps": "Trieu entre qualsevol de les aplicacions següents.",
-    "donate_desc": "Lemmy és un programari lliure, de codi obert, sense publicitat, monetització o fons de capital de risc, mai. <1>Les vostres donacions</1> ajudaran a fer créixer l'organització sense ànim de lucre dendesenvolupament Lemmy i garantirà que puguem seguir afegint noves funcions i millorant Lemmy.",
+    "donate_desc": "Som capaços de desenvolupar Lemmy com una plataforma de programari lliure sense seguiments ni anuncis gràcies a la vostra generositat. Un cop l'any us demanem que considereu fer una donació per donar suport a la nostra feina. La seguretat financera ens permet seguir mantenint i millorant la plataforma. Si voleu fer una donació única o recurrent, feu clic al botó següent. Gràcies per utilitzar Lemmy.<br/><br/>Nutomic i Dessalines, desenvolupadors de Lemmy",
     "silver_sponsors_desc": "Els patrocinadors d'argent són aquells que van prometre 40 dòlars mensuals a Lemmy.",
     "instance_disclaimer": "Podeu accedir a tot el contingut del lemmyvers des de qualsevol servidor, de manera que no importa quin trieu.",
     "per_month": "{{formattedCount}} / mes",
-    "closed_source_warning": "Avís: aquesta aplicació és de codi tancat i pot recollir les vostres dades. Feu servir sota el vostre propi risc."
+    "closed_source_warning": "Avís: aquesta aplicació és de codi tancat i pot recollir les vostres dades. Feu servir sota el vostre propi risc.",
+    "support_on_liberapay": "Liberapay",
+    "support_on_patreon": "Patreon",
+    "support_on_opencollective": "OpenCollective",
+    "donate_subtitle": "Donar suport al desenvolupament de Lemmy",
+    "support_with_crypto": "Criptomonedes"
 }
