@@ -48,7 +48,7 @@
     "api_libraries": "API 库",
     "footer_desc": "使用<1>Inferno</1>和<2>Chota</2>制成",
     "join": "加入",
-    "donate_desc": "Lemmy 是一个自由、开源的软件，这意味着永远不会有广告、盈利或风险投资。<1>您的捐助</1> 将帮助 Lemmy 以非营利模式开发，并确保我们能够继续添加新功能并改进 Lemmy。",
+    "donate_desc": "我们能够将Lemmy打造成一个无追踪、无广告的开源平台，全赖用户的慷慨支持。每年一次，我们诚邀您考虑捐款以助力我们的工作。财务保障使我们得以持续维护并优化这一平台。若您有意进行一次性或定期捐赠，只需点击下方按钮即可。感谢您使用Lemmy。<br/><br/>Nutomic和Dessalines，Lemmy开发者",
     "apps": "应用程序",
     "lemmy_long_desc": "Lemmy是一个自托管的社交链接聚合与讨论平台。它完全是自由和开放的，不受任何公司控制。这意味着不会有广告、追踪或秘密算法。内容按社群进行组织，因此您可以轻松订阅感兴趣的话题，而忽略其他话题。通过赞踩将最有趣的条目推至顶部。",
     "support": "支持",
@@ -136,5 +136,10 @@
     "registrations_closed": "关闭注册",
     "requires_application": "需要注册申请",
     "moderation_tools": "管理工具",
-    "explore": "探索"
+    "explore": "探索",
+    "support_on_opencollective": "OpenCollective",
+    "support_on_patreon": "Patreon",
+    "support_on_liberapay": "Liberapay",
+    "support_with_crypto": "Crypto",
+    "donate_subtitle": "支持Lemmy开发"
 }
