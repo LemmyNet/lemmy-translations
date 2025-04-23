@@ -34,9 +34,6 @@
   "browse_instance": "Sirvi",
   "support_title": "Lemmy - tugi",
   "donate_to_lemmy": "Anneta Lemmyle",
-  "code_of_conduct": "Tegevusjuhend",
-  "coc": "Tegevusjuhend",
-  "thanks_translators": "Eriline tänu meie tõlkijatele: ",
   "releases": "Lemmy väljalasked",
   "popular_instances": "Populaarsed",
   "recommended_instances": "Soovitatud",
@@ -53,7 +50,6 @@
   "choose_from_apps": "Vali mõni allolevatest rakendustest.",
   "footer_desc": "Loodud <1>Inferno</1> ja <2>Chota</2> abil",
   "contributers": "Panustajad",
-  "thanks_coders": "Eriline tänu meie arendajatele: ",
   "i18n_support": "<1>Internatsionaliseerimise tugi > 30 keelele.</1>",
   "rss_feeds": "RSS/Atom vood <1>Kõik</1>, <2>Tellitud</2>, <3>Postkast</3>, <4>Kasutaja</4> ja <5>Kogukond</5>."
 }
