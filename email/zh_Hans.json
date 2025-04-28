@@ -14,7 +14,6 @@
     "notification_private_message_subject": "{username} 的私信",
     "new_application_body": "请点击下面的链接查看他们的申请。<br><br><a href=\"{applications_link}\">查看申请</a>",
     "notification_mentioned_by_subject": "被 {username} 提及",
-    "new_registration_denied_body": "您在 {hostname} 的注册申请已被拒绝，原因如下：<br><br>{reason}<br><br>您可以在 <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> 上寻找其他 Lemmy 实例进行注册。",
     "notification_comment_reply_body": "<h1>评论回复</h1><br><div>{username} 在“{post_title}”中回复了“{parent_comment_text}”：{comment_text}</div><br><a href=\"{comment_link}\">评论</a> <a href=\"{inbox_link}\">收件箱</a>",
     "notification_post_reply_body": "<h1>帖子回复</h1><br><div>{username} 回复了“{post_title}”：{comment_text}</div><br><a href=\"{comment_link}\">评论</a> <a href=\"{inbox_link}\">收件箱</a>",
     "password_reset_body": "<h1>用户 {username} 的密码重置请求</h1><br><a href=\"{reset_link}\">点击此处重置密码</a>",
