@@ -706,5 +706,5 @@
     "donation_dialog_button_hide": "Amagar",
     "show_content": "Mostrar contingut",
     "donation_dialog_title": "Donar suport al desenvolupament de Lemmy",
-    "donation_dialog_message": "Som capaces de desenvolupar Lemmy com una plataforma de codi obert lliure de seguiment i anuncis gràcies a la vostra generositat. Un cop l'any us demanem que considereu fer una donació per donar suport a la nostra feina. La seguretat financera ens permet seguir mantenint i millorant la plataforma. Si voleu fer una donació única o recurrent, feu clic al botó següent. Gràcies per utilitzar Lemmy.<br/><br/>Nutomic i Dessalines, desenvoluoadors de Lemmy"
+    "donation_dialog_message": "Lemmy és un nou tipus de xarxa socials centrada en les connexions humanes en lloc d'augmentar el valor per als accionistes. No té seguiment ni publicitat i és a prova de multimilionaris. Tot i això, requereix treball constant a temps complet per gestionar el projecte, implementar noves funcions i corregir errors. A diferència de Reddit, no hi ha capital de risc disponible. En canvi, confiem en les vostres generoses donacions per guanyar-nos la vida. Si us plau, utilitzeu els enllaços següents per fer una donació i ajudar a créixer Lemmy!<br/><br/>Nutomic i Dessalines, desenvolupadors de Lemmy"
 }
