@@ -20,6 +20,5 @@
     "new_report_body": "Feu clic a l'enllaç següent per veure totes les denúncies.<br><br><a href=\"{reports_link}\">Mostrar les denúncies</a>",
     "verify_email_body_with_application": "Feu clic a l'enllaç següent per verificar la vostra adreça electrònica del compte @{username}@{hostname} i, a continuació, espereu que s'aprovi la vostra sol·licitud. Ignoreu aquest correu electrònic si el compte no és vostre.<br><br><a href=\"{verify_link}\">Verifiqueu la vostra adreça electrònica</a>",
     "notification_comment_reply_body": "<h1>Resposta a comentari</h1><br><div>{username} ha respost a «{parent_comment_text}» a «{post_title}»: {comment_text}</div><br><a href=\"{comment_link}\">comentari</a> <a href=\"{inbox_link}\">bústia d'entrada</a>",
-    "new_registration_denied_body": "El vostre registre a {hostname} s'ha denegat pel motiu següent:<br><br>{reason}<br><br>Podeu trobar una altra instància de Lemmy per registrar-vos a <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
     "registration_denied_subject": "S'ha denegat el registre per a {username}"
 }
