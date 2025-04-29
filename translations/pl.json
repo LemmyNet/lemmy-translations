@@ -48,6 +48,11 @@
     "open_source_desc": "Lemmy jest i zawsze będzie wolnym, <1>otwartym</1> oprogramowaniem, wykorzystując silną <2>copyleftową</2> <3>licencję AGPL</3>.",
     "create_discussion_platform_desc": "Z Lemmym możesz <1>łatwo hostować swój własny serwer</1>, serwery te są <2>federowane</2> (podobnie jak poczty) i funkcjonują w tej samej przestrzeni, znanej jako <3>Fediwersum</3>. Dla agregatora linków, oznacza to, że osoba zarejestrowana na jednym serwerze może subskrybować społeczności znajdujące się na innych, oraz dyskutować z osobami z zupełnie różnych serwerów.",
     "choose_from_apps": "Wybierz dowolną z poniższych aplikacji.",
+    "code_of_conduct": "Kodeks postępowania",
+    "coc": "Kodeks",
+    "general_sponsors_desc": "Sponsorzy to osoby które zadeklarowały od 10 do 39$ miesięcznie na Lemmiego.",
+    "silver_sponsors_desc": "Srebrni sponsorzy to osoby, które zobowiązały się płacić po 40$ miesięcznie na Lemmiego.",
+    "donate_desc": "Możemy rozwijać Lemmiego jako open-sourcową platformę wolną od śledzenia i reklam dzięki hojności osób korzystających z tej platformy. Raz na rok prosimy Cię o rozważenie wsparcia naszej pracy. Bezpieczeństwo finansowe pozwala nam kontynuować wsparcie i rozwój platformy. Jeśli zechcesz wykonań jednorazową albo regularną płatność po prostu kliknij jeden z poniższych przycisków. Dziękujemy za używanie Lemmiego.<br/><br/>Nutomic and Dessalines, deweloperzy Lemmiego",
     "support": "Wsparcie",
     "instance_totals": "Lemmywers ma obecnie {{instances}} instancji i {{users}} zarejestrowanych kont.",
     "support_title": "Wsparcie Lemmiego",
@@ -122,5 +127,10 @@
     "instance_comparison": "Po bardziej dokładne porównanie serwerów Lemmiego, zobacz",
     "news": "Aktualności",
     "moderation_tools": "Narzędzia moderacji",
-    "explore": "Eksploruj"
+    "explore": "Eksploruj",
+    "support_on_liberapay": "Liberapay",
+    "support_on_opencollective": "OpenCollective",
+    "donate_subtitle": "Wesprzyj rozwój Lemmiego",
+    "support_with_crypto": "Crypto",
+    "support_on_patreon": "Patreon"
 }
