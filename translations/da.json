@@ -683,7 +683,7 @@
     "fedilink": "fedilink",
     "banned_from_community_badge": "Bandlyst fra fællesskab",
     "donation_dialog_title": "Støt udviklingen af Lemmy",
-    "donation_dialog_message": "Vi kan udvikle Lemmy som en platform med åben kildekode og fri for sporing og reklamer, takket være vores brugeres generøsitet. En gang om året beder vi dig overveje at donere for at støtte vores arbejde. Økonomisk sikkerhed vil lade us fortsætte med at vedligeholde og forbedre platformen. Hvis du gerne vil lave en enkelt eller gentagende donation, så klik blot på knappen nedenfor. Tak fordi du bruger Lemmy.<br/><br/>Nutomic og Dessalines, udviklere af Lemmy",
+    "donation_dialog_message": "Lemmy er en ny slags socialt medie som er fokuseret på menneskelige forbindelser i stedet for at få en aktiekurs til at stige. Der er ingen sporing eller reklamer og platformen kan ikke købes af milliardærer. Det kræver dog konstant fuldtidsarbejde for at vedligeholde projektet, udvikle nye funktioner og rette fejl. I modsætning til Reddit er der ingen ekstern finansiering. Vi afhænger i stedet af gavmilde donationer for at holde vores økonomi kørende. Brug linkene nedenfor for at donere og hjælpe Lemmy gro! <br/><br/> Nutomic og Dessalines, udviklere af Lemmy",
     "show_content": "Vis indhold",
     "donation_dialog_button_hide": "Skjul",
     "donation_dialog_button_donate": "Doner"
