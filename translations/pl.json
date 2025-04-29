@@ -52,7 +52,7 @@
     "coc": "Kodeks",
     "general_sponsors_desc": "Sponsorzy to osoby które zadeklarowały od 10 do 39$ miesięcznie na Lemmiego.",
     "silver_sponsors_desc": "Srebrni sponsorzy to osoby, które zobowiązały się płacić po 40$ miesięcznie na Lemmiego.",
-    "donate_desc": "Lemmy to darmowe, wolne oprogramowanie. Oznacza to brak reklam, monetyzacji czy kapitału inwestycyjnego, na zawsze. <1>Twoje wpłaty</1> pomagają w rozwoju organizacji non-profit developerów Lemmiego i zapewnić, że będziemy mogli dodawać nowe funkcje i ulepszać Lemmiego.",
+    "donate_desc": "Możemy rozwijać Lemmiego jako open-sourcową platformę wolną od śledzenia i reklam dzięki hojności osób korzystających z tej platformy. Raz na rok prosimy Cię o rozważenie wsparcia naszej pracy. Bezpieczeństwo finansowe pozwala nam kontynuować wsparcie i rozwój platformy. Jeśli zechcesz wykonań jednorazową albo regularną płatność po prostu kliknij jeden z poniższych przycisków. Dziękujemy za używanie Lemmiego.<br/><br/>Nutomic and Dessalines, deweloperzy Lemmiego",
     "support": "Wsparcie",
     "thanks_translators": "Specjalne podziękowania dla osób tłumaczących: ",
     "instance_totals": "Lemmywers ma obecnie {{instances}} instancji i {{users}} zarejestrowanych kont.",
@@ -135,5 +135,10 @@
     "instance_comparison": "Po bardziej dokładne porównanie serwerów Lemmiego, zobacz",
     "news": "Aktualności",
     "moderation_tools": "Narzędzia moderacji",
-    "explore": "Eksploruj"
+    "explore": "Eksploruj",
+    "support_on_liberapay": "Liberapay",
+    "support_on_opencollective": "OpenCollective",
+    "donate_subtitle": "Wesprzyj rozwój Lemmiego",
+    "support_with_crypto": "Crypto",
+    "support_on_patreon": "Patreon"
 }
