@@ -101,7 +101,7 @@
     "read_more": "Llegir més",
     "explore": "Explorar",
     "nsfw_support": "Suport de publicacions/comunitats explícites.",
-    "based_on_salary": "Basat en un salari mitjà de desenvolupador de programari europeu de {{formattedCount}} de developersalary.com",
+    "based_on_salary": "Basat en un salari mitjà de desenvolupador de programari europeu de {{formattedCount}} €",
     "choose_from_apps": "Trieu entre qualsevol de les aplicacions següents.",
     "instance_disclaimer": "Podeu accedir a tot el contingut del lemmyvers des de qualsevol servidor, de manera que no importa quin trieu.",
     "per_month": "{{formattedCount}} / mes",
@@ -110,5 +110,8 @@
     "support_on_patreon": "Patreon",
     "support_on_opencollective": "OpenCollective",
     "donate_subtitle": "Donar suport al desenvolupament de Lemmy",
-    "support_with_crypto": "Criptomonedes"
+    "support_with_crypto": "Criptomonedes",
+    "support_on_ko_fi": "Ko-fi",
+    "percent_funded": "{{formattedCount}}% finançat",
+    "donate_desc": "Lemmy és un nou tipus de xarxa social centrada en les connexions humanes en lloc d'augmentar el valor per als accionistes. No té seguiment ni publicitat i és a prova de multimilionaris. Tot i això, requereix treball constant a temps complet per gestionar el projecte, implementar noves funcions i corregir errors. A diferència de Reddit, no hi ha capital de risc disponible. En canvi, confiem en les vostres generoses donacions per guanyar-nos la vida. Si us plau, utilitzeu els enllaços següents per fer una donació i ajudar a créixer Lemmy!<br/><br/>Nutomic i Dessalines, desenvolupadors de Lemmy"
 }
