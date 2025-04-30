@@ -110,7 +110,7 @@
     "servers": "Serviloj",
     "per_month": "{{formattedCount}} / monate",
     "supporters": "{{formattedCount}} subtenantoj",
-    "based_on_salary": "Bazite sur averaĝa eŭropa {{formattedCount}} €-salajro de programisto laŭ developersalary.com",
+    "based_on_salary": "Bazite sur averaĝa eŭropa {{formattedCount}} €-salajro de programisto",
     "total_users": "{{formattedCount}} uzantoj sume",
     "total_comments": "{{formattedCount}} komentoj sume",
     "monthly_active_users": "{{formattedCount}} aktivaj uzantoj (uzantoj, kiuj afiŝis aŭ komentis en la lasta monato)",
@@ -122,5 +122,11 @@
     "censorship_resistant_desc": "Gastigante vian propran servilon, vi povas havi la tutan kontrolon de via enhavo.",
     "least_active": "Malplej aktivaj",
     "moderation_tools": "Iloj por administrantoj",
-    "explore": "Esplori"
+    "explore": "Esplori",
+    "support_on_ko_fi": "Ko-fi",
+    "support_on_liberapay": "Liberapay",
+    "support_on_patreon": "Patreon",
+    "support_on_opencollective": "OpenCollective",
+    "donate_subtitle": "Subtenu la disvolvadon de Lemmy",
+    "support_with_crypto": "Ĉifrovalutoj"
 }
