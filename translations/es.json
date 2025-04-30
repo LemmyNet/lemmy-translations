@@ -111,7 +111,7 @@
     "servers": "Servidores",
     "per_month": "{{formattedCount}} / mes",
     "supporters": "{{formattedCount}} donantes",
-    "based_on_salary": "Basado en un salario medio europeo de programador de {{formattedCount}} € según developersalary.com",
+    "based_on_salary": "Basado en un salario medio europeo de programador de {{formattedCount}} €",
     "total_comments": "{{formattedCount}} comentarios en total",
     "total_users": "{{formattedCount}} usuarios en total",
     "closed_source_warning": "Advertencia: esta aplicación es privativa y podría recopilar tus datos. Úsala bajo tu propia responsabilidad.",
@@ -123,5 +123,13 @@
     "hobbies": "Pasatiempos",
     "monthly_active_users": "{{formattedCount}} usuarios activos (usuarios que han publicado o comentado en el último mes)",
     "moderation_tools": "Herramientas de moderación",
-    "explore": "Explorar"
+    "explore": "Explorar",
+    "support_on_opencollective": "OpenCollective",
+    "support_on_patreon": "Patreon",
+    "support_on_ko_fi": "Ko-fi",
+    "percent_funded": "{{formattedCount}} % financiado",
+    "donate_desc": "Lemmy es un nuevo tipo de red social que se centra en las conexiones humanas en vez de en aumentar el valor para los accionistas. No tiene elementos de rastreo o anuncios y no depende de multimillonarios. Sin embargo, es necesario trabajar a tiempo completo para gestionar el proyecto, implementar nuevas funcionalidades y arreglar errores. A diferencia de Reddit, no hay capital de riesgo. En su lugar dependemos de vuestras generosas donaciones para ganarnos la vida. Por favor, usad los siguientes enlaces para donar y ¡hacer que Lemmy crezca!<br/><br/>Nutomic y Dessalines, desarrolladores de Lemmy",
+    "support_on_liberapay": "Liberapay",
+    "donate_subtitle": "Apoya el desarrollo de Lemmy",
+    "support_with_crypto": "Cripto"
 }
