@@ -52,7 +52,7 @@
     "coc": "Kodeks",
     "general_sponsors_desc": "Sponsorzy to osoby które zadeklarowały od 10 do 39$ miesięcznie na Lemmiego.",
     "silver_sponsors_desc": "Srebrni sponsorzy to osoby, które zobowiązały się płacić po 40$ miesięcznie na Lemmiego.",
-    "donate_desc": "Możemy rozwijać Lemmiego jako open-sourcową platformę wolną od śledzenia i reklam dzięki hojności osób korzystających z tej platformy. Raz na rok prosimy Cię o rozważenie wsparcia naszej pracy. Bezpieczeństwo finansowe pozwala nam kontynuować wsparcie i rozwój platformy. Jeśli zechcesz wykonań jednorazową albo regularną płatność po prostu kliknij jeden z poniższych przycisków. Dziękujemy za używanie Lemmiego.<br/><br/>Nutomic and Dessalines, deweloperzy Lemmiego",
+    "donate_desc": "Lemmy jest nowym typem mediów społecznościowych skupionym na łączeniu ludzi zamiast zwiększaniu zysków akcjonariuszy. Nie ma śledzenia ani reklam i jest odporny na miliarderów. Wymaga jednak stałej pracy aby zarządzać projektem, wdrażać nowe funkcje i naprawiać błędy. W odróżnieniu od Reddita (czy Wykopu) nie ma dostępu do kapitału inwestycyjnego. Zamiast tego polegamy na waszych wspaniałomyślnych datkach, aby mieć z czego żyć. Prosimy skorzystaj z poniższych linków aby przekazać datek i pomóc Lemmiemu rosnąć!.<br/><br/>Nutomic and Dessalines, deweloperzy Lemmiego",
     "support": "Wsparcie",
     "instance_totals": "Lemmywers ma obecnie {{instances}} instancji i {{users}} zarejestrowanych kont.",
     "support_title": "Wsparcie Lemmiego",
@@ -113,7 +113,7 @@
     "per_month": "{{formattedCount}} miesięcznie",
     "total_comments": "{{formattedCount}} wszystkich komentarzy",
     "supporters": "{{formattedCount}} wspierających",
-    "based_on_salary": "Na podstawie Europejskiej mediany €{{formattedCount}} zarobków software developera z developersalary.com",
+    "based_on_salary": "Na podstawie europejskiej mediany €{{formattedCount}} zarobków programistów",
     "total_users": "{{formattedCount}} wszystkich użytkowników",
     "monthly_active_users": "{{formattedCount}} aktywnych użytkowników (użytkownicy którzy postowali lub komentowali w ostatnim miesiącu)",
     "registrations_open": "Rejestracja Otwarta",
@@ -132,5 +132,7 @@
     "support_on_opencollective": "OpenCollective",
     "donate_subtitle": "Wesprzyj rozwój Lemmiego",
     "support_with_crypto": "Crypto",
-    "support_on_patreon": "Patreon"
+    "support_on_patreon": "Patreon",
+    "support_on_ko_fi": "Ko-fi",
+    "percent_funded": "{{formattedCount}}% sfinansowane"
 }
