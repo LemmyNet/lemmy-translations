@@ -1,7 +1,7 @@
 {
     "apply_to_join": "Fogadd el a csatlakozáshoz",
     "month": "hónap",
-    "docs": "Dokumentáció",
+    "docs": "Dokumentációk",
     "support_lemmy": "Támogasd a Lemmy-t",
     "lemmy_title": "Lemmy - Egy hivatkozásgyűjtő a fediverzumhoz",
     "lemmy": "Lemmy",
@@ -79,5 +79,18 @@
     "mobile_apps_for_ios_and_android": "Mobil alkalmazások iOS és Android rendszerekre.",
     "apps_title": "Lemmy - Alkalmazások és Könyvtárak",
     "contact_us": "Írjon <1>Nekünk</1>",
-    "donate_subtitle": "Támogassa a Lemmy fejlesztését"
+    "donate_subtitle": "Támogassa a Lemmy fejlesztését",
+    "donate_desc": "A Lemmy egy újfajta közösségi média, mely az emberi kapcsolatokat helyezi az előtérbe, nem pedig a részvényesek osztalékát. Nincsenek követők és reklámok, és egyben \"milliomos álló\" is. Ennek ellenére folyamatos figyelmet és munkát igényel a projekt, legyen az új funkciók implementálása vagy hibák javítása. A Reddit-el ellentétben nincs kockázati tőke. Ehelyett az adakozó lelkű mecénásokra hagyatkozhatunk csak. Kérjük, használja a lenti linkek egyikét, és támogassa a Lemmy fejlődését!<br/><br/>Nutomic és Dessalines, Lemmy Fejlesztők",
+    "support_on_liberapay": "Liberapay",
+    "support_on_patreon": "Patreon",
+    "support_on_opencollective": "OpenCollective",
+    "apps": "Alkalmazások",
+    "sponsors": "Szponzorok",
+    "browse_instance": "Böngészés",
+    "donate": "Támogatás",
+    "lemmy_servers": "Lemmy <1>Szerverek</1>",
+    "support_on_ko_fi": "Ko-fi",
+    "donate_title": "Lemmy - Támogatás",
+    "support_with_crypto": "Kriptovaluta",
+    "join_title": "Lemmy - Szerverek böngészése"
 }
