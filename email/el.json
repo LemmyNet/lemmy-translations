@@ -20,5 +20,10 @@
     "notification_post_reply_body": "<h1>Απάντηση σε δημοσίευση</h1><br><div>Ο χρήστης {username} απάντησε στο \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">σχόλιο</a> <a href=\"{inbox_link}\">εισερχόμενα</a>",
     "notification_mentioned_by_body": "<h1>Αναφορά προσώπου</h1><br><div>Ο χρήστης {username} σας ανέφερε: {comment_text}</div><br><a href=\"{comment_link}\">σχόλιο</a> <a href=\"{inbox_link}\">εισερχόμενα</a>",
     "notification_private_message_body": "<h1>Ιδιωτικό μήνυμα</h1><br><div>Ο χρήστης {username} σας έστειλε ιδιωτικό μήνυμα: {message_text}</div><br><a href=\"{inbox_link}\">εισερχόμενα</a>",
-    "registration_denied_subject": "Η εγγραφή απορρίφθηκε για τον χρήστη {username}"
+    "registration_denied_subject": "Η εγγραφή απορρίφθηκε για τον χρήστη {username}",
+    "old_notification_mentioned_by_body": "<h1>Αναφορά προσώπου</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
+    "old_notification_comment_reply_body": "<h1>Απάντηση σε σχόλιο</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
+    "old_notification_post_reply_body": "<h1>Απάντηση σε δημοσίευση</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
+    "registration_denied_body": "Η αίτηση εγγραφής σας για το {hostname} έχει απορριφθεί.<br><br>Μπορείτε να βρείτε έναν άλλον διακομιστή Lemmy για να εγγραφείτε στο <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
+    "registration_denied_reason_body": "Η αίτηση εγγραφής σας για το {hostname} έχει απορριφθεί για τον εξής λόγο:<br><br>{reason}<br><br>Μπορείτε να βρείτε έναν άλλον διακομιστή Lemmy για να εγγραφείτε στο <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>."
 }
