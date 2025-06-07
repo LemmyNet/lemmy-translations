@@ -20,5 +20,10 @@
     "registration_denied_subject": "{username} 的注册被拒绝",
     "notification_mentioned_by_body": "<h1>用户提及</h1><br><div>{username} 提到了你：{comment_text}</div><br><a href=\"{comment_link}\">评论</a> <a href=\"{inbox_link}\">收件箱</a>",
     "verify_email_body_with_application": "请点击下方链接验证您的账户 @{username}@{hostname} 的电子邮件地址，然后等待您的申请获得批准。如果该账户不属于您，请忽略此邮件。<br><br><a href=\"{verify_link}\">验证您的电子邮件</a>",
-    "notification_private_message_body": "<h1>私信</h1><br><div>{username} 给你发了一条私信：{message_text}</div><br><a href=\"{inbox_link}\">收件箱</a>"
+    "notification_private_message_body": "<h1>私信</h1><br><div>{username} 给你发了一条私信：{message_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
+    "old_notification_mentioned_by_body": "<h1>提及您的人</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
+    "old_notification_comment_reply_body": "<h1>评论回复</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
+    "old_notification_post_reply_body": "<h1>帖子回复</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
+    "registration_denied_body": "您对 {hostname} 的注册申请已被拒绝。<br><br>您可以在 <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> 找到其它 Lemmy 实例进行注册。",
+    "registration_denied_reason_body": "您对 {hostname} 的注册申请已被拒绝，原因如下：<br><br>{reason}<br><br>您可以在 <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> 找到其它 Lemmy 实例进行注册。"
 }
