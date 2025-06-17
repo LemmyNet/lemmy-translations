@@ -7,11 +7,20 @@ steps:
   #   when:
   #     - event: pull_request
 
-  notify_on_failure:
+  notify_success:
     image: alpine:3
     commands:
       - apk add curl
-      - "curl -d'lemmy-translations CI build failed: ${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
+      - "curl -H'Title: ✔️ ${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}' -d'${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
     when:
       - event: pull_request
-        status: failure
+        status: [success]
+
+  notify_failure:
+    image: alpine:3
+    commands:
+      - apk add curl
+      - "curl -H'Title: ❌ ${CI_REPO_NAME}/${CI_COMMIT_SOURCE_BRANCH}' -d'${CI_PIPELINE_URL}' ntfy.sh/lemmy_drone_ci"
+    when:
+      - event: pull_request
+        status: [failure]
