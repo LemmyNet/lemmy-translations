@@ -25,5 +25,7 @@
   "registration_denied_reason_body": "Your registration for {hostname} has been denied with the following reason:<br><br>{reason}<br><br>You can find another Lemmy instance to register on <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
   "old_notification_mentioned_by_body": "<h1>Person Mention</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
   "old_notification_comment_reply_body": "<h1>Comment reply</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
-  "old_notification_post_reply_body": "<h1>Post reply</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>"
+  "old_notification_post_reply_body": "<h1>Post reply</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
+  "notification_post_subscribed_subject": "New comment for post {title}",
+  "notification_post_subscribed_body": "<h1>New comment</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">comment</a> <a href=\"{inbox_link}\">inbox</a>"
 }
