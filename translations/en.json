@@ -321,7 +321,7 @@
   "email": "Email",
   "matrix_user_id": "Matrix User",
   "invalid_matrix_id": "Invalid matrix id. Must be @user:instance.tld",
-  "private_message_disclaimer": "Warning: Private messages in Lemmy are not secure. Please create an account on <1>Element.io</1> for secure messaging.",
+  "private_message_disclaimer": "Warning: Private messages in Lemmy are not secure. Please create an account on <1>Matrix</1> for secure messaging.",
   "send_notifications_to_email": "Send notifications to Email",
   "optional": "Optional",
   "expires": "Expires",
