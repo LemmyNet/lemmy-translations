@@ -25,5 +25,9 @@
     "old_notification_comment_reply_body": "<h1>Resposta al comentari</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">safata d'entrada</a>",
     "old_notification_mentioned_by_body": "<h1>Menció de persona</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">safata d'entrada</a>",
     "old_notification_post_reply_body": "<h1>Resposta a publicació</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">safata d'entrada</a>",
-    "registration_denied_reason_body": "El vostre registre per a {hostname} ha estat denegat pel següent motiu:<br><br>{reason}<br><br>Podeu trobar una altra instància de Lemmy per registrar-vos a <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>."
+    "registration_denied_reason_body": "El vostre registre per a {hostname} ha estat denegat pel següent motiu:<br><br>{reason}<br><br>Podeu trobar una altra instància de Lemmy per registrar-vos a <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
+    "notification_community_subscribed_subject": "Nova publicació {title} a la comunitat {name}",
+    "notification_community_subscribed_body": "<h1>Nova publicació</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">publicació</a> <a href=\"{inbox_link}\">safata d'entrada</a>",
+    "notification_post_subscribed_subject": "Nou comentari per a la publicació {title}",
+    "notification_post_subscribed_body": "<h1>Nou comentari</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">comentari</a> <a href=\"{inbox_link}\">safata d'entrada</a>"
 }
