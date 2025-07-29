@@ -139,6 +139,7 @@
   "locked": "Locked",
   "unlocked": "Unlocked",
   "locked_post": "Locked post",
+  "locked_post_comment_placeholder": "This post is locked, you can not add a comment.",
   "unlocked_post": "Unlocked post",
   "loading": "Loading",
   "stickied": "stickied",
