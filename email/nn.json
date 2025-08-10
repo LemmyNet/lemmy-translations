@@ -25,5 +25,9 @@
     "old_notification_mentioned_by_body": "<h1>Nemnd av person</h1><br><div>{username} – {comment_text}</div><br><a href=\"{inbox_link}\">innboks</a>",
     "old_notification_comment_reply_body": "<h1>Svar på kommentar</h1><br><div>{username} – {comment_text}</div><br><a href=\"{inbox_link}\">innboks</a>",
     "old_notification_post_reply_body": "<h1>Svar på innlegg</h1><br><div>{username} – {comment_text}</div><br><a href=\"{inbox_link}\">innboks</a>",
-    "registration_denied_subject": "Registrering for {username} avvist"
+    "registration_denied_subject": "Registrering for {username} avvist",
+    "notification_post_subscribed_subject": "Ny kommentar på innlegget {title}",
+    "notification_post_subscribed_body": "<h1>Ny kommentar</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">kommentar</a> <a href=\"{inbox_link}\">innboks</a>",
+    "notification_community_subscribed_subject": "Nytt innlegg {title} i fellesskapet {name}",
+    "notification_community_subscribed_body": "<h1>Nytt innlegg</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">innlegg</a> <a href=\"{inbox_link}\">innboks</a>"
 }
