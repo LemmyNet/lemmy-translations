@@ -22,5 +22,9 @@
     "verify_email_body_with_application": "Моля, използвайте линка по-долу, за да потвърдите Вашия имейл адрес за този акаунт @{username}@{hostname}, след което изчакайте кандидатурата Ви да бъде одобрена. Игнорирайте този имейл, ако този акаунт не е Ваш.<br><br><a href=\"{verify_link}\">Потвърдете своя имейл</a>",
     "registration_denied_reason_body": "Вашата регистрация в {hostname} беше отхвърлена със следната причина:<br><br>{reason}<br><br>Можете да намерите друга Леми инстанция на <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>, на която да се регистрирате.",
     "registration_denied_body": "Вашата кандидатура за регистрация в {hostname} беше отхвърлена.<br><br>Можете да намерите друга Леми инстанция на <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>, на която да се регистрирате.",
-    "registration_denied_subject": "Регистрацията на {username} беше отхвърлена"
+    "registration_denied_subject": "Регистрацията на {username} беше отхвърлена",
+    "notification_post_subscribed_subject": "Нов коментар под публикация {title}",
+    "notification_community_subscribed_subject": "Нова публикация {title} в общност {name}",
+    "notification_post_subscribed_body": "<h1>Нов коментар</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">коментар</a> <a href=\"{inbox_link}\">входящи</a>",
+    "notification_community_subscribed_body": "<h1>Нова публикация</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">публикация</a> <a href=\"{inbox_link}\">входящи</a>"
 }
