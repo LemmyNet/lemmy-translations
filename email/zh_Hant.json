@@ -25,5 +25,9 @@
     "notification_comment_reply_body": "<h1>留言回覆通知</h1><br><div>{username} 回覆了「{parent_comment_text}」中的留言，該留言位於「{post_title}」貼文下：{comment_text}</div><br><a href=\"{comment_link}\">查看回覆</a> <a href=\"{inbox_link}\">收件匣</a>",
     "new_application_subject": "{username} 已申請加入 {hostname}",
     "new_application_body": "請點選下方連結查看他們的申請資料。<br><br><a href=\"{applications_link}\">查看申請</a>",
-    "notification_mentioned_by_body": "<h1>提及通知</h1><br><div>{username} 提到了你：{comment_text}</div><br><a href=\"{comment_link}\">查看留言</a> <a href=\"{inbox_link}\">收件匣</a>"
+    "notification_mentioned_by_body": "<h1>提及通知</h1><br><div>{username} 提到了你：{comment_text}</div><br><a href=\"{comment_link}\">查看留言</a> <a href=\"{inbox_link}\">收件匣</a>",
+    "notification_post_subscribed_subject": "貼文「{title}」的新留言",
+    "notification_post_subscribed_body": "<h1>新留言</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">留言</a> <a href=\"{inbox_link}\">收件匣</a>",
+    "notification_community_subscribed_subject": "社群「{name}」中有新貼文「{title}」",
+    "notification_community_subscribed_body": "<h1>新貼文</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">貼文</a> <a href=\"{inbox_link}\">收件匣</a>"
 }
