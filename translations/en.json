@@ -349,6 +349,7 @@
   "close_registration": "Close Registration",
   "registration_closed": "Registration closed",
   "enable_nsfw": "Enable NSFW",
+  "disallow_nsfw_content": "Disallow NSFW content",
   "url": "URL",
   "body": "Body",
   "custom_thumbnail_url": "Thumbnail URL",
