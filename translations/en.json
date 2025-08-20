@@ -139,6 +139,7 @@
   "locked": "Locked",
   "unlocked": "Unlocked",
   "locked_post": "Locked post",
+  "locked_post_comment_placeholder": "This post is locked, you can not comment.",
   "unlocked_post": "Unlocked post",
   "loading": "Loading",
   "stickied": "stickied",
@@ -349,6 +350,7 @@
   "close_registration": "Close Registration",
   "registration_closed": "Registration closed",
   "enable_nsfw": "Enable NSFW",
+  "disallow_nsfw_content": "Disallow NSFW content",
   "url": "URL",
   "body": "Body",
   "custom_thumbnail_url": "Thumbnail URL",
@@ -722,5 +724,6 @@
   "vote_hide": "Hide",
   "multicommunities": "Multi Communities",
   "liked": "Liked",
-  "none": "None"
+  "none": "None",
+  "back_to_first_page": "First page"
 }
