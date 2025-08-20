@@ -22,5 +22,9 @@
     "notification_private_message_body": "<h1>Privébericht</h1><br><div>{username} heeft u een privébericht gestuurd: {message_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "registration_denied_reason_body": "Uw registratie voor {hostname} is geweigerd om de volgende reden:<br><br>{reason}<br><br>U kunt een andere Lemmy-instantie vinden om te registreren op <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
     "registration_denied_body": "Uw registratie­aanvraag voor {hostname} is afgewezen.<br><br>U kunt een andere Lemmy-instantie vinden om te registreren op <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
-    "registration_denied_subject": "Registratie geweigerd voor {username}"
+    "registration_denied_subject": "Registratie geweigerd voor {username}",
+    "notification_community_subscribed_subject": "Nieuw bericht {title} in gemeenschap {name}",
+    "notification_community_subscribed_body": "<h1>Nieuw bericht</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">bericht</a> <a href=\"{inbox_link}\">postvak IN</a>",
+    "notification_post_subscribed_body": "<h1>Nieuwe opmerking</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">opmerking</a> <a href=\"{inbox_link}\">postvak IN</a>",
+    "notification_post_subscribed_subject": "Nieuwe opmerking voor bericht {title}"
 }

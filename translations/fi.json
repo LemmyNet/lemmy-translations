@@ -66,7 +66,7 @@
     "delete": "Poista",
     "deleted": "Aloittaja poisti",
     "delete_account": "Poista tili",
-    "delete_account_confirm": "Varoitus: tämä poistaa pysyvästi kaikki tietosi tältä palvelimelta (instanssista). Tietojasi ei poisteta muilta palvelimilta (instansseista). Vahvista syöttämällä salasanasi.",
+    "delete_account_confirm": "Varoitus: tämä poistaa tilisi pysyvästi. Tieto poistamisesta ei saata aina välittyä muille palvelimille (instansseille). Vahvista syöttämällä salasanasi.",
     "restore": "Palauta",
     "ban": "Porttikielto",
     "ban_from_site": "Aseta porttikielto sivulle",
@@ -240,7 +240,7 @@
     "superscript": "yläindeksi",
     "header": "otsikko",
     "strikethrough": "yliviivaus",
-    "must_login": "Sinun pitää <1>kirjautua sisään tai rekisteröityä</1>, jotta voit kommentoida.",
+    "must_login": "Sinun pitää <1>kirjautua sisään<1> tai <2>rekisteröityä</2> jotta voit kommentoida.",
     "bio": "Kuvaus",
     "select_a_community": "Valitse yhteisö",
     "invalid_community_name": "Yhteisön nimi ei kelpaa.",
@@ -263,7 +263,7 @@
     "number_of_months": "{{formattedCount}} kuukausi",
     "number_of_months_plural": "{{formattedCount}} kuukautta",
     "local": "Paikallinen",
-    "invalid_password": "Virheellinen salasana. Salasanan pituuden on oltava 10 ja 60 merkin väliltä.",
+    "invalid_password": "Salasanan pituuden on oltava 10 ja 60 merkin väliltä.",
     "join_lemmy": "Liity Lemmyyn",
     "support_lemmy": "Tue Lemmyä",
     "couldnt_find_parent_comment": "Alkuperäistä vastausviestiä ei löydetty.",
@@ -680,5 +680,6 @@
     "banned_from_community_badge": "Porttikiellossa yhteisöstä",
     "donation_dialog_title": "Tue Lemmyn kehitystä",
     "donation_dialog_button_donate": "Lahjoita",
-    "donation_dialog_button_hide": "Piilota"
+    "donation_dialog_button_hide": "Piilota",
+    "upvoted": "Äänestetty ylös"
 }
