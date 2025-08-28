@@ -725,5 +725,11 @@
   "multicommunities": "Multi Communities",
   "liked": "Liked",
   "none": "None",
-  "back_to_first_page": "First page"
+  "back_to_first_page": "First page",
+  "note_created": "Note created",
+  "note_deleted": "Note deleted",
+  "show_user_vote_totals": "Show user vote totals",
+  "vote_totals_for_user": "Vote totals for user",
+  "note_for_user": "Note for user",
+  "create_user_note": "Create user note"
 }
