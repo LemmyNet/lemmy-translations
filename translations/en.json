@@ -503,6 +503,7 @@
   "answer": "Answer",
   "verify_email": "Verify Email",
   "verify_email_sent": "Verification email sent.",
+  "resend_verification_email": "Resend verification email",
   "registration_application_sent": "Registration application sent.",
   "application_questionnaire": "Application Questionnaire",
   "require_email_verification": "Require email verification",
