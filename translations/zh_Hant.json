@@ -702,5 +702,21 @@
     "none": "無",
     "rate_limit_import_user_settings": "匯入設定",
     "private_blurb": "只有經過核准的使用者才能與此社群互動。",
-    "private": "私人"
+    "private": "私人",
+    "disallow_nsfw_content": "禁止 NSFW 內容",
+    "blocked_all_communities_from_these_instances": "已封鎖這些實例中的所有社群",
+    "blocked_all_users_from_these_instances": "已封鎖這些實例中的所有使用者",
+    "blocked_all_communities_from": "已封鎖來自 {{instance}} 的所有社群",
+    "blocked_all_users_from": "已封鎖來自 {{instance}} 的所有使用者",
+    "blocked_x": "已封鎖 {{item}}",
+    "unblocked_x": "已解除封鎖 {{item}}",
+    "resend_verification_email": "重新寄送驗證信",
+    "back_to_first_page": "第一頁",
+    "note_created": "已建立管理筆記",
+    "note_deleted": "已刪除管理筆記",
+    "show_user_vote_totals": "顯示使用者投票總數",
+    "vote_totals_for_user": "使用者投票總數",
+    "note_for_user": "使用者的管理筆記",
+    "create_user_note": "建立使用者管理筆記",
+    "locked_post_comment_placeholder": "這則貼文已被鎖定，你無法留言。"
 }
