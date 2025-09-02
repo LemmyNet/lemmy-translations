@@ -292,6 +292,7 @@
   "login_sign_up": "Login / Sign up",
   "login": "Login",
   "sign_up": "Sign Up",
+  "notifications": "Notifications",
   "notifications_error": "Desktop notifications not available in your browser. Try Firefox or Chrome.",
   "error_page_title": "Error!",
   "error_page_paragraph": "There was an error on the server. Try refreshing your browser. If that doesn't work, come back at a later time. If the problem persists, you can seek help in the <1>Lemmy support community</1> or <2>Lemmy Matrix room</2>.",
