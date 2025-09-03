@@ -742,5 +742,6 @@
   "vote_totals_for_user": "Vote totals for user",
   "note_for_user": "Note for user",
   "create_user_note": "Create user note",
-  "new_account_label": "New account, created within the last 7 days"
+  "new_account_label": "New account, created within the last 7 days",
+  "last_updated": "Last updated"
 }
