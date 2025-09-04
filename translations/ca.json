@@ -714,5 +714,12 @@
     "disallow_nsfw_content": "No permetre contingut NSFW",
     "rate_limit_import_user_settings": "Importar configuració",
     "private": "Privat(da)",
-    "private_blurb": "Només els comptes aprovats poden interactuar amb aquesta comunitat."
+    "private_blurb": "Només els comptes aprovats poden interactuar amb aquesta comunitat.",
+    "blocked_all_communities_from": "S'han blocat totes les comunitats de {{instance}}",
+    "blocked_all_users_from": "S'han blocat tots els comptes de {{instance}}",
+    "blocked_x": "Blocat {{item}}",
+    "unblocked_x": "Desblocat {{item}}",
+    "blocked_all_users_from_these_instances": "S'han blocat tots els comptes d'aquestes instàncies",
+    "blocked_all_communities_from_these_instances": "S'han blocat totes les comunitats d'aquestes instàncies",
+    "resend_verification_email": "Tornar a enviar el correu de verificació"
 }
