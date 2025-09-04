@@ -721,5 +721,8 @@
     "unblocked_x": "Desblocat {{item}}",
     "blocked_all_users_from_these_instances": "S'han blocat tots els comptes d'aquestes instàncies",
     "blocked_all_communities_from_these_instances": "S'han blocat totes les comunitats d'aquestes instàncies",
-    "resend_verification_email": "Tornar a enviar el correu de verificació"
+    "resend_verification_email": "Tornar a enviar el correu de verificació",
+    "read": "Llegir",
+    "notifications": "Notificacions",
+    "hidden": "Amagat"
 }
