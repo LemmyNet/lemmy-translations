@@ -743,5 +743,10 @@
   "note_for_user": "Note for user",
   "create_user_note": "Create user note",
   "new_account_label": "New account, created within the last 7 days",
-  "last_updated": "Last updated"
+  "last_updated": "Last updated",
+  "notification_mode_all_posts_and_comments": "All posts and comments",
+  "notification_mode_all_posts": "All posts",
+  "notification_mode_all_comments": "All comments",
+  "notification_mode_replies_and_mentions": "Replies and mentions (default)",
+  "notification_mode_mute": "Mute"
 }
