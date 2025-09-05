@@ -602,7 +602,7 @@
     "community_visibility": "Видимост",
     "number_of_local_subscribers": "{{formattedCount}} местен абонат",
     "number_of_local_subscribers_plural": "{{formattedCount}} местни абонати",
-    "public": "Публична",
+    "public": "Общодостъпна",
     "local_only": "Само местни",
     "delete_account_content": "Изтриване на всички публикации, коментари и качени изображения",
     "local_only_blurb": "Само потребители на тази инстанция могат да взаимодействат с тази общност.",
@@ -712,5 +712,13 @@
     "auto_mark_fetched_posts_as_read": "Автоматично отбелязване на изтеглена публикация като прочетена",
     "locked_post_comment_placeholder": "Тази публикация е заключена, не можете да коментирате.",
     "disallow_nsfw_content": "Неразрешаване на деликатното съдържание",
-    "back_to_first_page": "Първа страница"
+    "back_to_first_page": "Първа страница",
+    "notification_mode_all_posts": "Всички публикации",
+    "notification_mode_all_comments": "Всички коментари",
+    "notification_mode_mute": "Заглушаване",
+    "notification_mode_all_posts_and_comments": "Всички публикации и коментари",
+    "private": "Частна",
+    "hidden": "Скрита",
+    "note_created": "Бележка създадена",
+    "note_deleted": "Бележка изтрита"
 }
