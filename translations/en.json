@@ -324,7 +324,7 @@
   "email": "Email",
   "matrix_user_id": "Matrix User",
   "invalid_matrix_id": "Invalid matrix id. Must be @user:instance.tld",
-  "private_message_disclaimer": "Warning: Private messages in Lemmy are not secure. Please create an account on <1>Matrix</1> for secure messaging.",
+  "private_message_disclaimer": "Warning: Private messages in Lemmy are not End-to-End encrypted, so the respective instance owners are technically able to read them. Please use a platform with E2E encryption for private messaging. Lemmy recommends <1>Matrix</1> and XMPP.",
   "send_notifications_to_email": "Send notifications to Email",
   "optional": "Optional",
   "expires": "Expires",
