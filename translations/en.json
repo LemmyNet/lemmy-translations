@@ -748,7 +748,7 @@
   "notification_mode_all_posts_and_comments": "All posts and comments",
   "notification_mode_all_posts": "All posts",
   "notification_mode_all_comments": "All comments",
-  "notification_mode_replies_and_mentions": "Replies and mentions (default)",
+  "notification_mode_replies_and_mentions": "Replies and mentions",
   "notification_mode_mute": "Mute",
   "notifications_updated": "Notifications updated",
   "unknown_language": "Unknown language",
