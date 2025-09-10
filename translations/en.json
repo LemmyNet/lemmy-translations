@@ -15,7 +15,7 @@
   "cross_posts": "This link has also been posted to:",
   "cross_post": "cross-post",
   "cross_posted_to": "cross-posted to: ",
-  "cross_posted_from": "cross-posted from: ",
+  "cross_posted_from_community": "cross-posted from: {ap_id}",
   "comments": "Comments",
   "number_of_comments": "{{formattedCount}} Comment",
   "number_of_comments_plural": "{{formattedCount}} Comments",
@@ -369,9 +369,10 @@
   "lemmy_instance_setup": "Lemmy Instance Setup",
   "setup_admin": "Set Up Site Administrator",
   "community_creation_admin_only": "Only Admins can create Communities",
-  "your_site": "your site",
-  "created": "created",
-  "modified": "modified",
+  "setup_your_site": "Setup your site",
+  "edit_your_site": "Edit your site",
+  "created_at": "created: {time}",
+  "modified_at": "modified: {time}",
   "nsfw": "NSFW",
   "show_nsfw": "Show NSFW content",
   "theme": "Theme",
@@ -754,5 +755,6 @@
   "notification_mode_mute": "Mute",
   "notifications_updated": "Notifications updated",
   "unknown_language": "Unknown language",
-  "registered_date_title": "Registered"
+  "registered_date_title": "Registered",
+  "ban_person_button": "Ban {name}"
 }
