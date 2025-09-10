@@ -759,5 +759,10 @@
     "active_daily": "Actiu diàriament",
     "active_weekly": "Actiu setmanalment",
     "active_monthly": "Actiu mensualment",
-    "active_six_months": "Actiu semestralment"
+    "active_six_months": "Actiu semestralment",
+    "notification_mode_all_posts": "Totes les publicacions",
+    "notification_mode_all_comments": "Tots els comentaris",
+    "notification_mode_replies_and_mentions": "Respostes i mencions (per defecte)",
+    "notification_mode_mute": "Silenciar",
+    "notification_mode_all_posts_and_comments": "Totes les publicacions i comentaris"
 }
