@@ -15,7 +15,7 @@
   "cross_posts": "This link has also been posted to:",
   "cross_post": "cross-post",
   "cross_posted_to": "cross-posted to: ",
-  "cross_posted_from_community": "cross-posted from: {ap_id}",
+  "cross_posted_from_url": "cross-posted from: {{- ap_id}}",
   "comments": "Comments",
   "number_of_comments": "{{formattedCount}} Comment",
   "number_of_comments_plural": "{{formattedCount}} Comments",
@@ -371,8 +371,8 @@
   "community_creation_admin_only": "Only Admins can create Communities",
   "setup_your_site": "Setup your site",
   "edit_your_site": "Edit your site",
-  "created_at": "created: {time}",
-  "modified_at": "modified: {time}",
+  "created": "created",
+  "modified": "modified",
   "nsfw": "NSFW",
   "show_nsfw": "Show NSFW content",
   "theme": "Theme",
@@ -756,5 +756,5 @@
   "notifications_updated": "Notifications updated",
   "unknown_language": "Unknown language",
   "registered_date_title": "Registered",
-  "ban_person_button": "Ban {name}"
+  "ban_person_button": "Ban {{name}}"
 }
