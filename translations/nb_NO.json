@@ -56,7 +56,6 @@
     "number_of_users_plural": "{{formattedCount}} brukere",
     "comment_here": "Skriv inn kommentar her...",
     "explore_communities": "Utforsk felleskap",
-    "cross_posted_from": "krysspostet fra: ",
     "view_all_comments": "Vis alle kommentarene",
     "distinguish": "Skriv som moderator",
     "profile_not_logged_in_alert": "Du er ikke innlogget. Hvis du briker en Fediverse-konto som kan følge brukere, kan du følge denne brukeren.",
