@@ -383,7 +383,7 @@
     "couldnt_find_comment": "Коментарът не можа да бъде намерен.",
     "active_users_in_the_last_six_months": "{{formattedCount}} активен потребител през последните 6 месеца",
     "active_users_in_the_last_six_months_plural": "{{formattedCount}} активни потребители през последните 6 месеца",
-    "reports": "Оплаквания",
+    "reports": "Доклади",
     "default_theme": "Тема по подразбиране",
     "email_required": "Изисква се имейл адрес.",
     "filter_by_user": "Филтрирай по потребител",
