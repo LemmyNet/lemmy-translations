@@ -755,6 +755,7 @@
   "liked": "Liked",
   "none": "None",
   "back_to_first_page": "First page",
+  "posts_per_page": "Posts per page",
   "note_created": "Note created",
   "note_deleted": "Note deleted",
   "show_user_vote_totals": "Show user vote totals",
