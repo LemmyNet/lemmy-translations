@@ -29,5 +29,10 @@
   "notification_post_subscribed_subject": "New comment for post {title}",
   "notification_post_subscribed_body": "<h1>New comment</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">comment</a> <a href=\"{inbox_link}\">inbox</a>",
   "notification_community_subscribed_subject": "New post {title} in community {name}",
-  "notification_community_subscribed_body": "<h1>New post</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">post</a> <a href=\"{inbox_link}\">inbox</a>"
+  "notification_community_subscribed_body": "<h1>New post</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">post</a> <a href=\"{inbox_link}\">inbox</a>",
+  "notification_mod_action_subject": "Mod action taken against you",
+  "notification_mod_action_body": "A mod action was taken against you. Please visit the <a href=\"{inbox_link}\">modlog</a> page to view details.",
+  "notification_mod_action_reverted_subject": "Mod action against you was reverted",
+  "notification_mod_action_reverted_body": "A mod action against you was reverted. Please visit the <a href=\"{inbox_link}\">modlog</a> page to view details"
+
 }
