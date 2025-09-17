@@ -775,5 +775,6 @@
   "ban_person_button": "Ban {{name}}",
   "banned_dialog_title_permanent": "You have been permanently banned",
   "banned_dialog_title_temporary": "You have been temporarily banned (expires {{expires}})",
-  "banned_dialog_body": "You cannot post, vote or take other actions. However you can continue to browse the site, and on the settings page export your settings to import on another Lemmy instance, create a backup or delete your account."
+  "banned_dialog_body": "You cannot post, vote or take other actions. However you can continue to browse the site, and on the settings page export your settings to import on another Lemmy instance, create a backup or delete your account.",
+  "expand_all_images": "Expand all images"
 }
