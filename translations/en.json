@@ -201,8 +201,8 @@
   "purge_success": "The item has been successfully purged.",
   "save": "Save",
   "unsave": "Unsave",
-  "create": "create",
-  "creator": "creator",
+  "create": "Create",
+  "creator": "Creator",
   "username": "Username",
   "email_or_username": "Email or Username",
   "number_of_users": "{{formattedCount}} user",
@@ -351,8 +351,9 @@
   "language_plural": "Languages",
   "language_select_placeholder": "Select language",
   "undetermined_language_warning": "Warning: If you deselect Undetermined, you will not see most content.",
-  "browser_default": "Browser Default",
-  "browser_default_compact": "Browser Default Compact",
+  "language_browser_default": "Browser Default",
+  "theme_instance_default": "Instance default",
+  "theme_instance_default_compact": "Instance default (compact)",
   "downvotes_disabled": "Downvotes disabled",
   "enable_downvotes": "Enable Downvotes",
   "upvote": "Upvote",
@@ -782,5 +783,7 @@
   "banned_dialog_title_permanent": "You have been permanently banned",
   "banned_dialog_title_temporary": "You have been temporarily banned (expires {{expires}})",
   "banned_dialog_body": "You cannot post, vote or take other actions. However you can continue to browse the site, and on the settings page export your settings to import on another Lemmy instance, create a backup or delete your account.",
-  "expand_all_images": "Expand all images"
+  "expand_all_images": "Expand all images",
+  "hide_community_reports": "Hide community reports",
+  "show_community_reports": "Show community reports"
 }
