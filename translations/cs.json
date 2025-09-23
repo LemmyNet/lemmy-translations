@@ -142,7 +142,6 @@
     "unread_messages_0": "{{formattedCount}} nepřečtená zpráva",
     "unread_messages_1": "{{formattedCount}} nepřečtené zprávy",
     "unread_messages_2": "{{formattedCount}} nepřečtených zpráv",
-    "browser_default": "Dle prohlížeče",
     "url": "URL",
     "copy_suggested_title": "kopírovat navržený titulek: {{title}}",
     "community": "Komunita",

@@ -88,7 +88,6 @@
     "message_sent": "ส่งข้อความแล้ว",
     "sign_up": "สมัครใช้งาน",
     "unread_messages": "{{formattedCount}} ข้อความที่ยังไม่ได้อ่าน",
-    "browser_default": "ค่าเริ่มต้นของเบราว์เซอร์",
     "recent_comments": "ความคิดเห็นล่าสุด",
     "joined": "เข้าร่วมเมื่อ",
     "from": "จาก",

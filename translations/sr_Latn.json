@@ -4,7 +4,6 @@
     "old_password": "Stara Lozinka",
     "reset_password_mail_sent": "Poslali smo Vam email za promenu lozinke.",
     "private_message_disclaimer": "Napomena: Privatne poruke poslate putem Lemmy-a nisu osigurane. Molimo vas napravite nalog na <1>Riot.im</1> za bezbednu razmenu poruka.",
-    "browser_default": "Podrazumevano od strane pretraživača",
     "number_of_upvotes_0": "{{count}} Gore-glas",
     "number_of_upvotes_1": "{{count}} Gore-glasova",
     "number_of_upvotes_2": "{{count}} Gore-glasa",

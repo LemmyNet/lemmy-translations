@@ -209,7 +209,6 @@
     "send_notifications_to_email": "Skicka aviseringar till e-postadress",
     "language": "Språk",
     "language_plural": "Språk",
-    "browser_default": "Webbläsarens språk",
     "downvotes_disabled": "Nedröstningar inaktiverade",
     "enable_downvotes": "Aktivera nedröstningar",
     "upvote": "Rösta upp",
