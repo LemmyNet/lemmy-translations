@@ -1,7 +1,7 @@
 {
     "post": "publicació",
     "remove_post": "Suprimir publicació",
-    "no_posts": "No hi han publicacions.",
+    "no_posts": "No hi ha publicacions.",
     "create_a_post": "Crea una publicació",
     "create_post": "Crear una publicació",
     "number_of_posts_0": "{{formattedCount}} publicació",
@@ -751,5 +751,8 @@
     "notification_mode_all_comments": "Tots els comentaris",
     "notification_mode_replies_and_mentions": "Respostes i mencions (per defecte)",
     "notification_mode_mute": "Silenciar",
-    "notification_mode_all_posts_and_comments": "Totes les publicacions i comentaris"
+    "notification_mode_all_posts_and_comments": "Totes les publicacions i comentaris",
+    "lock_post": "Bloquejar publicació",
+    "unlock_post": "Desbloquejar publicació",
+    "cross_posted_from_url": "publicació creuada de: {{- ap_id}}"
 }
