@@ -799,5 +799,8 @@
   "cant_view_private_community_message": "You don't have permission to view this community. Click the follow button and wait for manual approval by a moderator to see the content.",
   "expand_all_images": "Expand all images",
   "hide_community_reports": "Hide community reports",
-  "show_community_reports": "Show community reports"
+  "show_community_reports": "Show community reports",
+  "community_pending_follows": "Pending Follows",
+  "pending_private_community_follows": "{{formattedCount}} Pending Follow",
+  "pending_private_community_follows_plural": "{{formattedCount}} Pending Follows"
 }
