@@ -316,7 +316,6 @@
     "interface_language": "Språk for brukergrensesnitt",
     "language_select_placeholder": "Velg språk",
     "undetermined_language_warning": "Advarsel: Hvis du fjerner valget \"Undetermined\" vil det meste av innholdet bli usynlig for deg.",
-    "browser_default": "Standard for nettleseren",
     "downvotes_disabled": "Nedstemming slått av",
     "enable_downvotes": "Slå på nedstemming",
     "upvote": "Stem opp"

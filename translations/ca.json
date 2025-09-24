@@ -1,7 +1,7 @@
 {
     "post": "publicació",
     "remove_post": "Suprimir publicació",
-    "no_posts": "No hi han publicacions.",
+    "no_posts": "No hi ha publicacions.",
     "create_a_post": "Crea una publicació",
     "create_post": "Crear una publicació",
     "number_of_posts_0": "{{formattedCount}} publicació",
@@ -148,7 +148,6 @@
     "language_0": "Idioma",
     "language_1": "Idiomes",
     "language_2": "Idiomes",
-    "browser_default": "Per defecte del navegador",
     "downvotes_disabled": "Vots negatius inhabilitats",
     "enable_downvotes": "Habilita els vots negatius",
     "open_registration": "Obre els registres",
@@ -553,7 +552,6 @@
     "moderator_view": "Vista de moderador",
     "moderator_view_description": "Mostra només les contribucions de les comunitats de les quals ets moderador",
     "days_until_expiration": "Dies fins a l'expiració",
-    "browser_default_compact": "Predeterminat del navegador compacte",
     "upvote_percentage": "{{formattedCount}}% han votat positivament",
     "view_votes": "Veure vots",
     "votes": "Vots",
@@ -751,5 +749,8 @@
     "notification_mode_all_comments": "Tots els comentaris",
     "notification_mode_replies_and_mentions": "Respostes i mencions (per defecte)",
     "notification_mode_mute": "Silenciar",
-    "notification_mode_all_posts_and_comments": "Totes les publicacions i comentaris"
+    "notification_mode_all_posts_and_comments": "Totes les publicacions i comentaris",
+    "lock_post": "Bloquejar publicació",
+    "unlock_post": "Desbloquejar publicació",
+    "cross_posted_from_url": "publicació creuada de: {{- ap_id}}"
 }

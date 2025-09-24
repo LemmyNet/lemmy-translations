@@ -220,7 +220,6 @@
     "login": "Se connectar",
     "sign_up": "Crear un compte",
     "password_changed": "Senhal modificat.",
-    "browser_default": "Prr defaut del navegador",
     "expires": "Expira",
     "inbox_for": "Bóstia de recepcion de <1>{{user}}</1>",
     "mark_all_as_read": "tot marcar coma legit",
