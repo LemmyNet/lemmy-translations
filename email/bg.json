@@ -26,5 +26,8 @@
     "notification_post_subscribed_subject": "Нов коментар под публикация {title}",
     "notification_community_subscribed_subject": "Нова публикация {title} в общност {name}",
     "notification_post_subscribed_body": "<h1>Нов коментар</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">коментар</a> <a href=\"{inbox_link}\">входящи</a>",
-    "notification_community_subscribed_body": "<h1>Нова публикация</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">публикация</a> <a href=\"{inbox_link}\">входящи</a>"
+    "notification_community_subscribed_body": "<h1>Нова публикация</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">публикация</a> <a href=\"{inbox_link}\">входящи</a>",
+    "old_notification_mentioned_by_body": "<h1>Лично споменаване</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>",
+    "old_notification_comment_reply_body": "<h1>Отговор на коментар</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>",
+    "old_notification_post_reply_body": "<h1>Отговор на публикация</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>"
 }
