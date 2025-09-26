@@ -542,6 +542,7 @@
   "email_not_verified": "Email not verified.",
   "email_verified": "Your email has been verified.",
   "email_required": "Email required.",
+  "disable_email_notifications": "Disable email notifications",
   "registration_application_answer_required": "Registration application required.",
   "instance_is_private": "This instance is private.",
   "apply_to_join": "Apply to Join",
