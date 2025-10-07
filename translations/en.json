@@ -501,7 +501,7 @@
   "unblock_community": "Unblock community",
   "blocks": "Blocks",
   "keyword_blocks": "Keyword blocks",
-  "keyword_blocks_placeholder": "Enter any keywords you'd like to block from your feed, separated by newlines.",
+  "keyword_blocks_placeholder": "Enter any keywords you'd like to block from your feed, one block per line.",
   "person_block": "This user has blocked you.",
   "none_found": "None found.",
   "report_reason_required": "Report reason required.",
