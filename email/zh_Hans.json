@@ -25,5 +25,9 @@
     "old_notification_comment_reply_body": "<h1>评论回复</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
     "old_notification_post_reply_body": "<h1>帖子回复</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">收件箱</a>",
     "registration_denied_body": "您对 {hostname} 的注册申请已被拒绝。<br><br>您可以在 <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> 找到其它 Lemmy 实例进行注册。",
-    "registration_denied_reason_body": "您对 {hostname} 的注册申请已被拒绝，原因如下：<br><br>{reason}<br><br>您可以在 <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> 找到其它 Lemmy 实例进行注册。"
+    "registration_denied_reason_body": "您对 {hostname} 的注册申请已被拒绝，原因如下：<br><br>{reason}<br><br>您可以在 <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> 找到其它 Lemmy 实例进行注册。",
+    "notification_post_subscribed_subject": "对帖子《{title}》的新评论",
+    "notification_post_subscribed_body": "<h1>新评论</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">评论</a> <a href=\"{inbox_link}\">收件箱</a>",
+    "notification_community_subscribed_subject": "社区{name}的新帖子{title}",
+    "notification_community_subscribed_body": "<h1>新帖子</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">帖子</a> <a href=\"{inbox_link}\">收件箱</a>"
 }
