@@ -870,5 +870,21 @@
     "small_card": "Targeta petita",
     "disable_email_notifications": "Desactivar les notificacions per correu",
     "contradicting_filters": "No es poden utilitzar els filtres «només m'agrada» i «només no m'agrada» junts",
-    "too_many_items": "Massa elements"
+    "too_many_items": "Massa elements",
+    "invalid_bot_action": "Els bots no poden votar",
+    "too_many_scheduled_posts": "No podeu tenir més de 10 publicacions programades actives alhora",
+    "multi_community_entry_limit_reached": "S'ha assolit el nombre màxim d'entrades per a la multicomunitat",
+    "cannot_combine_community_id_and_multi_community_id": "No es pot combinar l'identificador de comunitat i l'identificador multicomunitari",
+    "tag_not_in_community": "L'etiqueta no està permesa en aquesta comunitat",
+    "cant_block_local_instance": "No es pot blocar la instància local",
+    "url_length_overflow": "URL massa llarga",
+    "not_found": "No s'ha trobat",
+    "post_schedule_time_must_be_in_future": "L'hora de la programació de la publicació ha de ser en el futur",
+    "cannot_combine_federation_blocklist_and_allowlist": "No es pot combinar la llista de bloqueig i la llista de permesos de la federació",
+    "couldnt_parse_pagination_token": "Token de paginació no vàlid",
+    "invalid_fetch_limit": "Límit de recuperació no vàlid",
+    "ban_expiration_in_past": "L'hora de caducitat de la prohibició és en el passat",
+    "invalid_unix_time": "Marca de temps d'Unix no vàlida",
+    "email_notifications_disabled": "Les notificacions per correu estan desactivades en aquesta instància",
+    "multi_community_update_wrong_user": "No teniu permís per actualitzar aquesta multicomunitat"
 }
