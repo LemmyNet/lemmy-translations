@@ -868,5 +868,7 @@
     "couldnt_create_image_captcha": "No s'ha pogut crear la imatge del captcha",
     "email_send_failed": "No s'ha pogut enviar el correu",
     "small_card": "Targeta petita",
-    "disable_email_notifications": "Desactivar les notificacions per correu"
+    "disable_email_notifications": "Desactivar les notificacions per correu",
+    "contradicting_filters": "No es poden utilitzar els filtres «només m'agrada» i «només no m'agrada» junts",
+    "too_many_items": "Massa elements"
 }
