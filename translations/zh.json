@@ -797,8 +797,6 @@
     "cant_note_yourself": "无法自行记录",
     "cant_block_admin": "无法屏蔽管理员",
     "passwords_do_not_match": "密码不匹配",
-    "image_url_missing_path_segments": "图片链接无效",
-    "image_url_missing_last_path_segment": "图片链接无效",
     "pictrs_api_key_not_provided": "Pictrs API密钥缺失",
     "not_an_image_type": "不是图像文件类型",
     "invalid_image_upload": "上传的图片无效",
