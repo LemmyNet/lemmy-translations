@@ -807,8 +807,6 @@
   "cant_note_yourself": "Cant note yourself",
   "cant_block_admin": "Cant block admin",
   "passwords_do_not_match": "Passwords dont match",
-  "image_url_missing_path_segments": "Image url invalid",
-  "image_url_missing_last_path_segment": "Image url invalid",
   "pictrs_api_key_not_provided": "Pictrs API key missing",
   "no_content_type_header": "No content-type header",
   "not_an_image_type": "Not an image filetype",
