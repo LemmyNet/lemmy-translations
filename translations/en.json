@@ -116,6 +116,7 @@
   "profile_not_logged_in_alert": "You are not logged in. If you use a Fediverse account that is able to follow users, you can follow this user.",
   "community_not_logged_in_alert": "You are not logged in. However you can subscribe from another Fediverse account, for example Lemmy or Mastodon. To do this, paste the following into the search field of your instance: <1>!{{community}}@{{instance}}</1>",
   "site_config": "Site Configuration",
+  "infinite_scrolling": "Infinite scrolling",
   "remove_as_mod": "Remove as mod",
   "remove_as_mod_are_you_sure": "Are you sure you want to remove {{user}} as a moderator for {{community}}?",
   "removed_mod": "Removed moderator",
