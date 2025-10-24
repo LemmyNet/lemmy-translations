@@ -514,6 +514,7 @@
   "couldnt_resolve_report": "Couldn't resolve report.",
   "expand": "Expand",
   "collapse": "Collapse",
+  "collapse_bot_comments": "Collapse bot comments",
   "captcha": "Captcha",
   "reports": "Reports",
   "reporter": "Reporter",
