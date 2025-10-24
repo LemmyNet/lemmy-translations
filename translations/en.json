@@ -412,6 +412,7 @@
   "yes": "Yes",
   "no": "No",
   "not_logged_in": "Not logged in.",
+  "stay_logged_in": "Stay logged in",
   "bio_length_overflow": "User bio cannot exceed 1000 characters.",
   "logged_in": "Logged in.",
   "must_login": "You must <1>log in</1> or <2>register</2> to comment.",
