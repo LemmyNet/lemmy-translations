@@ -883,5 +883,7 @@
   "email_notifications_disabled": "Email notifications are disabled on this instance",
   "multi_community_update_wrong_user": "You are not allowed to update this multi-community",
   "cannot_combine_community_id_and_multi_community_id": "",
-  "multi_community_entry_limit_reached": "Maximum number of entries reached for multi-community"
+  "multi_community_entry_limit_reached": "Maximum number of entries reached for multi-community",
+  "too_many_requests": "Too many requests",
+  "cannot_leave_mod": "Cannot leave mod"
 }
