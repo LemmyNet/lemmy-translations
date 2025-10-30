@@ -33,6 +33,7 @@
   "notification_mod_action_subject": "Mod action {kind} taken against you",
   "notification_mod_action_body": "A mod action was taken against you.<br>Reason: {reason}<br>Please visit the <a href=\"{inbox_link}\">modlog</a> page to view more details.",
   "notification_mod_action_reverted_subject": "Mod action {kind} against you was reverted",
-  "notification_mod_action_reverted_body": "A mod action against you was reverted.<br>Reason: {reason}<br>Please visit the <a href=\"{inbox_link}\">modlog</a> page to view more details"
-
+  "notification_mod_action_reverted_body": "A mod action against you was reverted.<br>Reason: {reason}<br>Please visit the <a href=\"{inbox_link}\">modlog</a> page to view more details",
+  "welcome_post_title": "Welcome to Lemmy!",
+  "welcome_post_body": "To get started you can [read the documentation](https://join-lemmy.org/docs/index.html).\n\nYour instance is already federated with the Lemmyverse. Go to the \"All\" tab on the frontpage to see content from other instances. This content is incomplete, follow a community to receive all new posts, comments and votes. For more details see [Getting started with Federation](https://join-lemmy.org/docs/administration/federation_getting_started.html).\n\nIf you have any problems with Lemmy, check out the [Troubleshooting guide](https://join-lemmy.org/docs/administration/troubleshooting.html). You can also ask questions in !lemmy@lemmy.ml or the [admin chat on Matrix](https://matrix.to/#/#lemmy-support-general:discuss.online).\n\nTo get notified about new Lemmy versions, please subscribe to one of the following channels:\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\nYou can delete or unfeature this post with the context menu above."
 }
