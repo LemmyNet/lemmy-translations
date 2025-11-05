@@ -1,4 +1,17 @@
 {
-  "registration_approved_subject": "Regjistrimi u aprovua për {username}",
-  "registration_approved_body": "Kërkesa juaj për regjistrim është aprovuar. Mirësevini në {hostname}!"
+  "new_application_body": "Kliko në lidhjen më poshtë për të parë aplikacionin e tyre.<br><br><a href=\"{applications_link}\">Shikoni aplikacionet</a>",
+  "registration_approved_subject": "Regjistrimi i miratuar për {username}.",
+  "password_reset_subject": "Rivendosja e fjalëkalimit për {username}",
+  "email_verified_subject": "Adresa e emailit është verifikuar për {username}",
+  "verify_email_body": "Kliko në lidhjen më poshtë për të verifikuar adresën tënde të emailit për llogarinë @{username}@{hostname}. Injoroje këtë e-mail nëse llogaria nuk është e jotja.<br><br><a href=\"{verify_link}\">Verifiko adresën tënde të emailit</a>",
+  "notification_mentioned_by_subject": "Përmendur nga {username}",
+  "notification_comment_reply_subject": "Përgjigje nga {username}",
+  "notification_post_reply_subject": "Përgjigje nga {username}",
+  "notification_private_message_subject": "Mesazh privat nga {username}",
+  "new_report_subject": "Raport i ri i krijuar nga {reporter_username} për {reported_username} në {hostname}",
+  "new_report_body": "Kliko në lidhjen më poshtë për të parë të gjitha raportet.<br><br><a href=\"{reports_link}\">Shikoni raportet</a>",
+  "new_application_subject": "{username} ka aplikuar për t'u bashkuar në {hostname}",
+  "email_verified_body": "Adresa juaj e emailit është verifikuar.",
+  "verify_email_subject": "Verifiko adresën tënde të emailit për {hostname}",
+  "registration_approved_body": "Aplikacioni yt i regjistrimit është miratuar. Mirë se vini në {hostname}!"
 }
