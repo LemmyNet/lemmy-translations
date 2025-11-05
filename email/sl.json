@@ -1,0 +1,17 @@
+{
+  "new_application_body": "Kliknite na spodnjo povezavo, da si ogledate njihovo prijavo.<br><br><a href=\"{applications_link}\">Oglejte si prijave</a>",
+  "registration_approved_subject": "Registracija odobrena za {username}.",
+  "password_reset_subject": "Ponastavitev gesla za {username}",
+  "email_verified_subject": "E-poštni naslov je preverjen za {username}",
+  "verify_email_body": "Kliknite na spodnjo povezavo, da preverite svoj e-poštni naslov za račun @{username}@{hostname}. Prezrite to e-poštno sporočilo, če račun ni vaš.<br><br><a href=\"{verify_link}\">Preverite svoj e-poštni naslov</a>",
+  "notification_mentioned_by_subject": "Omenjen/a s strani {username}",
+  "notification_comment_reply_subject": "Odgovor s strani {username}",
+  "notification_post_reply_subject": "Odgovor s strani {username}",
+  "notification_private_message_subject": "Zasebno sporočilo od {username}",
+  "new_report_subject": "Novo poročilo je ustvaril/a {reporter_username} za {reported_username} na {hostname}",
+  "new_report_body": "Kliknite na spodnjo povezavo, da si ogledate vsa poročila.<br><br><a href=\"{reports_link}\">Oglejte si poročila</a>",
+  "new_application_subject": "{username} je vložil/a vlogo za pridružitev na {hostname}",
+  "email_verified_body": "Vaš e-poštni naslov je preverjen.",
+  "verify_email_subject": "Preverite svoj e-poštni naslov za {hostname}",
+  "registration_approved_body": "Vaša vloga za registracijo je odobrena. Dobrodošli na {hostname}!"
+}
