@@ -673,6 +673,7 @@
     "image": "圖像",
     "upload": "上傳",
     "enable_private_messages": "啟用私訊",
+    "enable_keyboard_shortcuts": "啟用鍵盤快捷鍵",
     "auto_mark_fetched_posts_as_read": "自動將抓取的貼文標記為已讀",
     "upload_and_publish_image_title": "要上傳這張圖片嗎？",
     "upload_and_publish_image_desc": "上傳的圖片將會分發到聯邦實例，無需任何額外使用者操作。",

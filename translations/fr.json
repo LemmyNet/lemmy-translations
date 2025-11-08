@@ -476,6 +476,7 @@
     "remove_instance": "Supprimer l'instance",
     "add_instance": "Ajouter une instance",
     "open_links_in_new_tab": "Ouvrir les liens dans un nouvel onglet",
+    "enable_keyboard_shortcuts": "Activer les raccourcis clavier",
     "op": "OP",
     "couldnt_create_audio_captcha": "Échec de la création d'un Captcha audio.",
     "incorrect_login": "Identifiants de connexion invalide",

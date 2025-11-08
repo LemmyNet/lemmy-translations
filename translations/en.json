@@ -777,6 +777,7 @@
   "image": "Image",
   "upload": "Upload",
   "enable_private_messages": "Enable private messages",
+  "enable_keyboard_shortcuts": "Enable keyboard shortcuts",
   "auto_mark_fetched_posts_as_read": "Automatically mark fetched post as read",
   "upload_and_publish_image_title": "Upload this image?",
   "upload_and_publish_image_desc": "The uploaded image will be distributed to federated instances without any further user interactions.",

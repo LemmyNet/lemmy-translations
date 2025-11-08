@@ -318,5 +318,6 @@
     "continue": "এগিয়ে যাও",
     "uploader": "আপলোডকারী",
     "uploads": "আপলোডসমূহ",
-    "oauth_providers": "সরবরাহক"
+    "oauth_providers": "সরবরাহক",
+    "enable_keyboard_shortcuts": "কীবোর্ড শর্টকাট সক্ষম করুন"
 }

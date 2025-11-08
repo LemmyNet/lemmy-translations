@@ -397,5 +397,6 @@
     "purge_success": "Aqueste element es estat corrèctament purgat.",
     "subscribe_pending": "Abonament en espèra",
     "hide_modlog_mod_names": "Rescondre los nom dels moderators dins los logs",
-    "view_all_comments": "Veire totes los comentaris"
+    "view_all_comments": "Veire totes los comentaris",
+    "enable_keyboard_shortcuts": "Activar los acorchis de clavièr"
 }

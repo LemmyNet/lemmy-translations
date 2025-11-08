@@ -484,5 +484,6 @@
     "registration_closed": "Registrácia uzatvorená",
     "enable_nsfw": "Povoliť citlivý obsah",
     "default_theme": "Predvolený motív",
-    "legal_information": "Právne informácie"
+    "legal_information": "Právne informácie",
+    "enable_keyboard_shortcuts": "Povoliť klávesové skratky"
 }

@@ -477,6 +477,7 @@
     "site_name_length_overflow": "Site-naam mag niet langer zijn dan 20 tekens",
     "couldnt_create_audio_captcha": "Kon audio-captcha niet aanmaken.",
     "open_links_in_new_tab": "Links openen in een nieuw tabblad",
+    "enable_keyboard_shortcuts": "Sneltoetsen inschakelen",
     "reports_email_admins": "Administratoren e-mailen bij het ontvangen van nieuwe rapportages",
     "application_email_admins": "Administratoren e-mailen bij het ontvangen van nieuwe aanvragen",
     "hide_modlog_mod_names": "Moderatornamen uit moderatielogboek verbergen",

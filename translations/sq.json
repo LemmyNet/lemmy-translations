@@ -777,6 +777,7 @@
   "image": "Imazhi",
   "upload": "Ngarko",
   "enable_private_messages": "Aktivizo mesazhet private",
+  "enable_keyboard_shortcuts": "Aktivizo shkurtoret e tastierës",
   "auto_mark_fetched_posts_as_read": "Shëno automatikisht postimet e marra si të lexuara",
   "upload_and_publish_image_title": "Ngarko këtë imazh?",
   "upload_and_publish_image_desc": "Imazhi i ngarkuar do të shpërndahet në instancat e federuara pa ndonjë ndërveprim tjetër të përdoruesit.",

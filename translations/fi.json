@@ -692,6 +692,7 @@
     "image": "Kuva",
     "upload": "Lataa instanssille",
     "enable_private_messages": "Salli yksityiset viestit",
+    "enable_keyboard_shortcuts": "Salli pikanäppäimet",
     "auto_mark_fetched_posts_as_read": "Merkitse haettu julkaisu automaattisesti luetuksi",
     "upload_and_publish_image_title": "Lataa tämä kuva instanssille?",
     "vote_show": "Näytä",

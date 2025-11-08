@@ -529,6 +529,7 @@
     "permissive_regex": "الريجكس ستوافق أي نص مقدم.",
     "couldnt_create_audio_captcha": "تعذر إنشاء كابتشة الصوتية.",
     "open_links_in_new_tab": "افتح الروابط في تبويبة جديدة",
+    "enable_keyboard_shortcuts": "تفعيل اختصارات لوحة المفاتيح",
     "remove_instance": "حذف المثيل",
     "error_page_title": "خطأ!",
     "not_found_page_title": "الصفحة غير موجودة",

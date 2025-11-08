@@ -464,6 +464,7 @@
     "couldnt_create_audio_captcha": "음성 보안 코드를 생성하는 데에 실패했습니다.",
     "op": "원게시자",
     "open_links_in_new_tab": "링크를 새 탭으로 열기",
+    "enable_keyboard_shortcuts": "키보드 단축키 활성화",
     "add_instance": "인스턴스 추가",
     "remove_instance": "인스턴스 제거",
     "import_success": "설정을 성공적으로 불러왔습니다!",

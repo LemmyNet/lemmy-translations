@@ -569,6 +569,7 @@
     "remove_instance": "Szerver eltávolítása",
     "add_instance": "Szerver hozzáadása",
     "open_links_in_new_tab": "Hivatkozások megnyitása új fülön",
+    "enable_keyboard_shortcuts": "Billentyűparancsok engedélyezése",
     "couldnt_create_audio_captcha": "Hang captcha-t nem lehetett létrehozni.",
     "incorrect_login": "Helytelen belépési adatok",
     "show_password": "Jelszó megjelenítése",

@@ -465,6 +465,7 @@
     "remove_instance": "インスタンスを削除する",
     "add_instance": "インスタンスを追加する",
     "open_links_in_new_tab": "リンクを新しいタブで開く",
+    "enable_keyboard_shortcuts": "キーボードショートカットを有効にする",
     "op": "OP(オリジナルの投稿者)",
     "couldnt_create_audio_captcha": "オーディオCaptchaを作成できませんでした。",
     "incorrect_login": "間違ったログイン情報",

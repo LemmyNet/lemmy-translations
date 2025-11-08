@@ -320,5 +320,6 @@
     "denied": "diúltaithe",
     "restored_post": "Postáil athchóirithe",
     "removed_comment": "Trácht a Bhaint",
-    "restored_comment": "Trácht athchóirithe"
+    "restored_comment": "Trácht athchóirithe",
+    "enable_keyboard_shortcuts": "Cumasaigh aicearraí méarchláir"
 }

@@ -318,5 +318,6 @@
     "undetermined_language_warning": "Advarsel: Hvis du fjerner valget \"Undetermined\" vil det meste av innholdet bli usynlig for deg.",
     "downvotes_disabled": "Nedstemming slått av",
     "enable_downvotes": "Slå på nedstemming",
-    "upvote": "Stem opp"
+    "upvote": "Stem opp",
+    "enable_keyboard_shortcuts": "Aktiver tastatursnarveier"
 }

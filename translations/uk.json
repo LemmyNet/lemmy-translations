@@ -335,6 +335,7 @@
     "application_email_admins": "Надсилати електронні листи адміністраторам, коли надходять нові подання на вступ",
     "federation_http_fetch_retry_limit": "Ліміт повторних запитів на федерацію через HTTP",
     "open_links_in_new_tab": "Відкривати посилання в новій вкладці",
+    "enable_keyboard_shortcuts": "Увімкнути клавіатурні скорочення",
     "federation_strict_allowlist": "Строгий перелік дозволених федерацій",
     "jump_to_content": "Перейти до вмісту",
     "cant_enable_private_instance_and_federation_together": "Не можна одночасно робити приватний примірник і федерацію",

@@ -724,6 +724,7 @@
     "image": "Imatge",
     "upload": "Pujar",
     "enable_private_messages": "Activar els missatges privats",
+    "enable_keyboard_shortcuts": "Activar dreceres de teclat",
     "upload_and_publish_image_title": "Pujar aquesta imatge?",
     "upload_and_publish_image_desc": "La imatge pujada es distribuirà automàticament a instàncies federades.",
     "vote_show_for_others": "Mostrar als altres",

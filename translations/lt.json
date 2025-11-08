@@ -484,5 +484,6 @@
     "failed_to_delete_picture": "Nepavyko ištrinti paveikslėlio: {{filename}}",
     "unblock_community": "Atblokuoti bendruomenę",
     "blocks": "Draudimai",
-    "none_found": "Nerasta."
+    "none_found": "Nerasta.",
+    "enable_keyboard_shortcuts": "Įgalinti klaviatūros sparčiuosius klavišus"
 }

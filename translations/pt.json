@@ -486,6 +486,7 @@
     "remove_instance": "Remover instância",
     "add_instance": "Adicionar instância",
     "open_links_in_new_tab": "Abrir ligações num novo separador",
+    "enable_keyboard_shortcuts": "Ativar atalhos de teclado",
     "couldnt_create_audio_captcha": "Não foi possível criar CAPTCHA de áudio.",
     "op": "OP",
     "hide_password": "Esconder palavra-passe",

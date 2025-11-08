@@ -454,6 +454,7 @@
     "add_instance": "Gehitu instantzia",
     "remove_instance": "Kendu instantzia",
     "open_links_in_new_tab": "Ireki estekak erlaitz berri batean",
+    "enable_keyboard_shortcuts": "Gaitu teklatu lasterbideak",
     "couldnt_create_audio_captcha": "Ezin izan da soinu-captcha sortu.",
     "loading": "Igotzen",
     "undetermined_language_warning": "Kontuz: Undetermined hautatutakoen artean ez badago, eduki gehiena ez duzu ikusiko.",

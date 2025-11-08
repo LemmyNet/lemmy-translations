@@ -399,5 +399,6 @@
     "deleted_post": "Smazat příspěvek",
     "deleted_comment": "Smazaný komentář",
     "community_not_logged_in_alert": "Nejste přihlášeni. Můžete ovšem odebírat z jiného Fediverse účtu, např. Lemmy nebo Mastodon. Pokud tak chcete učinit, zkopírujte následující do vyhledávání na vaší instanci: <1>!{{community}}@{{instance}}</1>",
-    "appointed_mod": "Jmenovaný moderátorem"
+    "appointed_mod": "Jmenovaný moderátorem",
+    "enable_keyboard_shortcuts": "Povolit klávesové zkratky"
 }

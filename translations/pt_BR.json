@@ -478,6 +478,7 @@
     "remove_instance": "Remover instância",
     "add_instance": "Adicionar instância",
     "open_links_in_new_tab": "Abrir links em uma nova aba",
+    "enable_keyboard_shortcuts": "Ativar atalhos de teclado",
     "couldnt_create_audio_captcha": "Não foi possível criar CAPTCHA sonoro.",
     "incorrect_login": "Credenciais de entrada incorretos",
     "site_name_required": "Nome do site é necessário.",

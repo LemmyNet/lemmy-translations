@@ -402,5 +402,6 @@
     "cannot_leave_admin": "بدون یک ادمین نمی‌توانید سرور را ترک کنید",
     "leave_admin_team": "ترک کردن گروه ادمین",
     "only_mods_can_post_in_community": "تنها مدیران می توانند در این انجمن بنویسند",
-    "failed_to_delete_picture": "خطا در حذف عکس: {{filename}}"
+    "failed_to_delete_picture": "خطا در حذف عکس: {{filename}}",
+    "enable_keyboard_shortcuts": "فعال کردن میانبرهای صفحه‌کلید"
 }

@@ -426,6 +426,7 @@
     "remove_instance": "Eemalda eksemplar",
     "add_instance": "Lisa eksemplar",
     "open_links_in_new_tab": "Ava lingid uuel kaardil",
+    "enable_keyboard_shortcuts": "Luba klaviatuuri otseteed",
     "op": "Originaalpostitaja",
     "report_post": "Raporteeri postitust",
     "remove_as_mod_are_you_sure": "Kas oled kindel, et soovid kasutaja {{user}} eemaldada kommuuni {{community}} moderaatorite hulgast?",

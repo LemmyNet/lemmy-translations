@@ -777,6 +777,7 @@
   "image": "Slika",
   "upload": "Otpremi",
   "enable_private_messages": "Omogući privatne poruke",
+  "enable_keyboard_shortcuts": "Omogući prečice na tastaturi",
   "auto_mark_fetched_posts_as_read": "Automatski označi preuzete objave kao pročitane",
   "upload_and_publish_image_title": "Otpremiti i objaviti ovu sliku?",
   "upload_and_publish_image_desc": "Otpremljena slika će biti distribuirana federisanim instancama bez ikakve dodatne interakcije korisnika.",

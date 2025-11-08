@@ -364,5 +364,6 @@
     "cannot_leave_admin": "Du kan inte lämna servern eftersom att du är den sista kvarvarande administratören",
     "leave_admin_team": "Lämna administratörsgruppen",
     "left_admin_team": "Du har lämnat administratörsgruppen",
-    "failed_to_delete_picture": "Misslyckades att radera följande bild: {{filename}}"
+    "failed_to_delete_picture": "Misslyckades att radera följande bild: {{filename}}",
+    "enable_keyboard_shortcuts": "Aktivera tangentbordsgenvägar"
 }

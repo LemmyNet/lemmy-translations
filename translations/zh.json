@@ -671,6 +671,7 @@
     "image": "图像",
     "upload": "上传",
     "enable_private_messages": "启用私人消息",
+    "enable_keyboard_shortcuts": "启用键盘快捷键",
     "upload_and_publish_image_title": "上传这张图片？",
     "upload_and_publish_image_desc": "上传的图像将分发到联合实例，无需任何进一步的用户交互。",
     "vote_show": "显示",

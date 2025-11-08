@@ -673,6 +673,7 @@
     "image": "Изображение",
     "upload": "Качване",
     "enable_private_messages": "Позволяване на лични съобщения",
+    "enable_keyboard_shortcuts": "Позволяване на клавиатурни комбинации",
     "vote_show": "Показване",
     "vote_show_for_others": "Показване за други",
     "vote_hide": "Скриване",

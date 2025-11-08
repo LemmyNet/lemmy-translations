@@ -440,6 +440,7 @@
     "remove_instance": "Rimuovi istanza",
     "add_instance": "Aggiungi istanza",
     "open_links_in_new_tab": "Apri link in un nuovo tab",
+    "enable_keyboard_shortcuts": "Abilita scorciatoie da tastiera",
     "show_password": "Mostra Password",
     "hide_password": "Nascondi Password",
     "error_code_message": "Il server ha restituito questo errore: <1>{{error}}</1>. Questo potrebbe essere utile per gli amministratori e gli sviluppatori per diagnosticare e risolvere l'errore",

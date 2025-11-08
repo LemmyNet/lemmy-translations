@@ -484,6 +484,7 @@
     "remove_instance": "Retirar instancia",
     "add_instance": "Engadir instancia",
     "open_links_in_new_tab": "Abrir ligazóns en nova pestana",
+    "enable_keyboard_shortcuts": "Activar atallos de teclado",
     "op": "OP",
     "couldnt_create_audio_captcha": "Non se creou o cptcha de audio.",
     "incorrect_login": "Credenciais incorrectas",
