@@ -587,9 +587,6 @@
     "banned_from_community_blurb": "<1>Banido:</1> Você não pode postar, comentar ou votar nesta comunidade. Porém, você ainda pode navegar livremente.",
     "private_message_form_user_matrix_blurb": "Este usuário já tem uma conta do Matrix com que pode falar em <1>{{matrix_id}}</1>.",
     "community_visibility": "Visibilidade",
-    "local_only": "Local Apenas",
-    "public": "Público",
-    "local_only_blurb": "Apenas os usuários desta instância podem interagir com esta comunidade.",
     "public_blurb": "Esta comunidade pode ser federada a outras instâncias e ser postada/comentada por seus usuários.",
     "add": "Adicionar"
 }
