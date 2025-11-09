@@ -890,5 +890,21 @@
     "collapse_bot_comments": "Replegar els comentaris de bot",
     "domain": "Domini",
     "community_visibility_unlisted": "Sense llistar",
-    "community_visibility_unlisted_desc": "Aquesta comunitat és visible públicament, però no es mostra als canals globals/tots."
+    "community_visibility_unlisted_desc": "Aquesta comunitat és visible públicament, però no es mostra als canals globals/tots.",
+    "cant_view_private_community_message": "No teniu permís per veure aquesta comunitat. Feu clic al botó \"Seguir\" i espereu l'aprovació manual de la moderació per veure'n el contingut.",
+    "cannot_leave_mod": "No es pot abandonar mod",
+    "community_visibility_local_only_public_desc": "Aquesta comunitat no es federa i només està disponible per a comptes locals (inclosos els anònims, que no han iniciat la sessió).",
+    "community_visibility_local_only_private": "Només local (privada)",
+    "community_visibility_local_only_public": "Només local (pública)",
+    "community_visibility_local_only_private_desc": "Aquesta comunitat no es federa i només està disponible per a comptes locals que han iniciat la sessió.",
+    "community_visibility_private": "Privada",
+    "community_visibility_private_desc": "Aquesta comunitat és privada i només la poden veure els comptes que han estat aprovats manualment per la moderació.",
+    "multi_communities": "Multicomunitats",
+    "show_animated_images": "Mostrar les imatges animades",
+    "hide_all_media": "Amagar tots els continguts multimèdia",
+    "community_pending_follows": "Seguiments pendents",
+    "pending_private_community_follows_0": "{{formattedCount}} seguiment pendents",
+    "pending_private_community_follows_1": "{{formattedCount}} seguiments pendents",
+    "pending_private_community_follows_2": "{{formattedCount}} seguiments pendents",
+    "too_many_requests": "Massa sol·licituds"
 }
