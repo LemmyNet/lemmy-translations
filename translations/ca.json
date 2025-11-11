@@ -19,8 +19,8 @@
     "communities": "Comunitats",
     "users": "Usuaris",
     "create_a_community": "Crea una comunitat",
-    "create_community": "Crea una comunitat",
-    "remove_community": "Suprimeix la comunitat",
+    "create_community": "Crear comunitat",
+    "remove_community": "Suprimir comunitat",
     "subscribed_to_communities": "Subscrit a <1>comunitats</1>",
     "trending_communities": "<1>Comunitats</1> en tendència",
     "list_of_communities": "Llista de comunitats",
@@ -906,5 +906,9 @@
     "pending_private_community_follows_0": "{{formattedCount}} seguiment pendents",
     "pending_private_community_follows_1": "{{formattedCount}} seguiments pendents",
     "pending_private_community_follows_2": "{{formattedCount}} seguiments pendents",
-    "too_many_requests": "Massa sol·licituds"
+    "too_many_requests": "Massa sol·licituds",
+    "community_removed": "Comunitat eliminada",
+    "add_community": "Afegir una comunitat",
+    "create_multi_community": "Crear multicomunitat",
+    "community_added": "Comunitat afegida"
 }
