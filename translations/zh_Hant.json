@@ -862,5 +862,9 @@
     "community_pending_follows": "待審核追蹤",
     "pending_private_community_follows_0": "{{formattedCount}} 個待審核追蹤",
     "too_many_requests": "請求過多",
-    "cannot_leave_mod": "無法退出管理員身份"
+    "cannot_leave_mod": "無法退出管理員身份",
+    "community_removed": "社群已移除",
+    "add_community": "新增社群",
+    "community_added": "社群已新增",
+    "create_multi_community": "建立多重社群"
 }
