@@ -891,5 +891,6 @@
   "cannot_combine_community_id_and_multi_community_id": "",
   "multi_community_entry_limit_reached": "Maximum number of entries reached for multi-community",
   "too_many_requests": "Too many requests",
-  "cannot_leave_mod": "Cannot leave mod"
+  "cannot_leave_mod": "Cannot leave mod",
+  "active_plugins": "Active Plugins"
 }
