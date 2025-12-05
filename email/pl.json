@@ -20,7 +20,6 @@
     "password_reset_body": "<h1>Prośba o zresetowanie hasła dla {username}</h1><br><a href=\"{reset_link}\">Kliknij tutaj, aby zresetować hasło</a>",
     "notification_mentioned_by_body": "<h1>Wzmianka</h1><br><div>{username} wspomina o tobie: {comment_text}</div><br><a href=\"{comment_link}\">komentuj</a> <a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
     "notification_private_message_body": "<h1>Prywatna wiadomość</h1><br><div>{username} przesyła prywatną wiadomość: {message_text}</div><br><a href=\"{inbox_link}\">skrzynka odbiorcza</a>",
-    "new_registration_denied_body": "Twoja rejestracja na {hostname} spotkała się z odmową, z następującym uzasadnieniem:<br><br>{reason}<br><br>Możesz znaleźć inną instancję Lemmiego, żeby się zarejestrować na liście <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
     "registration_denied_subject": "Odmowa rejestracji {username}",
     "old_notification_mentioned_by_body": "<h1>Wzmianka</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "old_notification_comment_reply_body": "<h1>Odpowiedź na komentarz</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",

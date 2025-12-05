@@ -20,7 +20,6 @@
     "new_report_subject": "Ny rapportering fra {reporter_username} mod {reported_username} på {hostname}",
     "new_report_body": "Klik linket nedenfor for at se alle rapporteringer.<br><br><a href=\"{reports_link}\">Se rapporteringer</a>",
     "verify_email_body_with_application": "Venligst klik på det nedenstående link for at bekræfte din emailadresse for brugeren @{username}@{hostname}. Vent derefter på at din ansøgning bliver godkendt. Ignorér denne email hvis den bruger ikke er din.<br><br><a href=\"{verify_link}\">Bekræft din email</a>",
-    "new_registration_denied_body": "Din oprettelsesansøgning for {hostname} er blevet afvist. Den følgende årsag blev angivet:<br><br>{reason}<br><br>Du kan finde en anden Lemmy instans hvor du kan registrerer dig i stedet for på <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
     "registration_denied_subject": "Oprettelse afvist for {username}",
     "registration_denied_reason_body": "Din oprettelsesansøgning til {hostname} er blevet afvist med følgende angivne årsag:<br><br>{reason}<br><br>Du kan finde en anden Lemmy-instans at oprette dig på ved at besøge <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
     "old_notification_mentioned_by_body": "<h1>En bruger nævnte dig</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
