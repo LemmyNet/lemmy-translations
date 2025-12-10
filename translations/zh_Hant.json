@@ -810,7 +810,7 @@
     "multi_community_entry_limit_reached": "多社群的條目數量已達上限",
     "keyword_blocks": "關鍵字區塊",
     "too_many_scheduled_posts": "同時啟用的排程貼文不能超過 10 則",
-    "keyword_blocks_placeholder": "輸入你想從動態中封鎖的任何關鍵字，以逗號分隔。",
+    "keyword_blocks_placeholder": "輸入你想在動態消息中封鎖的關鍵字，每行一個。",
     "registration_application_is_pending": "註冊正在等待管理員審核",
     "not_an_image_type": "不是圖片檔案類型",
     "not_higher_mod": "無法更改等級較高的版主設定",
