@@ -910,5 +910,8 @@
     "community_removed": "Comunitat eliminada",
     "add_community": "Afegir una comunitat",
     "create_multi_community": "Crear multicomunitat",
-    "community_added": "Comunitat afegida"
+    "community_added": "Comunitat afegida",
+    "post_url_only": "Només URL de publicació",
+    "estimated_approval_time": "Aprovació estimada: {{time}}",
+    "active_plugins": "Complements actius"
 }
