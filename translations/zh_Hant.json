@@ -866,5 +866,8 @@
     "community_removed": "社群已移除",
     "add_community": "新增社群",
     "community_added": "社群已新增",
-    "create_multi_community": "建立多重社群"
+    "create_multi_community": "建立多重社群",
+    "post_url_only": "只貼網址",
+    "active_plugins": "啟用中的外掛",
+    "estimated_approval_time": "預估核准時間：{{time}}"
 }
