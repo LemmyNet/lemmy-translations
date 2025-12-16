@@ -868,5 +868,8 @@
     "multi_communities": "多重社群",
     "community_visibility_public_desc": "这个社群对所有人可见。",
     "share_post": "分享贴子",
-    "too_many_requests": "请求过多"
+    "too_many_requests": "请求过多",
+    "estimated_approval_time": "预计审批时间：{{time}}",
+    "post_url_only": "仅限帖子网址",
+    "active_plugins": "已激活的插件"
 }
