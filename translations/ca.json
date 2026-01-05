@@ -748,7 +748,7 @@
     "notification_mode_all_posts_and_comments": "Totes les publicacions i comentaris",
     "lock_post": "Bloquejar publicació",
     "unlock_post": "Desbloquejar publicació",
-    "cross_posted_from_url": "publicació creuada de: {{- ap_id}}",
+    "cross_posted_from_url": "publicació creuada de: {{ap_id}}",
     "language_browser_default": "Predeterminada del navegador",
     "post_time_range": "Mostrar publicacions des de l'última",
     "banned_dialog_body": "No podeu publicar, votar ni dur a terme altres accions. Tanmateix, podeu continuar navegant pel lloc i, a la pàgina de configuració, exportar la configuració per importar-la en una altra instància de Lemmy, crear una còpia de seguretat o eliminar el compte.",

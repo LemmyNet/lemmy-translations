@@ -17,7 +17,7 @@
     "cross_posts": "Ova poveznica je također objavljena na:",
     "cross_post": "Unakrsna objava",
     "cross_posted_to": "unakrsno objavljeno na: ",
-    "cross_posted_from_url": "unakrsno objavljeno s: {{- ap_id}}",
+    "cross_posted_from_url": "unakrsno objavljeno s: {{ap_id}}",
     "share_post": "Dijeli objavu",
     "comments": "Komentari",
     "number_of_comments": "{{formattedCount}} Komentar",

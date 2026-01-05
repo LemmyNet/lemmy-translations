@@ -746,7 +746,7 @@
     "show_user_vote_totals": "Показване на общо глас. за потребителя",
     "lock_post": "Заключване на публикацията",
     "unlock_post": "Отключване на публикацията",
-    "cross_posted_from_url": "препубликувано от: {{- ap_id}}",
+    "cross_posted_from_url": "препубликувано от: {{ap_id}}",
     "lock_comment": "Заключване на коментара",
     "unlock_comment": "Отключване на коментара",
     "one_hour": "Един час",

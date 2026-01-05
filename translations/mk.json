@@ -17,7 +17,7 @@
     "cross_posts": "Оваа врска е објавена и на:",
     "cross_post": "Вкрстена објава",
     "cross_posted_to": "вкрстена објава до: ",
-    "cross_posted_from_url": "вкрстена објава од: {{- ap_id}}",
+    "cross_posted_from_url": "вкрстена објава од: {{ap_id}}",
     "share_post": "Сподели објава",
     "comments": "Коментари",
     "number_of_comments": "{{formattedCount}} Коментар",
