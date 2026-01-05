@@ -674,7 +674,7 @@
     "unlock_post": "Bericht ontgrendelen",
     "report_community": "Gemeenschap rapporteren",
     "post_time_range": "Berichten tonen van laatste",
-    "cross_posted_from_url": "als kruisbericht geplaatst vanuit {{- ap_id}}",
+    "cross_posted_from_url": "als kruisbericht geplaatst vanuit {{ap_id}}",
     "lock_comment": "Opmerking vergrendelen",
     "unlock_comment": "Opmerking ontgrendelen",
     "locking": "Bezig met vergrendelen",

@@ -732,7 +732,7 @@
     "show_community_reports": "顯示社群報告",
     "lock_post": "鎖定貼文",
     "unlock_post": "解除鎖定貼文",
-    "cross_posted_from_url": "跨站張貼自：{{- ap_id}}",
+    "cross_posted_from_url": "跨站張貼自：{{ap_id}}",
     "unlock_comment": "解除鎖定留言",
     "locking": "鎖定中",
     "unlocking": "正在解除鎖定",

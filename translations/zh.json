@@ -740,7 +740,7 @@
     "show_community_reports": "显示社区举报",
     "lock_post": "锁定帖子",
     "unlock_post": "帖子锁定解除",
-    "cross_posted_from_url": "跨站发布自：{{- ap_id}}",
+    "cross_posted_from_url": "跨站发布自：{{ap_id}}",
     "lock_comment": "锁定评论",
     "unlock_comment": "评论锁定解除",
     "visit_random_community": "随机访问一个社区",

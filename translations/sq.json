@@ -17,7 +17,7 @@
     "cross_posts": "Kjo lidhje është postuar edhe në:",
     "cross_post": "Kryq-postim",
     "cross_posted_to": "kryq-postuar në: ",
-    "cross_posted_from_url": "kryq-postuar nga: {{- ap_id}}",
+    "cross_posted_from_url": "kryq-postuar nga: {{ap_id}}",
     "share_post": "Shpërnda postimin",
     "comments": "Komente",
     "number_of_comments": "{{formattedCount}} Koment",
