@@ -745,7 +745,9 @@
   "language_not_allowed": "Language not allowed",
   "edited_post": "Edited post",
   "leave_admin_team_confirmation": "Are you sure you want to leave the admin team?",
+  "leave_mod_team_confirmation": "Are you sure you want to leave the mod team?",
   "leaving_admin_team": "Leaving admin team",
+  "leaving_mod_team": "Leaving mod team",
   "torrent_help": "Lemmy can use a technology called BitTorrent to view or stream media. <1>Click here</1> to learn how.",
   "registration_for_user": "Registration for {{name}}",
   "loading_registration": "Loading registration",
@@ -892,5 +894,6 @@
   "multi_community_entry_limit_reached": "Maximum number of entries reached for multi-community",
   "too_many_requests": "Too many requests",
   "cannot_leave_mod": "Cannot leave mod",
+  "tags": "tags",
   "active_plugins": "Active Plugins"
 }
