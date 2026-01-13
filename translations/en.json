@@ -103,7 +103,7 @@
   "card": "Card",
   "small_card": "Small card",
   "mod": "mod",
-  "mods": "mods",
+  "mods": "Mods",
   "distinguish": "Speak as moderator",
   "undistinguish": "Speak as user",
   "distinguished_comment": "Distinguished comment",
@@ -896,6 +896,6 @@
   "multi_community_entry_limit_reached": "Maximum number of entries reached for multi-community",
   "too_many_requests": "Too many requests",
   "cannot_leave_mod": "Cannot leave mod",
-  "tags": "tags",
+  "tags": "Tags",
   "active_plugins": "Active Plugins"
 }
