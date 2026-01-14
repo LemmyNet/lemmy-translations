@@ -5,5 +5,18 @@
     "post": "பதிவு",
     "removed_post": "நீக்கப்பட்ட பதிவு",
     "restored_post": "மீட்டெடுத்த பதிவு",
-    "unlock_post": "பதிவைத் திற"
+    "unlock_post": "பதிவைத் திற",
+    "create_a_post": "பதிவாக்கு",
+    "create_post": "பதிவை ஆக்கு",
+    "denied": "மறுக்கப்பட்டது",
+    "posts": "பதிவுகள்",
+    "share_post": "பதிவைப் பகிர்",
+    "comments": "கருத்துகள்",
+    "remove_comment": "கருத்தை அகற்று",
+    "no_posts": "பதிவுகள் இல்லை.",
+    "number_of_posts": "{{formattedCount}} பதிவு",
+    "number_of_posts_plural": "{{formattedCount}} பதிவுகள்",
+    "related_posts": "இப்பதிவுகள் தொடர்புடையவைகளாக இருக்கம்",
+    "number_of_comments": "{{formattedCount}} கருத்து",
+    "number_of_comments_plural": "{{formattedCount}} கருத்துகள்"
 }
