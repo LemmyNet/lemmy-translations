@@ -29,5 +29,11 @@
     "notification_post_subscribed_subject": "对帖子《{title}》的新评论",
     "notification_post_subscribed_body": "<h1>新评论</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">评论</a> <a href=\"{inbox_link}\">收件箱</a>",
     "notification_community_subscribed_subject": "社区{name}的新帖子{title}",
-    "notification_community_subscribed_body": "<h1>新帖子</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">帖子</a> <a href=\"{inbox_link}\">收件箱</a>"
+    "notification_community_subscribed_body": "<h1>新帖子</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">帖子</a> <a href=\"{inbox_link}\">收件箱</a>",
+    "notification_mod_action_subject": "版主对你采取了{kind}的行动",
+    "notification_mod_action_body": "已对您执行版主操作。<br>原因：{reason}<br>请访问<a href=\"{inbox_link}\">版主日志</a>页面查看更多详情。",
+    "notification_mod_action_reverted_subject": "针对您的版主{kind}操作已被撤销",
+    "notification_mod_action_reverted_body": "针对你的版主操作已被撤销。<br>原因：{reason}<br>请访问<a href=\"{inbox_link}\">版务日志</a>页面查看详情",
+    "welcome_post_title": "欢迎来到Lemmy！",
+    "welcome_post_body": "入门指南请参阅[文档](https://join-lemmy.org/docs/index.html)。\n\n您的实例已接入 Lemmy联邦网络。前往首页的“全部”板块即可浏览来自其他实例的内容。当前显示的内容可能不完整，关注特定社区即可接收该社区的全部新帖子、评论及投票动态。更多详情请参见[联邦网络使用指南](https://join-lemmy.org/docs/administration/federation_getting_started.html)。\n\n若在使用Lemmy时遇到问题，请查阅[故障排除指南](https://join-lemmy.org/docs/administration/troubleshooting.html)。您也可在!lemmy@lemmy.ml 或[Matrix 管理聊天室](https://matrix.to/#/#lemmy-support-general:discuss.online)中提问。\n\n如需获取 Lemmy 新版发布通知，请订阅以下任一渠道：\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\n您可以使用上文的上下文菜单删除或取消置顶此帖子。"
 }
