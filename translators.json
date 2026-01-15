@@ -61,12 +61,57 @@
       "link": "https://twitter.com/o_hartigan"
     }
   ],
-  "hr", "bs", "sl", "sq", "sr", "mk"": [
+  "hr": [
     {
       "name": "Balkan",
       "link": "https://balkan.forum"
     },
-        {
+    {
+      "name": "Rijad Hodzic"
+    }
+  ],
+  "bs": [
+    {
+      "name": "Balkan",
+      "link": "https://balkan.forum"
+    },
+    {
+      "name": "Rijad Hodzic"
+    }
+  ],
+  "sl": [
+    {
+      "name": "Balkan",
+      "link": "https://balkan.forum"
+    },
+    {
+      "name": "Rijad Hodzic"
+    }
+  ],
+  "sq": [
+    {
+      "name": "Balkan",
+      "link": "https://balkan.forum"
+    },
+    {
+      "name": "Rijad Hodzic"
+    }
+  ],
+  "sr": [
+    {
+      "name": "Balkan",
+      "link": "https://balkan.forum"
+    },
+    {
+      "name": "Rijad Hodzic"
+    }
+  ],
+  "mk": [
+    {
+      "name": "Balkan",
+      "link": "https://balkan.forum"
+    },
+    {
       "name": "Rijad Hodzic"
     }
   ],
