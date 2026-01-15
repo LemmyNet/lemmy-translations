@@ -124,6 +124,7 @@
   "removed_mod": "Removed moderator",
   "removing_mod": "Removing mod",
   "appoint_as_mod": "Appoint as moderator",
+  "appoint_mod": "Appoint moderator",
   "appointing_mod": "Appointing moderator",
   "appointed_mod": "Appointed moderator",
   "appoint_as_mod_are_you_sure": "Are you sure you want to appoint {{user}} as a moderator for {{community}}?",
