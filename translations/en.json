@@ -901,6 +901,7 @@
   "too_many_requests": "Too many requests",
   "cannot_leave_mod": "Cannot leave mod",
   "tags": "Tags",
+  "summary": "Summary",
   "active_plugins": "Active Plugins",
   "community_not_federated_title": "Community not federated yet",
   "community_not_federated_message": "Only local users are currently following this community. To get more followers, promote it across the Lemmyverse and share the identifier <1>communityName</1>. You can also use <2>lemmy-federate.com</2>."
