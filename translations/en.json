@@ -28,6 +28,7 @@
   "restore_comment": "Restore comment",
   "restored_comment": "Restored comment",
   "restored_community": "Restored community",
+  "restored_multi_community": "Restored multi-community",
   "lock_comment": "Lock comment",
   "unlock_comment": "Unlock comment",
   "remove_content_more": "Remove Posts, Comments, and Communities",
@@ -165,6 +166,7 @@
   "deleted_post": "Deleted post",
   "deleted_comment": "Deleted comment",
   "deleted_community": "Deleted community",
+  "deleted_multi_community": "Deleted multi-community",
   "undelete": "Undelete",
   "undeleted_post": "Undeleted post",
   "undeleted_comment": "Undeleted comment",
@@ -901,5 +903,8 @@
   "too_many_requests": "Too many requests",
   "cannot_leave_mod": "Cannot leave mod",
   "tags": "Tags",
-  "active_plugins": "Active Plugins"
+  "summary": "Summary",
+  "active_plugins": "Active Plugins",
+  "community_not_federated_title": "Community not federated yet",
+  "community_not_federated_message": "Only local users are currently following this community. To get more followers, promote it across the Lemmyverse and share the identifier <1>communityName</1>. You can also use <2>lemmy-federate.com</2>."
 }
