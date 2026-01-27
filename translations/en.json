@@ -216,7 +216,7 @@
   "unsave": "Unsave",
   "create": "Create",
   "creator": "Creator",
-  "all_creator": "All creators",
+  "all_creators": "All creators",
   "username": "Username",
   "email_or_username": "Email or Username",
   "number_of_users": "{{formattedCount}} user",
