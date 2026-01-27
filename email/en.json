@@ -36,10 +36,8 @@
   "notification_mod_action_reverted_body": "A mod action against you was reverted.<br>Reason: {reason}<br>Please visit the <a href=\"{inbox_link}\">modlog</a> page to view more details",
   "welcome_post_title": "Welcome to Lemmy!",
   "welcome_post_body": "To get started you can [read the documentation](https://join-lemmy.org/docs/index.html).\n\nYour instance is already federated with the Lemmyverse. Go to the \"All\" tab on the frontpage to see content from other instances. This content is incomplete, follow a community to receive all new posts, comments and votes. For more details see [Getting started with Federation](https://join-lemmy.org/docs/administration/federation_getting_started.html).\n\nIf you have any problems with Lemmy, check out the [Troubleshooting guide](https://join-lemmy.org/docs/administration/troubleshooting.html). You can also ask questions in !lemmy@lemmy.ml or the [admin chat on Matrix](https://matrix.to/#/#lemmy-support-general:discuss.online).\n\nTo get notified about new Lemmy versions, please subscribe to one of the following channels:\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\nYou can delete or unfeature this post with the context menu above.",
-  "rss_feed_notifications_title": "Notifications",
-  "rss_feed_mention_notification": "Mention from {username}",
-  "rss_feed_reply_notification": "Reply from {username}",
-  "rss_feed_subscribe_notification": "Subscribed",
-  "rss_feed_private_message_notification": "Private message from {username}",
-  "rss_feed_mod_action_notification": "Mod action"
+  "mention_from_x": "Mention from {username}",
+  "reply_from_x": "Reply from {username}",
+  "private_message_from_x": "Private message from {username}",
+  "mod_action": "Mod action"
 }
