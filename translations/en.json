@@ -299,7 +299,7 @@
   "local_description": "Shows only local communities",
   "moderator_view": "Moderator view",
   "moderator_view_description": "Only show contributions from communtities you are a moderator of",
-  "read_terms_and_conditions": "I have read and agree to the following <1>terms and conditions</1>",
+  "read_terms_and_conditions": "I have read and agree to the following terms and conditions.",
   "top": "Top",
   "api": "API",
   "docs": "Docs",
