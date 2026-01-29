@@ -521,6 +521,7 @@
   "blocked_instances": "Blocked Instances",
   "block_instance": "Block instance",
   "unblock_instance": "Unblock instance",
+  "allow_instance": "Allow instance",
   "blocked_all_communities_from_these_instances": "Blocked all communities from these instances",
   "blocked_all_users_from_these_instances": "Blocked all users from these instances",
   "blocked_all_communities_from": "Blocked all communities from {{instance}}",
