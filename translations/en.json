@@ -113,7 +113,7 @@
   "moderates": "Moderates",
   "settings": "Settings",
   "admin_settings": "Admin Settings",
-  "x_settings": "{{item}} settings",
+  "x_settings": "<1>item</1> settings",
   "cannot_leave_admin": "You cannot leave the server without an admin",
   "leave_admin_team": "Leave the admin team",
   "left_admin_team": "You have left the admin team",
