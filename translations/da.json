@@ -653,8 +653,6 @@
     "couldnt_edit_oauth_provider": "Kunne ikke redigere OAuth udbyder.",
     "couldnt_delete_oauth_provider": "Kunne ikke slette OAuth udbyder.",
     "couldnt_create_oauth_provider": "Kunne ikke lave OAuth udbyder.",
-    "or": "Eller",
-    "oauth_login_with_provider": "Log ind med SSO-udbyder",
     "oauth_authorization_invalid": "Login-autorisation mislykkedes.",
     "oauth_login_failed": "Login fejlede.",
     "oauth_registration_closed": "Oprettelse lukket.",
