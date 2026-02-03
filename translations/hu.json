@@ -642,8 +642,6 @@
     "couldnt_edit_oauth_provider": "OAuth kiszolgáló szerkesztése sikertelen.",
     "couldnt_delete_oauth_provider": "OAuth kiszolgáló törlése sikertelen.",
     "couldnt_create_oauth_provider": "OAuth kiszolgáló létrehozása sikertelen.",
-    "or": "Vagy",
-    "oauth_login_with_provider": "Belépés SSO Kiszolgálóval",
     "oauth_authorization_invalid": "Sikertelen belépés engedélyezés.",
     "oauth_login_failed": "Sikertelen bejelentkezés.",
     "oauth_registration_closed": "Regisztráció lezárva.",

@@ -638,8 +638,6 @@
     "oauth_enabled": "Ενεργοποίηση παρόχου",
     "couldnt_delete_oauth_provider": "Δεν ήταν δυνατή η διαγραφή του παρόχου OAuth.",
     "couldnt_create_oauth_provider": "Δεν ήταν δυνατή η δημιουργία παρόχου OAuth.",
-    "or": "Ή",
-    "oauth_login_with_provider": "Σύνδεση με πάροχο SSO",
     "oauth_login_failed": "Η σύνδεση απέτυχε.",
     "oauth_registration_closed": "Οι εγγραφές έκλεισαν.",
     "publish_in_time": "Δημοσιεύστε {{time}}",

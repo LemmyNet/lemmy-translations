@@ -646,8 +646,6 @@
     "oauth_enabled": "Activar proveïdor",
     "couldnt_edit_oauth_provider": "No s'ha pogut editar el proveïdor OAuth.",
     "couldnt_delete_oauth_provider": "No s'ha pogut suprimir el proveïdor OAuth.",
-    "or": "O",
-    "oauth_login_with_provider": "Iniciar sessió amb proveïdor SSO",
     "oauth_authorization_invalid": "Ha fallat l'autorització d'accés.",
     "oauth_login_failed": "Ha fallat l'accés.",
     "oauth_registration_closed": "Inscripcions tancades.",

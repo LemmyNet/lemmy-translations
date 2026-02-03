@@ -674,8 +674,6 @@
     "oauth_enabled": "Włącz dostawcę",
     "couldnt_edit_oauth_provider": "Nie udało się edytować dostawcy OAuth.",
     "couldnt_delete_oauth_provider": "Nie udało się usunąć dostawcy OAuth.",
-    "or": "Lub",
-    "oauth_login_with_provider": "Zaloguj się dostawcą SSO",
     "oauth_authorization_invalid": "Nie udało się uwierzytelnić logowania.",
     "oauth_login_failed": "Logowanie nieudane.",
     "oauth_registration_closed": "Rejestracje zamknięte.",
