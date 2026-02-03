@@ -71,6 +71,6 @@
   "removed_post_x": "Removed post {post}",
   "restored_post_x": "Restored post {post}",
   "transferred_community_x_to_user_y": "Transferred community /c/{community} to /u/{username}",
-  "locked_comment_x": "Locked comment{comment_content}",
+  "locked_comment_x": "Locked comment {comment_content}",
   "unlocked_comment_y": "Unlocked comment {comment_content}"
 }
