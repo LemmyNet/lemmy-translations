@@ -461,6 +461,5 @@
     "appointing_admin": "",
     "appoint_as_admin_are_you_sure": "Kas oled kindel, et soovid määrata kasutaja {{user}} instantsi {{instance}} administraatoriks?",
     "blur_nsfw": "Hägusta tööks mittesobilik sisu",
-    "or": "või",
     "oauth_client_id": "Kliendi ID"
 }

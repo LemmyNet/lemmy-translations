@@ -629,8 +629,6 @@
     "couldnt_edit_oauth_provider": "OAuth-tarjoajaa ei pystytty muokkaamaan.",
     "couldnt_delete_oauth_provider": "OAuth-tarjoajaa ei pystytty poistamaan.",
     "couldnt_create_oauth_provider": "OAuth-tarjoajaa ei onnistuttu luomaan.",
-    "or": "Tai",
-    "oauth_login_with_provider": "Kirjaudu sisään SSO-palveluntarjoajan kautta",
     "oauth_authorization_invalid": "Sisäänkirjautumisen todentaminen epäonnistui.",
     "oauth_login_failed": "Sisäänkirjautuminen epäonnistui.",
     "oauth_registration_closed": "Rekisteröityminen suljettu.",
