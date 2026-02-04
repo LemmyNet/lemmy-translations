@@ -59,6 +59,8 @@
   "removed_mod_x_from_community_y": "Removed mod {username} from community /c/{community}",
   "banned_user_x": "Banned {username}",
   "unbanned_user_x": "Unbanned {username}",
+  "banned_user_x_from_community_y": "Banned {username} from /c/{community}",
+  "unbanned_user_x_from_community_y": "Unbanned {username} from /c/{community}",
   "featured_post_x": "Featured post {post}",
   "unfeatured_post_x": "Unfeatured post {post}",
   "changed_community_x_visibility": "Changed /c/{community} visibility",
@@ -72,5 +74,5 @@
   "restored_post_x": "Restored post {post}",
   "transferred_community_x_to_user_y": "Transferred community /c/{community} to /u/{username}",
   "locked_comment_x": "Locked comment{comment_content}",
-  "unlocked_comment_y": "Unlocked comment {comment_content}"
+  "unlocked_comment_x": "Unlocked comment {comment_content}"
 }
