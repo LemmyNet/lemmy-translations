@@ -49,7 +49,7 @@
     "link": "Enllaç",
     "archive_link": "enllaç de l’arxiu",
     "mod": "moderador",
-    "mods": "moderadores",
+    "mods": "Moderadores",
     "moderates": "Modera",
     "settings": "Configuració",
     "remove_as_mod": "Suprimeix com a moderador",
@@ -911,5 +911,16 @@
     "community_added": "Comunitat afegida",
     "post_url_only": "Només URL de publicació",
     "estimated_approval_time": "Aprovació estimada: {{time}}",
-    "active_plugins": "Complements actius"
+    "active_plugins": "Complements actius",
+    "all_communities": "Totes les comunitats",
+    "all_users": "Totes les usuàries",
+    "all_mods": "Totes les moderadores",
+    "left_mod_team": "Heu deixat l'equip de mods",
+    "appoint_mod": "Nomenar moderador/a",
+    "removing_posts": "Eliminació de publicacions",
+    "locking_posts": "Bloqueig de publicacions",
+    "locking_comments": "Bloqueig de comentaris",
+    "restored_community": "Comunitat restaurada",
+    "restored_multi_community": "Multicomunitat restaurada",
+    "restore_community": "Restaura la comunitat"
 }
