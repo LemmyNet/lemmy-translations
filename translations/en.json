@@ -269,6 +269,7 @@
   "sort_type": "Sort type",
   "post_sort_type": "Post sort type",
   "comment_sort_type": "Comment sort type",
+  "sort": "Sort",
   "listing_type": "Listing type",
   "listing_mode": "Listing mode",
   "hot": "Hot",
