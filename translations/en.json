@@ -323,6 +323,7 @@
   "local_description": "Shows only local communities",
   "moderator_view": "Moderator view",
   "moderator_view_description": "Only show contributions from communtities you are a moderator of",
+  "read_terms_and_conditions": "I agree to the terms and conditions.",
   "top": "Top",
   "api": "API",
   "docs": "Docs",
