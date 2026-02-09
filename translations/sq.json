@@ -697,8 +697,6 @@
     "couldnt_edit_oauth_provider": "Nuk u redaktua ofruesi i OAuth.",
     "couldnt_delete_oauth_provider": "Nuk u fshi ofruesi i OAuth.",
     "couldnt_create_oauth_provider": "Nuk u krijua ofruesi i OAuth.",
-    "or": "Ose",
-    "oauth_login_with_provider": "Kyçu me Ofruesin SSO",
     "oauth_authorization_invalid": "Autorizimi i Kyçjes Dështoi.",
     "oauth_login_failed": "Kyçja Dështoi.",
     "oauth_registration_closed": "Regjistrimi u mbyll.",
