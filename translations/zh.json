@@ -869,5 +869,10 @@
     "too_many_requests": "请求过多",
     "estimated_approval_time": "预计审批时间：{{time}}",
     "post_url_only": "仅限帖子网址",
-    "active_plugins": "已激活的插件"
+    "active_plugins": "已激活的插件",
+    "all_communities": "所有社群",
+    "all_users": "所有用户",
+    "restore_community": "恢复社群",
+    "restored_community": "修复后的社区",
+    "restored_multi_community": "已修复的多重社群"
 }
