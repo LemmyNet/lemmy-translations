@@ -911,5 +911,6 @@
     "restore_community": "還原社群",
     "all_mods": "所有版主",
     "restored_community": "已還原的社群",
-    "restored_multi_community": "已還原的多重社群"
+    "restored_multi_community": "已還原的多重社群",
+    "read_terms_and_conditions": "我同意這些條款和條件。"
 }
