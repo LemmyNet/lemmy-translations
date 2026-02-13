@@ -32,9 +32,9 @@
     "play_captcha_audio": "Afspil Captcha-lyd",
     "couldnt_create_report": "Kunne ikke oprette rapport.",
     "remove_post": "Slet Indlæg",
-    "no_posts": "Ingen Indlæg.",
+    "no_posts": "Ingen indlæg.",
     "create_a_post": "Opret indlæg",
-    "create_post": "Opret Indlæg",
+    "create_post": "Opret indlæg",
     "posts": "Indlæg",
     "related_posts": "Relaterede Indlæg",
     "cross_posts": "Samme link er postet her:",
@@ -666,5 +666,9 @@
     "donation_dialog_message": "",
     "show_content": "Vis indhold",
     "donation_dialog_button_hide": "Skjul",
-    "donation_dialog_button_donate": "Doner"
+    "donation_dialog_button_donate": "Doner",
+    "share_post": "Del indlæg",
+    "lock_post": "Lås indlæg",
+    "unlock_post": "Lås op for indlægget",
+    "cross_posted_from_url": "tværpostet fra: {{ap_id}}"
 }
