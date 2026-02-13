@@ -25,5 +25,7 @@
     "old_notification_mentioned_by_body": "<h1>En bruger nævnte dig</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "old_notification_comment_reply_body": "<h1>Din kommentar har modtaget et svar</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
     "old_notification_post_reply_body": "<h1>Dit indlæg har modtaget et svar</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">inbox</a>",
-    "registration_denied_body": "Din oprettelsesansøgning til {hostname} er blevet afvist.<br><br>Du kan finde en anden Lemmy-instans at oprette dig på ved at besøge <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>."
+    "registration_denied_body": "Din oprettelsesansøgning til {hostname} er blevet afvist.<br><br>Du kan finde en anden Lemmy-instans at oprette dig på ved at besøge <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
+    "notification_mod_action_subject": "Moderationshandlingen {kind} er blevet foretaget mod dig",
+    "notification_post_subscribed_subject": "Ny kommentar for indlægget {title}"
 }
