@@ -822,5 +822,6 @@
     "invalid_image_upload": "Качено е невалидно изображение",
     "restored_community": "Възстановена общност",
     "restored_multi_community": "Възстановена мулти-общност",
-    "all_communities": "Всички общности"
+    "all_communities": "Всички общности",
+    "all_users": "Всички потребители"
 }
