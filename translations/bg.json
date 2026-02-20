@@ -819,5 +819,6 @@
     "cant_block_admin": "Не можете да блокирате администратор",
     "passwords_do_not_match": "Паролите не съвпадат",
     "not_an_image_type": "Не е файлов тип на изображение",
-    "invalid_image_upload": "Качено е невалидно изображение"
+    "invalid_image_upload": "Качено е невалидно изображение",
+    "restored_community": "Възстановена общност"
 }
