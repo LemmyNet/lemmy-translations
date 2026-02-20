@@ -823,5 +823,6 @@
     "restored_community": "Възстановена общност",
     "restored_multi_community": "Възстановена мулти-общност",
     "all_communities": "Всички общности",
-    "all_users": "Всички потребители"
+    "all_users": "Всички потребители",
+    "restore_community": "Възстановяване на общност"
 }
