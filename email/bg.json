@@ -29,5 +29,15 @@
     "notification_community_subscribed_body": "<h1>Нова публикация</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">публикация</a> <a href=\"{inbox_link}\">входящи</a>",
     "old_notification_mentioned_by_body": "<h1>Лично споменаване</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>",
     "old_notification_comment_reply_body": "<h1>Отговор на коментар</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>",
-    "old_notification_post_reply_body": "<h1>Отговор на публикация</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>"
+    "old_notification_post_reply_body": "<h1>Отговор на публикация</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">входящи</a>",
+    "mention_from_x": "Споменаване от {username}",
+    "reply_from_x": "Отговор от {username}",
+    "private_message_from_x": "Лично съобщение от {username}",
+    "mod_action": "Модераторско действие",
+    "notification_mod_action_subject": "Модераторско действие {kind} предприето срещу Вас",
+    "notification_mod_action_body": "Срещу Вас беше предприето модераторско действие.<br>Причина: {reason}<br>Моля, посетете страницата с <a href=\"{inbox_link}\">модераторския дневник</a>, за да видите повече подробности.",
+    "notification_mod_action_reverted_body": "Модераторско действие срещу Вас беше отменено.<br>Причина: {reason}<br>Моля, посетете страницата с <a href=\"{inbox_link}\">модераторския дневник</a>, за да видите повече подробности",
+    "welcome_post_body": "За да започнете, можете да [прочетете документацията](https://join-lemmy.org/docs/index.html).\n\nВашата инстанция вече е федерирана с Лемивселената. Отидете на раздела „Всички“ на началната страница, за да видите съдържание от други инстанции. Това съдържание е непълно, последвайте общност, за да получавате всички нови публикации, коментари и гласове. За повече подробности вижте [Първи стъпки](https://join-lemmy.org/docs/administration/federation_getting_started.html).\n\nАко имате проблеми с Леми, разгледайте [Ръководството за отстраняване на неизправности](https://join-lemmy.org/docs/administration/troubleshooting.html). Можете също да задавате въпроси в !lemmy@lemmy.ml или в [администраторския чат в Матрикс](https://matrix.to/#/#lemmy-support-general:discuss.online).\n\nЗа да получавате известия за нови версии на Леми, моля, абонирайте се за един от следните канали:\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\nМожете да изтриете или да премахнете тази публикация от препоръчаните чрез контекстното меню по-горе.",
+    "notification_mod_action_reverted_subject": "Модераторското действие {kind} срещу Вас беше отменено",
+    "welcome_post_title": "Добре дошли в Леми!"
 }
