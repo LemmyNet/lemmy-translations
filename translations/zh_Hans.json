@@ -35,7 +35,7 @@
   "notification_mod_action_reverted_subject": "针对您的版主{kind}操作已被撤销",
   "notification_mod_action_reverted_body": "针对你的版主操作已被撤销。<br>原因：{reason}<br>请访问<a href=\"{inbox_link}\">版务日志</a>页面查看详情",
   "welcome_post_title": "欢迎来到Lemmy！",
-  "welcome_post_body": "入门指南请参阅[文档](https://join-lemmy.org/docs/index.html)。\n\n您的实例已接入 Lemmy联邦网络。前往首页的“全部”板块即可浏览来自其他实例的内容。当前显示的内容可能不完整，关注特定社区即可接收该社区的全部新帖子、评论及投票动态。更多详情请参见[联邦网络使用指南](https://join-lemmy.org/docs/administration/federation_getting_started.html)。\n\n若在使用Lemmy时遇到问题，请查阅[故障排除指南](https://join-lemmy.org/docs/administration/troubleshooting.html)。您也可在!lemmy@lemmy.ml 或[Matrix 管理聊天室](https://matrix.to/#/#lemmy-support-general:discuss.online)中提问。\n\n如需获取 Lemmy 新版发布通知，请订阅以下任一渠道：\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\n您可以使用上文的上下文菜单删除或取消置顶此帖子。",
+  "welcome_post_body": "入门指南请参阅[文档](https://join-lemmy.org/docs/index.html)。\\n\\n您的实例已接入 Lemmy联邦网络。前往首页的“全部”板块即可浏览来自其他实例的内容。当前显示的内容可能不完整，关注特定社区即可接收该社区的全部新帖子、评论及投票动态。更多详情请参见[联邦网络使用指南](https://join-lemmy.org/docs/administration/federation_getting_started.html)。\\n\\n若在使用Lemmy时遇到问题，请查阅[故障排除指南](https://join-lemmy.org/docs/administration/troubleshooting.html)。您也可在!lemmy@lemmy.ml 或[Matrix 管理聊天室](https://matrix.to/#/#lemmy-support-general:discuss.online)中提问。\\n\\n如需获取 Lemmy 新版发布通知，请订阅以下任一渠道：\\n- !announcements@lemmy.ml\\n- [join-lemmy.org](https://join-lemmy.org/news)\\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\\n\\n您可以使用上文的上下文菜单删除或取消置顶此帖子。",
   "post": "发布",
   "remove_post": "移除帖子",
   "no_posts": "没有帖子。",

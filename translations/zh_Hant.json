@@ -34,7 +34,7 @@
   "notification_mod_action_reverted_subject": "對你採取的{kind}管理行動已被撤銷",
   "notification_mod_action_reverted_body": "對你採取的管理行動已被撤銷。<br>原因：{reason}<br>請前往 <a href=\"{inbox_lnk}\">管理紀錄</a> 頁面查看更多細節",
   "welcome_post_title": "歡迎來到Lemmy！",
-  "welcome_post_body": "要開始使用，你可以先[閱讀文件](https://join-lemmy.org/docs/index.html)。\n\n你的站台已經與 Lemmyverse 完成聯邦。請到首頁的「All」分頁查看來自其他站台的內容。這些內容並非完整，請追蹤社群以接收所有新的貼文、留言與投票。更多細節請參考[聯邦入門指南](https://join-lemmy.org/docs/administration/federation_getting_started.html)。\n\n如果你在使用 Lemmy 時遇到任何問題，請查看[疑難排解指南](https://join-lemmy.org/docs/administration/troubleshooting.html)。你也可以在 ![lemmy@lemmy.ml](mailto:lemmy@lemmy.ml) 發問，或加入 [Matrix 上的管理員聊天](https://matrix.to/#/#lemmy-support-general:discuss.online)。\n\n若想接收 Lemmy 新版本的通知，請訂閱以下其中一個管道：\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\n你可以使用上方的內容選單刪除或取消精選這篇貼文。",
+  "welcome_post_body": "要開始使用，你可以先[閱讀文件](https://join-lemmy.org/docs/index.html)。\\n\\n你的站台已經與 Lemmyverse 完成聯邦。請到首頁的「All」分頁查看來自其他站台的內容。這些內容並非完整，請追蹤社群以接收所有新的貼文、留言與投票。更多細節請參考[聯邦入門指南](https://join-lemmy.org/docs/administration/federation_getting_started.html)。\\n\\n如果你在使用 Lemmy 時遇到任何問題，請查看[疑難排解指南](https://join-lemmy.org/docs/administration/troubleshooting.html)。你也可以在 ![lemmy@lemmy.ml](mailto:lemmy@lemmy.ml) 發問，或加入 [Matrix 上的管理員聊天](https://matrix.to/#/#lemmy-support-general:discuss.online)。\\n\\n若想接收 Lemmy 新版本的通知，請訂閱以下其中一個管道：\\n- !announcements@lemmy.ml\\n- [join-lemmy.org](https://join-lemmy.org/news)\\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\\n\\n你可以使用上方的內容選單刪除或取消精選這篇貼文。",
   "notification_mod_action_subject": "已對你採取{kind}管理行動",
   "reply_from_x": "來自 {username} 的回覆",
   "mention_from_x": "來自 {username} 的提及",

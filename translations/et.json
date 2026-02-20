@@ -277,7 +277,7 @@
   "delete": "Kustuta",
   "deleted": "looja poolt kustutatud",
   "delete_account": "Kustuta konto",
-  "delete_account_confirm": "Hoiatus: see kustutab sellest eksemplarist kõik su andmed, igaveseks. Sinu andmed ei pruugi saada kustutatud teistes olemasolevates eksemplarides.\nKinnitamiseks sisesta oma parool.",
+  "delete_account_confirm": "Hoiatus: see kustutab sellest eksemplarist kõik su andmed, igaveseks. Sinu andmed ei pruugi saada kustutatud teistes olemasolevates eksemplarides.\\nKinnitamiseks sisesta oma parool.",
   "click_to_delete_picture": "Kl",
   "failed_to_delete_picture": "Pildi kustutamine ebaõnnestus:",
   "picture_deleted": "Pilt kustutatud:",
