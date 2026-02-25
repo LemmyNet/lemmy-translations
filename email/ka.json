@@ -1,7 +1,0 @@
-{
-  "registration_approved_body": "თქვენი რეგისტრაციის განაცხადი დადასტურდა. კეთილი იყოს თქვენი მობრძანება {hostname}-ზე!",
-  "password_reset_subject": "პაროლი შეცვლილია {username}-თვის",
-  "notification_private_message_subject": "პირადი მესიჯი {username}-გან",
-  "new_application_subject": "{username}-ს სურს გაწევრიანდეს {hostname}-ზე",
-  "registration_approved_subject": "რეგისტრაცია დადასტურდა {username}-თვის"
-}

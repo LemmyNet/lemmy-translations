@@ -1,4 +1,6 @@
 {
+    "registration_approved_body": "आपका पंजीकरण स्वीकार किया गया। {hostname} में आपका स्वागत है!",
+    "registration_approved_subject": "{username} के लिए पंजीकरण स्वीकार किया गया",
     "create_a_post": "पोस्ट बनाएँ",
     "create_post": "पोस्ट बनाएँ",
     "posts": "पोस्ट",

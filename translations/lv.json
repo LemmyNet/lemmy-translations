@@ -1,4 +1,7 @@
 {
+    "registration_approved_subject": "Lietotāja {username} konta izveide apstiprināta",
+    "registration_denied_subject": "{username} konta izveide atteikta",
+    "registration_approved_body": "Jūsu konta izveides pieteikums apstiprināts. Laipni lūdzam {hostname} vietnē!",
     "post": "publicēt",
     "remove_post": "Noņemt Rakstu",
     "no_posts": "Nav Rakstu.",
