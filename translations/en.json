@@ -616,8 +616,6 @@
   "federation_strict_allowlist": "Federation strict allowlist",
   "federation_http_fetch_retry_limit": "Federation HTTP fetch retry limit",
   "federation_worker_count": "Federation worker count",
-  "captcha_enabled": "Captcha enabled",
-  "captcha_difficulty": "Captcha difficulty",
   "easy": "Easy",
   "hard": "Hard",
   "rate_limit": "Rate Limit",
