@@ -284,7 +284,7 @@
     "day": "天",
     "week": "週",
     "month": "月",
-    "all": "所有",
+    "all": "全部",
     "top": "熱門",
     "api": "API",
     "inbox": "收件匣",
@@ -307,11 +307,11 @@
     "unsave": "取消保存",
     "unsubscribe": "取消訂閱",
     "subscribe": "訂閱",
-    "subscribed": "已訂閱",
+    "subscribed": "已訂閱的",
     "subscribed_description": "顯示您已訂閱的社群",
     "number_of_points_0": "{{formattedCount}} 分",
     "number_of_months": "{{formattedCount}} 個月",
-    "local": "本站",
+    "local": "本地",
     "all_description": "顯示所有社群，包括聯邦社群",
     "mark_all_as_read": "全部標記為已讀",
     "mentions": "提及",
@@ -917,5 +917,8 @@
     "sort": "排序",
     "show_unread_only": "僅顯示未讀內容",
     "dead_community_title": "死寂的社群",
-    "dead_community_body": "該社群已超過一周未進行聯盟連接。新貼文和評論可能缺失。該實例可能已關閉或已斷開連線。"
+    "dead_community_body": "該社群已超過一周未進行聯盟連接。新貼文和評論可能缺失。該實例可能已關閉或已斷開連線。",
+    "show_subscribed": "顯示已訂閱",
+    "show_sidebar": "顯示側邊欄",
+    "show_unresolved_only": "僅顯示未解決的問題"
 }

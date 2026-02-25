@@ -338,6 +338,7 @@
   "read": "Read",
   "unread": "Unread",
   "show_unread_only": "Show unread only",
+  "show_unresolved_only": "Show unresolved only",
   "replies": "Replies",
   "x_more_replies": "{{formattedCount}} more reply",
   "x_more_replies_plural": "{{formattedCount}} more replies",

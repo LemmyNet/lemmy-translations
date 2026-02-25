@@ -956,5 +956,13 @@
     "leaving_mod_team": "Deixant l'equip de moderació",
     "tags": "Etiquetes",
     "summary": "Sumari",
-    "purge_community_with_name": "Purga {{community}}"
+    "purge_community_with_name": "Purga {{community}}",
+    "dead_community_body": "Aquesta comunitat no s'ha federat durant més d'una setmana. Probablement faltaran les noves publicacions i comentaris. És probable que la instància estigui inactiva o desfederada.",
+    "hide_read_posts": "Amaga les publicacions llegides",
+    "show_subscribed": "Mostra els subscrits",
+    "show_sidebar": "Mostra la barra lateral",
+    "sort": "Ordenar",
+    "read_terms_and_conditions": "Accepto els termes i condicions.",
+    "show_unread_only": "Mostra només els no llegits",
+    "dead_community_title": "Comunitat morta"
 }
