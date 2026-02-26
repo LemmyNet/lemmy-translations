@@ -944,5 +944,6 @@
     "summary": "Кратко описание",
     "active_plugins": "Активни приставки",
     "community_not_federated_title": "Общността все още не е федерирана",
-    "show_unresolved_only": "Показване само на необработените"
+    "show_unresolved_only": "Показване само на необработените",
+    "suggested_multi_community": "Предложена мулти-общност"
 }
