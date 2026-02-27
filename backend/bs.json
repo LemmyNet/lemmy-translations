@@ -75,5 +75,5 @@
     "unlocked_post_x": "Otključana objava {post}",
     "transferred_community_x_to_user_y": "Zajednica /c/{community} je prebačena na /u/{username}",
     "removed_community_x": "Uklonjena zajednica /c/{community}",
-    "submitted_post_with_meta_info": "Poslao/la <a href=\"{actor_url}\">{creator_name</a> na <a href=\"{community_url}\">{community_name</a><br>{num_points} bodova | <a href=\"{post_url}\">{num_comments} komentara</a>"
+    "submitted_post_with_meta_info": "Poslao/la <a href=\"{actor_url}\">{creator_name}</a> na <a href=\"{community_url}\">{community_name}</a><br>{num_points} bodova | <a href=\"{post_url}\">{num_comments} komentara</a>"
 }
