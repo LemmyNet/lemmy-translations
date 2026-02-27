@@ -697,8 +697,6 @@
     "couldnt_edit_oauth_provider": "Ni bilo mogoče urediti ponudnika OAuth.",
     "couldnt_delete_oauth_provider": "Ni bilo mogoče izbrisati ponudnika OAuth.",
     "couldnt_create_oauth_provider": "Ni bilo mogoče ustvariti ponudnika OAuth.",
-    "or": "Ali",
-    "oauth_login_with_provider": "Prijava s ponudnikom SSO",
     "oauth_authorization_invalid": "Avtorizacija prijave ni uspela.",
     "oauth_login_failed": "Prijava ni uspela.",
     "oauth_registration_closed": "Registracija zaprta.",

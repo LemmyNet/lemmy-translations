@@ -655,8 +655,6 @@
     "oauth_enabled": "Ativar fornecedor",
     "couldnt_delete_oauth_provider": "Não foi possível eliminar o fornecedor de OAuth.",
     "couldnt_create_oauth_provider": "Não foi possível adicionar o fornecedor de OAuth.",
-    "or": "Ou",
-    "oauth_login_with_provider": "Entrar com autenticação única (SSO)",
     "oauth_login_failed": "Falha ao entrar.",
     "oauth_registration_closed": "Registo fechado.",
     "oauth_registration": "Permitir registo através de OAuth",

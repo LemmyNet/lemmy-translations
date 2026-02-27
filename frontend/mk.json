@@ -697,8 +697,6 @@
     "couldnt_edit_oauth_provider": "Не можеше да се уреди OAuth провајдерот.",
     "couldnt_delete_oauth_provider": "Не можеше да се избрише OAuth провајдерот.",
     "couldnt_create_oauth_provider": "Не можеше да се креира OAuth провајдерот.",
-    "or": "Или",
-    "oauth_login_with_provider": "Најава со SSO провајдер",
     "oauth_authorization_invalid": "Најавата за овластување не успеа.",
     "oauth_login_failed": "Најавата не успеа.",
     "oauth_registration_closed": "Регистрацијата е затворена.",

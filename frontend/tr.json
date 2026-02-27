@@ -866,8 +866,6 @@
     "oauth_account_linking_enabled": "Hesap Bağlamayı Etkinleştir",
     "oauth_enabled": "Sağlayıcıyı Etkinleştir",
     "couldnt_create_oauth_provider": "OAuth sağlayıcısı oluşturulamadı.",
-    "or": "Veya",
-    "oauth_login_with_provider": "SSO Sağlayıcısı ile Giriş Yap",
     "oauth_login_failed": "Giriş Başarısız.",
     "oauth_registration_closed": "Kayıtlar kapalı.",
     "oauth_registration": "OAuth üzerinden kayda izin ver",
