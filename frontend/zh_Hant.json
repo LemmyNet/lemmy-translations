@@ -237,7 +237,7 @@
     "downvotes_disabled": "噓已被禁用",
     "enable_downvotes": "啟用「噓」功能",
     "upvote": "推",
-    "number_of_upvotes_0": "{{formattedCount}} 推",
+    "number_of_upvotes_0": "{{formattedCount}} 個推",
     "downvote": "噓",
     "number_of_downvotes_0": "{{formattedCount}} 個噓",
     "open_registration": "開放註冊",
@@ -919,5 +919,6 @@
     "show_subscribed": "顯示已訂閱",
     "show_sidebar": "顯示側邊欄",
     "show_unresolved_only": "僅顯示未解決的問題",
-    "edit_as_mod": "以版主身分編輯"
+    "edit_as_mod": "以版主身分編輯",
+    "suggested_multi_community": "建議的多重社區"
 }
