@@ -378,8 +378,6 @@
     "x_more_replies": "{{formattedCount}} balasan lebih banyak",
     "application_email_admins": "Kirim surel ke admin ketika menerima aplikasi",
     "legal_information": "Legal",
-    "captcha_enabled": "Captcha diaktifkan",
-    "captcha_difficulty": "Kesulitan Captcha",
     "per_second": "Per Detik",
     "filter_by_action": "Filter berdasarkan tindakan",
     "failed_to_delete_picture": "Gagal menghapus gambar: {{filename}}",

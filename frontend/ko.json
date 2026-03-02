@@ -389,8 +389,6 @@
     "federation_http_fetch_retry_limit": "페더레이션 HTTP 다시 가져오기 제한",
     "federation_worker_count": "페더레이션 작업자 수",
     "federation_strict_allowlist": "페더레이션 허용 목록",
-    "captcha_difficulty": "보안문자 난이도",
-    "captcha_enabled": "보안문자 활성화",
     "hard": "어렵게",
     "federation_debug": "페더레이션 디버그 모드",
     "easy": "쉽게",

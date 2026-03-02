@@ -388,8 +388,6 @@
     "federation_enabled": "Federazione abilitata",
     "federation_debug": "Federazione in modalità debug",
     "federation_strict_allowlist": "Federazione <i>strict allowlist</i>",
-    "captcha_enabled": "CAPTCHA abilitato",
-    "captcha_difficulty": "Difficoltà del CAPTCHA",
     "easy": "Facile",
     "hard": "Difficile",
     "x_more_replies": "{{formattedCount}} altra risposta",

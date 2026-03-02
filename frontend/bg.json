@@ -455,8 +455,6 @@
     "actor_name_max_length": "Максимална дължина на име на актьора",
     "federation_strict_allowlist": "Стриктен allowlist при федериране",
     "federation_enabled": "Федерирането е включено",
-    "captcha_enabled": "Включване на Captcha",
-    "captcha_difficulty": "Трудност на Captcha",
     "hard": "Труден",
     "rate_limit_register": "Регистрация",
     "rate_limit_post": "Публикация",

@@ -404,8 +404,6 @@
     "federation_strict_allowlist": "Lista de instancias permitidas para federar",
     "federation_http_fetch_retry_limit": "Limite de reintentos de federación HTTP",
     "federation_worker_count": "Contador da tarefa de federación",
-    "captcha_enabled": "Captcha activado",
-    "captcha_difficulty": "Dificultade do Captcha",
     "easy": "Doado",
     "hard": "Difícil",
     "rate_limit_post": "Publicación",

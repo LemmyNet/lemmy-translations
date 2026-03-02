@@ -443,8 +443,6 @@
     "permissive_regex": "L'expression régulière correspondrait à n'importe-quel texte.",
     "actor_name_max_length": "Longueur maximale pour le nom de l'intervenant",
     "federation_http_fetch_retry_limit": "Limite de tentatives de requêtes HTTP sur les instances fédérées",
-    "captcha_enabled": "Captcha activé",
-    "captcha_difficulty": "Difficulté du Captcha",
     "easy": "Facile",
     "hard": "Difficile",
     "rate_limit_post": "Publication",

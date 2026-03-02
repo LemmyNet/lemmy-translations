@@ -135,8 +135,6 @@
     "invalid_regex": "Sobimatu regulaaravaldis.",
     "federation_enabled": "Födereerimine lubatud",
     "federation_debug": "Födereerimise silumisrežiim",
-    "captcha_enabled": "Captcha lubatud",
-    "captcha_difficulty": "Captcha raskus",
     "easy": "Kerge",
     "hard": "Raske",
     "rate_limit_message": "Sõnum",

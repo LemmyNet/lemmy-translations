@@ -374,8 +374,6 @@
     "hide_modlog_mod_names": "Приховати імена модераторів у журналі модерації",
     "column_imageurl": "URL-адреса зображення",
     "federation_worker_count": "Кількість потоків для підтримки федерації",
-    "captcha_enabled": "Капча увімкнена",
-    "captcha_difficulty": "Складність капчі",
     "rate_limit_message": "Ліміт повідомлень",
     "column_keywords": "Ключові слова (розділені пробілами)",
     "column_alttext": "Альтернативний текст",

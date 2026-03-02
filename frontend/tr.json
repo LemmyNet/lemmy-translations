@@ -390,8 +390,6 @@
     "instance_is_private": "Bu sunucu özeldir.",
     "apply_to_join": "Katılmak İçin Başvur",
     "registration_applications": "Kayıt Başvuruları",
-    "captcha_enabled": "Captcha etkin",
-    "captcha_difficulty": "Captcha zorluğu",
     "hard": "Zor",
     "rate_limit_message": "Mesaj",
     "rate_limit_post": "Gönderi",

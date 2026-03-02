@@ -573,8 +573,6 @@
     "federation_strict_allowlist": "Lista e lejuar strikte e Federimit",
     "federation_http_fetch_retry_limit": "Kufiri i rikërkimit HTTP të Federimit",
     "federation_worker_count": "Numri i punëtorëve të Federimit",
-    "captcha_enabled": "Captcha e aktivizuar",
-    "captcha_difficulty": "Vështirësia e Captcha",
     "easy": "E lehtë",
     "hard": "E vështirë",
     "rate_limit": "Kufiri i Kërkesave",

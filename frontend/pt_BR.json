@@ -384,8 +384,6 @@
     "federation_enabled": "Federação ativada",
     "federation_debug": "Modo debug de federação",
     "federation_strict_allowlist": "Lista branca da federação estrita",
-    "captcha_enabled": "Captcha habilitado",
-    "captcha_difficulty": "Dificuldade do Captcha",
     "easy": "Fácil",
     "hard": "Difícil",
     "rate_limit_message": "Mensagem",

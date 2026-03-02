@@ -573,8 +573,6 @@
     "federation_strict_allowlist": "Stroga lista dopuštenih za federaciju",
     "federation_http_fetch_retry_limit": "Ograničenje ponovnih pokušaja HTTP dohvaćanja federacije",
     "federation_worker_count": "Broj radnika federacije",
-    "captcha_enabled": "Captcha omogućena",
-    "captcha_difficulty": "Captcha težina",
     "easy": "Lako",
     "hard": "Teško",
     "rate_limit": "Ograničenje stope",
