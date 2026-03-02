@@ -462,8 +462,6 @@
     "federation_strict_allowlist": "Streng kviteliste for føderering",
     "federation_http_fetch_retry_limit": "Grense for forsøk på HTTP-henting",
     "federation_worker_count": "Tal arbeidarar for føderering",
-    "captcha_enabled": "Captcha er slått på",
-    "captcha_difficulty": "Captcha-vanskegrad",
     "rate_limit_message": "Melding",
     "feature_in_local": "Framhev lokalt",
     "unfeature_from_local": "Fjern framheving lokalt",

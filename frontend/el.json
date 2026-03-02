@@ -418,8 +418,6 @@
     "reports_email_admins": "Αποστολή email στους διαχειριστές για τη λήψη νέων αναφορών",
     "federation_http_fetch_retry_limit": "Όριο επανάληψης ανάκτησης HTTP της ομοσπονδίας",
     "federation_worker_count": "Αριθμός εργαζομένων της ομοσπονδίας",
-    "captcha_enabled": "Το captcha είναι ενεργοποιημένο",
-    "captcha_difficulty": "Δυσκολία captcha",
     "easy": "Εύκολο",
     "hard": "Δύσκολο",
     "rate_limit_message": "Μήνυμα",

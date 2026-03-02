@@ -407,8 +407,6 @@
     "interface_language": "Interfazearen hizkuntza",
     "rate_limit_error": "Eskari gehiegi, saiatu berriz beranduago.",
     "federation_debug": "Federazioa arazte moduan",
-    "captcha_enabled": "Captcha gaituta",
-    "captcha_difficulty": "Captcha-ren zailtasuna",
     "easy": "Erraza",
     "hard": "Zaila",
     "per_second": "Segundoko",

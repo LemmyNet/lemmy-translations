@@ -438,8 +438,6 @@
     "purge_user": "Gebruiker opschonen",
     "interface_language": "Interface-taal",
     "easy": "Makkelijk",
-    "captcha_enabled": "Captcha ingeschakeld",
-    "captcha_difficulty": "Captcha-moeilijkheid",
     "deleted_emoji": "Verwijderde emoji",
     "saved_emoji": "Opgeslagen emoji",
     "federation_worker_count": "Aantal werkers voor federatie",

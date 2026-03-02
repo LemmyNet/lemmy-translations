@@ -573,8 +573,6 @@
     "federation_strict_allowlist": "Строга листа на дозволени за федерација",
     "federation_http_fetch_retry_limit": "Ограничување на повторен обид за HTTP преземање на федерација",
     "federation_worker_count": "Број на работници на федерацијата",
-    "captcha_enabled": "Captcha е овозможена",
-    "captcha_difficulty": "Тежина на Captcha",
     "easy": "Лесно",
     "hard": "Тешко",
     "rate_limit": "Ограничување на барања",

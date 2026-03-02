@@ -518,8 +518,6 @@
     "federation_strict_allowlist": "Szövetségi szigorú engedélylista",
     "federation_http_fetch_retry_limit": "Szövetségi HTTP újbóli kérés korlát",
     "federation_worker_count": "Szövetségi munkás szám",
-    "captcha_enabled": "Captcha engedélyezve",
-    "captcha_difficulty": "Captcha nehézség",
     "hard": "Nehéz",
     "rate_limit": "Ráta korlát",
     "rate_limit_message": "Üzenet",

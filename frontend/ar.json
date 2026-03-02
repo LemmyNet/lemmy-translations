@@ -488,8 +488,6 @@
     "invalid_regex": "رجيكس خاطئ.",
     "hard": "صعب",
     "actor_name_max_length": "طول لاسم العامل الأقصى",
-    "captcha_enabled": "كابتشة مفعل",
-    "captcha_difficulty": "صعوبة الكابتشا",
     "easy": "سهل",
     "rate_limit": "تحديد الوثيرة",
     "rate_limit_message": "رسالة",

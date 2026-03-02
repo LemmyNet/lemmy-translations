@@ -427,8 +427,6 @@
     "column_emoji": "Emoji",
     "custom_emojis": "Eigene Emojis",
     "slur_filter_regex": "Schimpfwortfilter regex",
-    "captcha_enabled": "Captcha aktiviert",
-    "captcha_difficulty": "Captcha Schwierigkeit",
     "easy": "Einfach",
     "site": "Seite",
     "rate_limit_search": "Suche",

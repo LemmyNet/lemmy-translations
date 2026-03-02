@@ -470,8 +470,6 @@
     "federation_strict_allowlist": "Allowlist strict pentru federare",
     "federation_http_fetch_retry_limit": "Limită de reîncercări pentru federare HTTP fetch",
     "federation_worker_count": "Număr muncitori federație",
-    "captcha_enabled": "Captcha activat",
-    "captcha_difficulty": "Dificultate Captcha",
     "easy": "Ușoară",
     "hard": "Grea",
     "rate_limit": "Limita ratei",

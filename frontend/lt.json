@@ -442,8 +442,6 @@
     "not_a_mod_or_admin": "Ne moderatorius ar administratorius.",
     "site_already_exists": "Toks puslapis jau yra.",
     "unresolve_report": "Nespręsti raporto",
-    "captcha_difficulty": "CAPTCHA sunkumas",
-    "captcha_enabled": "CAPTCHA įjungta",
     "default_theme": "Numatytoji tema",
     "legal_information": "Legalu",
     "hide_modlog_mod_names": "Slėpti veiksmų žurnale esančius moderatorių vardus",
