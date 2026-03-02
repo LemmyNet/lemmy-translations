@@ -495,8 +495,6 @@
     "federation_debug": "聯邦除錯模式",
     "federation_http_fetch_retry_limit": "聯邦 HTTP 抓取重試次數上限",
     "federation_worker_count": "聯邦工作程序數量",
-    "captcha_enabled": "驗證碼已啟用",
-    "captcha_difficulty": "驗證碼難度",
     "hard": "困難",
     "rate_limit": "速率限制",
     "rate_limit_message": "訊息",
@@ -920,5 +918,6 @@
     "dead_community_body": "該社群已超過一周未進行聯盟連接。新貼文和評論可能缺失。該實例可能已關閉或已斷開連線。",
     "show_subscribed": "顯示已訂閱",
     "show_sidebar": "顯示側邊欄",
-    "show_unresolved_only": "僅顯示未解決的問題"
+    "show_unresolved_only": "僅顯示未解決的問題",
+    "edit_as_mod": "以版主身分編輯"
 }
