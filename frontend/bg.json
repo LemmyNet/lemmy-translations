@@ -59,7 +59,7 @@
     "number_of_months": "{{formattedCount}} месец",
     "number_of_months_plural": "{{formattedCount}} месеца",
     "invalid_matrix_id": "Невалидно Matrix ID. Трябва да е @user:instance.tld",
-    "private_message_disclaimer": "Внимание: Личните съобщения в Леми не са шифровани. Препоръчваме използването на <1>Matrix</1>.",
+    "private_message_disclaimer": "Внимание: Личните съобщения в Леми не са шифровани от край до край, така че администраторите на инстанциите на изпращача и получателя технически могат да ги прочетат. Моля, обмислете използването на <1>Matrix</1> за чувствителни съобщения.",
     "send_notifications_to_email": "Известия чрез имейл",
     "optional": "Опционално",
     "expires": "Изтича",
