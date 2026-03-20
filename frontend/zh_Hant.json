@@ -229,7 +229,7 @@
     "url": "網址",
     "language_0": "語言",
     "setup": "設定",
-    "private_message_disclaimer": "警告：Lemmy 的私人訊息不具安全性。請在 <1>Matrix</1> 建立帳號，以使用安全的訊息傳遞服務。",
+    "private_message_disclaimer": "警告：Lemmy 中的私訊並非端對端加密，因此寄件者和收件人的實例管理員理論上都可以讀取這些私訊內容。對於敏感訊息，請考慮使用 <1>Matrix</1>。",
     "new_password": "新密碼",
     "password_change": "更改密碼",
     "optional": "非必填",
