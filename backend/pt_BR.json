@@ -14,5 +14,7 @@
     "new_application_subject": "{username} solicitou uma inscrição para {hostname}",
     "new_application_body": "Por favor, clique no link abaixo para ver sua solicitação.<br><br><a href=\"{applications_link}\">Ver Solicitações</a>",
     "new_report_body": "Por favor, clique no link abaixo para ver todas as denúncias.<br><br><a href=\"{reports_link}\">Ver Denúncias</a>",
-    "all": "Tudo"
+    "all": "Tudo",
+    "password_reset_body": "<h1>Pedido de redefinição de senha de {username}</h1><br><a href=\"{reset_link}\">Clique aqui para redefinir a sua senha</a>",
+    "registration_denied_subject": "Registro de {username} rejeitado"
 }
