@@ -946,14 +946,14 @@
   "dead_community_body": "This community has not federated for more than a week. New posts and comments will probably be missing. It is likely that the instance is down or defederated.",
   "suggested_multi_community": "Suggested Multi-Community",
   "image_mode": "Image mode",
-"store_link_previews": "Store link previews",
-"proxy_all_images": "Proxy all images",
+  "store_link_previews": "Store link previews",
+  "proxy_all_images": "Proxy all images",
   "image_proxy_bypass_domains": "Image Proxy Bypass domains",
-"image_upload_timeout_seconds": "Image upload timout (in seconds)",
-"image_max_thumbnail_size": "Maximum thumbnail size (pixels)",
-"image_max_avatar_size": "Maximum avatar size for users and communities (pixels)",
-"image_max_banner_size": "Maximum banner size for users and communities (pixels)",
-"image_max_upload_size": "Maximum size for post/comment images (pixels)",
-"image_allow_video_uploads": "Allow video uploads",
-"federation_signed_fetch": "Federation signed fetch"
+  "image_upload_timeout_seconds": "Image upload timout (in seconds)",
+  "image_max_thumbnail_size": "Maximum thumbnail size (pixels)",
+  "image_max_avatar_size": "Maximum avatar size for users and communities (pixels)",
+  "image_max_banner_size": "Maximum banner size for users and communities (pixels)",
+  "image_max_upload_size": "Maximum size for post/comment images (pixels)",
+  "image_allow_video_uploads": "Allow video uploads",
+  "federation_signed_fetch": "Federation signed fetch"
 }
