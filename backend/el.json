@@ -29,5 +29,6 @@
     "notification_post_subscribed_subject": "Νέο σχόλιο για τη δημοσίευση {title}",
     "notification_community_subscribed_subject": "Νέα δημοσίευση {title} στην κοινότητα {name}",
     "notification_community_subscribed_body": "<h1>Νέα δημοσίευση</h1><br><br><br><div>{post_body}</div><br><a href=\"{post_link}\">δημοσίευση</a> <a href=\"{inbox_link}\">εισερχόμενα</a>",
-    "notification_post_subscribed_body": "<h1>Νέο σχόλιο</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">σχόλιο</a> <a href=\"{inbox_link}\">εισερχόμενα</a>"
+    "notification_post_subscribed_body": "<h1>Νέο σχόλιο</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">σχόλιο</a> <a href=\"{inbox_link}\">εισερχόμενα</a>",
+    "notification_mod_action_subject": "Ενέργεια συντονισμού {kind} ελήφθη εναντίον σου"
 }
