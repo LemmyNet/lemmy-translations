@@ -922,6 +922,7 @@
   "invalid_display_name": "Invalid displayname",
   "invalid_body_field": "Text is too long or too short",
   "alt_text_length_overflow": "Alt text is too long",
+  "missing_alt_text": "Consider writing a short text description (alt text) to this image or media to help visually impaired readers.",
   "couldnt_parse_totp_secret": "Failed to parse TOTP secret",
   "couldnt_generate_totp": "Failed to generate TOTP",
   "missing_totp_token": "Missing TOTP token",
