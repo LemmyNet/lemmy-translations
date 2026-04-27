@@ -45,5 +45,7 @@
     "number_of_communities_1": "{{formattedCount}} Kopiena",
     "number_of_communities_2": "{{formattedCount}} Kopienas",
     "send_message": "Sūtīt Ziņu",
-    "cancel": "Atcelt"
+    "cancel": "Atcelt",
+    "notifications": "Paziņojumi",
+    "subscribed": "Abonēts"
 }
