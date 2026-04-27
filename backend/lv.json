@@ -1,5 +1,9 @@
 {
-    "registration_approved_subject": "Lietotāja {username} konta izveide apstiprināta",
+    "registration_approved_subject": "Apstiprināta {username} lietotāja konta izveide",
     "registration_denied_subject": "{username} konta izveide atteikta",
-    "registration_approved_body": "Jūsu konta izveides pieteikums apstiprināts. Laipni lūdzam {hostname} vietnē!"
+    "registration_approved_body": "Jūsu konta izveides pieteikums apstiprināts. Laipni lūdzam {hostname} vietnē!",
+    "notifications": "Paziņojumi",
+    "subscribed": "Abonēts",
+    "locked_comment_x": "Bloķēts komentārs{comment_content}",
+    "notification_post_reply_subject": "Atbilde no {username}"
 }
