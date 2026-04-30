@@ -5,5 +5,6 @@
     "notifications": "Paziņojumi",
     "subscribed": "Abonēts",
     "locked_comment_x": "Bloķēts komentārs{comment_content}",
-    "notification_post_reply_subject": "Atbilde no {username}"
+    "notification_post_reply_subject": "Atbilde no {username}",
+    "modlog": "Moderācijas žurnāls"
 }
