@@ -47,5 +47,12 @@
     "send_message": "Sūtīt Ziņu",
     "cancel": "Atcelt",
     "notifications": "Paziņojumi",
-    "subscribed": "Abonēts"
+    "subscribed": "Abonēts",
+    "avatar": "Profila attēls",
+    "unlock": "Atbloķēt",
+    "icon": "Ikona",
+    "lock": "Bloķēt",
+    "link": "Saite",
+    "bold": "treknraksts",
+    "italic": "slīpraksts"
 }
