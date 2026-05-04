@@ -126,5 +126,11 @@
     "no": "Nē",
     "unblocked": "Atbloķēts",
     "expand": "Izvērst",
-    "collapse": "Sakļaut"
+    "collapse": "Sakļaut",
+    "continue": "Turpināt",
+    "add": "Pievienot",
+    "donation_dialog_button_donate": "Ziedot",
+    "uploader": "Augšupielādēja",
+    "uploads": "Augšupielādes",
+    "restoring": "Atjauno"
 }
