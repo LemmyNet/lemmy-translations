@@ -974,5 +974,6 @@
   "image_max_banner_size": "Maximum banner size for users and communities (pixels)",
   "image_max_upload_size": "Maximum size for post/comment images (pixels)",
   "image_allow_video_uploads": "Allow video uploads",
-  "federation_signed_fetch": "Federation signed fetch"
+  "federation_signed_fetch": "Federation signed fetch",
+  "private_community_sidebar_warning": "The sidebar of private communities is publicly visible. Do not put any sensitive information here, instead use a featured post."
 }
