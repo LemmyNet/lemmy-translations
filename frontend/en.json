@@ -975,5 +975,8 @@
   "image_max_upload_size": "Maximum size for post/comment images (pixels)",
   "image_allow_video_uploads": "Allow video uploads",
   "federation_signed_fetch": "Federation signed fetch",
-  "private_community_sidebar_warning": "The sidebar of private communities is publicly visible. Do not put any sensitive information here, instead use a featured post."
+  "private_community_sidebar_warning": "The sidebar of private communities is publicly visible. Do not put any sensitive information here, instead use a featured post.",
+  "invalid_invite_token": "Invalid invite token",
+  "missing_invite_token": "Missing invite token",
+  "too_many_invites": "Too many invites"
 }
