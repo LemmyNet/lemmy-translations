@@ -877,7 +877,7 @@
   "banned_dialog_title_permanent": "You have been permanently banned",
   "banned_dialog_title_temporary": "You have been temporarily banned (expires {{expires}})",
   "banned_dialog_body": "You cannot post, vote or take other actions. However you can continue to browse the site, and on the settings page export your settings to import on another Lemmy instance, create a backup or delete your account.",
-  "cant_view_private_community_message": "You don't have permission to view this community. Click the follow button and wait for manual approval by a moderator to see the content.",
+  "cant_view_private_community_message": "You don't have permission to view this community. Click the subscribe button and wait for manual approval by a moderator to see the content.",
   "expand_all_images": "Expand all images",
   "show_animated_images": "Show animated images",
   "hide_all_media": "Hide all media",
