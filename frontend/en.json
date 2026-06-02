@@ -955,6 +955,7 @@
   "too_many_requests": "Too many requests",
   "cannot_leave_mod": "Cannot leave mod",
   "tags": "Tags",
+  "color": "Color",
   "summary": "Summary",
   "active_plugins": "Active plugins",
   "community_not_federated_title": "Community not federated yet",
