@@ -53,7 +53,7 @@
   "list_of_communities": "List of communities",
   "number_of_communities": "{{formattedCount}} community",
   "number_of_communities_plural": "{{formattedCount}} communities",
-  "community_reqs": "lowercase, underscores, and no spaces.",
+  "community_reqs": "Letters, numbers and no spaces",
   "invalid_community_name": "Invalid name.",
   "create_private_message": "Create private message",
   "send_secure_message": "Send secure message",
