@@ -488,7 +488,6 @@
     "controversial": "Kontrovers",
     "remote_follow_prompt": "Geben Sie die Instanz ein, von der aus Sie dieser Community folgen möchten",
     "fetch_community": "Community abrufen",
-    "pictures_uploaded_progess": "{{uploaded}}/{{total}} Bilder hochgeladen",
     "scaled": "Skaliert",
     "invalid_totp_code": "Ungültiger 2FA code: Mindestlänge beträgt 6 Ziffern",
     "incorrect_totp_code": "Inkorrekter 2FA Code",

@@ -224,7 +224,6 @@
     "undelete": "Gjenopprett slettet",
     "undeleted_post": "Gjenopprettet slettet innlegg",
     "undeleted_comment": "Gjenopprettet slettet kommentar",
-    "pictures_uploaded_progess": "{{uploaded}}/{{total}} bilder lastet opp",
     "restoring": "Gjenoppretter",
     "permanently_ban": "Utesteng permanent",
     "ban_with_name": "Utesteng {{user}}",
