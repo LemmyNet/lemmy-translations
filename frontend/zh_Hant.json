@@ -943,5 +943,7 @@
     "image_max_banner_size": "使用者與社群橫幅最大尺寸 (像素，px)",
     "image_max_upload_size": "貼文/留言圖片最大尺寸 (像素，px)",
     "image_allow_video_uploads": "允許上傳影片",
-    "federation_signed_fetch": "聯邦制簽章驗證抓取"
+    "federation_signed_fetch": "聯邦制簽章驗證抓取",
+    "tree": "Tree",
+    "private_community_sidebar_warning": "私有社群的側邊欄是公開可見的。請勿在此處發布任何敏感資訊，而應使用精選貼文。"
 }
