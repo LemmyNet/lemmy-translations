@@ -35,5 +35,6 @@
     "notification_mod_action_subject": "Size karşı {kind} moderatör eylemi uygulandı",
     "notification_mod_action_body": "Size karşı bir moderatör eylemi uygulandı.<br>Neden: {reason}<br>Daha fazla ayrıntı için lütfen <a href=\"{inbox_link}\">mod günlüğü</a> sayfasını ziyaret edin.",
     "notification_mod_action_reverted_subject": "Size karşı uygulanan {kind} moderatör eylemi geri alındı",
-    "welcome_post_title": "Lemmy'ye Hoş Geldiniz!"
+    "welcome_post_title": "Lemmy'ye Hoş Geldiniz!",
+    "notifications": "Bildirimler"
 }
