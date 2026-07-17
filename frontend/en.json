@@ -587,6 +587,7 @@
   "creating_report": "Creating report",
   "resolve_report": "Resolve report",
   "unresolve_report": "Unresolve report",
+  "resolve_reason": "Resolution reason",
   "report_created": "Report created.",
   "report_post": "Report post",
   "report_comment": "Report comment",
