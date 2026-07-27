@@ -19,5 +19,6 @@
     "notification_private_message_body": "<h1>Yksityisviesti</h1><br><div>{username} lähetti sinulle yksityisviestin: {message_text}</div><br><a href=\"{inbox_link}\">postilaatikko</a>",
     "notification_post_reply_body": "<h1>Vastaus viestiin</h1><br><div>{username} vastasi viestiin \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">vastaus</a><a href=\"{inbox_link}\">Postilaatikko</a>",
     "notification_comment_reply_body": "<h1>Vastaus</h1><br><div>{username} vastasi vastaukseen \"{parent_comment_text}\" viestissä \"{post_title}\": {comment_text}</div><br><a href=\"{comment_link}\">vastaus</a><a href=\"{inbox_link}\">postilaatikko</a>",
-    "registration_denied_subject": "Käyttäjän {username} rekisteröityminen evätty"
+    "registration_denied_subject": "Käyttäjän {username} rekisteröityminen evätty",
+    "verify_email_body_with_application": "Paina alhaalla olevaa linkkiä vahvistaaksesti käyttäjän @{username}@{hostname} sähköpostiosoitteen, ja odota sen jälkeen hakemuksesi hyväksymistä. Jätä tämä sähköposti huomiotta, jos tili ei ole sinun. <br><br><a href=\"{verify_link}\">Vahvista sähköpostiosoitteesi</a>"
 }
