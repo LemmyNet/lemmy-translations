@@ -465,7 +465,7 @@
     "rate_limit_message": "Melding",
     "feature_in_local": "Framhev lokalt",
     "unfeature_from_local": "Fjern framheving lokalt",
-    "feature_in_community": "Framhev i fellesskap",
+    "feature_in_community": "Framhev i fellesskapet",
     "unfeature_from_community": "Fjern framheving i fellesskap",
     "deleted_emoji": "Sletta emoji",
     "saved_emoji": "Lagra Emoji",
@@ -533,8 +533,8 @@
     "submit": "Send inn",
     "banned_from_community_blurb": "<1>Utestengd:</1> Du får ikkje skriva innlegg eller kommentarar til eller røysta i fellesskapet. Men du kan likevel lesa det andre har skrive.",
     "private_message_form_user_matrix_blurb": "Brukaren har alt ein Matrix-konto, som du kan skriva melding til på <1>{{matrix_id}}</1>.",
-    "hide_post": "Gøym innlegget",
-    "unhide_post": "Ikkje gøym innlegget",
+    "hide_post": "Gøym innlegg",
+    "unhide_post": "Fjern gøyming av innlegg",
     "show_hidden_posts": "Vis gøymde innlegg",
     "hide_hidden_posts": "Gøym gøymde innlegg",
     "post_hidden": "Innlegget er gøymt",
@@ -663,5 +663,8 @@
     "donation_dialog_button_donate": "Gje pengegåve",
     "donation_dialog_button_hide": "Gøym",
     "banned_from_community_badge": "Utestengd frå fellesskapet",
-    "upvoted": "Opprøysta"
+    "upvoted": "Opprøysta",
+    "share_post": "Del innlegg",
+    "lock_post": "Lås innlegg",
+    "unlock_post": "Lås opp innlegg"
 }
