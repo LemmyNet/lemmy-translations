@@ -885,5 +885,6 @@
     "share_post": "Gönderiyi paylaş",
     "lock_comment": "Yorumu kilitle",
     "unlock_comment": "Yorumun kilidini aç",
-    "contradicting_filters": "'Sadece beğenilenler' ve 'Sadece beğenilmeyenler' filtreleri aynı anda kullanılamaz"
+    "contradicting_filters": "'Sadece beğenilenler' ve 'Sadece beğenilmeyenler' filtreleri aynı anda kullanılamaz",
+    "time_filter": "Zaman"
 }
