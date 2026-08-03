@@ -14,5 +14,12 @@
     "new_application_body": "Cliquez sur le lien ci-dessous pour voir leur candidature. <br><br><a href=\"{applications_link}\">Voir les candidatures</a>",
     "new_report_subject": "Nouveau signalement crée par {reporter_username} pour {reported_username} sur {hostname}",
     "new_report_body": "Cliquez sur le lien ci-dessous pour accéder à tous les signalements.<br><br><a href=\"{reports_link}\">Voir les signalements</a>",
-    "notifications": "Notifications"
+    "notifications": "Notifications",
+    "notification_community_subscribed_subject": "Nouvelle publication {title} dans la communauté {name}",
+    "notification_mod_action_subject": "Action de modération {kind} prise à votre encorde",
+    "notification_mod_action_body": "Une action de modération a été prise à votre encorde.<br>Raison : {reason}<br>Veuillez visiter la page <a href=\"{inbox_link}\">modlog</a> pour en savoir plus.",
+    "notification_mod_action_reverted_subject": "Une action de modération {kind} à votre encorde à été levée",
+    "notification_mod_action_reverted_body": "Une action de modération à votre encorde à été levée.<br>Raison : {reason}<br>Veuillez visiter la page <a href=\"{inbox_link}\">modlog</a> pour plus d'information",
+    "welcome_post_title": "Bienvenue sur Lemmy !",
+    "mention_from_x": "{username} vous a mentionné"
 }
