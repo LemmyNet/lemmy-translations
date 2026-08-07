@@ -983,5 +983,8 @@
   "too_many_invites": "Too many invites",
   "children_for_modlog_item": "Children for modlog item",
   "modlog_view_children": "View children",
-  "private_instance_description": "Only allow logged-in users to browse the site. Helpful to stop web crawlers. Note that content is still accessible over federation (use community visibility settings to prevent this)."
+  "private_instance_description": "Only allow logged-in users to browse the site. Helpful to stop web crawlers. Note that content is still accessible over federation (use community visibility settings to prevent this).",
+  "no_notifications_unread": "No unread notifications. Toggle "show unread only" button to see more.",
+  "no_applications": "No applications to review. Check back later for new registrations.",
+  "no_reports": "No reports to review. Check back later for new reports."
 }
