@@ -951,7 +951,5 @@
     "missing_invite_token": "未提供邀請權杖",
     "too_many_invites": "邀請次數已達上限",
     "children_for_modlog_item": "管理紀錄的相關項目",
-    "modlog_view_children": "查看管理紀錄的子項目",
-    "resolve_reason": "處理原因",
-    "unresolve_reason": "未結案原因"
+    "modlog_view_children": "查看管理紀錄的子項目"
 }
