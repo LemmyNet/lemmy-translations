@@ -952,6 +952,6 @@
     "too_many_invites": "邀請次數已達上限",
     "children_for_modlog_item": "管理紀錄的相關項目",
     "modlog_view_children": "查看管理紀錄的子項目",
-    "resolve_reason": "處理原因",
-    "unresolve_reason": "未結案原因"
+    "conclusion": "總結",
+    "private_instance_description": "僅允許登入用戶瀏覽網站。這有助於防止網頁爬蟲。請注意，內容仍可透過聯邦存取（可使用社群能見度設定來防止此情況）。"
 }
