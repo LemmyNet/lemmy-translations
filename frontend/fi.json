@@ -940,8 +940,6 @@
     "tree": "Puu",
     "transferred_community": "Yhteisö siirretty",
     "allow_instance": "Salli instanssi",
-    "resolve_reason": "Ratkaisun syy",
-    "unresolve_reason": "Syy ratkaisemattomalle ilmiannolle",
     "community_tag_edited": "Yhteisön tunniste muokattu",
     "community_tag_deleted": "Yhteisön tunniste poistettu",
     "community_tag_created": "Yhteisön tunniste luotu",

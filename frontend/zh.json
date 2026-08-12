@@ -945,8 +945,6 @@
     "show_media": "显示媒体",
     "pictures_uploaded_progress": "{{uploaded}}/{{total}} 张图片已上传",
     "transferred_community": "社区已迁移",
-    "resolve_reason": "解决原因",
-    "unresolve_reason": "报告未予解决的原因",
     "hide_memes": "隐藏模因内容",
     "hide_memes_description": "隐藏信息流中包含图片或视频的帖子。",
     "color": "颜色",
