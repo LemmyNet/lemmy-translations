@@ -21,7 +21,7 @@
     "reason": "Neden",
     "mark_as_unread": "Okunmadı işaretle",
     "delete": "Sil",
-    "deleted": "oluşturan tarafından silindi",
+    "deleted": "Yazarı tarafından silindi",
     "delete_account": "Hesabı sil",
     "click_to_delete_picture": "Resmi silmek için tıklayın: {{filename}}",
     "picture_deleted": "Resim silindi: {{filename}}",
