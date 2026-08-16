@@ -468,7 +468,7 @@
     "error_page_title": "Erro!",
     "error_page_paragraph": "Houve um erro no servidor. Tente recarregar a página. Se isto não funcionar, volte mais tarde. Se o problema persistir, você pode procurar por ajuda na <1>comunidade de suporte do Lemmy</1> ou na <2>sala do Lemmy no Matrix</2>.",
     "error_page_admin_matrix": "Se você quiser entrar em contato com alguém da administração de {{instance}} para suporte, tente o seguinte endereço do Matrix:",
-    "error_code_message": "O servidor retornou esse erro: <1>{{error}}</1>. Isto pode ser útil para admins e developers para diagnosticar e consertar o erro",
+    "error_code_message": "O servidor retornou esse erro: <1>{{error}}</1>. Isto pode ser útil para a administração e para desenvolvedores para diagnosticar e consertar o erro",
     "not_found_page_title": "Página não encontrada",
     "not_found_page_message": "A página que você procura não existe.",
     "not_found_return_home_button": "Clique aqui para voltar à usa página inicial",
