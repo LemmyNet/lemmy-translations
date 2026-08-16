@@ -967,5 +967,7 @@
     "image_max_upload_size": "Viestien tai kommenttien kuvien suurin koko (pikseleissä)",
     "image_allow_video_uploads": "Salli videoiden lataaminen",
     "private_community_sidebar_warning": "Yksityisten yhteisöjen sivupalkki on näkyvissä julkisesti. Älä laita tänne mitään arkaluontoista tietoa, käytä sen sijaan korostettua viestiä.",
-    "too_many_invites": "Liian monta kutsua"
+    "too_many_invites": "Liian monta kutsua",
+    "conclusion": "Johtopäätös",
+    "oauth_use_external_provider": "Käytä ulkopuolista palveluntarjoajaa"
 }
