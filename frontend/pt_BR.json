@@ -125,9 +125,9 @@
     "overview": "Visão geral",
     "view": "Visualização",
     "logout": "Sair",
-    "login_sign_up": "Entrar / Inscrever-se",
+    "login_sign_up": "Entrar / Cadastrar-se",
     "login": "Entrar",
-    "sign_up": "Inscrever-se",
+    "sign_up": "Cadastrar-se",
     "notifications_error": "As notificações na área de trabalho não estão disponíveis no seu navegador. Tente o Firefox ou o Chrome.",
     "unread_messages_0": "{{formattedCount}} mensagem não lida",
     "unread_messages_1": "{{formattedCount}} de mensagens não lidas",
@@ -892,8 +892,8 @@
     "show_animated_images": "Mostrar imagens animadas",
     "hide_memes": "Ocultar memes",
     "hide_memes_description": "Oculta as publicações com imagens ou vídeos do feed.",
-    "hide_community_reports": "Ocultar relatórios de comunidade",
-    "show_community_reports": "Mostrar relatórios de comunidade",
+    "hide_community_reports": "Ocultar denúncias de comunidade",
+    "show_community_reports": "Mostrar denúncias de comunidade",
     "couldnt_update": "Não foi possível atualizar",
     "couldnt_create": "Não foi possível criar",
     "cant_block_admin": "Não é possível bloquear um admin",
@@ -1006,5 +1006,9 @@
     "view_registration": "Exibir cadastro",
     "registration_application_is_pending": "O cadastro está aguardando aprovação por parte de um admin",
     "no_applications": "Não há cadastros para análise. Volte mais tarde para verificar se há novos cadastros.",
-    "registered_date_title": "Cadastrado"
+    "registered_date_title": "Cadastrado",
+    "federation_signed_fetch": "Busca assinada na federação (signed fetch)",
+    "no_reports": "Não há denúncias para analisar. Volte mais tarde para ver novas denúncias.",
+    "uploader": "Enviador",
+    "upload": "Enviar"
 }
