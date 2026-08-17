@@ -505,7 +505,7 @@
     "fetch_community": "Buscar comunidade",
     "controversial": "Controverso",
     "remote_follow": "Seguir remotamente",
-    "remote_follow_modal_title": "Inscrever-se a partir de uma instância remota",
+    "remote_follow_modal_title": "Participar a partir de uma instância remota",
     "community_federated": "Comunidade federada!",
     "fetching_community": "Buscando {{community}}",
     "could_not_fetch_community": "Não foi possível buscar {{community}}",
@@ -1010,5 +1010,12 @@
     "federation_signed_fetch": "Busca assinada na federação (signed fetch)",
     "no_reports": "Não há denúncias para analisar. Volte mais tarde para ver novas denúncias.",
     "uploader": "Enviador",
-    "upload": "Enviar"
+    "upload": "Enviar",
+    "liked": "Curtido",
+    "none": "Nenhum",
+    "block_keyword_too_short": "Palavra-chave para bloqueio muito curta",
+    "block_keyword_too_long": "Palavra-chave para bloqueio muito longa",
+    "cant_block_yourself": "Não é possível bloquear si mesmo",
+    "cant_note_yourself": "Não é possível criar uma nota para si mesmo",
+    "subscribers_local": "Participantes locais"
 }
