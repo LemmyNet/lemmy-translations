@@ -1,6 +1,6 @@
 {
     "registration_approved_subject": "Cadastro de {username} aprovado",
-    "registration_approved_body": "A sua solicitação de registro foi aprovada. Boas-vindas a {hostname}!",
+    "registration_approved_body": "A sua solicitação de cadastro foi aprovada. Boas-vindas a {hostname}!",
     "password_reset_subject": "Redefinição de senha de {username}",
     "verify_email_subject": "Verifique seu endereço de e-mail para {hostname}",
     "verify_email_body": "Por favor, clique no link abaixo para verificar seu endereço de e-mail para a conta @{username}@{hostname}. Ignore este e-mail se a conta não for sua.<br><br><a href=\"{verify_link}\">Verifique seu e-mail</a>",
