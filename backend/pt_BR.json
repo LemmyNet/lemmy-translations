@@ -70,5 +70,10 @@
     "unbanned_user_x_from_community_y": "{username} desbanido de /c/{community}",
     "featured_post_x": "Publicação {post} destacada",
     "unfeatured_post_x": "Destaque retirado da publicação {post}",
-    "changed_community_x_visibility": "Visibilidade de /c/{community} alterada"
+    "changed_community_x_visibility": "Visibilidade de /c/{community} alterada",
+    "registration_denied_reason_body": "Seu cadastro para {hostname} foi recusado pelo seguinte motivo:<br><br>{reason}<br><br>Você pode encontrar outra instância do Lemmy para se cadastrar em <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
+    "notification_mod_action_reverted_body": "Uma ação de moderação contra você foi revertida.<br>Motivo: {reason}<br>Por favor, acesse a página <a href=\"{inbox_link}\">relatório de moderação</a> para ver mais detalhes",
+    "subscribed": "Participando",
+    "submitted_post_with_meta_info": "Enviada por <a href=\"{actor_url}\">{creator_name}</a>&nbsp;a&nbsp;<a href=\"{community_url}\">{community_name}</a><br>{num_points} pontos | <a href=\"{post_url}\">{num_comments} comentários</a>",
+    "welcome_post_body": "Para começar, você pode [ler a documentação](https://join-lemmy.org/docs/index.html).\n\nSua instância já está federada com o Lemmyverso. Acesse a aba “Tudo” na página inicial para ver o conteúdo de outras instâncias. Esse conteúdo está incompleto; siga uma comunidade para receber todas as novas publicações, comentários e votos. Para mais detalhes, consulte [Introdução à federação](https://join-lemmy.org/docs/administration/federation_getting_started.html).\n\nSe você tiver algum problema com o Lemmy, consulte o [Guia de solução de problemas](https://join-lemmy.org/docs/administration/troubleshooting.html). Você também pode fazer perguntas na !lemmy@lemmy.ml ou no [chat de administradores no Matrix](https://matrix.to/#/#lemmy-support-general:discuss.online).\n\nPara receber notificações sobre novas versões do Lemmy, inscreva-se em um dos seguintes canais:\n- !announcements@lemmy.ml\n- [join-lemmy.org](https://join-lemmy.org/news)\n- [github.com](https://github.com/LemmyNet/lemmy/releases)\n\nVocê pode excluir ou remover desta publicação do destaque usando o menu de contexto acima."
 }
