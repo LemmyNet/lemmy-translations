@@ -1,5 +1,5 @@
 {
-    "post": "publicação",
+    "post": "Publicar",
     "remove_post": "Apagar publicação",
     "no_posts": "Sem publicações.",
     "create_a_post": "Fazer uma publicação",
@@ -36,7 +36,7 @@
     "edit": "Editar",
     "reply": "Responder",
     "cancel": "Cancelar",
-    "preview": "Pré-visualização",
+    "preview": "Pré-visualizar",
     "upload_image": "enviar imagem",
     "avatar": "Avatar",
     "upload_avatar": "Enviar avatar",
@@ -1037,5 +1037,6 @@
     "image_upload_timeout_seconds": "Tempo limite para carregamento de imagens (em segundos)",
     "children_for_modlog_item": "Subitens para item de relatório de moderação",
     "modlog_view_children": "Exibir subitens",
-    "no_notifications_unread": "Não há notificações não lidas. Clique no botão “Mostrar apenas não lidas” para ver mais."
+    "no_notifications_unread": "Não há notificações não lidas. Clique no botão “Mostrar apenas não lidas” para ver mais.",
+    "donation_dialog_message": "Um projeto de código aberto do porte do Lemmy exige trabalho constante para gerenciar o projeto, implementar novos recursos e corrigir bugs. Dessalines e Nutomic trabalham em tempo integral nessas tarefas e em outras ainda. Como não há publicidade nem rastreamento, todo o nosso trabalho é financiado por meio de doações. Mesmo assim, mal dá tempo de fazer tudo durante o dia, e não sobra tempo para um segundo emprego. A única opção disponível são as doações dos usuários. Para manter o projeto viável, as doações precisam atingir um mínimo de 5.000 € por mês, o que resulta em um salário modesto de 2.500 € por desenvolvedor. Se essa meta for alcançada, poderemos parar de nos preocupar com dinheiro e nos concentrar totalmente em melhorar o software para o benefício de todos os usuários e instâncias. Contamos especialmente com doações recorrentes para garantir o desenvolvimento a longo prazo e tornar o Lemmy o melhor possível.<br/><br/>Se você quiser mais informações antes de fazer uma doação, considere a comparação com o Reddit. Ele começou como uma startup financiada por investidores ricos. O site é administrado por executivos corporativos que, com o tempo, ficaram cada vez mais distantes dos usuários comuns. O principal objetivo deles é agradar aos investidores e gerar lucro. Isso leva a decisões hostis aos usuários, como demitir o funcionário responsável pelas sessões de AMA, bloquear aplicativos de terceiros e muito mais. Como o Reddit é um único site sob uma única autoridade, isso significa que todos os usuários precisam seguir as mesmas regras, incluindo algumas ridículas, como a censura do nome “Luigi”.<br/><br/>O Lemmy representa um novo tipo de rede social que é o oposto total do Reddit. Ele está dividido em vários sites diferentes, cada um com suas próprias regras, e é administrado por pessoas comuns que realmente se preocupam com os usuários. Não há empresa nem fins lucrativos. Grande parte do trabalho é realizada por administradores, moderadores e usuários voluntários, que contribuem por entusiasmo e não por dinheiro. Para os usuários, isso é ótimo, pois não há publicidade nem rastreamento, e não há risco de aquisição por um bilionário. Além disso, não há restrições políticas ou ideológicas embutidas. Você pode usar o software para qualquer finalidade que desejar, adicionar suas próprias restrições ou examinar seu funcionamento interno. O Lemmy realmente pertence a todos.<br/><br/>Nutomic e Dessalines, desenvolvedores do Lemmy"
 }
