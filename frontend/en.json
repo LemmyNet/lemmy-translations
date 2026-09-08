@@ -1000,14 +1000,10 @@
   "expires_in_hours": "Expires in (hours)",
   "never": "Never",
   "uses": "Uses",
-  "expires": "Expires",
-  "created": "Created",
   "no_invites": "You have no active invites.",
   "couldnt_fetch_invites": "Could not fetch invites.",
   "invite_token": "Invite token",
   "copy_link": "Copy link",
-  "copy_embed_link": "Copy embed link",
-  "embed_link_copied": "Embed link copied",
   "copied_to_clipboard": "Copied to clipboard",
   "max_invites_per_user_allowed": "Max invites per user",
   "max_invites_per_user_allowed_help": "Maximum number of active invite links each user can have. Set to 0 for unlimited.",
@@ -1016,5 +1012,7 @@
   "max_invites_allowed_other": "{{count}} invites allowed",
   "no_notifications_unread": "No unread notifications. Toggle \"show unread only\" button to see more.",
   "no_applications": "No applications to review. Check back later for new registrations.",
-  "no_reports": "No reports to review. Check back later for new reports."
+  "no_reports": "No reports to review. Check back later for new reports.",
+  "comment_warnings": "Comment warnings",
+  "post_warnings": "Post warnings"
 }
