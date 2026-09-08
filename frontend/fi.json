@@ -994,5 +994,13 @@
     "require_registration_invitation": "Vaadi kutsua",
     "view_on": "Näytä instanssissa {{instance}}",
     "copy_embed_link": "Kopioi upotuslinkki",
-    "embed_link_copied": "Upotuslinkki kopioitu"
+    "embed_link_copied": "Upotuslinkki kopioitu",
+    "federation_signed_fetch": "Federointi allekirjoitti hakemisen",
+    "invalid_invite_token": "Kutsupoletti ei kelpaa",
+    "missing_invite_token": "Kutsupoletti puuttuu",
+    "error_rendering_embed": "Virhe upotuksen piirtämisessä",
+    "max_uses": "Suurin määrä käyttökertoja",
+    "uses": "Käyttökertoja",
+    "invite_token": "Kutsupoletti",
+    "max_invites_per_user_allowed": "Suurin kutsuen määrä käyttäjää kohti"
 }
