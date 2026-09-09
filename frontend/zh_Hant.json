@@ -982,5 +982,7 @@
     "max_invites_allowed_other": "最多 {{count}} 個邀請",
     "no_notifications_unread": "目前沒有未讀通知。切換『僅顯示未讀』即可查看更多。",
     "no_applications": "目前沒有待審核申請。待有新註冊時，請再次查看。",
-    "no_reports": "暫無待審核檢舉。有新檢舉時請再回來查看。"
+    "no_reports": "暫無待審核檢舉。有新檢舉時請再回來查看。",
+    "comment_warnings": "評論警告",
+    "post_warnings": "發布警告"
 }
