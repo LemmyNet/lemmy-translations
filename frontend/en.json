@@ -35,6 +35,8 @@
   "comment_here": "Type here to comment...",
   "communities": "Communities",
   "all_communities": "All communities",
+  "followers": "Followers",
+  "followed_date_title": "Followed",
   "users": "Users",
   "all_users": "All users",
   "warn_user": "Warn user",
