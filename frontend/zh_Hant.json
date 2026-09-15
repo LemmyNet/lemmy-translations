@@ -984,5 +984,7 @@
     "no_applications": "目前沒有待審核申請。待有新註冊時，請再次查看。",
     "no_reports": "暫無待審核檢舉。有新檢舉時請再回來查看。",
     "comment_warnings": "評論警告",
-    "post_warnings": "發布警告"
+    "post_warnings": "發布警告",
+    "followers": "追隨者",
+    "followed_date_title": "已追隨"
 }
