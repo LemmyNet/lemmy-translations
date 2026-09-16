@@ -986,5 +986,9 @@
     "comment_warnings": "評論警告",
     "post_warnings": "發布警告",
     "followers": "追隨者",
-    "followed_date_title": "已追隨"
+    "followed_date_title": "已追隨",
+    "email_verification_link_unavailable": "此驗證連結無效、已過期或已被使用。",
+    "email_verification_already_confirmed_hint": "如果您已經驗證了您的電子郵件，即可登入。",
+    "email_verification_failed": "您的電子郵件目前無法驗證。請檢查您的網路連線並重試。",
+    "email_verification_retry": "再試一次"
 }
