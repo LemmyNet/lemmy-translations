@@ -1042,5 +1042,9 @@
     "comment_warnings": "Avisos sobre comentários",
     "post_warnings": "Avisos sobre publicações",
     "followers": "Seguidores",
-    "followed_date_title": "Seguiu"
+    "followed_date_title": "Seguiu",
+    "email_verification_link_unavailable": "Este link de verificação não é válido, expirou ou já foi usado.",
+    "email_verification_already_confirmed_hint": "Se você já confirmou seu e-mail, pode fazer login.",
+    "email_verification_failed": "Não foi possível verificar seu e-mail no momento. Verifique sua conexão e tente novamente.",
+    "email_verification_retry": "Tente novamente"
 }
