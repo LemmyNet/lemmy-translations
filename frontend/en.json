@@ -1020,5 +1020,20 @@
   "no_applications": "No applications to review. Check back later for new registrations.",
   "no_reports": "No reports to review. Check back later for new reports.",
   "comment_warnings": "Comment warnings",
-  "post_warnings": "Post warnings"
+  "post_warnings": "Post warnings",
+  "oauth_id_claim_missing": "OAuth ID claim missing.",
+  "oauth_token_request_send_failed": "Failed to send OAuth token request.",
+  "oauth_token_request_error_status": "OAuth token request returned an error.",
+  "oauth_token_response_parse_failed": "Failed to parse OAuth token response.",
+  "oauth_user_info_request_send_failed": "Failed to send OAuth user info request.",
+  "oauth_user_info_error_status": "OAuth user info request returned an error.",
+  "oauth_user_info_parse_failed": "Failed to parse OAuth user info.",
+  "post_upvotes": "Post upvotes",
+  "post_downvotes": "Post downvotes",
+  "comment_upvotes": "Comment upvotes",
+  "comment_downvotes": "Comment downvotes",
+  "default_post_upvotes": "Default post upvotes",
+  "default_post_downvotes": "Default post downvotes",
+  "default_comment_upvotes": "Default comment upvotes",
+  "default_comment_downvotes": "Default comment downvotes"
 }
