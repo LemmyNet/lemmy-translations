@@ -639,6 +639,7 @@
   "invalid_regex": "Invalid regular expression.",
   "permissive_regex": "Regular expression would match any provided text.",
   "actor_name_max_length": "Max actor name length",
+  "federation": "Federation",
   "federation_enabled": "Federation enabled",
   "federation_debug": "Federation debug mode",
   "federation_strict_allowlist": "Federation strict allowlist",
