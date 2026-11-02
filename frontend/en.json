@@ -432,6 +432,7 @@
   "upvote_percentage": "{{formattedCount}}% upvoted",
   "view_votes": "View votes",
   "votes": "Votes",
+  "registration": "Registration",
   "registration_mode": "Registration mode",
   "open_registration": "Open registration",
   "close_registration": "Close registration",
