@@ -24,5 +24,6 @@
     "notification_private_message_body": "<h1>Privatnachricht</h1><br><div>{username} sendete Dir folgende Privatnachricht: {message_text}</div><br><a href=\"{inbox_link}\">Posteingang</a>",
     "registration_denied_body": "Deine Registrierungsbewerbung für {hostname} wurde abgelehnt.<br><br>Hier findest du andere Lemmy-Instanzen auf denen Du dich registrieren kannst <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
     "registration_denied_reason_body": "Deine Registrierungsbewerbung für {hostname} wurde aus folgendem Grund:<br><br>{reason} abgelehnt.<br><br>Hier findest du andere Lemmy-Instanzen auf denen Du dich registrieren kannst <a href='https://join-lemmy.org/instances'>join-lemmy.org</a>.",
-    "old_notification_mentioned_by_body": "<h1>Erwähnung</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">Posteingang</a>"
+    "old_notification_mentioned_by_body": "<h1>Erwähnung</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">Posteingang</a>",
+    "all": "Alle"
 }
