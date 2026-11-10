@@ -316,7 +316,7 @@
     "left_admin_team": "شما گروه ادمین را ترک کردید",
     "profile": "حساب کاربری",
     "filter_by_action": "فیلتر بر اساس اقدام",
-    "filter_by_mod": "فیلتر بر اساس مدیریت",
+    "filter_by_mod": "فیلتر بر اساس ناظم",
     "filter_by_user": "فیلتر بر اساس کاربر",
     "ban_from_community": "مسدود کردن از انجمن",
     "purge": "پاکسازی کامل",
@@ -452,5 +452,17 @@
     "appoint_mod": "انتصاب ناظم",
     "appointing_mod": "در حال انتصاب ناظم",
     "appointed_mod": "ناظم منصوب",
-    "appoint_as_mod_are_you_sure": "آیا مطمئن هستید که می‌خواهید {{user}} را به عنوان ناظم {{community}} منصوب کنید؟"
+    "appoint_as_mod_are_you_sure": "آیا مطمئن هستید که می‌خواهید {{user}} را به عنوان ناظم {{community}} منصوب کنید؟",
+    "removing_posts": "حذف نوشته‌ها",
+    "locking_posts": "قفل کردن نوشته‌ها",
+    "locking_comments": "قفل کردن نظرات",
+    "featuring_posts_in_community": "برجسته‌سازی نوشته‌ها در انجمن",
+    "featuring_posts_for_local_instance": "برجسته کردن نوشته‌ها برای کارساز محلی",
+    "removing_comments": "حذف نظرات",
+    "removing_communities": "حذف انجمن‌ها",
+    "banning_from_site": "ممنوعیت از وبگاه",
+    "banning_from_communities": "ممنوعیت از انجمن‌ها",
+    "adding_mod_to_community": "افزودن ناظم به انجمن",
+    "transferring_communities": "انتقال مالکیت انجمن‌ها",
+    "changing_community_visibility": "تغییر سطح دسترسی به انجمن"
 }
