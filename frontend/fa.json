@@ -485,5 +485,10 @@
     "locked_post": "نوشتهٔ قفل‌شده",
     "locked_post_comment_placeholder": "این محتوا قفل شده است، نمی‌توانید نظر بدهید.",
     "unlocked_post": "نوشتهٔ بازشده",
-    "deleted_post": "نوشتهٔ پاک‌شده"
+    "deleted_post": "نوشتهٔ پاک‌شده",
+    "deleted_comment": "نظر پاک‌شده",
+    "deleted_community": "انجمن پاک‌شده",
+    "deleted_multi_community": "چندانجمنِ پاک‌شده",
+    "undelete": "لغو پاک کردن",
+    "undeleted_post": "نوشتهٔ بازگردانده‌شده"
 }
