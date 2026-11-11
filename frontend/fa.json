@@ -528,5 +528,9 @@
     "one_month": "یک ماه گذشته",
     "three_months": "سه ماه گذشته",
     "six_months": "شش ماه گذشته",
-    "nine_months": "نه ماه گذشته"
+    "nine_months": "نه ماه گذشته",
+    "one_year": "یک سال گذشته",
+    "all_time": "همهٔ زمان‌ها",
+    "custom_time": "بازه زمانی سفارشی",
+    "seconds": "ثانیه"
 }
