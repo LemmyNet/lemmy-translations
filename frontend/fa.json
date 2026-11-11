@@ -478,5 +478,8 @@
     "appointing_admin": "انتصاب مدیر",
     "appointed_admin": "مدیر منصوب",
     "appoint_as_admin_are_you_sure": "آیا مطمئن هستید که می‌خواهید {{user}} را به عنوان مدیر {{instance}} منصوب کنید؟",
-    "removing": "حذف کردن"
+    "removing": "حذف کردن",
+    "unlocked": "باز شد",
+    "locking": "قفل کردن",
+    "unlocking": "بازکردن قفل"
 }
