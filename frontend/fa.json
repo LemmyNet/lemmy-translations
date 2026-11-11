@@ -172,7 +172,7 @@
     "ban": "ممنوع کردن",
     "ban_from_site": "ممنوع کردن از وبگاه",
     "unban": "رفع ممنوعیت",
-    "unban_from_site": "رفع ممنوعیت از وب‌گاه",
+    "unban_from_site": "رفع ممنوعیت از وبگاه",
     "banned": "ممنوع شده",
     "description": "توضیحات",
     "subscript": "زیرنویس",
@@ -500,5 +500,6 @@
     "banning": "ممنوع کردن {{user}}",
     "ban_from_community_with_name": "{{user}} را از {{community}} ممنوع کردن",
     "unban_with_name": "رفع ممنوعیت {{user}}",
-    "unbanning": "رفع ممنوعیت {{user}}"
+    "unbanning": "رفع ممنوعیت {{user}}",
+    "unban_from_community": "رفع ممنوعیت از انجمن"
 }
