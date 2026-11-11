@@ -44,7 +44,7 @@
     "remove_as_admin": "حذف از مدیران",
     "appoint_as_admin": "انتصاب به عنوان مدیر",
     "remove": "حذف",
-    "removed": "حذف شد",
+    "removed": "حذف شده توسط ناظم",
     "locked": "قفل شد",
     "reason": "دلیل",
     "mark_as_read": "علامت‌گذاری به عنوان خوانده شده",
@@ -477,5 +477,6 @@
     "removed_admin": "مدیر حذف‌شده",
     "appointing_admin": "انتصاب مدیر",
     "appointed_admin": "مدیر منصوب",
-    "appoint_as_admin_are_you_sure": "آیا مطمئن هستید که می‌خواهید {{user}} را به عنوان مدیر {{instance}} منصوب کنید؟"
+    "appoint_as_admin_are_you_sure": "آیا مطمئن هستید که می‌خواهید {{user}} را به عنوان مدیر {{instance}} منصوب کنید؟",
+    "removing": "حذف کردن"
 }
