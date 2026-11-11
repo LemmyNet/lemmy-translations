@@ -509,5 +509,6 @@
     "banned_from_site": "{{user}} از وبگاه ممنوع شده",
     "unbanned_from_site": "{{user}} از وبگاه رفع ممنوعیت شده",
     "purging": "پاک‌سازی کامل",
-    "purge_community_with_name": "پاکسازی کامل {{community}}"
+    "purge_community_with_name": "پاکسازی کامل {{community}}",
+    "purge_user_with_name": "پاکسازی کامل {{user}}"
 }
