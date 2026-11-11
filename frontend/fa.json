@@ -170,7 +170,7 @@
     "click_to_delete_picture": "برای حذف تصویر، کلیک کنید: {{filename}}",
     "picture_deleted": "تصویر حذف شد: {{filename}}",
     "ban": "ممنوع کردن",
-    "ban_from_site": "ممنوعیت از وب‌گاه",
+    "ban_from_site": "ممنوع کردن از وبگاه",
     "unban": "رفع ممنوعیت",
     "unban_from_site": "رفع ممنوعیت از وب‌گاه",
     "banned": "ممنوع شده",
@@ -496,5 +496,6 @@
     "pictures_uploaded_progress": "{{uploaded}}/{{total}} تصویر بارگذاری شد",
     "restoring": "بازگردانی",
     "permanently_ban": "ممنوعیت دائمی",
-    "ban_with_name": "ممنوع کردن {{user}}"
+    "ban_with_name": "ممنوع کردن {{user}}",
+    "banning": "ممنوع کردن {{user}}"
 }
