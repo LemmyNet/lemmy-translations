@@ -52,7 +52,7 @@
     "delete": "پاک کردن",
     "deleted": "توسط نویسنده پاک شد",
     "delete_account": "پاک کردن حساب کاربری",
-    "delete_account_confirm": "هشدار: این کنش، تمام اطلاعات شما را برای همیشه پاک می‌کند. برای تایید، گذرواژه خود را وارد کنید.",
+    "delete_account_confirm": "هشدار: این کار حساب شما را برای همیشه پاک می‌کند. ممکن است این پاک‌سازی همیشه به سایر نمونه‌ها (فدراسیون) منتقل نشود. برای تأیید، گذرواژه خود را وارد کنید.",
     "restore": "بازگردانی",
     "save": "ذخیره",
     "unsave": "عدم ذخیره",
@@ -468,7 +468,7 @@
     "adding_admin_to_site": "افزودن مدیر به وبگاه",
     "blocking_a_federated_instance": "مسدودسازی یک کارساز فدرال",
     "allowing_a_federated_instance": "مجاز کردن یک کارساز فدرال",
-    "purging_a_person": "پاکسازی کامل یک شخص",
+    "purging_a_person": "پاک‌سازی کامل یک شخص",
     "purging_a_community": "پاکسازی کامل یک انجمن",
     "purging_a_post": "پاکسازی کامل یک نوشته",
     "purging_a_comment": "پاکسازی کامل یک نظر",
@@ -492,5 +492,6 @@
     "undelete": "لغو پاک کردن",
     "undeleted_post": "نوشتهٔ بازگردانده‌شده",
     "undeleted_comment": "نظر بازگردانده‌شده",
-    "delete_account_content": "پاک کردن همه نوشته‌ها، نظرات و تصاویر بارگذاری‌شده"
+    "delete_account_content": "پاک کردن همه نوشته‌ها، نظرات و تصاویر بارگذاری‌شده",
+    "pictures_uploaded_progress": "{{uploaded}}/{{total}} تصویر بارگذاری شد"
 }
