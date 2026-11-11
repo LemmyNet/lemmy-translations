@@ -501,5 +501,6 @@
     "ban_from_community_with_name": "{{user}} را از {{community}} ممنوع کردن",
     "unban_with_name": "رفع ممنوعیت {{user}}",
     "unbanning": "رفع ممنوعیت {{user}}",
-    "unban_from_community": "رفع ممنوعیت از انجمن"
+    "unban_from_community": "رفع ممنوعیت از انجمن",
+    "unban_from_community_with_name": "رفع ممنوعیت {{user}} از {{community}}"
 }
