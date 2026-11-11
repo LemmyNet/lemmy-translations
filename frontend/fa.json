@@ -481,5 +481,8 @@
     "removing": "حذف کردن",
     "unlocked": "باز شد",
     "locking": "قفل کردن",
-    "unlocking": "بازکردن قفل"
+    "unlocking": "بازکردن قفل",
+    "locked_post": "نوشتهٔ قفل‌شده",
+    "locked_post_comment_placeholder": "این محتوا قفل شده است، نمی‌توانید نظر بدهید.",
+    "unlocked_post": "نوشتهٔ بازشده"
 }
