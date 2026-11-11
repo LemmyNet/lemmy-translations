@@ -493,5 +493,7 @@
     "undeleted_post": "نوشتهٔ بازگردانده‌شده",
     "undeleted_comment": "نظر بازگردانده‌شده",
     "delete_account_content": "پاک کردن همه نوشته‌ها، نظرات و تصاویر بارگذاری‌شده",
-    "pictures_uploaded_progress": "{{uploaded}}/{{total}} تصویر بارگذاری شد"
+    "pictures_uploaded_progress": "{{uploaded}}/{{total}} تصویر بارگذاری شد",
+    "restoring": "بازگردانی",
+    "permanently_ban": "ممنوعیت دائمی"
 }
