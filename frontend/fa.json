@@ -382,7 +382,7 @@
     "easy": "آسان",
     "stickied": "سنجاق‌شده",
     "subscribed_description": "نمایش انجمن هایی که در آن‌ها مشترک شدید",
-    "listing_type": "شیوه فهرست کردن",
+    "listing_type": "نوع فهرست",
     "active_users_in_the_last_day": "{{formattedCount}} کاربر فعال در روز گذشته",
     "active_users_in_the_last_day_plural": "{{formattedCount}} کاربر فعال در روز گذشته",
     "local_description": "تنها نمایش انجمن های داخلی",
@@ -517,5 +517,6 @@
     "number_of_local_subscribers_plural": "{{formattedCount}} مشترک محلی",
     "subscribe_pending": "در انتظار اشتراک",
     "post_sort_type": "نوع مرتب‌سازی نوشته",
-    "comment_sort_type": "نوع مرتب‌سازی نظر"
+    "comment_sort_type": "نوع مرتب‌سازی نظر",
+    "listing_mode": "حالت فهرست"
 }
