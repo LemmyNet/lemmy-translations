@@ -403,7 +403,7 @@
     "leave_admin_team": "ترک کردن گروه ادمین",
     "only_mods_can_post_in_community": "تنها ناظم ها می توانند در این انجمن نوشته منتشر کنند",
     "failed_to_delete_picture": "خطا در حذف عکس: {{filename}}",
-    "sort": "ترتیب",
+    "sort": "مرتب‌سازی",
     "removed_post": "نوشتهٔ حذف‌شده",
     "restore_post": "بازیابی نوشته",
     "restored_post": "نوشتهٔ بازیابی‌شده",
@@ -515,5 +515,7 @@
     "all_creators": "همهٔ سازندگان",
     "number_of_local_subscribers": "{{formattedCount}} مشترک محلی",
     "number_of_local_subscribers_plural": "{{formattedCount}} مشترک محلی",
-    "subscribe_pending": "در انتظار اشتراک"
+    "subscribe_pending": "در انتظار اشتراک",
+    "post_sort_type": "نوع مرتب‌سازی نوشته",
+    "comment_sort_type": "نوع مرتب‌سازی نظر"
 }
