@@ -484,5 +484,6 @@
     "unlocking": "بازکردن قفل",
     "locked_post": "نوشتهٔ قفل‌شده",
     "locked_post_comment_placeholder": "این محتوا قفل شده است، نمی‌توانید نظر بدهید.",
-    "unlocked_post": "نوشتهٔ بازشده"
+    "unlocked_post": "نوشتهٔ بازشده",
+    "deleted_post": "نوشتهٔ پاک‌شده"
 }
