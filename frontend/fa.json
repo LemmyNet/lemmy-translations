@@ -519,5 +519,14 @@
     "post_sort_type": "نوع مرتب‌سازی نوشته",
     "comment_sort_type": "نوع مرتب‌سازی نظر",
     "listing_mode": "حالت فهرست",
-    "scaled": "مقیاس‌شده"
+    "scaled": "مقیاس‌شده",
+    "one_hour": "یک ساعت گذشته",
+    "six_hours": "شش ساعت گذشته",
+    "twelve_hours": "۱۲ ساعت گذشته",
+    "one_day": "یک روز گذشته",
+    "one_week": "یک هفته گذشته",
+    "one_month": "یک ماه گذشته",
+    "three_months": "سه ماه گذشته",
+    "six_months": "شش ماه گذشته",
+    "nine_months": "نه ماه گذشته"
 }
