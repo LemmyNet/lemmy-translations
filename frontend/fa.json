@@ -169,7 +169,7 @@
     "leave_mod_team": "ترک گروه ناظم‌ها",
     "click_to_delete_picture": "برای حذف تصویر، کلیک کنید: {{filename}}",
     "picture_deleted": "تصویر حذف شد: {{filename}}",
-    "ban": "ممنوع",
+    "ban": "ممنوع کردن",
     "ban_from_site": "ممنوعیت از وب‌گاه",
     "unban": "رفع ممنوعیت",
     "unban_from_site": "رفع ممنوعیت از وب‌گاه",
@@ -495,5 +495,6 @@
     "delete_account_content": "پاک کردن همه نوشته‌ها، نظرات و تصاویر بارگذاری‌شده",
     "pictures_uploaded_progress": "{{uploaded}}/{{total}} تصویر بارگذاری شد",
     "restoring": "بازگردانی",
-    "permanently_ban": "ممنوعیت دائمی"
+    "permanently_ban": "ممنوعیت دائمی",
+    "ban_with_name": "ممنوع کردن {{user}}"
 }
