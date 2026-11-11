@@ -70,7 +70,7 @@
     "next": "بعد",
     "sidebar": "نوار کناری",
     "sort_type": "نوع مرتب‌سازی",
-    "hot": "داغ",
+    "hot": "پرطرفدار",
     "new": "تازه",
     "month": "ماه",
     "all": "همه",
@@ -518,5 +518,6 @@
     "subscribe_pending": "در انتظار اشتراک",
     "post_sort_type": "نوع مرتب‌سازی نوشته",
     "comment_sort_type": "نوع مرتب‌سازی نظر",
-    "listing_mode": "حالت فهرست"
+    "listing_mode": "حالت فهرست",
+    "scaled": "مقیاس‌شده"
 }
