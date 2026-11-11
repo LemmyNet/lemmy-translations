@@ -498,5 +498,7 @@
     "permanently_ban": "ممنوعیت دائمی",
     "ban_with_name": "ممنوع کردن {{user}}",
     "banning": "ممنوع کردن {{user}}",
-    "ban_from_community_with_name": "{{user}} را از {{community}} ممنوع کردن"
+    "ban_from_community_with_name": "{{user}} را از {{community}} ممنوع کردن",
+    "unban_with_name": "رفع ممنوعیت {{user}}",
+    "unbanning": "رفع ممنوعیت {{user}}"
 }
