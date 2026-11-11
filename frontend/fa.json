@@ -505,5 +505,7 @@
     "unban_from_community_with_name": "رفع ممنوعیت {{user}} از {{community}}",
     "banned_from_community_badge": "ممنوع شده از انجمن",
     "banned_from_community": "{{user}} از {{community}} ممنوع شده",
-    "unbanned_from_community": "رفع ممنوعیت {{user}} از {{community}}"
+    "unbanned_from_community": "رفع ممنوعیت {{user}} از {{community}}",
+    "banned_from_site": "{{user}} از وبگاه ممنوع شده",
+    "unbanned_from_site": "{{user}} از وبگاه رفع ممنوعیت شده"
 }
