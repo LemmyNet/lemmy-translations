@@ -867,6 +867,7 @@
   "vote_hide": "Hide",
   "multi_communities": "Multi-communities",
   "create_multi_community": "Create multi-community",
+  "multi_community_desc": "Multi-communities (\"multis\") are collections of communities used to group similar topics.",
   "liked": "Liked",
   "none": "None",
   "back_to_first_page": "First page",
