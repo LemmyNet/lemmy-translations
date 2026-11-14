@@ -27,5 +27,10 @@
     "old_notification_comment_reply_body": "<h1>پاسخ به نظر</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>",
     "old_notification_post_reply_body": "<h1>پاسخ به نوشته</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>",
     "notification_post_subscribed_subject": "نظر جدید برای نوشته {title}",
-    "notification_post_subscribed_body": "<h1>نظر جدید</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">نظر</a> <a href=\"{inbox_link}\">صندوق ورودی</a>"
+    "notification_post_subscribed_body": "<h1>نظر جدید</h1><br><div>{comment_text}</div><br><a href=\"{comment_link}\">نظر</a> <a href=\"{inbox_link}\">صندوق ورودی</a>",
+    "notification_community_subscribed_subject": "نوشته جدید {title} در انجمن {name}",
+    "notification_community_subscribed_body": "<h1>نوشته جدید</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">نوشته</a> <a href=\"{inbox_link}\">صندوق ورودی</a>",
+    "notification_mod_action_subject": "اقدام نظارتی {kind} علیه شما انجام شد",
+    "notification_mod_action_body": "اقدام نظارتی علیه شما انجام شد.<br>دلیل: {reason}<br>لطفاً برای مشاهده جزئیات بیشتر به صفحه <a href=\"{inbox_link}\">Modlog</a> مراجعه کنید.",
+    "notification_mod_action_reverted_subject": "اقدام نظارتی {kind} علیه شما لغو شد"
 }
