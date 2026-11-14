@@ -1,5 +1,8 @@
 {
     "registration_approved_subject": "ثبت‌نام {username} تأیید شد",
     "registration_approved_body": "درخواست ثبت‌نام شما تأیید شد. به {hostname} خوش آمدید!",
-    "registration_denied_subject": "ثبت‌نام {username} رد شد"
+    "registration_denied_subject": "ثبت‌نام {username} رد شد",
+    "password_reset_subject": "بازنشانی گذرواژه برای {username}",
+    "password_reset_body": "<h1>درخواست بازنشانی گذرواژه برای {username}</h1><br><a href=\"{reset_link}\">برای بازنشانی گذرواژه خود اینجا کلیک کنید</a>",
+    "verify_email_subject": "تأیید نشانی ایمیل شما برای {hostname}"
 }
