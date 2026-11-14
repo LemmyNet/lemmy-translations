@@ -17,5 +17,7 @@
     "notification_mentioned_by_body": "<h1>منشن یک کاربر</h1><br><div>{username} شما را منشن کرد: {comment_text}</div><br><a href=\"{comment_link}\">نظر</a> <a href=\"{inbox_link}\">صندوق ورودی</a>",
     "notification_private_message_subject": "پیام خصوصی از {username}",
     "notification_private_message_body": "<h1>پیام خصوصی</h1><br><div>{username} برای شما پیام خصوصی فرستاد: {message_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>",
-    "new_application_subject": "{username} درخواست پیوستن به {hostname} را داده است"
+    "new_application_subject": "{username} درخواست پیوستن به {hostname} را داده است",
+    "new_application_body": "لطفاً برای مشاهده درخواست آن‌ها روی پیوند زیر کلیک کنید.<br><br><a href=\"{applications_link}\">مشاهده درخواست‌ها</a>",
+    "new_report_subject": "گزارش جدیدی توسط {reporter_username} برای {reported_username} در {hostname} ایجاد شد"
 }
