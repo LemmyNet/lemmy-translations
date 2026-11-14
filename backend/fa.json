@@ -19,5 +19,11 @@
     "notification_private_message_body": "<h1>پیام خصوصی</h1><br><div>{username} برای شما پیام خصوصی فرستاد: {message_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>",
     "new_application_subject": "{username} درخواست پیوستن به {hostname} را داده است",
     "new_application_body": "لطفاً برای مشاهده درخواست آن‌ها روی پیوند زیر کلیک کنید.<br><br><a href=\"{applications_link}\">مشاهده درخواست‌ها</a>",
-    "new_report_subject": "گزارش جدیدی توسط {reporter_username} برای {reported_username} در {hostname} ایجاد شد"
+    "new_report_subject": "گزارش جدیدی توسط {reporter_username} برای {reported_username} در {hostname} ایجاد شد",
+    "new_report_body": "لطفاً برای مشاهده همه گزارش‌ها روی پیوند زیر کلیک کنید.<br><br><a href=\"{reports_link}\">مشاهده گزارش‌ها</a>",
+    "registration_denied_body": "درخواست ثبت‌نام شما برای {hostname} رد شده است.<br><br>می‌توانید برای ثبت‌نام، نمونهٔ دیگری از لمی را در <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> پیدا کنید.",
+    "registration_denied_reason_body": "درخواست ثبت‌نام شما برای {hostname} با دلیل زیر رد شد:<br><br>{reason}<br><br>می‌توانید برای ثبت‌نام، نمونهٔ دیگری از لمی را در <a href='https://join-lemmy.org/instances'>join-lemmy.org</a> پیدا کنید.",
+    "old_notification_mentioned_by_body": "<h1>منشن یک کاربر</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>",
+    "old_notification_comment_reply_body": "<h1>پاسخ به نظر</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>",
+    "old_notification_post_reply_body": "<h1>پاسخ به نوشته</h1><br><div>{username} - {comment_text}</div><br><a href=\"{inbox_link}\">صندوق ورودی</a>"
 }
