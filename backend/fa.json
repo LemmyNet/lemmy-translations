@@ -1,1 +1,5 @@
-{}
+{
+    "registration_approved_subject": "ثبت‌نام {username} تأیید شد",
+    "registration_approved_body": "درخواست ثبت‌نام شما تأیید شد. به {hostname} خوش آمدید!",
+    "registration_denied_subject": "ثبت‌نام {username} رد شد"
+}
