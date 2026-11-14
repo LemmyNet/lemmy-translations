@@ -11,5 +11,8 @@
     "verify_email_body_with_application": "لطفاً برای تأیید نشانی ایمیل حساب @{username}@{hostname} روی پیوند زیر کلیک کنید، سپس منتظر بمانید تا درخواست شما تأیید شود. اگر این حساب متعلق به شما نیست، این ایمیل را نادیده بگیرید.<br><br><a href=\"{verify_link}\">تأیید ایمیل</a>",
     "notification_post_reply_subject": "پاسخ از {username}",
     "notification_post_reply_body": "<h1>پاسخ به نوشته</h1><br><div>{username} به \"{post_title}\" پاسخ داد: {comment_text}</div><br><a href=\"{comment_link}\">نظر</a> <a href=\"{inbox_link}\">صندوق ورودی</a>",
-    "notification_comment_reply_subject": "پاسخ از {username}"
+    "notification_comment_reply_subject": "پاسخ از {username}",
+    "notification_comment_reply_body": "<h1>پاسخ به نظر</h1><br><div>{username} به \"{parent_comment_text}\" در \"{post_title}\" پاسخ داد: {comment_text}</div><br><a href=\"{comment_link}\">نظر</a> <a href=\"{inbox_link}\">صندوق ورودی</a>",
+    "notification_mentioned_by_subject": "منشن شده توسط {username}",
+    "notification_mentioned_by_body": "<h1>منشن یک کاربر</h1><br><div>{username} شما را منشن کرد: {comment_text}</div><br><a href=\"{comment_link}\">نظر</a> <a href=\"{inbox_link}\">صندوق ورودی</a>"
 }
