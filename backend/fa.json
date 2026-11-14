@@ -32,5 +32,7 @@
     "notification_community_subscribed_body": "<h1>نوشته جدید</h1><br><div>{post_body}</div><br><a href=\"{post_link}\">نوشته</a> <a href=\"{inbox_link}\">صندوق ورودی</a>",
     "notification_mod_action_subject": "اقدام نظارتی {kind} علیه شما انجام شد",
     "notification_mod_action_body": "اقدام نظارتی علیه شما انجام شد.<br>دلیل: {reason}<br>لطفاً برای مشاهده جزئیات بیشتر به صفحه <a href=\"{inbox_link}\">Modlog</a> مراجعه کنید.",
-    "notification_mod_action_reverted_subject": "اقدام نظارتی {kind} علیه شما لغو شد"
+    "notification_mod_action_reverted_subject": "اقدام نظارتی {kind} علیه شما لغو شد",
+    "notification_mod_action_reverted_body": "اقدام نظارتی علیه شما لغو شد.<br>دلیل: {reason}<br>لطفاً برای مشاهده جزئیات بیشتر به صفحه <a href=\"{inbox_link}\">Modlog</a> مراجعه کنید.",
+    "welcome_post_title": "به لمی خوش آمدید!"
 }
