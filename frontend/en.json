@@ -1050,6 +1050,5 @@
   "resend_verification_email_requested": "If this address belongs to an account awaiting verification and the sending limit allows it, we will send a verification email. Check your inbox and spam folder.",
   "resend_verification_email_failed": "Your request could not be completed. Check your connection and try again.",
   "rate_limit_resend_verification_email": "Verification emails per IP",
-  "rate_limit_resend_verification_email_per_account": "Verification emails per account",
-  "invalid_rate_limit": "Rate limits must use whole numbers: at least 0 requests and a time window of at least 1 second."
+  "rate_limit_resend_verification_email_per_account": "Verification emails per account"
 }
