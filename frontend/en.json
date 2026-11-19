@@ -1051,6 +1051,5 @@
   "resend_verification_email_failed": "Your request could not be completed. Check your connection and try again.",
   "rate_limit_resend_verification_email": "Verification emails per IP",
   "rate_limit_resend_verification_email_per_account": "Verification emails per account",
-  "rate_limit_verification_email_info": "Verification email requests have separate limits per IP address and per account. The account limit counts every verification email sent to the account within the window, including the one sent at registration, and applies across all IP addresses. Set the count to 0 to disable resends. Intervals must be at least 1 second. The IP limit is counted per server process and resets when the server restarts.",
   "invalid_rate_limit": "Rate limits must use whole numbers: at least 0 requests and a time window of at least 1 second."
 }
