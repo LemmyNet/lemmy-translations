@@ -45,7 +45,7 @@
     "appoint_as_admin": "انتصاب به عنوان مدیر",
     "remove": "حذف",
     "removed": "حذف شده توسط ناظم",
-    "locked": "قفل شد",
+    "locked": "قفل‌شده",
     "reason": "دلیل",
     "mark_as_read": "علامت‌گذاری به عنوان خوانده شده",
     "mark_as_unread": "علامت‌گذاری به عنوان خوانده نشده",
@@ -669,5 +669,6 @@
     "community_tag_deleted": "برچسب انجمن پاک شد",
     "community_tag_created": "برچسب انجمن ایجاد شد",
     "featured": "برجسته‌شده",
-    "featured_in_local": "برجسته‌شده در همین کارساز"
+    "featured_in_local": "برجسته‌شده در همین کارساز",
+    "copy_link": "رونویسی پیوند"
 }
