@@ -210,6 +210,7 @@
   "community_deleted": "Community deleted",
   "multi_community_deleted": "Multi-community deleted",
   "private_message_deleted": "Private message deleted",
+  "user_deleted": "User deleted",
   "delete_account": "Delete account",
   "delete_account_content": "Delete all posts, comments and uploaded images",
   "delete_account_confirm": "Warning: this will permanently delete your account. The deletion may not always federate to other instances. Enter your password to confirm.",
