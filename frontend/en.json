@@ -775,6 +775,7 @@
   "oauth_authorization_endpoint": "Authorization endpoint",
   "oauth_token_endpoint": "Token endpoint",
   "oauth_userinfo_endpoint": "User info endpoint",
+  "oauth_username_claim": "Username claim",
   "oauth_id_claim": "ID claim",
   "oauth_client_id": "Client ID",
   "oauth_client_secret": "Client secret",
