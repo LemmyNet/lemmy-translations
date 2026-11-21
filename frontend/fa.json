@@ -670,5 +670,11 @@
     "community_tag_created": "برچسب انجمن ایجاد شد",
     "featured": "برجسته‌شده",
     "featured_in_local": "برجسته‌شده در همین کارساز",
-    "copy_link": "رونویسی پیوند"
+    "copy_link": "رونویسی پیوند",
+    "feature_in_community": "برجسته‌سازی در انجمن",
+    "feature_in_local": "برجسته‌سازی در این نمونهٔ کارساز",
+    "post_hidden": "نوشته پنهان شد",
+    "post_unhidden": "نمایان‌سازی نوشته انجام شد",
+    "hide_post": "پنهان کردن نوشته",
+    "unhide_post": "نمایان کردن نوشته"
 }
