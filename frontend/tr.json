@@ -1030,5 +1030,11 @@
     "off": "Kapalı",
     "registration": "Kayıt",
     "email_verification_link_unavailable": "Bu doğrulama bağlantısı geçersiz, tarihi geçmiş veya çoktan kullanılmış.",
-    "email_verification_already_confirmed_hint": "E-postanı halihazırda onayladıysan giriş yapabilirsin."
+    "email_verification_already_confirmed_hint": "E-postanı halihazırda onayladıysan giriş yapabilirsin.",
+    "voting": "Oylama",
+    "lemmy_ml_registration_message": "Lütfen lemmy.ml'e kayıt olmadan önce bölge, dil veya ilgi alanlarınıza daha iyi uyan bir sunucu olup olmadığını görmek için <1>Joinlemmy</1> 'e bir göz atın. Lemmy birleşik yapılıdır. Dolayısıyla başka bir sunucuda kayıtlı olsan bile lemmy.ml'deki herşeyi görebilirsin.",
+    "email_verification_failed": "E-postanız şuan onaylanamaz. İnternet bağlantını kontrol et ve tekrar dene.",
+    "email_verification_retry": "Tekrar deneyin",
+    "federation": "Federasyon",
+    "import_export": "İçe aktar/Dışa aktar"
 }
