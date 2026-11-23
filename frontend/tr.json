@@ -1036,5 +1036,6 @@
     "email_verification_failed": "E-postanız şuan onaylanamaz. İnternet bağlantını kontrol et ve tekrar dene.",
     "email_verification_retry": "Tekrar deneyin",
     "federation": "Federasyon",
-    "import_export": "İçe aktar/Dışa aktar"
+    "import_export": "İçe aktar/Dışa aktar",
+    "oauth_username_claim": "Username Onayla"
 }
