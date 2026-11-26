@@ -1063,6 +1063,5 @@
   "resend_verification_email_help": "Enter the email address you used to register. Check your spam folder before requesting another email.",
   "resend_verification_email_requested": "If this address belongs to an account awaiting verification and the sending limit allows it, we will send a verification email. Check your inbox and spam folder.",
   "resend_verification_email_failed": "Your request could not be completed. Check your connection and try again.",
-  "rate_limit_resend_verification_email": "Verification emails per IP",
-  "rate_limit_resend_verification_email_per_account": "Verification emails per account"
+  "rate_limit_resend_verification_email": "Verification emails per IP"
 }
